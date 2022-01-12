@@ -187,7 +187,7 @@ Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang des Jahres 
 schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die starke
 Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe:
 
-<img src="images/Todesfaelle.png">
+<img src="images/Todesfaelle.png" width="700">
 
 Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den Daten
 des RKI (Quelle:
@@ -263,15 +263,12 @@ Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
   > approaches. In Sweden, excess mortality was 3% without, and 8% with consideration of increasing
   > life expectancy.
 
-Weitere schön aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
-https://corona-reframed.de.
-
 ### Akute Atemwegserkrankungen (ARE) ###
 
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch
 die entsprechende Einordnung vornehmen.
 
-<img src="images/GrippeWeb-2021-52-01.png">
+<img src="images/GrippeWeb-2021-52-01.png" width="700">
 
 Ich zitiere den Absatz gleich komplett (Quelle: https://grippeweb.rki.de, Stand: 9.1.2022):
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
@@ -354,7 +351,9 @@ Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Qu
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
 
 Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
-auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang.
+auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
+aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
+https://corona-reframed.de.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Wirksamkeit der Impfung
@@ -440,7 +439,7 @@ bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis 
 ausfällt. Aber wenigstens mehr als nichts. Bei Omikron fällt der Schutz noch geringer aus (Quelle:
 selber Bericht):
 
-<img src="images/Omikronfaelle.png">
+<img src="images/Omikronfaelle.png" width="800">
 
 Hier sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12% (Quelle: selber Bericht). Der Anteil an den
