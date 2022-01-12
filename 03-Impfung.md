@@ -80,7 +80,7 @@ Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Ma
 entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedrigste Impfquote)
 bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
 überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
-ausfällt. Aber wenigstens mehr als nichts. Bei Omikron fällt der Schutz noch geringer aus (Quelle:
+ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz noch geringer aus (Quelle:
 selber Bericht):
 
 <img src="images/Omikronfaelle.png" width="800">
@@ -88,7 +88,7 @@ selber Bericht):
 Hier sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12% (Quelle: selber Bericht). Der Anteil an den
 symptomatischen Fällen beträgt 44.1%/14.6%/13.2%, der Anteil hospitalisierter Fälle 40%/23%/28%.
-Konsequenterweise schreibt das RKI auch:
+Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
 > beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
