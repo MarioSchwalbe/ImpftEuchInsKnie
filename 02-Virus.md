@@ -182,7 +182,7 @@ Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch
 die entsprechende Einordnung vornehmen.
 
-<img src="images/GrippeWeb-2021-52-01.png" width="700">
+<img src="images/GrippeWeb-2021-52-01.png" width="600">
 
 Ich zitiere den Absatz gleich komplett (Quelle: https://grippeweb.rki.de, Stand: 9.1.2022):
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
