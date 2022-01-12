@@ -177,9 +177,6 @@ Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
   > approaches. In Sweden, excess mortality was 3% without, and 8% with consideration of increasing
   > life expectancy.
 
-Weitere schön aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
-https://corona-reframed.de.
-
 ### Akute Atemwegserkrankungen (ARE) ###
 
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch
@@ -268,4 +265,6 @@ Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Qu
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
 
 Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
-auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang.
+auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
+aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
+https://corona-reframed.de.
