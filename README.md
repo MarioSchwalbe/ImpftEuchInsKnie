@@ -18,7 +18,7 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
 
-<div style="page-break-after: always;"><br/></div>
+<div class="pagebreak"/>
 
 Einleitung
 ----------
