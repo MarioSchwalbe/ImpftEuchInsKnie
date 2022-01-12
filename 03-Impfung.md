@@ -83,7 +83,7 @@ bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis 
 ausfällt. Aber wenigstens mehr als nichts. Bei Omikron fällt der Schutz noch geringer aus (Quelle:
 selber Bericht):
 
-<img src="images/Omikronfaelle.png">
+<img src="images/Omikronfaelle.png" width="800">
 
 Hier sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12% (Quelle: selber Bericht). Der Anteil an den
