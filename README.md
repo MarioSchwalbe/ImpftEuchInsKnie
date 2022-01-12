@@ -5,25 +5,23 @@
 
 <img src="images/IQTest.jpg" width="300" align="left">
 
-**Autor:** Mario Schwalbe <br/>
-**An:**    Jens O. Schindler <br/>
-**Datum:** 11.1.2022 <br/>
+  **Autor:** Mario Schwalbe <br/>
+  **An:**    Jens O. Schindler <br/>
+  **Datum:** 11.1.2022 <br/>
 
 ---
 
-Ich weiß zwar nicht warum ich so einen Aufsatz schreiben muß - immerhin bin ich schon einige Zeit
-aus der Schule raus - aber wenn es denn sein muß, bitte sehr. Ich interpretiere die Aufgabe so, daß
-du dabei etwas lernen möchtest. Wenn ja, dann kann dir vielleicht geholfen werden. Wenn nicht, bitte
-nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
+  Ich weiß zwar nicht warum ich so einen Aufsatz schreiben muß - immerhin bin ich schon einige Zeit
+  aus der Schule raus - aber wenn es denn sein muß, bitte sehr. Ich interpretiere die Aufgabe so,
+  daß du dabei etwas lernen möchtest. Wenn ja, dann kann dir vielleicht geholfen werden. Wenn nicht,
+  bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div style="page-break-after: always;"></div>
+
+Einleitung
+----------
 
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
