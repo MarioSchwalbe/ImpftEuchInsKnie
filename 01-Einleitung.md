@@ -18,7 +18,15 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
 
-<div class="pagebreak"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Einleitung
 ----------
