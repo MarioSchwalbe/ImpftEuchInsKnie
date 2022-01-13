@@ -59,7 +59,7 @@ Impfpflicht verweisen:
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
 den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren vollumfänglich zustimmen -
 allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
-nachvollziehbar. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr sachlichen Inhalt
+schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr sachlichen Inhalt
 aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 
 (Übrigens ist Impfpflicht auch eines der schönsten deutschen Wörter - enthält es doch die schöne
@@ -349,6 +349,28 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
+Erste Studien sind auch bereits verfügbar (Pre-Print):
+
+- **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
+  Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
+  in southern California, 11.1.2022 <br/>
+  https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text
+  > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
+  > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
+  > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
+  > tested in outpatient settings, the adjusted hazard ratios for any subsequent hospital admission
+  > and symptomatic hospital admission associated with Omicron variant infection were 0.48
+  > (0.36-0.64) and 0.47 (0.35-0.62), respectively. Rates of ICU admission and mortality after an
+  > outpatient positive test were 0.26 (0.10-0.73) and 0.09 (0.01-0.75) fold as high among cases
+  > with Omicron variant infection as compared to cases with Delta variant infection. Zero cases
+  > with Omicron variant infection received mechanical ventilation, as compared to 11 cases with
+  > Delta variant infections throughout the period of follow-up (two-sided p<0.001). Median duration
+  > of hospital stay was 3.4 (2.8-4.1) days shorter for hospitalized cases with Omicron variant
+  > infections as compared to hospitalized patients with Delta variant infections, reflecting a
+  > 69.6% (64.0-74.5%) reduction in hospital length of stay. [...] During a period with mixed Delta
+  > and Omicron variant circulation, SARS-CoV-2 infections with presumed Omicron variant infection
+  > were associated with substantially reduced risk of severe clinical endpoints and shorter
+  > durations of hospital stay.
 
 Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
 auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
@@ -377,11 +399,11 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
 Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektionen gefunden, bei den
 21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
 Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß von 100 Geimpften
-95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Das ist die
-*relative* Effektivität. Die *absolute* Effektivität beträgt bei der großen Anzahl der Probanden nur
-0,71%. Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt ist (Number Needed to
-Vaccinate, NNTV=100/0,71=141). Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute
-Erklärung bietet der Artikel von Multipolar (Quelle:
+95 geschützt wären und nur 5 nicht (*absolute* Effektivität). Kann ja auch nicht perfekt sein. Das
+Problem dabei: Diese 95% sind die *relative* Effektivität. Die *absolute* Effektivität betrug bei
+der großen Anzahl der Probanden nur 0,71%. Das bedeutet, daß man 141 Menschen impfen müßte damit
+einer geschützt ist (Number Needed to Vaccinate, NNTV=100/0,71=141). Bei dem Impfstoff von Moderna
+verhält es sich ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
 https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -392,7 +414,7 @@ vorgelegt, die auch erklärt warum das Ergebnis methodisch schlecht ist:
 
 Demnach hat der Wirkstoff von Pfizer/BioNTech neben seiner fragwürdigen Schutzwirkung das Risiko von
 schwerer Krankheit und Tod (Folie 11 und 12) sogar erhöht. Ergebnisse zu Langzeitfolgen können nicht
-vorliegen, da in der Studie vorzeitig entblindet wurde.
+vorliegen, da in der Studie vorzeitig nach 6 Monaten entblindet wurde.
 
 Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
@@ -472,8 +494,8 @@ anderen Ländern auch nicht gekommen.
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
 Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
 
-Bei nicht von Pfizer bezahlten Autoren, die auch nicht beim RKI angestellt sind, fällt das Ergebnis
-auch schon bei der Deltavariante vernichtend aus:
+Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
+Ergebnis schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>
@@ -531,7 +553,9 @@ https://vigiaccess.org, Stand: 9.1.2022):
 |------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps      | 1972-2021 |               719 |                 14,38 |              15 |
 | Masern     | 1968-2021 |             5.868 |                108,67 |             148 |
+| Pocken     | 1968-2021 |             6.905 |                127,87 |              40 |
 | Ivermectin | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| Polio      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
 | Grippe     | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
 | COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
 
@@ -567,7 +591,7 @@ einige relevante Unterschiede:
    können. Gelangt das Virus jedoch in die Lunge und provoziert dort die selbe Immunreaktion, hätte
    dies eine schwerere Symptomatik zur Folge (Pneumonie). Die Impfstoffe können dagegen über die
    Blutbahn alle Körperzellen erreichen. Je nachdem welches Gewebe dabei aufgrund der
-   Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Der
+   Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Dieser
    Effekt dürfte auch kumulativ sein. Wieso sollte das sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
@@ -638,7 +662,7 @@ Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage von Dr. Sc
 ursprünglich aus [Sitzung
 37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/) ab
 Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
-Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
+Geschichte, wenn eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
 funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
 BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten
 würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
@@ -758,8 +782,119 @@ Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet 
 viel mehr Experten geben sollte. Und man findet Beteuerungen, daß die Impfung sicher sei, aber ohne
 fundierte Beweise. Da kann man eigentlich nur beten, daß die Kritiker sich alle irren. Ich bevorzuge
 jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe zu bleiben.
-Angesichts der Defizite muß man auch die Frage stellen, ob die neuartige Technologieplatform der
+Angesichts der Defizite muß auch die Frage erlaubt sein, ob die neuartige Technologieplatform der
 mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden sollte.
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
+
+Die Rolle der Medien
+--------------------
+
+> Die herrschenden Gedanken sind die Gedanken der Herrschenden. (Karl Marx)
+
+Da hat Marx mal wieder Recht behalten. Kapitel fertig.
+
+<img src="images/Fernseher.jpg" width="250" align="left">
+
+Im Ernst. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt. Ich bitte darum
+folgenden Artikel vollständig zu lesen:
+
+- **Jens Bernert**: Weltweite Warnungen, 5.4.2020 <br/>
+  https://www.rubikon.news/artikel/weltweite-warnungen
+
+Darin befinden sich 61 Aussagen von Experten vom April 2020, die die Lage rational und - wie wir
+heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
+Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. Streeck, der manchmal
+minimal kritisieren darf und selbst dafür heftig angegangen wird, findet man die anderen nicht.
+
+Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
+umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
+Vergangenheit schon mehrmals falsch waren? (Quelle:
+https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/) Und wo konnte
+man lesen, daß er seine Vorhersage einige Wochen später selbst korrigiert hat?
+
+Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie im Film. Bilder
+prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
+Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
+gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
+Experten™ erwarten baldige Triage. Panik. Nur Impfung kann jetzt die Rettung sein. Funktioniert doch
+nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der Ungeimpften.“ Die sollte man...
+
+So klingt mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer Journalismus.
+Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet man hier:
+
+- **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
+  https://www.rubikon.news/artikel/die-italien-keule
+
+- **Michael Ewert**: Der Tod in Italien, 20.6.2020 <br/>
+  https://www.rubikon.news/artikel/der-tod-in-italien
+
+- **Thomas Castellini**: Mehr als tausend Worte, 7.9.2020 <br/>
+  https://www.rubikon.news/artikel/mehr-als-tausend-worte
+
+Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter die Kulissen bot uns
+Marc Walder CEO der schweizerischen Ringier AG bei einer internen Gesprächsrunde am 3.2.2021, die
+aufgezeichnet wurde (Quelle:
+https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs):
+> Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
+> bleibt – auf meine Initiative hin gesagt: „Wir wollen die Regierung unterstützen durch unsere
+> mediale Berichterstattung, daß wir alle gut durch die Krise kommen.“
+
+Den relevanten Teil der Aufnahme gibt es auch auf
+[YouTube](https://www.youtube.com/watch?v=rw1fJoe2YzI). Das ist nett formuliert, bedeutet aber im
+Klartext, daß nur noch regierungskonform berichtet wird. Man kann annehmen, daß es sich in
+Deutschland, angesichts der Einseitigkeit der Berichterstattung, ähnlich verhält. Damit hat sich die
+vierte Gewalt im Staate endgültig als Handlanger der Exekutive entlarvt - getreu den
+neokonservativen Vordenkern aus Amerika (Quelle: Edward S. Herman, Beyond Hypocrisy: Decoding the
+News in an Age of Propaganda, South End Press, 1992, p. 13):
+> Most journalists these days consider it beneath their dignity to simply report the words of
+> government officials – and let it go at that.
+
+Dieses Bedauern stammt von Michael Arthur Ledeen zitiert von Edward Samuel Herman. Prof. Herman
+antwortete darauf:
+> Ledeen is wrong: most are quite content to serve as a conduit, but his statement illuminates the
+> neo-conservative view of the role of the press in a free society.
+
+Das war damals vielleicht noch etwas anders. Heute wäre ein passender Vergleich die Aktuelle Kamera
+in den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
+Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+> The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
+> opinion, but allow very lively debate within that spectrum.
+
+Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten. Warum kommen in
+den Artikeln, den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Wo sind die
+vernünftigen Stimmen? Wenn man böse wäre, könnten man mittlerweile noch ganz andere Autoren zitieren
+(Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933):
+> Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
+
+Es versteht sich von selbst, daß derartige Ideologie in einer freiheitlich-demokratischen
+Grundordnung eigentlich keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung.
+
+Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
+Ohne Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere wäre
+lediglich ein Vorurteil basierend auf blanker Einbildung. Stattdessen findet man eine Menge davon:
+Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie ist.
+Alles andere ist Fake-News. Gleiches gilt für den Begriff Verschwörungstheorie. (Und nein, die Erde
+wird heute nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
+Verschwörungstheorie stigmatisiert wurde, mittlerweile aber Realität ist oder zumindest offen
+propagiert wird: (a) infektiöse Geimpfte, (b) 3. und 4. Impfung, (c) halbjährliche
+Auffrischungsimpfungen, (d) Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes,
+(g) geheime Verträge mit Pharmafirmen, (h) Impfpflicht, und (i) Impfpässe als
+Zugangsvoraussetzungen. Was ist dann noch der Unterschied zwischen bundesdeutschen Nachrichten und
+Verschwörungstheorie? 6 Monate? Vorläufiges Zwischenergebnis nach 2 Jahren: Der Aluhut war weitaus
+zuverlässiger als die Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für
+langfristige Folgen hat, kann man sich gar nicht ausmalen.
+
+Vielleicht wird es langsam besser. Wenn wir Glück haben, ist der Spuk bald vorbei und die
+Journalisten schaffen es ihr Handwerk wieder zu entdecken:
+
+- **Elke Bodderas**:
+  Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
+  https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html
+  > Deutschland müsse in der Pandemiebekämpfung endlich dem Beispiel jener Länder folgen, die den
+  > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
+  > Forderungen.
+
+Die Hoffnung stirb bekanntlich zuletzt. Ansonsten haben wir ja noch die Fake-News.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
@@ -826,7 +961,4 @@ Wissenschaftler. Die Irren erkennt man dran, dass sie nie irren.
 
 Solltest du eigentlich wissen:
 Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
-
-Ergebis nach 2 Jahren:
-> Der Aluhut war weit zuverlässiger als die Masken. (Netzfund)
 -->

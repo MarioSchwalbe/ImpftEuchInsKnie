@@ -10,6 +10,7 @@ PARTS := \
     02-Virus.md \
     03-Impfung.md \
     04-Schaden.md \
+    05-Medien.md \
     07-Ende.md
 
 build:: README.md
