@@ -84,11 +84,18 @@ ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz noch
 selber Bericht):
 
 <img src="images/Omikronfaelle.png" width="800">
+<!--
+| Altersgruppe | Ungeimpfte (Anteil) | Symptomatisch (Anteil) | Hospitalisiert (Anteil) |
+|--------------|--------------------:|-----------------------:|------------------------:|
+| 12-17 Jahre  | 40%                 | 44,1%                  | 40,0%                   |
+| 18-59 Jahre  | 22%                 | 14,6%                  | 23,0%                   |
+| 60+   Jahre  | 12%                 | 13,2%                  | 27,9%                   |
+-->
 
-Hier sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
-Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12% (Quelle: selber Bericht). Der Anteil an den
-symptomatischen Fällen beträgt 44.1%/14.6%/13.2%, der Anteil hospitalisierter Fälle 40%/23%/28%.
-Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
+Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
+Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12%. Der Anteil symptomatischer Fälle beträgt
+44,1%/14,6%/13,2%, der Anteil hospitalisierter Fälle 40,0%/23,0%/27,9%. Konsequenterweise schreibt
+das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
 > beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der

@@ -17,9 +17,9 @@ https://vigiaccess.org, Stand: 9.1.2022):
 | COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
-nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank auch nicht zu
+nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
-Masernimpfung beträgt der Faktor zu COVID-19 im Jahr 2021 stolze 19.000. Selbst die
+Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen.
 Wie üblich bei derartigen Daten kann man annehmen, daß aufgrund bürokratischer Hürden (a) eher
 schwerere Fälle und (b) generell nicht alle Fälle gemeldet werden.
@@ -83,7 +83,7 @@ einige relevante Unterschiede:
      > and the apparently imminent issuance of full approval for it are crimes against humanity.
 
 Hinzu kommt noch der Herstellungsprozess selbst. Wie es aussieht wurden für die Herstellung der
-Impfstoffe für die Zulassungsstudie, da ja nur eine kleine Menge benötigt wurde, höherwertigere
+Impfstoffe für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
 Verfahren verwendet als für die Massenfertigung:
 
 - **Gilian Crowther**:
@@ -115,13 +115,15 @@ Verfahren verwendet als für die Massenfertigung:
   > monitored well and at the end you need to have a pure RNA without any more DNA. And that is not
   > the case. BioNTech has admitted that there are DNA contaminants.
 
-Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage stammt ursprünglich aus der
-[Sitzung 37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/)
-ab Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum
-der Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
-funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. BioNTech muß jetzt
-nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten würden, bekämen wir
-das vom TÜV sofort um die Ohren gehauen.
+Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage von Dr. Schmidt-Krüger stammt
+ursprünglich aus [Sitzung
+37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/) ab
+Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
+Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
+funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
+BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten
+würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
+Impfstoffen?
 
 <!--
 https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html
@@ -166,8 +168,8 @@ Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswah
 
 Es ist auch bemerkenswert, daß sich Toxikologen und Pathologen überhaupt mit einer Impfung
 beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Dr. Arne Burkhardt und
-Prof. Dr. Walter Lang kann man hier anschauen: https://pathologie-konferenz.de. Wenn Wissenschaftler
-lockerer und keine Paper schreiben, klingt das so:
+Prof. Dr. Walter Lang zum Thema kann man hier anschauen: https://pathologie-konferenz.de. Wenn
+Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
@@ -223,20 +225,19 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzeichnet:
 Sollte sich Letzteres bewahrheiten, bedeutet das auch, daß das Immunsystem langfristig von der
 impfstoff-induzierten Erkennung des Spike-Proteins abhängig wird. Da der Schutz nicht lange anhält
 und RNA-Viren schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig nachzuimpfen
-um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht. (Aber die Idee mit dem Geschäftsmodell
-wäre genial.)
+um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses Geschäftsmodells
+wäre genial.
 
 Praktischerweise darf man als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für
 sein Produkt übernimmt. Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch
-ungeklärt. Da die FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen muß,
-kann man bei dem Thema Schadwirkung demnächst noch mehr erwarten (Quelle:
+völlig ungeklärt. Da die FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen
+muß, kann man bei dem Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
 https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/).
 Da würde ich definitiv wachsam bleiben.
 
 Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet Schweigen, obwohl es
 viel mehr Experten geben sollte. Und man findet Beteuerungen, daß die Impfung sicher sei, aber ohne
-fundierte Erklärung. Da kann man eigentlich nur noch beten, daß die Kritiker sich alle irren. Ich
-bevorzuge jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe
-zu bleiben. Angesichts der Nachteile muß man auch die Frage stellen, ob die neuartige
-Technologieplatform der mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt
-werden sollte.
+fundierte Beweise. Da kann man eigentlich nur beten, daß die Kritiker sich alle irren. Ich bevorzuge
+jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe zu bleiben.
+Angesichts der Defizite muß man auch die Frage stellen, ob die neuartige Technologieplatform der
+mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden sollte.

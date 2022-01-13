@@ -3,7 +3,7 @@
 #ImpftEuchInsKnie: Warum ich ungeimpft bin!
 ===========================================
 
-<img src="images/IQTest.jpg" width="300" align="left">
+<img src="images/IQTest.jpg" width="200" align="left">
 
 **Autor:** Mario Schwalbe <br/>
 **An:**    Jens O. Schindler <br/>
@@ -19,6 +19,7 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 ---
 
 <br/>
+<!-- <br/>
 <br/>
 <br/>
 <br/>
@@ -26,8 +27,7 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 Einleitung
 ----------
@@ -54,14 +54,14 @@ Impfpflicht verweisen:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
    https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf
 
-5. **Beate Bahner**:
+5. **Dr. Peter F. Mayer**:
+   Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
+   https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
+
+6. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
    http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
-
-6. **Peter F. Mayer**:
-   Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
-   https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
 
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
 den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren vollumfänglich zustimmen -
@@ -79,14 +79,14 @@ In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksi
 
 Jeder vernünftige Ingenieur würde darauf aufbauend die beste Lösung zu finden versuchen. Ganz im
 Gegensatz zum von Anfang an propagierten Mantra der Politik, daß nur die Impfung - am besten der
-ganzen Weltbevölkerung - der Ausweg aus der Pandemie sein kann. So reden eigentlich nur Lobbyisten,
-Dogmatiker oder Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell soviel Interesse
-an unserer Gesundheit wie die Waffenindustrie am Weltfrieden.
+gesamten Weltbevölkerung - der Ausweg aus der Pandemie sein kann. So reden eigentlich nur
+Lobbyisten, Dogmatiker und Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell
+soviel Interesse an unserer Gesundheit wie die Waffenindustrie am Weltfrieden.
 
 Insbesondere in der alltäglichen Diskussion werden immer wieder Argumente verwendet wie: „Die
 Mehrheit hat doch recht.“ Antwort: Wäre dem wirklich so, dächten wir heute noch die Erde wäre flach.
 Korrektheit definiert sich nicht durch Mehrheiten. Aus diesem Grund gibt es in der Wissenschaft
-Standards. Oder auch: „Alle Experten sind sich doch einig. Wie kannst du dann was anderes
+Standards. Oder auch: „Alle Experten sind sich doch einig. Wie kannst du dann etwas anderes
 behaupten?“ Gegenfrage: In welcher Disziplin der Wissenschaften herrscht bei aktuellen
 Forschungsfragen sofort Konsens? Das hat es noch nie zuvor gegeben. Allein dieser - jedenfalls
 wahrgenommene - Umstand sollte misstrauisch machen. Deshalb möchte ich im folgenden auf diese Punkte
@@ -447,11 +447,18 @@ ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz noch
 selber Bericht):
 
 <img src="images/Omikronfaelle.png" width="800">
+<!--
+| Altersgruppe | Ungeimpfte (Anteil) | Symptomatisch (Anteil) | Hospitalisiert (Anteil) |
+|--------------|--------------------:|-----------------------:|------------------------:|
+| 12-17 Jahre  | 40%                 | 44,1%                  | 40,0%                   |
+| 18-59 Jahre  | 22%                 | 14,6%                  | 23,0%                   |
+| 60+   Jahre  | 12%                 | 13,2%                  | 27,9%                   |
+-->
 
-Hier sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
-Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12% (Quelle: selber Bericht). Der Anteil an den
-symptomatischen Fällen beträgt 44.1%/14.6%/13.2%, der Anteil hospitalisierter Fälle 40%/23%/28%.
-Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
+Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
+Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12%. Der Anteil symptomatischer Fälle beträgt
+44,1%/14,6%/13,2%, der Anteil hospitalisierter Fälle 40,0%/23,0%/27,9%. Konsequenterweise schreibt
+das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
 > beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
@@ -536,9 +543,9 @@ https://vigiaccess.org, Stand: 9.1.2022):
 | COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
-nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank auch nicht zu
+nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
-Masernimpfung beträgt der Faktor zu COVID-19 im Jahr 2021 stolze 19.000. Selbst die
+Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen.
 Wie üblich bei derartigen Daten kann man annehmen, daß aufgrund bürokratischer Hürden (a) eher
 schwerere Fälle und (b) generell nicht alle Fälle gemeldet werden.
@@ -602,7 +609,7 @@ einige relevante Unterschiede:
      > and the apparently imminent issuance of full approval for it are crimes against humanity.
 
 Hinzu kommt noch der Herstellungsprozess selbst. Wie es aussieht wurden für die Herstellung der
-Impfstoffe für die Zulassungsstudie, da ja nur eine kleine Menge benötigt wurde, höherwertigere
+Impfstoffe für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
 Verfahren verwendet als für die Massenfertigung:
 
 - **Gilian Crowther**:
@@ -634,13 +641,15 @@ Verfahren verwendet als für die Massenfertigung:
   > monitored well and at the end you need to have a pure RNA without any more DNA. And that is not
   > the case. BioNTech has admitted that there are DNA contaminants.
 
-Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage stammt ursprünglich aus der
-[Sitzung 37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/)
-ab Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum
-der Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
-funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. BioNTech muß jetzt
-nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten würden, bekämen wir
-das vom TÜV sofort um die Ohren gehauen.
+Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage von Dr. Schmidt-Krüger stammt
+ursprünglich aus [Sitzung
+37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/) ab
+Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
+Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
+funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
+BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten
+würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
+Impfstoffen?
 
 <!--
 https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html
@@ -685,8 +694,8 @@ Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswah
 
 Es ist auch bemerkenswert, daß sich Toxikologen und Pathologen überhaupt mit einer Impfung
 beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Dr. Arne Burkhardt und
-Prof. Dr. Walter Lang kann man hier anschauen: https://pathologie-konferenz.de. Wenn Wissenschaftler
-lockerer und keine Paper schreiben, klingt das so:
+Prof. Dr. Walter Lang zum Thema kann man hier anschauen: https://pathologie-konferenz.de. Wenn
+Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
@@ -742,23 +751,22 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzeichnet:
 Sollte sich Letzteres bewahrheiten, bedeutet das auch, daß das Immunsystem langfristig von der
 impfstoff-induzierten Erkennung des Spike-Proteins abhängig wird. Da der Schutz nicht lange anhält
 und RNA-Viren schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig nachzuimpfen
-um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht. (Aber die Idee mit dem Geschäftsmodell
-wäre genial.)
+um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses Geschäftsmodells
+wäre genial.
 
 Praktischerweise darf man als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für
 sein Produkt übernimmt. Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch
-ungeklärt. Da die FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen muß,
-kann man bei dem Thema Schadwirkung demnächst noch mehr erwarten (Quelle:
+völlig ungeklärt. Da die FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen
+muß, kann man bei dem Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
 https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/).
 Da würde ich definitiv wachsam bleiben.
 
 Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet Schweigen, obwohl es
 viel mehr Experten geben sollte. Und man findet Beteuerungen, daß die Impfung sicher sei, aber ohne
-fundierte Erklärung. Da kann man eigentlich nur noch beten, daß die Kritiker sich alle irren. Ich
-bevorzuge jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe
-zu bleiben. Angesichts der Nachteile muß man auch die Frage stellen, ob die neuartige
-Technologieplatform der mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt
-werden sollte.
+fundierte Beweise. Da kann man eigentlich nur beten, daß die Kritiker sich alle irren. Ich bevorzuge
+jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe zu bleiben.
+Angesichts der Defizite muß man auch die Frage stellen, ob die neuartige Technologieplatform der
+mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden sollte.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
@@ -776,7 +784,7 @@ Bedingungen für Impfung:
 
 
 Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
-Aufgebot der unbeirrbaren Realitätsverweigerer, die in zwei Jahren nichts gelernt haben? Und welche
+Aufgebot der unbeirrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Und welche
 Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier: https://einheit.at.
 
 Wenn sie Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.

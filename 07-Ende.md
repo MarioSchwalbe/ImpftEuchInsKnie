@@ -15,7 +15,7 @@ Bedingungen für Impfung:
 
 
 Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
-Aufgebot der unbeirrbaren Realitätsverweigerer, die in zwei Jahren nichts gelernt haben? Und welche
+Aufgebot der unbeirrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Und welche
 Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier: https://einheit.at.
 
 Wenn sie Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.
