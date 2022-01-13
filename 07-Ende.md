@@ -64,7 +64,4 @@ Wissenschaftler. Die Irren erkennt man dran, dass sie nie irren.
 
 Solltest du eigentlich wissen:
 Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
-
-Ergebis nach 2 Jahren:
-> Der Aluhut war weit zuverlässiger als die Masken. (Netzfund)
 -->

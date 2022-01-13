@@ -21,11 +21,11 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
 Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektionen gefunden, bei den
 21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
 Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß von 100 Geimpften
-95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Das ist die
-*relative* Effektivität. Die *absolute* Effektivität beträgt bei der großen Anzahl der Probanden nur
-0,71%. Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt ist (Number Needed to
-Vaccinate, NNTV=100/0,71=141). Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute
-Erklärung bietet der Artikel von Multipolar (Quelle:
+95 geschützt wären und nur 5 nicht (*absolute* Effektivität). Kann ja auch nicht perfekt sein. Das
+Problem dabei: Diese 95% sind die *relative* Effektivität. Die *absolute* Effektivität betrug bei
+der großen Anzahl der Probanden nur 0,71%. Das bedeutet, daß man 141 Menschen impfen müßte damit
+einer geschützt ist (Number Needed to Vaccinate, NNTV=100/0,71=141). Bei dem Impfstoff von Moderna
+verhält es sich ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
 https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -36,7 +36,7 @@ vorgelegt, die auch erklärt warum das Ergebnis methodisch schlecht ist:
 
 Demnach hat der Wirkstoff von Pfizer/BioNTech neben seiner fragwürdigen Schutzwirkung das Risiko von
 schwerer Krankheit und Tod (Folie 11 und 12) sogar erhöht. Ergebnisse zu Langzeitfolgen können nicht
-vorliegen, da in der Studie vorzeitig entblindet wurde.
+vorliegen, da in der Studie vorzeitig nach 6 Monaten entblindet wurde.
 
 Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
@@ -116,8 +116,8 @@ anderen Ländern auch nicht gekommen.
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
 Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
 
-Bei nicht von Pfizer bezahlten Autoren, die auch nicht beim RKI angestellt sind, fällt das Ergebnis
-auch schon bei der Deltavariante vernichtend aus:
+Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
+Ergebnis schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>

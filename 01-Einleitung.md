@@ -59,7 +59,7 @@ Impfpflicht verweisen:
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
 den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren vollumfänglich zustimmen -
 allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
-nachvollziehbar. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr sachlichen Inhalt
+schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr sachlichen Inhalt
 aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 
 (Übrigens ist Impfpflicht auch eines der schönsten deutschen Wörter - enthält es doch die schöne

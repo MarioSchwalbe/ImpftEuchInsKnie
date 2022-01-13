@@ -12,7 +12,9 @@ https://vigiaccess.org, Stand: 9.1.2022):
 |------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps      | 1972-2021 |               719 |                 14,38 |              15 |
 | Masern     | 1968-2021 |             5.868 |                108,67 |             148 |
+| Pocken     | 1968-2021 |             6.905 |                127,87 |              40 |
 | Ivermectin | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| Polio      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
 | Grippe     | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
 | COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
 
@@ -48,7 +50,7 @@ einige relevante Unterschiede:
    können. Gelangt das Virus jedoch in die Lunge und provoziert dort die selbe Immunreaktion, hätte
    dies eine schwerere Symptomatik zur Folge (Pneumonie). Die Impfstoffe können dagegen über die
    Blutbahn alle Körperzellen erreichen. Je nachdem welches Gewebe dabei aufgrund der
-   Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Der
+   Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Dieser
    Effekt dürfte auch kumulativ sein. Wieso sollte das sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
@@ -119,7 +121,7 @@ Das Transkript habe ich leider nur auf Englisch gefunden. Die Aussage von Dr. Sc
 ursprünglich aus [Sitzung
 37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/) ab
 Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
-Geschichte, daß eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
+Geschichte, wenn eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
 funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
 BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten
 würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
@@ -239,5 +241,5 @@ Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet 
 viel mehr Experten geben sollte. Und man findet Beteuerungen, daß die Impfung sicher sei, aber ohne
 fundierte Beweise. Da kann man eigentlich nur beten, daß die Kritiker sich alle irren. Ich bevorzuge
 jedenfalls bei diesem unfreiwilligen Großexperiment der Menschheit in der Kontrollgruppe zu bleiben.
-Angesichts der Defizite muß man auch die Frage stellen, ob die neuartige Technologieplatform der
+Angesichts der Defizite muß auch die Frage erlaubt sein, ob die neuartige Technologieplatform der
 mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden sollte.
