@@ -804,7 +804,7 @@ folgenden Artikel vollständig zu lesen:
 Darin befinden sich 61 Aussagen von Experten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
 Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. Streeck, der manchmal
-minimal kritisieren darf und selbst dafür heftig angegangen wird, findet man die anderen nicht.
+ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, findet man die anderen nicht.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
@@ -819,8 +819,9 @@ gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: A
 Experten™ erwarten baldige Triage. Panik. Nur Impfung kann jetzt die Rettung sein. Funktioniert doch
 nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der Ungeimpften.“ Die sollte man...
 
-So klingt mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer Journalismus.
-Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet man hier:
+So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer
+Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet
+man hier, aber die klingen dann weniger reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
   https://www.rubikon.news/artikel/die-italien-keule
@@ -832,7 +833,7 @@ Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet man hier:
   https://www.rubikon.news/artikel/mehr-als-tausend-worte
 
 Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter die Kulissen bot uns
-Marc Walder CEO der schweizerischen Ringier AG bei einer internen Gesprächsrunde am 3.2.2021, die
+Marc Walder, CEO der schweizerischen Ringier AG, bei einer internen Gesprächsrunde am 3.2.2021, die
 aufgezeichnet wurde (Quelle:
 https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs):
 > Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
@@ -854,38 +855,53 @@ antwortete darauf:
 > Ledeen is wrong: most are quite content to serve as a conduit, but his statement illuminates the
 > neo-conservative view of the role of the press in a free society.
 
-Das war damals vielleicht noch etwas anders. Heute wäre ein passender Vergleich die Aktuelle Kamera
-in den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
-Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+Das war damals vielleicht noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in den
+letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam Chomsky,
+The Common Good, Odonian Press, 1998, p. 43):
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
 
 Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten. Warum kommen in
-den Artikeln, den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Wo sind die
-vernünftigen Stimmen? Wenn man böse wäre, könnten man mittlerweile noch ganz andere Autoren zitieren
-(Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933):
+den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt es etwa nicht mehr als
+eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte die Jan Böhmermann
+was richtige und was falsche Experten sind? (Quelle:
+https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
+Wo sind die vernünftigen Stimmen? Wenn man böse wäre, könnten man mittlerweile noch ganz andere
+Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische Volkszeitung,
+16.03.1933):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
-Es versteht sich von selbst, daß derartige Ideologie in einer freiheitlich-demokratischen
-Grundordnung eigentlich keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung.
+Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
+Grundordnung eigentlich keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung. Das
+sollte nicht so sein. (Vielleicht will sich Böhmermann ja auch nur - für den Fall der
+Machtergreifung der AfD - als zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Ohne Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere wäre
 lediglich ein Vorurteil basierend auf blanker Einbildung. Stattdessen findet man eine Menge davon:
 Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie ist.
-Alles andere ist Fake-News. Gleiches gilt für den Begriff Verschwörungstheorie. (Und nein, die Erde
-wird heute nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
-Verschwörungstheorie stigmatisiert wurde, mittlerweile aber Realität ist oder zumindest offen
-propagiert wird: (a) infektiöse Geimpfte, (b) 3. und 4. Impfung, (c) halbjährliche
-Auffrischungsimpfungen, (d) Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes,
-(g) geheime Verträge mit Pharmafirmen, (h) Impfpflicht, und (i) Impfpässe als
-Zugangsvoraussetzungen. Was ist dann noch der Unterschied zwischen bundesdeutschen Nachrichten und
-Verschwörungstheorie? 6 Monate? Vorläufiges Zwischenergebnis nach 2 Jahren: Der Aluhut war weitaus
-zuverlässiger als die Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für
-langfristige Folgen hat, kann man sich gar nicht ausmalen.
+Alles andere ist Fake-News. Und vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
+Verhältnismäßigkeit verboten? Das sollte nicht so sein.
+
+Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
+nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
+stigmatisiert wurde, mittlerweile aber Realität ist oder zumindest offen propagiert wird: (a)
+Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen, (d)
+Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
+Pharmafirmen, (h) Impfpflicht, und (i) Impfpässe als Zugangsvoraussetzungen. Was ist dann noch der
+Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate? Vorläufiges
+Zwischenergebnis nach 2 Jahren: Der Aluhut war weitaus zuverlässiger als die Masken. Das sollte
+definitiv nicht so sein. Was dieser ganze Quatsch für langfristige Folgen hat, kann man sich gar
+nicht ausmalen.
 
 Vielleicht wird es langsam besser. Wenn wir Glück haben, ist der Spuk bald vorbei und die
-Journalisten schaffen es ihr Handwerk wieder zu entdecken:
+Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
+
+- **Tim Röhn, Benjamin Stibi**:
+  Die große Verzerrung der bayerischen Corona-Daten, 09.01.2022 <br/>
+  https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html
+  > Neue Daten belegen, dass Bayerns Ministerpräsident Söder (CSU) wiederholt viel zu hohe
+  > Inzidenzen für Ungeimpfte nannte.
 
 - **Elke Bodderas**:
   Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
@@ -894,7 +910,7 @@ Journalisten schaffen es ihr Handwerk wieder zu entdecken:
   > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
   > Forderungen.
 
-Die Hoffnung stirb bekanntlich zuletzt. Ansonsten haben wir ja noch die Fake-News.
+Die Hoffnung stirb bekanntlich zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
