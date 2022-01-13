@@ -263,6 +263,28 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
+Erste Studien sind auch bereits verfügbar (Pre-Print):
+
+- **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
+  Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
+  in southern California, 11.1.2022 <br/>
+  https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text
+  > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
+  > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
+  > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
+  > tested in outpatient settings, the adjusted hazard ratios for any subsequent hospital admission
+  > and symptomatic hospital admission associated with Omicron variant infection were 0.48
+  > (0.36-0.64) and 0.47 (0.35-0.62), respectively. Rates of ICU admission and mortality after an
+  > outpatient positive test were 0.26 (0.10-0.73) and 0.09 (0.01-0.75) fold as high among cases
+  > with Omicron variant infection as compared to cases with Delta variant infection. Zero cases
+  > with Omicron variant infection received mechanical ventilation, as compared to 11 cases with
+  > Delta variant infections throughout the period of follow-up (two-sided p<0.001). Median duration
+  > of hospital stay was 3.4 (2.8-4.1) days shorter for hospitalized cases with Omicron variant
+  > infections as compared to hospitalized patients with Delta variant infections, reflecting a
+  > 69.6% (64.0-74.5%) reduction in hospital length of stay. [...] During a period with mixed Delta
+  > and Omicron variant circulation, SARS-CoV-2 infections with presumed Omicron variant infection
+  > were associated with substantially reduced risk of severe clinical endpoints and shorter
+  > durations of hospital stay.
 
 Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
 auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
