@@ -793,7 +793,7 @@ Die Rolle der Medien
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
-<img src="images/Fernseher.jpg" width="250" align="left">
+<img src="images/Fernseher.jpg" width="300">
 
 Im Ernst. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt. Ich bitte darum
 folgenden Artikel vollständig zu lesen:
