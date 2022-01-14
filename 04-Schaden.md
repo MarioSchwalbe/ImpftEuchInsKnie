@@ -8,15 +8,20 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 https://vigiaccess.org, Stand: 9.1.2022):
 
-| Impfung    | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
-|------------|-----------|------------------:|----------------------:|----------------:|
-| Mumps      | 1972-2021 |               719 |                 14,38 |              15 |
-| Masern     | 1968-2021 |             5.868 |                108,67 |             148 |
-| Pocken     | 1968-2021 |             6.905 |                127,87 |              40 |
-| Ivermectin | 1992-2021 |             5.840 |                194,67 |           1.263 |
-| Polio      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
-| Grippe     | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
-| COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
+| Impfung/Medikament | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+|--------------------|-----------|------------------:|----------------------:|----------------:|
+| Mumps              | 1972-2021 |               719 |                 14,38 |              15 |
+| Masern             | 1968-2021 |             5.868 |                108,67 |             148 |
+| Pocken             | 1968-2021 |             6.905 |                127,87 |              40 |
+| Ivermectin         | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| Tetanus            | 1968-2021 |            15.204 |                281,56 |             518 |
+| Hepatitis A        | 1989-2021 |            47.510 |              1.439,70 |           2.202 |
+| Kinderlähmung      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
+| Hepatitis B        | 1984-2021 |           105.825 |              2.784,87 |           2.777 |
+| Ibuprofen          | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
+| Aspirin            | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
+| Grippe             | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
+| COVID-19           | 2014-2021 |         2.947.999 |            368.499,88 |   **2.878.336** |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
 nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
