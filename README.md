@@ -935,7 +935,7 @@ Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon d
   > Forderungen.
 
 Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
-nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir versagten“) (Quelle:
+nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
 https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013). Wann können wir das in Deutschland
 erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich zuletzt. Ansonsten bleiben uns ja noch die
 Fake-News.
