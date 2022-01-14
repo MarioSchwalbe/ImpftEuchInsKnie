@@ -11,7 +11,8 @@ PARTS := \
     03-Impfung.md \
     04-Schaden.md \
     05-Medien.md \
-    07-Ende.md
+    07-Ende.md \
+    08-Anhang.md
 
 build:: spaces README.md
 

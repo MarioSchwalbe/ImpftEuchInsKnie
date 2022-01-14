@@ -8,36 +8,16 @@ Fazit
 TODO
 
 <!--
+Diskrepanz zwischen Medien und obigen Kapiteln
+Mögliche Erklärungen:
+1. Ich liege falsch. Ich spinne.
+2. Medien liegen falsch, oder lügen.
+Test 1: Beides lesen. Bessere Qualität?
+Test 2: Spazieren gehen und Nazis zählen.
+
+
 „Wissenschaftsfeinde“ sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
 diejenigen, die den offenen Diskurs darüber unterbinden wollen.
-
-
-Bedingungen für Impfung:
-- Ordentliches Zulassungsverfahren
-
-
-Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
-Aufgebot der unbeirrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Und welche
-Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier: https://einheit.at.
-
-Wenn sie Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.
-
-
-Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es sofort vorbei.
-
-
-Die Revolution kommt nicht im Fernsehen:
-- https://twitter.com/niy_yang/status/1478787656733667338
-- https://twitter.com/mansalke/status/1478147388263084035
-- https://twitter.com/Susa512/status/1479108621099155462
-- https://twitter.com/manaf12hassan/status/1479092879238877196
-- https://twitter.com/ChristianTietz5/status/1479861010269982726
-- https://twitter.com/fireflymum/status/1479861294157246475
-- https://twitter.com/alterdonauwels/status/1479827634091704329
-- https://twitter.com/DrLoeser/status/1480462757807939587
-
-Lied:
-- https://twitter.com/RitaYaeli/status/1473552683940331522
 
 
 Im Zweifel gilt:
@@ -66,4 +46,47 @@ Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
 
 Solltest du eigentlich wissen:
 Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
+
+
+
+Bedingungen für Impfung:
+1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
+   Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
+   und die Impfstoffe ein ordentliches Zulassungsverfahren auch nie bestehen würden.
+2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
+   insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
+   Zulassungsverfahren und (c) Wirksamkeitsstudien mit ein. Hierzu sei darauf hingewiesen, daß
+   Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokument zu Bestandteilen der
+   Lipid-Nanopartikel eingereicht hat.
+3. Qualitätssicherungsprozesse wurden implementiert und unabhängig geprüft. Diese Punkte sind
+   wahrlich keine überzogenen Anforderungen.
+4. Die Impfstoffe haben ihre Tauglichkeit unter Beweis gestellt. Das wäre bei einem saisonalem Virus
+   frühestens nach dem nächsten Winter, also im Frühjahr 2023, möglich.
+5. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Viruses
+   vernachlässigbar.
+6. Es handelt sind um einen klassischen Totimpfstoff.
+
+
+Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
+Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Wenn sie
+Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.
+
+
+Und welche Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier:
+https://einheit.at. Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es schon Morgen
+vorbei.
+
+
+Die Revolution kommt nicht im Fernsehen:
+- https://twitter.com/niy_yang/status/1478787656733667338
+- https://twitter.com/mansalke/status/1478147388263084035
+- https://twitter.com/Susa512/status/1479108621099155462
+- https://twitter.com/manaf12hassan/status/1479092879238877196
+- https://twitter.com/ChristianTietz5/status/1479861010269982726
+- https://twitter.com/fireflymum/status/1479861294157246475
+- https://twitter.com/alterdonauwels/status/1479827634091704329
+- https://twitter.com/DrLoeser/status/1480462757807939587
+
+Lied:
+- https://twitter.com/RitaYaeli/status/1473552683940331522
 -->
