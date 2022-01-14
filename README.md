@@ -18,14 +18,10 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
 
-<!--
 <br/>
 <br/>
 <br/>
 <br/>
--->
-
-<div>
 
 Einleitung
 ----------
@@ -89,8 +85,6 @@ behaupten?“ Gegenfrage: In welcher Disziplin der Wissenschaften herrscht bei a
 Forschungsfragen sofort Konsens? Das hat es noch nie zuvor gegeben. Allein dieser - jedenfalls
 wahrgenommene - Umstand sollte misstrauisch machen. Deshalb möchte ich im folgenden auf diese Punkte
 wie auch die erwähnten Fragen näher eingehen.
-
-</div>
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Gefährlichkeit des Viruses
