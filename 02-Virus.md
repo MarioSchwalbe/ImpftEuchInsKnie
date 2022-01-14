@@ -264,11 +264,23 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
-Erste Studien sind auch bereits verfügbar:
+
+Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
+https://dgpi.de/kinder-omikron-variante/):
+
+> Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
+> sich ein besonderes Risiko von Kindern in keiner dieser Wellen bestätigt hat. [...]
+> Selbstverständlich nehmen Kinder und Jugendliche als Teil unserer Gesellschaft am
+> Pandemiegeschehen teil und sind somit auch von der Omikron-Variante betroffen. Die
+> Omikron-Variante ist deutlich infektiöser als die vorhergehende Delta-Variante und wird diese auch
+> in Deutschland verdrängen. Die Erkrankungsschwere liegt nach neuen Erkenntnissen allerdings in
+> allen Altersgruppen deutlich unter der der Delta-Variante.
+
+Erste Studien sind auch bereits verfügbar (Pre-Print):
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
-  in southern California (Pre-Print), 11.1.2022 <br/>
+  in southern California, 11.1.2022 <br/>
   https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
