@@ -21,15 +21,17 @@ https://vigiaccess.org, Stand: 9.1.2022):
 | Ibuprofen          | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
 | Aspirin            | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
 | Grippe             | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
-| COVID-19           | 2014-2021 |         2.947.999 |            368.499,88 |   **2.878.336** |
+| COVID-19           | 2014-2021 |     **2.947.999** |        **368.499,88** |   **2.878.336** |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
 nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
 Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
-Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen.
-Wie üblich bei derartigen Daten kann man annehmen, daß aufgrund bürokratischer Hürden (a) eher
-schwerere Fälle und (b) generell nicht alle Fälle gemeldet werden.
+Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen. Da
+die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung angesammelt hat, kann man
+annehmen, daß sich dieser Trend weiterhin fortsetzen wird. Wie üblich bei derartigen Daten kann man
+annehmen, daß aufgrund bürokratischer Hürden (a) eher schwerere Fälle und (b) generell nicht alle
+Fälle gemeldet werden.
 
 Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 
