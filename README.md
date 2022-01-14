@@ -351,11 +351,11 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
-Erste Studien sind auch bereits verfügbar (Pre-Print):
+Erste Studien sind auch bereits verfügbar:
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
-  in southern California, 11.1.2022 <br/>
+  in southern California (Pre-Print), 11.1.2022 <br/>
   https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
@@ -376,7 +376,7 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 
 Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
 jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
-Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Details zum
+Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
 Virus und der verursachten Erkrankung finden sich unter: https://corona-reframed.de.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
@@ -889,10 +889,10 @@ den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt 
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was richtige und was falsche Experten sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
-Wo sind die vernünftigen Stimmen? Wenn man böse wäre, könnten man mittlerweile noch ganz andere
-Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische Volkszeitung,
-16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine Dokumentation, Ullstein
-Verlag, Frankfurt a. M., 1989):
+Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnten man mittlerweile noch ganz
+andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
+Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
+Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
@@ -904,19 +904,20 @@ Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sol
 Ohne offenen Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere
 wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
 davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
-ist. Alles andere ist Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
+ist. Beweise werden keine benötigt. Dannach fragen ist schon borderline-anrüchig. Alles andere ist
+sowieso Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
 Verhältnismäßigkeit verboten? Das sollte nicht so sein.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
 stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird:
 (a) Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen,
-(d) Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
-Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist dann noch der
-Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate? Vorläufiges
-Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die Masken. Das
-sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristige Folgen hat, kann man sich
-gar nicht ausmalen.
+(d) jegliche Nebenwirkungen, (e) Segregation wie 2G/2G+, (f) Verlust des Arbeitsplatzes, (g) geheime
+Verträge mit Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist
+dann noch der Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate?
+Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die
+Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristige Folgen hat,
+kann man sich gar nicht ausmalen.
 
 Vielleicht wird es langsam besser. Wenn wir Glück haben, ist der Spuk bald vorbei und die
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
@@ -983,7 +984,7 @@ Lied:
 
 Im Zweifel gilt:
 Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien
-Wissenschaftler. Die Irren erkennt man dran, dass sie nie irren.
+Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
 
 
 - **Ray Moynihan, Iona Heath, David Henry**:

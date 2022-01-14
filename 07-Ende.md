@@ -42,7 +42,7 @@ Lied:
 
 Im Zweifel gilt:
 Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien
-Wissenschaftler. Die Irren erkennt man dran, dass sie nie irren.
+Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
 
 
 - **Ray Moynihan, Iona Heath, David Henry**:

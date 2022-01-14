@@ -264,11 +264,11 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
-Erste Studien sind auch bereits verfügbar (Pre-Print):
+Erste Studien sind auch bereits verfügbar:
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
-  in southern California, 11.1.2022 <br/>
+  in southern California (Pre-Print), 11.1.2022 <br/>
   https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
@@ -289,5 +289,5 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 
 Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
 jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
-Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Details zum
+Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
 Virus und der verursachten Erkrankung finden sich unter: https://corona-reframed.de.
