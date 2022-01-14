@@ -5,6 +5,8 @@ Fazit
 
 > Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
 
+TODO
+
 <!--
 „Wissenschaftsfeinde“ sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
 diejenigen, die den offenen Diskurs darüber unterbinden wollen.

@@ -28,10 +28,10 @@ nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenb
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
 Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen. Da
-die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung angesammelt hat, kann man
-annehmen, daß sich dieser Trend weiterhin fortsetzen wird. Wie üblich bei derartigen Daten kann man
-annehmen, daß aufgrund bürokratischer Hürden (a) eher schwerere Fälle und (b) generell nicht alle
-Fälle gemeldet werden.
+die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung 2021 angesammelt hat, dürfte
+sich dieser Trend weiterhin fortsetzen. Wie üblich bei derartigen Daten kann man annehmen, daß
+aufgrund bürokratischer Hürden (a) eher schwerere Fälle und (b) generell nicht alle Fälle gemeldet
+werden.
 
 Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 

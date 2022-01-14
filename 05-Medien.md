@@ -18,8 +18,8 @@ folgenden Artikel vollständig zu lesen:
 Darin befinden sich 61 Aussagen von Experten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
 Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. Streeck, der manchmal
-ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man die anderen nicht
-finden.
+ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man von den anderen
+nichts lesen.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
@@ -33,8 +33,8 @@ Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie i
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Nur Impfung kann jetzt die Erlösung sein. Funktioniert
-doch nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
+Experten™ erwarten baldige Triage. Panik. Nur Impfung kann die Erlösung sein. Funktioniert doch
+nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
 
 So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer
 Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet
@@ -103,9 +103,9 @@ Verhältnismäßigkeit verboten? Das sollte nicht so sein.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
-stigmatisiert wurde, mittlerweile aber Realität ist oder zumindest offen propagiert wird: (a)
-Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen, (d)
-Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
+stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird:
+(a) Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen,
+(d) Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
 Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist dann noch der
 Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate? Vorläufiges
 Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die Masken. Das

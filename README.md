@@ -373,10 +373,10 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
-auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
-aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
-https://corona-reframed.de.
+Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
+jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
+Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Details zum
+Virus und der verursachten Erkrankung finden sich unter: https://corona-reframed.de.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Wirksamkeit der Impfung
@@ -570,10 +570,10 @@ nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenb
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
 Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen. Da
-die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung angesammelt hat, kann man
-annehmen, daß sich dieser Trend weiterhin fortsetzen wird. Wie üblich bei derartigen Daten kann man
-annehmen, daß aufgrund bürokratischer Hürden (a) eher schwerere Fälle und (b) generell nicht alle
-Fälle gemeldet werden.
+die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung 2021 angesammelt hat, dürfte
+sich dieser Trend weiterhin fortsetzen. Wie üblich bei derartigen Daten kann man annehmen, daß
+aufgrund bürokratischer Hürden (a) eher schwerere Fälle und (b) generell nicht alle Fälle gemeldet
+werden.
 
 Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 
@@ -813,8 +813,8 @@ folgenden Artikel vollständig zu lesen:
 Darin befinden sich 61 Aussagen von Experten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
 Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. Streeck, der manchmal
-ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man die anderen nicht
-finden.
+ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man von den anderen
+nichts lesen.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
@@ -828,8 +828,8 @@ Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie i
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Nur Impfung kann jetzt die Erlösung sein. Funktioniert
-doch nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
+Experten™ erwarten baldige Triage. Panik. Nur Impfung kann die Erlösung sein. Funktioniert doch
+nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
 
 So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer
 Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet
@@ -898,9 +898,9 @@ Verhältnismäßigkeit verboten? Das sollte nicht so sein.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
-stigmatisiert wurde, mittlerweile aber Realität ist oder zumindest offen propagiert wird: (a)
-Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen, (d)
-Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
+stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird:
+(a) Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen,
+(d) Nebenwirkungen, (e) Segregation via 2G, (f) Verlust des Arbeitsplatzes, (g) geheime Verträge mit
 Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist dann noch der
 Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate? Vorläufiges
 Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die Masken. Das
@@ -934,6 +934,8 @@ Fazit
 -----
 
 > Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
+
+TODO
 
 <!--
 „Wissenschaftsfeinde“ sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern

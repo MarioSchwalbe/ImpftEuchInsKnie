@@ -287,7 +287,7 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Das ganze Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie
-auch die nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
-aufbereitete Details zum Virus und der verursachten Erkrankung finden sich unter:
-https://corona-reframed.de.
+Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
+jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
+Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Details zum
+Virus und der verursachten Erkrankung finden sich unter: https://corona-reframed.de.
