@@ -13,7 +13,7 @@ PARTS := \
     05-Medien.md \
     07-Ende.md
 
-build:: README.md
+build:: spaces README.md
 
 README.md: $(PARTS) Makefile
 	cat $(filter %.md, $^) > $@

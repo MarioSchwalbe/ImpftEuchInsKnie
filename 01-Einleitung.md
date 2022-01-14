@@ -1,7 +1,7 @@
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
-#ImpftEuchInsKnie: Warum ich ungeimpft bin!
-===========================================
+ImpftEuchInsKnie: Warum ich ungeimpft bin!
+==========================================
 
 <img src="images/IQTest.jpg" width="200" align="left">
 
@@ -28,7 +28,7 @@ Einleitung
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
-will und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
+will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
 eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
 Impfpflicht verweisen:
 

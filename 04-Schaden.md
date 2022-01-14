@@ -86,7 +86,8 @@ einige relevante Unterschiede:
 
 Hinzu kommt noch der Herstellungsprozess selbst. Wie es aussieht wurden für die Herstellung der
 Impfstoffe für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
-Verfahren verwendet als für die Massenfertigung:
+Verfahren verwendet als für die Massenfertigung, so daß wir mit mehr Verunreinigungen rechnen
+dürfen:
 
 - **Gilian Crowther**:
   Interview with Dr. Vanessa Schmidt-Krüger, 29.1.2021 <br/>
@@ -134,7 +135,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswahl:
 
-- **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et. al.**:
+- **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
   Why are we vaccinating children against COVID-19?,
   Toxicology Reports, Volume 8, 2021 <br/>
   https://www.sciencedirect.com/science/article/pii/S221475002100161X
@@ -185,10 +186,10 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 - **Dr. Steve Kirsch**:
   We will kill 117 kids to save one child from dying from COVID in the 5 to 11 age range, 4.11.2021 <br/>
   https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one
-  > This injection [Pfizer] for COVID-19 is NOT a vaccine (the vaccines do not stop infection,
-  > transmission, severe COVID, hospitalization, or death); it is best described as a gene
-  > manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals for
-  > decades. Injecting RNA into the body to force the body to make SARS-CoV spike proteins, is
+  > This injection [Pfizer/BioNTech] for COVID-19 is NOT a vaccine (the vaccines do not stop
+  > infection, transmission, severe COVID, hospitalization, or death); it is best described as a
+  > gene manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals
+  > for decades. Injecting RNA into the body to force the body to make SARS-CoV spike proteins, is
   > itself very harmful. When our immune system detects the presence of the SARS-CoV spike protein,
   > it attacks it with antibodies and lymphocytes. This causes cell death and other complications.
   > Worse, the spike protein itself is toxic to cells. Among other things, it can cause bleeding and
@@ -197,7 +198,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
   > irregularities and sterility. The jab is very dangerous in multiple ways and in no way should it
   > be considered a vaccine.
 
-Und ein weiterer wichtiger Punkt, der sich langsam abzeichnet:
+Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Egidius Schwarz**:
   Geimpfte können wahrscheinlich nie wieder volle Immunität erreichen, 28.12.2021 <br/>

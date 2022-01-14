@@ -107,7 +107,8 @@ Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland bas
 des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe Ü80 Faktor 2000
-liegt. Wenn man dieses Detail verschweigt, kann man relativ viel statistisch verzerren.
+liegt. Wenn man dieses Detail verschweigt, kann man relativ viel verzerren. Insbesondere bedeutet
+das auch, daß es viel sinnvoller wäre, sich auf die besonders Gefährdeten zu konzentrieren.
 
 Es zeigt sich aber auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt
 bei 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81
@@ -123,8 +124,8 @@ wären. Es spricht aber einiges dagegen:
    her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und führen deswegen den
    passenden Test durch. Da der Test positiv war, können wir aufhören zu denken. Weil wir aufgehört
    haben zu denken, bekommen wir unsere Einbildung bestätigt. Was soll das? Ohne Ausschluß anderer
-   Ursachen befähigt der Test nicht zu einer solchen Aussage. Nach der selben Logik könnte man
-   stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
+   Ursachen befähigt der Test nicht zu einer solchen Schlußfolgerung. Nach der selben Logik könnte
+   man stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
@@ -151,10 +152,10 @@ wären. Es spricht aber einiges dagegen:
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
    (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren).
 
-4. Es sind 41.201 Menschen auf Intensivstation verstorben (Quelle: https://intensivstationen.net,
-   Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um eine sich graduell
-   verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles erdenkliche
-   unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
+4. Es sind 41.201 von 112.740 Menschen auf Intensivstation verstorben (Quelle:
+   https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um
+   eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles
+   erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
    insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben ist.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bertram Häussler könnten

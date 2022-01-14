@@ -133,8 +133,8 @@ Ergebnis schon bei der Deltavariante vernichtend aus:
   > vaccination, yielding a potential risk/benefit ratio of 2:3.
 
 Auch Autoren, die sich mit der Reduktion der Sterblichkeit in Bezug zur Impfquote befasst haben,
-haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leichte positive, so daß
-sie folgern:
+haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leicht positive, so daß sie
+folgern:
 
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
