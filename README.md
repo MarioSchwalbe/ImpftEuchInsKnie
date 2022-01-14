@@ -1,7 +1,7 @@
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
-#ImpftEuchInsKnie: Warum ich ungeimpft bin!
-===========================================
+ImpftEuchInsKnie: Warum ich ungeimpft bin!
+==========================================
 
 <img src="images/IQTest.jpg" width="200" align="left">
 
@@ -28,7 +28,7 @@ Einleitung
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
-will und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
+will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
 eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
 Impfpflicht verweisen:
 
@@ -193,7 +193,8 @@ Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland bas
 des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe Ü80 Faktor 2000
-liegt. Wenn man dieses Detail verschweigt, kann man relativ viel statistisch verzerren.
+liegt. Wenn man dieses Detail verschweigt, kann man relativ viel verzerren. Insbesondere bedeutet
+das auch, daß es viel sinnvoller wäre, sich auf die besonders Gefährdeten zu konzentrieren.
 
 Es zeigt sich aber auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt
 bei 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81
@@ -209,8 +210,8 @@ wären. Es spricht aber einiges dagegen:
    her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und führen deswegen den
    passenden Test durch. Da der Test positiv war, können wir aufhören zu denken. Weil wir aufgehört
    haben zu denken, bekommen wir unsere Einbildung bestätigt. Was soll das? Ohne Ausschluß anderer
-   Ursachen befähigt der Test nicht zu einer solchen Aussage. Nach der selben Logik könnte man
-   stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
+   Ursachen befähigt der Test nicht zu einer solchen Schlußfolgerung. Nach der selben Logik könnte
+   man stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
@@ -237,10 +238,10 @@ wären. Es spricht aber einiges dagegen:
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
    (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren).
 
-4. Es sind 41.201 Menschen auf Intensivstation verstorben (Quelle: https://intensivstationen.net,
-   Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um eine sich graduell
-   verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles erdenkliche
-   unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
+4. Es sind 41.201 von 112.740 Menschen auf Intensivstation verstorben (Quelle:
+   https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um
+   eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles
+   erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
    insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben ist.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bertram Häussler könnten
@@ -511,8 +512,8 @@ Ergebnis schon bei der Deltavariante vernichtend aus:
   > vaccination, yielding a potential risk/benefit ratio of 2:3.
 
 Auch Autoren, die sich mit der Reduktion der Sterblichkeit in Bezug zur Impfquote befasst haben,
-haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leichte positive, so daß
-sie folgern:
+haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leicht positive, so daß sie
+folgern:
 
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
@@ -549,15 +550,20 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 https://vigiaccess.org, Stand: 9.1.2022):
 
-| Impfung    | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
-|------------|-----------|------------------:|----------------------:|----------------:|
-| Mumps      | 1972-2021 |               719 |                 14,38 |              15 |
-| Masern     | 1968-2021 |             5.868 |                108,67 |             148 |
-| Pocken     | 1968-2021 |             6.905 |                127,87 |              40 |
-| Ivermectin | 1992-2021 |             5.840 |                194,67 |           1.263 |
-| Polio      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
-| Grippe     | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
-| COVID-19   | 2014-2021 |         2.947.999 |            368.499,88 |       2.878.336 |
+| Impfung/Medikament | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+|--------------------|-----------|------------------:|----------------------:|----------------:|
+| Mumps              | 1972-2021 |               719 |                 14,38 |              15 |
+| Masern             | 1968-2021 |             5.868 |                108,67 |             148 |
+| Pocken             | 1968-2021 |             6.905 |                127,87 |              40 |
+| Ivermectin         | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| Tetanus            | 1968-2021 |            15.204 |                281,56 |             518 |
+| Hepatitis A        | 1989-2021 |            47.510 |              1.439,70 |           2.202 |
+| Kinderlähmung      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
+| Hepatitis B        | 1984-2021 |           105.825 |              2.784,87 |           2.777 |
+| Ibuprofen          | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
+| Aspirin            | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
+| Grippe             | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
+| COVID-19           | 2014-2021 |         2.947.999 |            368.499,88 |   **2.878.336** |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
 nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
@@ -627,7 +633,8 @@ einige relevante Unterschiede:
 
 Hinzu kommt noch der Herstellungsprozess selbst. Wie es aussieht wurden für die Herstellung der
 Impfstoffe für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
-Verfahren verwendet als für die Massenfertigung:
+Verfahren verwendet als für die Massenfertigung, so daß wir mit mehr Verunreinigungen rechnen
+dürfen:
 
 - **Gilian Crowther**:
   Interview with Dr. Vanessa Schmidt-Krüger, 29.1.2021 <br/>
@@ -675,7 +682,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswahl:
 
-- **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et. al.**:
+- **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
   Why are we vaccinating children against COVID-19?,
   Toxicology Reports, Volume 8, 2021 <br/>
   https://www.sciencedirect.com/science/article/pii/S221475002100161X
@@ -726,10 +733,10 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 - **Dr. Steve Kirsch**:
   We will kill 117 kids to save one child from dying from COVID in the 5 to 11 age range, 4.11.2021 <br/>
   https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one
-  > This injection [Pfizer] for COVID-19 is NOT a vaccine (the vaccines do not stop infection,
-  > transmission, severe COVID, hospitalization, or death); it is best described as a gene
-  > manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals for
-  > decades. Injecting RNA into the body to force the body to make SARS-CoV spike proteins, is
+  > This injection [Pfizer/BioNTech] for COVID-19 is NOT a vaccine (the vaccines do not stop
+  > infection, transmission, severe COVID, hospitalization, or death); it is best described as a
+  > gene manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals
+  > for decades. Injecting RNA into the body to force the body to make SARS-CoV spike proteins, is
   > itself very harmful. When our immune system detects the presence of the SARS-CoV spike protein,
   > it attacks it with antibodies and lymphocytes. This causes cell death and other complications.
   > Worse, the spike protein itself is toxic to cells. Among other things, it can cause bleeding and
@@ -738,7 +745,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
   > irregularities and sterility. The jab is very dangerous in multiple ways and in no way should it
   > be considered a vaccine.
 
-Und ein weiterer wichtiger Punkt, der sich langsam abzeichnet:
+Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Egidius Schwarz**:
   Geimpfte können wahrscheinlich nie wieder volle Immunität erreichen, 28.12.2021 <br/>
