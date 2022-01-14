@@ -1066,34 +1066,34 @@ Anhang
 - **Intensivstationen.net**: <br/>
   https://intensivstationen.net
 
-- **RKI**: GrippeWeb <br/>
+- **Robert Koch-Institut**: GrippeWeb <br/>
   https://grippeweb.rki.de
 
-- **RKI**: Arbeitsgemeinschaft Influenza <br/>
+- **Robert Koch-Institut**: Arbeitsgemeinschaft Influenza <br/>
   https://influenza.rki.de
 
-- **DGPI**: COVID-19 Survey-Update <br/>
+- **Deutsche Gesellschaft für Pädiatrische Infektiologie**: COVID-19 Survey-Update <br/>
   https://dgpi.de/covid-19-survey-update/
 
-- **DGPI**: PIMS Survey Update <br/>
+- **Deutsche Gesellschaft für Pädiatrische Infektiologie**: PIMS Survey Update <br/>
   https://dgpi.de/pims-survey-update/
 
-- **CDC**: COVID Data Tracker <br/>
+- **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
   https://covid.cdc.gov/covid-data-tracker/#variant-proportions
 
 ### Offizielle Berichte ###
 
-- **RKI**: Wochenberichte <br/>
+- **Robert Koch-Institut**: Wochenberichte <br/>
   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html
 
-- **RKI**: Tägliche Übersicht zu Omikron-Fällen <br/>
+- **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>
   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile
 
-- **UKHSA**: COVID-19: Omicron daily overview <br/>
+- **UK Health Security Agency**: COVID-19: Omicron daily overview <br/>
   https://www.gov.uk/government/publications/covid-19-omicron-daily-overview
 
-- **UKHSA**: COVID-19 vaccine weekly surveillance reports <br/>
+- **UK Health Security Agency**: COVID-19 vaccine weekly surveillance reports <br/>
   https://www.gov.uk/government/publications/covid-19-vaccine-weekly-surveillance-reports
 
-- **NHS**: COVID-19 Hospital Activity <br/>
+- **UK National Health Service**: COVID-19 Hospital Activity <br/>
   https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/
