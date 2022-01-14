@@ -141,18 +141,27 @@ folgern:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
   2947 counties in the United States, 30.9.2021 <br/>
   https://link.springer.com/article/10.1007%2Fs10654-021-00808-7
-  > The sole reliance on vaccination as a primary strategy to mitigate COVID-19 and its adverse
-  > consequences needs to be re-examined, especially considering the Delta (B.1.617.2) variant and
-  > the likelihood of future variants. Other pharmacological and non-pharmacological interventions
-  > may need to be put in place alongside increasing vaccination rates. Such course correction,
-  > especially with regards to the policy narrative, becomes paramount with emerging scientific
-  > evidence on real world effectiveness of the vaccines. For instance, in a report released from
-  > the Ministry of Health in Israel, the effectiveness of 2 doses of the BNT162b2 (Pfizer-BioNTech)
-  > vaccine against preventing COVID-19 infection was reported to be 39%, substantially lower than
-  > the trial efficacy of 96%. It is also emerging that immunity derived from the Pfizer-BioNTech
-  > vaccine may not be as strong as immunity acquired through recovery from the COVID-19 virus. A
-  > substantial decline in immunity from mRNA vaccines 6-months post immunization has also been
-  > reported.
+  > At the country-level, there appears to be no discernable relationship between percentage of
+  > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line
+  > suggests a marginally positive association such that countries with higher percentage of
+  > population fully vaccinated have higher COVID-19 cases per 1 million people. Notably, Israel
+  > with over 60% of their population fully vaccinated had the highest COVID-19 cases per 1 million
+  > people in the last 7 days. The lack of a meaningful association between percentage population
+  > fully vaccinated and new COVID-19 cases is further exemplified, for instance, by comparison of
+  > Iceland and Portugal. Both countries have over 75% of their population fully vaccinated and have
+  > more COVID-19 cases per 1 million people than countries such as Vietnam and South Africa that
+  > have around 10% of their population fully vaccinated. [...] The sole reliance on vaccination as
+  > a primary strategy to mitigate COVID-19 and its adverse consequences needs to be re-examined,
+  > especially considering the Delta (B.1.617.2) variant and the likelihood of future variants.
+  > Other pharmacological and non-pharmacological interventions may need to be put in place
+  > alongside increasing vaccination rates. Such course correction, especially with regards to the
+  > policy narrative, becomes paramount with emerging scientific evidence on real world
+  > effectiveness of the vaccines. For instance, in a report released from the Ministry of Health in
+  > Israel, the effectiveness of 2 doses of the BNT162b2 (Pfizer-BioNTech) vaccine against
+  > preventing COVID-19 infection was reported to be 39%, substantially lower than the trial
+  > efficacy of 96%. It is also emerging that immunity derived from the Pfizer-BioNTech vaccine may
+  > not be as strong as immunity acquired through recovery from the COVID-19 virus. A substantial
+  > decline in immunity from mRNA vaccines 6-months post immunization has also been reported.
 
 Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt einfach nichts. Ich
 fasse zusammen: Gerade jetzt ist der sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
