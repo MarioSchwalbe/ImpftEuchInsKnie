@@ -1051,17 +1051,20 @@ Anhang
 
 ### Visualisierungen ###
 
-- **Our World in Data**: <br/>
+- **Our World in Data**: Coronavirus Pandemic (COVID-19) <br/>
   https://ourworldindata.org/coronavirus
 
-- **Intensivstationen.net**: <br/>
-  https://intensivstationen.net
+- **Statista**: Statistiken und Zahlen zur Corona-Pandemie 2019-2022 <br/>
+  https://de.statista.com/themen/6018/corona/
 
 - **Corona Fakten & Fragen**: <br/>
   https://corona-reframed.de
 
 - **Corona In Zahlen**: <br/>
   https://www.corona-in-zahlen.de
+
+- **Intensivstationen.net**: <br/>
+  https://intensivstationen.net
 
 - **RKI**: GrippeWeb <br/>
   https://grippeweb.rki.de
@@ -1075,7 +1078,7 @@ Anhang
 - **DGPI**: PIMS Survey Update <br/>
   https://dgpi.de/pims-survey-update/
 
-- **CDC**: Covid Data Tracker <br/>
+- **CDC**: COVID Data Tracker <br/>
   https://covid.cdc.gov/covid-data-tracker/#variant-proportions
 
 ### Offizielle Berichte ###
