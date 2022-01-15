@@ -706,16 +706,14 @@ ursprünglich aus [Sitzung
 Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
 Geschichte, wenn eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
 funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
-BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn wir so arbeiten
+BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn Ingenieure so arbeiten
 würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
-Impfstoffen?
+Impfstoffen? Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswahl:
 
 <!--
 https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html
 https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 -->
-
-Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswahl:
 
 - **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
   Why are we vaccinating children against COVID-19?,
@@ -813,10 +811,13 @@ und RNA-Viren schnell mutieren, hieße das im Extremfall, man wäre gezwungen re
 um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses Geschäftsmodells
 wäre genial.
 
-Praktischerweise darf man als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für
-sein Produkt übernimmt. Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch
-völlig ungeklärt. Da die FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen
-muß, kann man bei dem Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
+Konnte man ursprünglich vielleicht noch einen Nutzen für bestimmte Altersgruppen anführen - immerhin
+wird die Grippeschutzimpfung von der STIKO für über 60-jährige empfohlen - so kann davon bei der
+Impfung gegen COVID-19 mittlerweile guten Gewissens keine Rede mehr sein. Praktischerweise darf man
+als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für sein Produkt übernimmt.
+Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch völlig ungeklärt. Da die
+FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen muß, kann man bei dem
+Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
 https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/).
 Da würde ich definitiv wachsam bleiben.
 
