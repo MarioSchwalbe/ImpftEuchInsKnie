@@ -82,6 +82,6 @@ Mehrheit hat doch recht.“ Antwort: Wäre dem wirklich so, dächten wir heute n
 Korrektheit definiert sich nicht durch Mehrheiten. Aus diesem Grund gibt es in der Wissenschaft
 Standards. Oder auch: „Alle Experten sind sich doch einig. Wie kannst du dann etwas anderes
 behaupten?“ Gegenfrage: In welcher Disziplin der Wissenschaften herrscht bei aktuellen
-Forschungsfragen sofort Konsens? Das hat es noch nie zuvor gegeben. Allein dieser - jedenfalls
-wahrgenommene - Umstand sollte misstrauisch machen. Deshalb möchte ich im folgenden auf diese Punkte
-wie auch die erwähnten Fragen näher eingehen.
+Forschungsfragen sofort Konsens? Dergleichen hat es noch nie zuvor gegeben. Allein dieser -
+jedenfalls wahrgenommene - Umstand sollte misstrauisch machen. Deshalb möchte ich im folgenden auf
+diese Punkte wie auch die erwähnten Fragen näher eingehen.
