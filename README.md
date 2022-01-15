@@ -195,14 +195,24 @@ des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
-durch das Immunsystem bereits vorlag oder bei Bedarf gebildet wird. Wenn man diesen
-Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere bedeutet das auch, daß
-es viel sinnvoller wäre, sich auf die besonders Gefährdeten der Gesellschaft zu konzentrieren.
+durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
+Unterzeichner der Great Barrington Declaration bereits im Oktober 2020:
 
-Es zeigt sich aber auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt
-bei 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81
-Jahren mit 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es
-sich tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
+- **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
+  Great Barrington Declaration, 4.10.2020 <br/>
+  https://gbdeclaration.org
+  > Fortunately, our understanding of the virus is growing. We know that vulnerability to death from
+  > COVID-19 is more than a thousand-fold higher in the old and infirm than the young. Indeed, for
+  > children, COVID-19 is less dangerous than many other harms, including influenza.
+
+Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere
+bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
+zu konzentrieren.
+
+Es zeigt sich auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei 83
+Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
+79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
+tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
 Implikation noch immer lautet, daß das verhinderbar gewesen wäre, wenn nur alle geimpft gewesen
 wären. Es spricht aber einiges dagegen:
 
