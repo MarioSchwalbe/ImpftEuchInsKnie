@@ -8,25 +8,26 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 https://vigiaccess.org, Stand: 9.1.2022):
 
-| Impfung/Medikament | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+| Medikament/Impfung | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |--------------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps              | 1972-2021 |               719 |                 14,38 |              15 |
 | Masern             | 1968-2021 |             5.868 |                108,67 |             148 |
 | Pocken             | 1968-2021 |             6.905 |                127,87 |              40 |
-| Ivermectin         | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| *Ivermectin*       | 1992-2021 |             5.840 |                194,67 |           1.263 |
 | Tetanus            | 1968-2021 |            15.204 |                281,56 |             518 |
 | Hepatitis A        | 1989-2021 |            47.510 |              1.439,70 |           2.202 |
 | Kinderlähmung      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
 | Hepatitis B        | 1984-2021 |           105.825 |              2.784,87 |           2.777 |
-| Ibuprofen          | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
-| Aspirin            | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
+| *Ibuprofen*        | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
+| *Aspirin*          | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
 | Grippe             | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
 | COVID-19           | 2014-2021 |     **2.947.999** |        **368.499,88** |   **2.878.336** |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
 nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
-Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
+Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Vielleicht wäre
+eine Impfpflicht nur bei Medikamenten ratsam, die sich in der Praxis bewährt haben. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen. Da
 die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung 2021 angesammelt hat, dürfte
 sich dieser Trend weiterhin fortsetzen. Wie üblich bei derartigen Daten kann man annehmen, daß
@@ -232,9 +233,9 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 Sollte sich Letzteres bewahrheiten, bedeutet das auch, daß das Immunsystem langfristig von der
 impfstoff-induzierten Erkennung des Spike-Proteins abhängig wird. Da der Schutz nicht lange anhält
-und RNA-Viren schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig nachzuimpfen
-um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses Geschäftsmodells
-wäre genial.
+und RNA-Viren generell schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig
+nachzuimpfen um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses
+Geschäftsmodells wäre genial.
 
 Konnte man ursprünglich vielleicht noch einen Nutzen für bestimmte Altersgruppen anführen - immerhin
 wird die Grippeschutzimpfung von der STIKO für über 60-jährige empfohlen - so kann davon bei der

@@ -11,6 +11,7 @@ PARTS := \
     03-Impfung.md \
     04-Schaden.md \
     05-Medien.md \
+    06-Politik.md \
     07-Ende.md \
     08-Anhang.md
 

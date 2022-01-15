@@ -37,7 +37,7 @@ Anhang
 
 ### Offizielle Berichte ###
 
-- **Robert Koch-Institut**: Wochenberichte <br/>
+- **Robert Koch-Institut**: Wochenberichte zu COVID-19 <br/>
   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html
 
 - **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>

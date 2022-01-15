@@ -9,6 +9,8 @@ Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
 <img src="images/Fernseher.jpg" width="300">
 
+### Bestandsaufnahme ####
+
 Im Ernst. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt. Ich bitte darum
 folgenden Artikel vollständig zu lesen:
 
@@ -94,13 +96,16 @@ Grundordnung keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung.
 sein. (Vielleicht will sich Böhmermann ja auch nur - für den Fall der Machtergreifung der AfD - als
 zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 
+### Aufklärung statt Fake-News ####
+
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Ohne offenen Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere
 wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
 davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
-ist. Beweise werden keine benötigt. Dannach fragen ist schon borderline-anrüchig. Alles andere ist
+ist. Belege werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist
 sowieso Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
-Verhältnismäßigkeit verboten? Das sollte nicht so sein.
+Verhältnismäßigkeit verboten? Das sollte nicht so sein. Was wir stattdessen brauchen wäre
+Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
@@ -110,10 +115,10 @@ stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest off
 Verträge mit Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist
 dann noch der Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate?
 Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die
-Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristige Folgen hat,
-kann man sich gar nicht ausmalen.
+Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristigen Schaden
+anrichtet, kann man sich gar nicht ausmalen.
 
-Vielleicht wird es langsam besser. Wenn wir Glück haben, ist der Spuk bald vorbei und die
+Vielleicht wird es langsam besser. Wenn wir Glück haben ist der Spuk bald vorbei, und die
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
 
 - **Tim Röhn, Benjamin Stibi**:

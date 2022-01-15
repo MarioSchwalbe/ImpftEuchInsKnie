@@ -516,7 +516,7 @@ das RKI auch (Quelle: selber Bericht):
 Wie man - bis auf den ersten Satz - zu so einem Urteil kommen kann ist völlig unklar nachdem Omikron
 die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Und die Altersstratifizierung
 der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssystems ist es in
-anderen Ländern auch nicht gekommen.
+anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
 Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
@@ -571,10 +571,10 @@ Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt 
 fasse zusammen: Gerade jetzt ist der sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
 Impfstoffe, die nicht an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso
 benötigen wir Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
-bei Omikron fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein paar
-Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt ist?
-Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
-Motivation auch nicht besonders.
+bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
+ein paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits
+angekündigt ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das
+erhöht die Motivation auch nicht besonders.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Schadwirkung der Impfung
@@ -585,25 +585,26 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 https://vigiaccess.org, Stand: 9.1.2022):
 
-| Impfung/Medikament | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+| Medikament/Impfung | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |--------------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps              | 1972-2021 |               719 |                 14,38 |              15 |
 | Masern             | 1968-2021 |             5.868 |                108,67 |             148 |
 | Pocken             | 1968-2021 |             6.905 |                127,87 |              40 |
-| Ivermectin         | 1992-2021 |             5.840 |                194,67 |           1.263 |
+| *Ivermectin*       | 1992-2021 |             5.840 |                194,67 |           1.263 |
 | Tetanus            | 1968-2021 |            15.204 |                281,56 |             518 |
 | Hepatitis A        | 1989-2021 |            47.510 |              1.439,70 |           2.202 |
 | Kinderlähmung      | 1968-2021 |           122.968 |              2.277,19 |           8.648 |
 | Hepatitis B        | 1984-2021 |           105.825 |              2.784,87 |           2.777 |
-| Ibuprofen          | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
-| Aspirin            | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
+| *Ibuprofen*        | 1969-2021 |           168.473 |              3.178,74 |          12.196 |
+| *Aspirin*          | 1968-2021 |           186.639 |              3.456,28 |          12.726 |
 | Grippe             | 1968-2021 |           280.259 |              5.189,98 |          20.671 |
 | COVID-19           | 2014-2021 |     **2.947.999** |        **368.499,88** |   **2.878.336** |
 
 Wieso die Datenbank bei COVID-19 insgesamt 42 Einträge aus den Jahren 2014-2018 listet, kann ich
 nicht nachvollziehen. Die Gesamtanzahl der verabreichten Dosen ist dieser Datenbank nicht zu
 entnehmen, es handelt sich aber durchweg um häufig eingesetzte Medikamente. Im Vergleich zur
-Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Selbst die
+Masernimpfung beträgt der Faktor zur COVID-19-Impfung im Jahr 2021 stolze 19.000. Vielleicht wäre
+eine Impfpflicht nur bei Medikamenten ratsam, die sich in der Praxis bewährt haben. Selbst die
 Grippeschutzimpfung mit den zweithäufigsten Nebenwirkung wird noch um den Faktor 139 übertroffen. Da
 die COVID-19-Impfung 98% der Einträge im Jahr der weltweiten Anwendung 2021 angesammelt hat, dürfte
 sich dieser Trend weiterhin fortsetzen. Wie üblich bei derartigen Daten kann man annehmen, daß
@@ -809,9 +810,9 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 Sollte sich Letzteres bewahrheiten, bedeutet das auch, daß das Immunsystem langfristig von der
 impfstoff-induzierten Erkennung des Spike-Proteins abhängig wird. Da der Schutz nicht lange anhält
-und RNA-Viren schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig nachzuimpfen
-um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses Geschäftsmodells
-wäre genial.
+und RNA-Viren generell schnell mutieren, hieße das im Extremfall, man wäre gezwungen regelmäßig
+nachzuimpfen um zu überleben. Vor Erkältungsviren wegrennen geht ja nicht - aber die Idee dieses
+Geschäftsmodells wäre genial.
 
 Konnte man ursprünglich vielleicht noch einen Nutzen für bestimmte Altersgruppen anführen - immerhin
 wird die Grippeschutzimpfung von der STIKO für über 60-jährige empfohlen - so kann davon bei der
@@ -839,6 +840,8 @@ Die Rolle der Medien
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
 <img src="images/Fernseher.jpg" width="300">
+
+### Bestandsaufnahme ####
 
 Im Ernst. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt. Ich bitte darum
 folgenden Artikel vollständig zu lesen:
@@ -925,13 +928,16 @@ Grundordnung keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung.
 sein. (Vielleicht will sich Böhmermann ja auch nur - für den Fall der Machtergreifung der AfD - als
 zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 
+### Aufklärung statt Fake-News ####
+
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Ohne offenen Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere
 wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
 davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
-ist. Beweise werden keine benötigt. Dannach fragen ist schon borderline-anrüchig. Alles andere ist
+ist. Belege werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist
 sowieso Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
-Verhältnismäßigkeit verboten? Das sollte nicht so sein.
+Verhältnismäßigkeit verboten? Das sollte nicht so sein. Was wir stattdessen brauchen wäre
+Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
@@ -941,10 +947,10 @@ stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest off
 Verträge mit Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist
 dann noch der Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate?
 Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die
-Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristige Folgen hat,
-kann man sich gar nicht ausmalen.
+Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristigen Schaden
+anrichtet, kann man sich gar nicht ausmalen.
 
-Vielleicht wird es langsam besser. Wenn wir Glück haben, ist der Spuk bald vorbei und die
+Vielleicht wird es langsam besser. Wenn wir Glück haben ist der Spuk bald vorbei, und die
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
 
 - **Tim Röhn, Benjamin Stibi**:
@@ -965,6 +971,163 @@ nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir ha
 https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013). Wann können wir das in Deutschland
 erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich zuletzt. Ansonsten bleiben uns ja noch die
 Fake-News.
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
+
+Die Rolle der Politik
+---------------------
+
+> Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig. (Karl Marx)
+
+### Great Barrington Declaration ###
+
+- **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
+  Great Barrington Declaration, 4.10.2020 <br/>
+  https://gbdeclaration.org
+  > Die Great Barrington Erklärung
+  >
+  > Als Epidemiologen für Infektionskrankheiten und Wissenschaftler im Bereich des öffentlichen
+  > Gesundheitswesens haben wir ernste Bedenken hinsichtlich der schädlichen Auswirkungen der
+  > vorherrschenden COVID-19-Maßnahmen auf die physische und psychische Gesundheit und empfehlen
+  > einen Ansatz, den wir gezielten Schutz (Focused Protection) nennen.
+  >
+  > Wir kommen politisch sowohl von links als auch von rechts und aus der ganzen Welt und haben
+  > unsere berufliche Laufbahn dem Schutz der Menschen gewidmet. Die derzeitige Lockdown-Politik hat
+  > kurz- und langfristig verheerende Auswirkungen auf die öffentliche Gesundheit. Zu den
+  > Ergebnissen, um nur einige zu nennen, gehören niedrigere Impfraten bei Kindern, schlechtere
+  > Verläufe bei Herz-Kreislauf-Erkrankungen, weniger Krebsvorsorgeuntersuchungen und eine
+  > Verschlechterung der psychischen Verfassung – was in den kommenden Jahren zu einer erhöhten
+  > Übersterblichkeit führen wird. Die Arbeiterklasse und die jüngeren Mitglieder der Gesellschaft
+  > werden dabei am schlimmsten betroffen sein. Schüler von der Schule fernzuhalten, ist eine
+  > schwerwiegende Ungerechtigkeit.
+  >
+  > Die Beibehaltung dieser Maßnahmen bis ein Impfstoff zur Verfügung steht, wird irreparablen
+  > Schaden verursachen, wobei die Unterprivilegierten unverhältnismäßig stark betroffen sind.
+  >
+  > Glücklicherweise wachsen unsere Erkenntnisse über das Virus. Wir wissen, dass die Gefahr durch
+  > COVID-19 zu sterben bei alten und gebrechlichen Menschen mehr als tausendmal höher ist als bei
+  > jungen Menschen. Tatsächlich ist COVID-19 für Kinder weniger gefährlich als viele andere Leiden,
+  > einschließlich der Influenza.
+  >
+  > In dem Maße, wie sich die Immunität in der Bevölkerung aufbaut, sinkt das Infektionsrisiko für
+  > alle – auch für die gefährdeten Personengruppen. Wir wissen, dass alle Populationen schließlich
+  > eine Herdenimmunität erreichen – d.h. den Punkt, an dem die Rate der Neuinfektionen stabil ist.
+  > Dies kann durch einen Impfstoff unterstützt werden, ist aber nicht davon abhängig. Unser Ziel
+  > sollte daher sein, die Mortalität und den sozialen Schaden zu minimieren, bis wir eine
+  > Herdenimmunität erreichen.
+  >
+  > Der einfühlsamste Ansatz, bei dem Risiko und Nutzen des Erreichens einer Herdenimmunität
+  > gegeneinander abgewogen werden, besteht darin, denjenigen, die ein minimales Sterberisiko haben,
+  > ein normales Leben zu ermöglichen, damit sie durch natürliche Infektion eine Immunität gegen das
+  > Virus aufbauen können, während diejenigen, die am stärksten gefährdet sind, besser geschützt
+  > werden. Wir nennen dies gezielten Schutz (Focused Protection).
+  >
+  > Die zentrale Aufgabe des öffentlichen Gesundheitswesens in Bezug auf COVID-19 sollte die
+  > Verabschiedung von Maßnahmen zum Schutz von gefährdeten Personengruppen sein. Zum Beispiel
+  > sollten Pflegeheime Personal mit erworbener Immunität einsetzen und häufige Tests bei anderen
+  > Mitarbeitern und allen Besuchern durchführen. Der Personalwechsel sollte minimiert werden.
+  > Menschen im Ruhestand, die zu Hause wohnen, sollten sich Lebensmittel und andere wichtige Dinge
+  > nach Hause liefern lassen. Wenn möglich, sollten sie Familienmitglieder eher draußen als drinnen
+  > treffen. Eine umfassende und detaillierte Reihe an Maßnahmen, darunter auch Maßnahmen für
+  > Mehrgenerationenhaushalte, kann umgesetzt werden und liegt im Rahmen der Möglichkeiten und
+  > Fähigkeiten des öffentlichen Gesundheitswesens.
+  >
+  > Diejenigen, die nicht schutzbedürftig sind, sollten sofort wieder ein normales Leben führen
+  > dürfen. Einfache Hygienemaßnahmen wie Händewaschen und der Aufenthalt zu Hause im Krankheitsfall
+  > sollten von allen praktiziert werden, um den Schwellenwert für die Herdenimmunität zu senken.
+  > Schulen und Universitäten sollten für den Präsenzunterricht geöffnet sein. Außerschulische
+  > Aktivitäten, wie z. B. Sport, sollten wieder aufgenommen werden. Junge Erwachsene mit geringem
+  > Risiko sollten normal und nicht von zu Hause aus arbeiten. Restaurants und andere Geschäfte
+  > sollten öffnen können. Kunst, Musik, Sport und andere kulturelle Aktivitäten sollten wieder
+  > aufgenommen werden. Menschen, die stärker gefährdet sind, können teilnehmen, wenn sie dies
+  > wünschen, während die Gesellschaft als Ganzes den Schutz genießt, der den Schwachen durch
+  > diejenigen gewährt wird, die Herdenimmunität aufgebaut haben.
+
+Zuzüglich zu den Erstunterzeichnern, den Professoren der Universitäten Harvard, Oxford und Stanford,
+haben sich weitere 916.587 Unterzeichner der Deklaration angeschlossen, wovon 15.638 als „medical &
+public health scientists“ geführt werden (Quelle: https://gbdeclaration.org/view-signatures/, Stand:
+15.1.2022).
+
+
+<!--
+freiwillige Erkenntnisisolation
+
+
+Herdenimmunität (Herdenschutz):
+- Schutz vor Infektion und Transmission (sterile Immunität)
+- Herde => alle Tiere
+- Mutiert langsam genug: DNA-Viren (1:1.000.000), RNA-Viren (1:1.000)
+
+
+Strategiepapier BMI: Wie wir COVID-19 unter Kontrolle bekommen:
+https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html
+https://fragdenstaat.de/dokumente/4123-wie-wir-covid-19-unter-kontrolle-bekommen/
+https://www.abgeordnetenwatch.de/blog/informationsfreiheit/das-interne-strategiepapier-des-innenministeriums-zur-corona-pandemie
+
+
+Was ist der Unterschied zwischen der Bundesregierung und der Drogenmafia?
+Die Mafia zwingt dich nicht ihr Zeug zu nehmen.
+
+
+Europäische Menschenrechtskonvention
+https://www.echr.coe.int/Documents/Convention_deu.pdf
+Grundrechte Abwehrrechte gegen den Staat
+Letzten, Experimente an Menschen => Nürnberg
+
+
+Ausweg Omikron ohne AfD
+Abofalle (Moderna verhandelt mir Schweiz)
+https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/
+
+
+Geboosterte brauchen kein Test im Restaurant, können aber andere anstecken und selber krank werden
+Ungeimpfte dürfen im Restaurant mit Test arbeiten, weil der Test sicher ist aber nach Feierabend
+nicht im Restaurant essen, weil der Test zu unsicher ist.
+
+
+https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html
+https://www.faz.net/aktuell/karriere-hochschule/hoersaal/querdenker-proteste-wie-so-widerspruechliches-zusammenfinden-kann-17725600.html
+
+
+Karl Lauterbach (Quelle: https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html):
+> Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
+> Durchseuchung der Bevölkerung haben.
+
+Falsch: Die Impfpflicht ist verfassungswidrig und wird nicht erst irgendwann überflüssig. Mit
+welcher Impfung wurde eigentlich die spanische Grippe beendet? Oder die Pest? Auch wenn der
+Vergleich etwas hinkt, da die Gefährlichkeit von Corona nicht annähernd die der anderen erreicht, so
+sollte man doch erkennen, daß Epidemien von allein enden und Omikron könnte genau dafür sorgen.
+
+
+<img src="images/Intensivbetten.png">
+
+Das gilt insbesondere auch für die bereits beschlossene Impfpflicht im Gesundheitswesen. Obige
+Grafik (Quelle:
+https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/)
+zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit März 2020 sowie deren
+Auslastung.
+
+Man sieht aber auch den Rückgang von 32.000 auf nunmehr 21.000 Betten (ein
+Drittel) bei annähernd gleichbleibendem Bedarf. Das bedeutet auch wenn jetzt noch 20-30% ungeimpftes
+medizinisches Personal kündigt, können wir uns auf Probleme freuen. Aber nicht aufgrund eines
+Viruses sondern der dämlichsten Politik, die man sich vorstellen kann.
+https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html
+
+
+Nancy Faeser: Zu viel Rücksicht auf eine kleine Minderheit
+https://www.zeit.de/2022/03/nancy-faeser-innenministerin-hass-im-netz-impfpflicht
+
+
+Abgeordnete Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
+Wirkungsvoller wäre ein IQ-Test für Abgeordnete.
+
+
+https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993
+WELT AM SONNTAG juristisch -> LGL
+
+
+Nach `#ImpftEuchInsKnie` kam `#AllesInDenArm`. Damit kann man auch Heroin bewerben.
+Heilmittelwerbungsgesetz
+-->
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
@@ -1096,7 +1259,7 @@ Anhang
 
 ### Offizielle Berichte ###
 
-- **Robert Koch-Institut**: Wochenberichte <br/>
+- **Robert Koch-Institut**: Wochenberichte zu COVID-19 <br/>
   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html
 
 - **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>

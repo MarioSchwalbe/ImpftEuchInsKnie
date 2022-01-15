@@ -123,7 +123,7 @@ das RKI auch (Quelle: selber Bericht):
 Wie man - bis auf den ersten Satz - zu so einem Urteil kommen kann ist völlig unklar nachdem Omikron
 die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Und die Altersstratifizierung
 der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssystems ist es in
-anderen Ländern auch nicht gekommen.
+anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
 Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
@@ -178,7 +178,7 @@ Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt 
 fasse zusammen: Gerade jetzt ist der sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
 Impfstoffe, die nicht an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso
 benötigen wir Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
-bei Omikron fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein paar
-Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt ist?
-Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
-Motivation auch nicht besonders.
+bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
+ein paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits
+angekündigt ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das
+erhöht die Motivation auch nicht besonders.
