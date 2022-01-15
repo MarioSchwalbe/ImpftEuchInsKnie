@@ -193,9 +193,11 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den Daten
 des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
-Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe Ü80 Faktor 2000
-liegt. Wenn man dieses Detail verschweigt, kann man relativ viel verzerren. Insbesondere bedeutet
-das auch, daß es viel sinnvoller wäre, sich auf die besonders Gefährdeten zu konzentrieren.
+Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
+80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
+durch das Immunsystem bereits vorlag oder bei Bedarf gebildet wird. Wenn man diesen
+Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere bedeutet das auch, daß
+es viel sinnvoller wäre, sich auf die besonders Gefährdeten der Gesellschaft zu konzentrieren.
 
 Es zeigt sich aber auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt
 bei 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81
@@ -232,7 +234,7 @@ wären. Es spricht aber einiges dagegen:
    Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
 3. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
-   bundesweit verteilter Arztpraxen) um die epidemiologische Situation der akuten
+   bundesweit verteilter Arztpraxen), um die epidemiologische Situation der akuten
    Atemwegserkrankungen im Allgemeinen und der Influenza im Besonderen fortlaufend zu überwachen.
    Das beinhaltet auch SARS-CoV-2. Laut dessen Daten wurde während der ersten Welle SARS-CoV-2 über
    einen Zeitraum von 13 Wochen bei maximal 3,1% der eingereichten Sentinelproben nachgewiesen. Die
@@ -249,8 +251,8 @@ Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bert
 bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein. (Quelle:
 https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html)
 Wie groß die Abweichung genau ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen.
-Dementsprechend fand eine Studien der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im
-Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
+Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
+2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
@@ -351,9 +353,8 @@ bei 20%. Der dänische Bericht enthält noch eine weitere interessante Informati
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
-
 Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
-https://dgpi.de/kinder-omikron-variante/):
+https://dgpi.de/kinder-omikron-variante/, Stand: 29.12.2021):
 
 > Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
 > sich ein besonderes Risiko von Kindern in keiner dieser Wellen bestätigt hat. [...]
