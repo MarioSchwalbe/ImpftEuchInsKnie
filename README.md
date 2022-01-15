@@ -26,12 +26,6 @@ nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 Einleitung
 ----------
 
-
-<div class="box" style="float: left; width: 32%; margin-right: 1%; padding: 20px; background: #eee; box-sizing: border-box;">Bsp1</div>
-<div class="box" style="float: left; width: 32%; margin-right: 1%; padding: 20px; background: #eee; box-sizing: border-box;">Bsp2</div>
-<div class="box" style="float: left; width: 32%; margin-right: 1%; padding: 20px; background: #eee; box-sizing: border-box;">Bsp3</div>
-
-
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
