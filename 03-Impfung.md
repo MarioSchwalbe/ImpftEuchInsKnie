@@ -16,7 +16,15 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
   > 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least
   > 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among
   > those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible
-  > interval, 90.3 to 97.6).
+  > interval, 90.3 to 97.6). [...]
+  >
+  > Confirmed Covid-19 was defined according to the Food and Drug Administration (FDA) criteria as
+  > the presence of at least one of the following symptoms: fever, new or increased cough, new or
+  > increased shortness of breath, chills, new or increased muscle pain, new loss of taste or smell,
+  > sore throat, diarrhea, or vomiting, combined with a respiratory specimen obtained during the
+  > symptomatic period or within 4 days before or after it that was positive for SARS-CoV-2 by
+  > nucleic acid amplification–based testing, either at the central laboratory or at a local testing
+  > facility (using a protocol-defined acceptable test).
 
 Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektionen gefunden, bei den
 21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
@@ -25,8 +33,10 @@ Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, d
 sein. Das Problem dabei: Die genannten 95% sind die *relative* Effektivität. Bei der großen Anzahl
 der Probanden reduziert sich das *absolute* Risiko nur von 0,75% (162/21.728) auf 0,04% (8/21.720),
 d.h. die *absolute* Effektivität beträgt nur 0,71%. Das bedeutet, daß man 141 Menschen impfen müßte
-damit einer geschützt ist (Number Needed to Vaccinate, NNTV=100/0,71=141). Bei dem Impfstoff von
-Moderna verhält es sich ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
+damit einer geschützt wäre (Number Needed to Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung
+sich nach der Falldefinition der FDA richtet. Das bedeutet insbesondere auch, daß der Beweis eines
+Schutzes vor Infektion oder Transmission nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält
+es sich ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
 https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -44,13 +54,13 @@ auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung sch
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
 Transmission). Allein die Tatsache, daß wir wieder bei Lockdown und 2G/2G+ sind, sollte diese Punkte
 eindrucksvoll belegen. Damit ist das Argument der Impfung aus Solidarität, daß noch immer bemüht
-wird, auch nicht mehr gerechtfertigt. Das sollte nicht verwundern: Es gibt Viren (z.B. Masern), die
-nach erfolgter Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder infektiös
-wird. Kann man in diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie erreicht
-(sterile Immunität). Das ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die Impfstoffe -
-im Gegensatz zu einer natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht aber in den
-Schleimhäuten der Atemwege. Und ganz im Allgemeinen kann man schließlich alles was man einatmet auch
-sofort wieder ausatmen.
+wird, auch nicht mehr gerechtfertigt. Das sollte nicht verwundern: Es gibt Viren, die nach erfolgter
+Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder infektiös wird. Kann man in
+diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das
+ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer
+natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der
+Atemwege. Und ganz im Allgemeinen kann man schließlich alles was man einatmet auch sofort wieder
+ausatmen.
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
