@@ -118,8 +118,8 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 <img src="images/Todesfaelle.png" width="700">
 
-Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den Daten
-des RKI (Quelle:
+Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
+Daten des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz

@@ -13,7 +13,7 @@ ImpftEuchInsKnie: Warum ich ungeimpft bin!
 
 Ich weiß zwar nicht warum ich so einen Aufsatz schreiben muß - immerhin bin ich schon einige Zeit
 aus der Schule raus - aber wenn es denn sein muß, bitte sehr. Ich interpretiere die Aufgabe so, daß
-du dabei etwas lernen möchtest. Wenn ja, dann kann dir vielleicht geholfen werden. Wenn nicht, bitte
+du dabei etwas lernen möchtest. Wenn ja, kann dir vielleicht geholfen werden. Wenn nicht, bitte
 nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
@@ -205,8 +205,8 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 <img src="images/Todesfaelle.png" width="700">
 
-Die Grafik zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den Daten
-des RKI (Quelle:
+Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
+Daten des RKI (Quelle:
 https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
@@ -938,9 +938,9 @@ antwortete darauf:
 > Ledeen is wrong: most are quite content to serve as a conduit, but his statement illuminates the
 > neo-conservative view of the role of the press in a free society.
 
-Das war damals vielleicht noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in den
-letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam Chomsky,
-The Common Good, Odonian Press, 1998, p. 43):
+Das war damals möglicherweise noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in
+den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
+Chomsky, The Common Good, Odonian Press, 1998, p. 43):
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
 
@@ -951,7 +951,7 @@ was richtige und was falsche Experten sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Covidiot“ oder „Corona-Leugner“.
 Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt? Das andere Lager
-kontert dann mit „No-Covid-Sekte“ bzw. „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
+kontert dann mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
 verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man mittlerweile
 noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
 Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
@@ -1003,9 +1003,10 @@ Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon d
 
 Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
 nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
-https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013). Wann können wir das in Deutschland
-erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich zuletzt. Ansonsten bleiben uns ja noch die
-Fake-News.
+https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013). Gut, es handelt sich um ein
+Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für die
+Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
+zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Die Rolle der Politik
