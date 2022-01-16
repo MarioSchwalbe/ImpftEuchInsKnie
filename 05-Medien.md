@@ -88,13 +88,13 @@ den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt 
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was richtige und was falsche Experten sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
-Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Corona-Leugner“ (Leugnet etwa
-jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?) oder „Covidiot.“ Das andere
-Lager kontert dann mit „No-Covid-Sekte“ bzw. „Zeugen Coronas,“ was das Diskussionsklima auch nicht
-gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man
-mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse,
-Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich:
-Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Covidiot“ oder „Corona-Leugner“.
+Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt? Das andere Lager
+kontert dann mit „No-Covid-Sekte“ bzw. „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
+verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man mittlerweile
+noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
+Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
+Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
