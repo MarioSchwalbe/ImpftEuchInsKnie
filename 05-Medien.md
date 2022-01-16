@@ -24,23 +24,26 @@ ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte m
 nichts lesen.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
-umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
+umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
 https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/) Und wo konnte
-man lesen, daß er seine Vorhersage einige Wochen später selbst korrigiert hat? Wenn Karl Lauterbach,
-unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum entziehen. Aber
-wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
+man finden, daß er seine Vorhersage einige Wochen später selbst korrigiert hat? Wenn Karl
+Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
+entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
 Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie im Film. Bilder
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Nur Impfung kann die Erlösung sein. Funktioniert doch
-nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
+Experten™ erwarten baldige Triage. Panik. Monty phantasiert was mit Ebola. Nur Impfung kann die
+Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der
+Ungeimpften.“ Die sollte man...
 
-So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer
-Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet
-man hier, aber die klingen dann weniger reißerisch:
+Huch, wie bin ich denn hier gelandet?
+
+Im Ernst. So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein
+investigativer Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche
+Erklärungen findet man hier, aber die klingen dann weniger reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
   https://www.rubikon.news/artikel/die-italien-keule

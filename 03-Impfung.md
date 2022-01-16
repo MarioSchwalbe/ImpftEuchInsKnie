@@ -32,16 +32,17 @@ Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, d
 95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Was man
 denkt entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
 Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
-(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71%. Das bedeutet,
-daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to Vaccinate,
-NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet. Das
-bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar nicht
-erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung bietet
-der Artikel von Multipolar (Quelle:
+(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
+Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
+Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet.
+Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
+nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
+bietet der Artikel von Multipolar (Quelle:
 https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
 vorgelegt, die auch erklären will warum das Ergebnis methodisch schlecht ist:
+
 - **[Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org)**:
   THE PFIZER INOCULATIONS FOR COVID-19: MORE HARM THAN GOOD, 16.12.2021 <br/>
   https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf
@@ -92,8 +93,8 @@ Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Ma
 entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedrigste Impfquote)
 bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
 überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
-ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz noch geringer aus (Quelle:
-selber Bericht):
+ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
+(Quelle: selber Bericht):
 
 <img src="images/Omikronfaelle.png" width="700">
 <!--
@@ -126,7 +127,8 @@ der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssy
 anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
-Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
+Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
+Infektion?)
 
 Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
 Ergebnis schon bei der Deltavariante vernichtend aus:
@@ -175,7 +177,7 @@ folgern:
   > decline in immunity from mRNA vaccines 6-months post immunization has also been reported.
 
 Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt einfach nichts. Ich
-fasse zusammen: Gerade jetzt ist der sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
+fasse zusammen: Gerade jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
 Impfstoffe, die nicht an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso
 benötigen wir Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
 bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in

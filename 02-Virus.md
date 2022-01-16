@@ -56,7 +56,7 @@ somit die Abwehrreaktion schneller einleiten können. Die Erkennung basiert dabe
 Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im Gegensatz zu
 Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht werden kann,
 besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich Mutationen
-aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle sehr
+aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle relativ
 ähnlich. Dementsprechend vermutete man, daß die Gedächtniszellen aufgrund vorherigem Kontakt mit
 anderen endemischen Varianten auch SARS-CoV-2 erkennen können (Kreuzimmunität). Entsprechende
 Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
@@ -164,11 +164,12 @@ wären. Es spricht aber einiges dagegen:
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
    (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren).
 
-4. Es sind 41.201 von 112.740 Menschen auf Intensivstation verstorben (Quelle:
-   https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um
-   eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles
-   erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
-   insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben ist.
+4. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
+   (Quelle: https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich
+   doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor
+   alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der
+   Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben
+   ist.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bertram Häussler könnten
 bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein. (Quelle:

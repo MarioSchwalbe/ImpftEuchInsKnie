@@ -143,7 +143,7 @@ somit die Abwehrreaktion schneller einleiten können. Die Erkennung basiert dabe
 Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im Gegensatz zu
 Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht werden kann,
 besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich Mutationen
-aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle sehr
+aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle relativ
 ähnlich. Dementsprechend vermutete man, daß die Gedächtniszellen aufgrund vorherigem Kontakt mit
 anderen endemischen Varianten auch SARS-CoV-2 erkennen können (Kreuzimmunität). Entsprechende
 Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
@@ -251,11 +251,12 @@ wären. Es spricht aber einiges dagegen:
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
    (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren).
 
-4. Es sind 41.201 von 112.740 Menschen auf Intensivstation verstorben (Quelle:
-   https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich doch um
-   eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor alles
-   erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der Grippe -
-   insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben ist.
+4. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
+   (Quelle: https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich
+   doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor
+   alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der
+   Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben
+   ist.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bertram Häussler könnten
 bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein. (Quelle:
@@ -435,16 +436,17 @@ Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, d
 95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Was man
 denkt entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
 Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
-(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71%. Das bedeutet,
-daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to Vaccinate,
-NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet. Das
-bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar nicht
-erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung bietet
-der Artikel von Multipolar (Quelle:
+(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
+Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
+Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet.
+Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
+nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
+bietet der Artikel von Multipolar (Quelle:
 https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
 vorgelegt, die auch erklären will warum das Ergebnis methodisch schlecht ist:
+
 - **[Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org)**:
   THE PFIZER INOCULATIONS FOR COVID-19: MORE HARM THAN GOOD, 16.12.2021 <br/>
   https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf
@@ -495,8 +497,8 @@ Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Ma
 entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedrigste Impfquote)
 bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
 überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
-ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz noch geringer aus (Quelle:
-selber Bericht):
+ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
+(Quelle: selber Bericht):
 
 <img src="images/Omikronfaelle.png" width="700">
 <!--
@@ -529,7 +531,8 @@ der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssy
 anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 
 (Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
-Auftretens einer Infektion, oder die Gefahr hervorgerufen durch die Infektion?)
+Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
+Infektion?)
 
 Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
 Ergebnis schon bei der Deltavariante vernichtend aus:
@@ -578,7 +581,7 @@ folgern:
   > decline in immunity from mRNA vaccines 6-months post immunization has also been reported.
 
 Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt einfach nichts. Ich
-fasse zusammen: Gerade jetzt ist der sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
+fasse zusammen: Gerade jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
 Impfstoffe, die nicht an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso
 benötigen wir Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
 bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
@@ -866,23 +869,26 @@ ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte m
 nichts lesen.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
-umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland finden, daß seine Modelle in der
+umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
 https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/) Und wo konnte
-man lesen, daß er seine Vorhersage einige Wochen später selbst korrigiert hat? Wenn Karl Lauterbach,
-unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum entziehen. Aber
-wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
+man finden, daß er seine Vorhersage einige Wochen später selbst korrigiert hat? Wenn Karl
+Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
+entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
 Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie im Film. Bilder
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Nur Impfung kann die Erlösung sein. Funktioniert doch
-nicht. Schuld sind nur die Ungeimpften. Die „Tyrannei der Ungeimpften.“ Die sollte man...
+Experten™ erwarten baldige Triage. Panik. Monty phantasiert was mit Ebola. Nur Impfung kann die
+Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der
+Ungeimpften.“ Die sollte man...
 
-So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein investigativer
-Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche Erklärungen findet
-man hier, aber die klingen dann weniger reißerisch:
+Huch, wie bin ich denn hier gelandet?
+
+Im Ernst. So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein
+investigativer Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche
+Erklärungen findet man hier, aber die klingen dann weniger reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
   https://www.rubikon.news/artikel/die-italien-keule
