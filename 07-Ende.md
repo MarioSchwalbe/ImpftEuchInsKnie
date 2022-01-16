@@ -10,14 +10,10 @@ TODO
 <!--
 Diskrepanz zwischen Medien und obigen Kapiteln
 Mögliche Erklärungen:
-1. Ich liege falsch. Ich spinne.
-2. Medien liegen falsch, oder lügen.
+1. Ich liege falsch oder spinne.
+2. Medien liegen falsch oder lügen.
 Test 1: Beides lesen. Bessere Qualität?
 Test 2: Spazieren gehen und Nazis zählen.
-
-
-„Wissenschaftsfeinde“ sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
-diejenigen, die den offenen Diskurs darüber unterbinden wollen.
 
 
 Im Zweifel gilt:
@@ -64,13 +60,22 @@ Bedingungen für Impfung:
 
 
 Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
-Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Wenn sie
-Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.
+Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts gelernt haben?
+Wenn sie Solidarität wünschen - darauf können wir uns ja einigen - dürfen sie sich auch den
+Spaziergängern anschließen.
 
 
-Und welche Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier:
-https://einheit.at. Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es schon Morgen
-vorbei.
+Und welche Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend.
+Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es schon Morgen vorbei.
+Schau mal hier:
+- https://einheit.at.
+- https://friedlichzusammen.de
+- https://demokratischer-kalender.de/de/organizations/
+  => Auffällig häufig Telegram.
+
+
+Nicht vergessen: Wenn du medial protegiert wirst, bist du im falschen Team.
+(Das gilt übrigens auch für Greta.)
 
 
 Die Revolution kommt nicht im Fernsehen:

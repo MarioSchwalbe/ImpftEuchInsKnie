@@ -35,7 +35,7 @@ Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie i
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Monty phantasiert was mit Ebola. Nur Impfung kann die
+Experten™ erwarten baldige Triage. Panik! Monty phantasiert was mit Ebola. Nur Impfung kann die
 Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der
 Ungeimpften.“ Die sollte man...
 
@@ -105,13 +105,14 @@ zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 ### Aufklärung statt Fake-News ####
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
-Ohne offenen Diskurs kann man eigentlich nicht klären, was korrekt ist und was nicht. Alles andere
-wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
-davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
-ist. Belege werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist
-sowieso Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
-Verhältnismäßigkeit verboten? Das sollte nicht so sein. Was wir stattdessen brauchen wäre
-Aufklärung.
+Wissenschaftsfeinde sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
+diejenigen, die einen offenen Diskurs darüber unterbinden wollen. Ohne Selbigen kann man eigentlich
+nicht klären, was korrekt ist und was nicht. Alles andere wäre lediglich ein Vorurteil basierend auf
+bloßer Einbildung. Stattdessen findet man eine Menge davon: Jedwede regierungskonforme Aussage ist
+automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege werden keine benötigt. Danach
+fragen ist schon borderline-anrüchig. Alles andere ist sowieso Fake-News. Vor allem Relativierung
+ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit verboten? Das sollte nicht so sein.
+Was wir stattdessen brauchen wäre Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie

@@ -896,7 +896,7 @@ Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie i
 prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
 Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
 gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik. Monty phantasiert was mit Ebola. Nur Impfung kann die
+Experten™ erwarten baldige Triage. Panik! Monty phantasiert was mit Ebola. Nur Impfung kann die
 Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der
 Ungeimpften.“ Die sollte man...
 
@@ -966,13 +966,14 @@ zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 ### Aufklärung statt Fake-News ####
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
-Ohne offenen Diskurs kann man eigentlich nicht klären, was korrekt ist und was nicht. Alles andere
-wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
-davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
-ist. Belege werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist
-sowieso Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist
-Verhältnismäßigkeit verboten? Das sollte nicht so sein. Was wir stattdessen brauchen wäre
-Aufklärung.
+Wissenschaftsfeinde sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
+diejenigen, die einen offenen Diskurs darüber unterbinden wollen. Ohne Selbigen kann man eigentlich
+nicht klären, was korrekt ist und was nicht. Alles andere wäre lediglich ein Vorurteil basierend auf
+bloßer Einbildung. Stattdessen findet man eine Menge davon: Jedwede regierungskonforme Aussage ist
+automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege werden keine benötigt. Danach
+fragen ist schon borderline-anrüchig. Alles andere ist sowieso Fake-News. Vor allem Relativierung
+ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit verboten? Das sollte nicht so sein.
+Was wir stattdessen brauchen wäre Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
@@ -1053,8 +1054,9 @@ Nächster Versuch: Verhinderung von neuen potentiell viel gefährlicheren Varian
 die Brutkästen des unsichtbaren Todes. Wo entstehen multiresistente Keime, denen bekanntlich in
 Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Antibiotika verwendet
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Genauer: Natürlich
-entstehen Mutationen überall zufällig, aber die Überlebenswahrscheinlichkeit ist bei resistenteren
-Varianten bedingt durch den Selektionsdruck größer (Quelle: https://www.nachdenkseiten.de/?p=78885).
+können Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkeit ist bei
+resistenteren Varianten bedingt durch den Selektionsdruck größer (Quelle:
+https://www.nachdenkseiten.de/?p=78885).
 
 Nächster Versuch: Vermeidung der Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.000
@@ -1076,11 +1078,16 @@ und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden (Quelle:
 https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter).
 Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts
 mehr schief gehen. Zur weiteren Verschlimmerung der Lage dürfte die bereits beschlossene Impfpflicht
-im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich 20%-30% nicht geimpftes
+im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich 20-30% nicht geimpftes
 medizinisches Personal kündigt, möchte ich nicht erleben (Quelle:
 https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html).
-Der Grund ist aber eben nicht ein Virus sondern die dämlichste Politik, die man sich vorstellen
-kann.
+Der Grund ist aber eben nicht ein spezielles Virus sondern die dämlichste Politik, die man sich
+vorstellen kann.
+
+TODO:
+- Klinikschließungen Lauterbach
+- 15 Milliarden => Dividende
+- vielbeschworene Solidarität nichts weiter als Heuchelei
 
 Wir sind auf der Zielgeraden. Nächster Versuch: Eindämmung des Infektionsgeschehens? Jedenfalls
 nicht mit diesen Impfstoffen. Wie wäre es stattdessen mit Lockdowns?
@@ -1136,14 +1143,16 @@ zuverlässig ist. Aber nach Feierabend dürfen sie nicht im Restaurant essen, we
 nicht zuverlässig eine Gefährdung der holden Geimpften ausschließen kann. Logisch.
 
 Welche Motivation soll man diesem ganzen Unsinn noch ablesen als der vehemente Versuch möglichst
-Viele an die Nadel zu nötigen? Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel
-heiligt, dann ist der Zweck unheilig.
+Viele an die Nadel zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
+Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 ### Kommunikation? ###
 
 Je beschissener das Produkt um so aggressiver ist das Marketing.
 
 ### Great Barrington Declaration ###
+
+Handlungsempfehlung. Selbst für Politiker verständlich formuliert.
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
@@ -1212,64 +1221,7 @@ haben sich weitere 916.587 Unterzeichner der Deklaration angeschlossen, wovon 15
 public health scientists“ geführt werden (Quelle: https://gbdeclaration.org/view-signatures/, Stand:
 15.1.2022).
 
-
-<!--
-freiwillige Erkenntnisisolation
-
-
-Strategiepapier BMI: Wie wir COVID-19 unter Kontrolle bekommen:
-https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html
-https://fragdenstaat.de/dokumente/4123-wie-wir-covid-19-unter-kontrolle-bekommen/
-https://www.abgeordnetenwatch.de/blog/informationsfreiheit/das-interne-strategiepapier-des-innenministeriums-zur-corona-pandemie
-Keine normale Kommunikation => Menschenbild alle doof => Zweck macht Mittel nötig.
-
-
-Nach `#ImpftEuchInsKnie` kam `#AllesInDenArm`. Damit kann man auch Heroin bewerben.
-Heilmittelwerbungsgesetz
-
-
-Europäische Menschenrechtskonvention
-https://www.echr.coe.int/Documents/Convention_deu.pdf
-Grundrechte Abwehrrechte gegen den Staat
-Letzten, Experimente an Menschen => Nürnberg
-
-
-Wenn andere über deinen Körper bestimmen können. Leibeigenschaft hatten wir schon einmal. Im Mittelalter.
-
-
-Politik: Beförderung nicht an Können gebunden.
-
-
-Ausweg Omikron ohne AfD
-Abofalle (Moderna verhandelt mir Schweiz)
-https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/
-
-
-https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html
-https://www.faz.net/aktuell/karriere-hochschule/hoersaal/querdenker-proteste-wie-so-widerspruechliches-zusammenfinden-kann-17725600.html
-
-
-Karl Lauterbach (Quelle: https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html):
-> Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
-> Durchseuchung der Bevölkerung haben.
-
-Falsch: Die Impfpflicht ist verfassungswidrig und wird nicht erst irgendwann überflüssig. Mit
-welcher Impfung wurde eigentlich die spanische Grippe beendet? Oder die Pest? Auch wenn der
-Vergleich etwas hinkt, da die Gefährlichkeit von Corona nicht annähernd die der anderen erreicht, so
-sollte man doch erkennen, daß Epidemien von allein enden und Omikron könnte genau dafür sorgen.
-
-
-Nancy Faeser: Zu viel Rücksicht auf eine kleine Minderheit
-https://www.zeit.de/2022/03/nancy-faeser-innenministerin-hass-im-netz-impfpflicht
-
-
-Abgeordnete Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
-Wirkungsvoller wäre ein IQ-Test für Abgeordnete.
-
-
-Was ist der Unterschied zwischen der Bundesregierung und der Drogenmafia?
-Die Mafia zwingt einen nicht ihren Scheiß zu nehmen.
--->
+### Und nun? ###
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
@@ -1282,14 +1234,10 @@ TODO
 <!--
 Diskrepanz zwischen Medien und obigen Kapiteln
 Mögliche Erklärungen:
-1. Ich liege falsch. Ich spinne.
-2. Medien liegen falsch, oder lügen.
+1. Ich liege falsch oder spinne.
+2. Medien liegen falsch oder lügen.
 Test 1: Beides lesen. Bessere Qualität?
 Test 2: Spazieren gehen und Nazis zählen.
-
-
-„Wissenschaftsfeinde“ sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
-diejenigen, die den offenen Diskurs darüber unterbinden wollen.
 
 
 Im Zweifel gilt:
@@ -1336,13 +1284,22 @@ Bedingungen für Impfung:
 
 
 Du hattest mir Haltung Zeigen (https://haltung-zeigen.com) empfohlen. Was soll das sein? Das letzte
-Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren nichts gelernt haben? Wenn sie
-Solidarität wünschen, können sie sich auch den Spaziergängern anschließen.
+Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts gelernt haben?
+Wenn sie Solidarität wünschen - darauf können wir uns ja einigen - dürfen sie sich auch den
+Spaziergängern anschließen.
 
 
-Und welche Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend. Schau mal hier:
-https://einheit.at. Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es schon Morgen
-vorbei.
+Und welche Haltung ist das? Ich bevorzuge Stehend und nicht Kriechend.
+Nicht vergessen: Faschismus lebt von Mitläufern. Sonst wäre es schon Morgen vorbei.
+Schau mal hier:
+- https://einheit.at.
+- https://friedlichzusammen.de
+- https://demokratischer-kalender.de/de/organizations/
+  => Auffällig häufig Telegram.
+
+
+Nicht vergessen: Wenn du medial protegiert wirst, bist du im falschen Team.
+(Das gilt übrigens auch für Greta.)
 
 
 Die Revolution kommt nicht im Fernsehen:
