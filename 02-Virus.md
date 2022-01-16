@@ -240,9 +240,9 @@ Ich zitiere den Absatz gleich komplett (Quelle: https://grippeweb.rki.de, Stand:
 > geringeren Test- und Meldeaktivität zu rechnen ist.
 
 Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
-100.000 Einwohner - aller ARE-Fälle 3.000 betrug wozu das neue Virus SARS-CoV-2 lediglich 250 (8,3%)
-beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen empfehlen. Das könnte die Krankenhäuser
-viel wirkungsvoller entlasten.
+100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
+SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
+empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Intensivbelegung ###
 

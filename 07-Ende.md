@@ -44,10 +44,6 @@ Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
   > for diagnosing disease, relying on surrogate endpoints, exaggerating safety claims, exaggerating
   > efficacy claims, creating new diseases, and encouraging unapproved uses.
 
-Solltest du eigentlich wissen:
-Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
-
-
 
 Bedingungen für Impfung:
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine

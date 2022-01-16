@@ -327,9 +327,9 @@ Ich zitiere den Absatz gleich komplett (Quelle: https://grippeweb.rki.de, Stand:
 > geringeren Test- und Meldeaktivität zu rechnen ist.
 
 Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
-100.000 Einwohner - aller ARE-Fälle 3.000 betrug wozu das neue Virus SARS-CoV-2 lediglich 250 (8,3%)
-beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen empfehlen. Das könnte die Krankenhäuser
-viel wirkungsvoller entlasten.
+100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
+SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
+empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Intensivbelegung ###
 
@@ -884,7 +884,7 @@ Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. 
 ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man von den anderen
 nichts lesen.
 
-Daß Prof. Ferguson vom Imperial College London die Apokalypse prophezeit hatte, wurde dagegen allen
+Daß Prof. Ferguson vom Imperial College London die Apokalypse™ prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
 https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/) Und wo konnte
@@ -949,10 +949,13 @@ den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt 
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was richtige und was falsche Experten sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
-Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnten man mittlerweile noch ganz
-andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
-Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
-Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Corona-Leugner“ (Leugnet etwa
+jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?) oder „Covidiot.“ Das andere
+Lager kontert dann mit „No-Covid-Sekte“ bzw. „Zeugen Coronas,“ was das Diskussionsklima auch nicht
+gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man
+mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse,
+Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich:
+Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
@@ -963,7 +966,7 @@ zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 ### Aufklärung statt Fake-News ####
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
-Ohne offenen Diskurs kann man eigentlich nicht wissen, was korrekt ist und was nicht. Alles andere
+Ohne offenen Diskurs kann man eigentlich nicht klären, was korrekt ist und was nicht. Alles andere
 wäre lediglich ein Vorurteil basierend auf bloßer Einbildung. Stattdessen findet man eine Menge
 davon: Jedwede regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie
 ist. Belege werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist
@@ -1205,10 +1208,6 @@ Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
   > are marketed. The law is manifested through 6 basic marketing strategies: reducing thresholds
   > for diagnosing disease, relying on surrogate endpoints, exaggerating safety claims, exaggerating
   > efficacy claims, creating new diseases, and encouraging unapproved uses.
-
-Solltest du eigentlich wissen:
-Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
-
 
 
 Bedingungen für Impfung:
