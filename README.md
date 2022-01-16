@@ -162,6 +162,21 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > and has important implications for the design and analysis of upcoming trials investigating
   > COVID-19 vaccines.
 
+- **Jose Mateus, Alba Grifoni, Alison Tarke, et al.**:
+  Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans, 4.8.2020 <br/>
+  https://www.science.org/doi/10.1126/science.abd3871
+  > Many unknowns exist about human immune responses to the severe acute respiratory syndrome
+  > coronavirus 2 (SARS-CoV-2) virus. SARS-CoV-2–reactive CD4+ T cells have been reported in
+  > unexposed individuals, suggesting preexisting cross-reactive T cell memory in 20 to 50% of
+  > people. However, the source of those T cells has been speculative. Using human blood samples
+  > derived before the SARS-CoV-2 virus was discovered in 2019, we mapped 142 T cell epitopes across
+  > the SARS-CoV-2 genome to facilitate precise interrogation of the SARS-CoV-2–specific CD4+ T cell
+  > repertoire. We demonstrate a range of preexisting memory CD4+ T cells that are cross-reactive
+  > with comparable affinity to SARS-CoV-2 and the common cold coronaviruses human coronavirus
+  > (HCoV)-OC43, HCoV-229E, HCoV-NL63, and HCoV-HKU1. Thus, variegated T cell memory to
+  > coronaviruses that cause the common cold may underlie at least some of the extensive
+  > heterogeneity observed in coronavirus disease 2019 (COVID-19) disease.
+
 - **Annika Nelde, Tatjana Bilich, Jonas S. Heitmann, et al.**:
   SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition, 30.9.2020 <br/>
   https://www.nature.com/articles/s41590-020-00808-x
@@ -196,7 +211,8 @@ https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgr
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
 durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
-Unterzeichner der Great Barrington Declaration bereits im Oktober 2020:
+Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) bereits im Oktober
+2020:
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
