@@ -25,14 +25,14 @@ Voraussetzungen erfüllt sein:
    Mutationsrate von 1 zu 1.000 Nukleotiden erscheint dieses Unterfangen eher utopisch. Es gibt
    einen Grund warum die Grippeschutzimpfung bestenfalls eine Saison wirkt.
 2. Davon mal abgesehen, müßten dann immer noch alle potentiellen Wirte des Viruses geimpft werden.
-   Bei, im Gegensatz zum humanem Pockenvirus, nicht auf den Menschen spezialisierten Viren wie
+   Bei, im Gegensatz zum humanen Pockenvirus, nicht auf den Menschen spezialisierten Viren wie
    Coronaviren schließt das auch Tiere mit ein: Fledermäuse, Waschbären, Pferde, Schweine, Hunde,
    Katzen, Mäuse,
    [Nilpferde](https://www.deutschlandfunknova.de/nachrichten/zoo-antwerpen-nilpferde-corona-positiv),
    [Schneeleoparden](https://www.rnd.de/panorama/nach-corona-infektion-schneeleopard-in-zoo-in-illinois-gestorben-LW7Y733JRNDB5PCDZVD7YX66XY.html),
    ... Das macht die Idee noch absurder.
-3. Die Impfstoffe müßten Schutz vor Infektion und Transmission gewährleisten (sterile Immunität),
-   was nicht der Fall ist.
+3. Die Impfstoffe müßten Schutz vor Infektion und Transmission gewährleisten, was nicht der Fall
+   ist.
 
 Nächster Versuch: Herdenimmunität - auch Herdenschutz oder Gemeinschaftsschutz genannt? Dabei sollen
 Infektionsketten durch ausreichende Immunität in der Bevölkerung unterbrochen werden, so daß
@@ -41,16 +41,16 @@ Ich wäre gern solidarisch. Wie soll das mit Impfstoffen möglich sein, die wede
 Transmission verhindern können?
 
 Nächster Versuch: Verhinderung von neuen potentiell viel gefährlicheren Varianten? Ungeimpfte sind
-die Brutkästen des unsichtbaren Todes. Wo entstehen multiresistente Keime, denen bekanntlich auch
-viele Menschen in Krankenhäusern zum Opfer fallen? Dort wo besonders viel Antibiotika verwendet
+die Brutkästen des unsichtbaren Todes. Wo entstehen multiresistente Keime, denen bekanntlich in
+Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Antibiotika verwendet
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Genauer: Natürlich
 entstehen Mutationen überall zufällig, aber die Überlebenswahrscheinlichkeit ist bei resistenteren
 Varianten bedingt durch den Selektionsdruck größer (Quelle: https://www.nachdenkseiten.de/?p=78885).
 
 Nächster Versuch: Vermeidung der Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.000
-coronabedingte Intensivpatienten überlastet sein? Sollte dies wirklich der Fall sein, so offenbart
-es vielmehr ein anderes Problem. Oder anders gefragt: Was machen wir bei der nächsten Grippewelle?
+coronabedingte Intensivpatienten überlastet sein? Sollte dies wirklich der Fall sein, so offenbarte
+es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten Grippewelle?
 
 <img src="images/Intensivbetten.png" width="700">
 
@@ -65,16 +65,16 @@ uns auf die prognostizierte Triage freuen. Die Gründe hierfür sind zwar vielf�
 Politik aber auch schweigend ignoriert. Insbesondere sollte hierbei die neoliberale Privatisierungs-
 und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden (Quelle:
 https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter).
-Bundesgesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja
-nichts mehr schief gehen. Zur weiteren Verschlimmerung der Lage dürfte die bereits beschlossene
-Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich 20%-30% nicht
-geimpftes medizinisches Personal kündigt, möchte ich nicht erleben (Quelle:
+Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts
+mehr schief gehen. Zur weiteren Verschlimmerung der Lage dürfte die bereits beschlossene Impfpflicht
+im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich 20%-30% nicht geimpftes
+medizinisches Personal kündigt, möchte ich nicht erleben (Quelle:
 https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html).
 Der Grund ist aber eben nicht ein Virus sondern die dämlichste Politik, die man sich vorstellen
 kann.
 
-Wir sind auf der Zielgeraden. Nächster Versuch: Infektionseindämmung? Jedenfalls nicht mit diesen
-Impfstoffen. Wie wäre es stattdessen mit Lockdowns?
+Wir sind auf der Zielgeraden. Nächster Versuch: Eindämmung des Infektionsgeschehens? Jedenfalls
+nicht mit diesen Impfstoffen. Wie wäre es stattdessen mit Lockdowns?
 
 - **Eran Bendavid, Christopher Oh, Jay Bhattacharya, John P. A. Ioannidis**:
   Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19, 5.1.2021 <br/>
@@ -106,13 +106,13 @@ Die Studien untersuchten die Wirksamkeit von Lockdowns im Jahr 2020 und fanden k
 Vorteile. Warum hat die Politik im Jahr 2021 trotzdem nichts daraus gelernt und besteht darauf,
 weiterhin einen toten Gaul zu reiten? Um die Folgeschäden zu maximieren?
 
-Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Gegenfrage: Was ist der
-Unterschied zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort:
-Negativ-getestete Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom
-Impfstatus in Quarantäne begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die
-Tests hinreichend zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe.
-Geimpfte werden vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine
-Infektionen verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
+Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Frage: Was ist der Unterschied
+zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort: Negativ-getestete
+Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom Impfstatus in Quarantäne
+begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die Tests hinreichend
+zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe. Geimpfte werden
+vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine Infektionen
+verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
 https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993).
 (Die echten Zahlen veröffentlichte das bayerische LGL natürlich erst nachdem die WELT AM SONNTAG
 juristische Schritte angekündigt hatte.)
@@ -121,10 +121,10 @@ Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es ein
 dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
 https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html). Das heißt Geboosterte
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
-Minderwertig Geimpfte müssen logischerweise getestet werden. Ungeimpfte dagegen dürfen im Restaurant
-mit Test arbeiten (3G am Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen
-sie nicht im Restaurant essen, weil der selbe Test nicht zuverlässig eine Gefährdung der holden
-Geimpften ausschließen kann. Logisch.
+Minderwertig Geimpfte - ehemals vollständig geimpft - müssen logischerweise getestet werden.
+Ungeimpfte dagegen dürfen im Restaurant mit Test arbeiten (3G am Arbeitsplatz), weil der Test
+zuverlässig ist. Aber nach Feierabend dürfen sie nicht im Restaurant essen, weil der selbe Test
+nicht zuverlässig eine Gefährdung der holden Geimpften ausschließen kann. Logisch.
 
 Welche Motivation soll man diesem ganzen Unsinn noch ablesen als der vehemente Versuch möglichst
 Viele an die Nadel zu nötigen? Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel
@@ -132,7 +132,7 @@ heiligt, dann ist der Zweck unheilig.
 
 ### Kommunikation? ###
 
-Je beschissener das Produkt ist, um so aggressiver ist das Marketing.
+Je beschissener das Produkt um so aggressiver ist das Marketing.
 
 ### Great Barrington Declaration ###
 

@@ -17,10 +17,10 @@ folgenden Artikel vollständig zu lesen:
 - **Jens Bernert**: Weltweite Warnungen, 5.4.2020 <br/>
   https://www.rubikon.news/artikel/weltweite-warnungen
 
-Darin befinden sich 61 Aussagen von Experten vom April 2020, die die Lage rational und - wie wir
+Darin befinden sich 61 Aussagen von Fachleuten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
 Todesfälle in Israel geirrt. Wo waren diese Stimmen zu vernehmen? Außer Prof. Streeck, der manchmal
-ein bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man von den anderen
+ein Bisschen kritisieren darf und selbst dafür heftig angegangen wird, konnte man von den anderen
 nichts lesen.
 
 Daß Prof. Ferguson vom Imperial College London die Apokalypse™ prophezeit hatte, wurde dagegen allen
@@ -86,11 +86,11 @@ Chomsky, The Common Good, Odonian Press, 1998, p. 43):
 Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten. Warum kommen in
 den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt es etwa nicht mehr als
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
-was richtige und was falsche Experten sind? (Quelle:
+was richtige und was falsche Experten™ sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
-Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Covidiot“ oder „Corona-Leugner“.
+Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Covidiot“ oder „Corona-Leugner.“
 Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt? Das andere Lager
-kontert dann mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
+kontert mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
 verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man mittlerweile
 noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
 Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
