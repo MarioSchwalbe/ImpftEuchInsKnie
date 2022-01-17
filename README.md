@@ -225,7 +225,7 @@ Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren
 bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
 zu konzentrieren.
 
-Es zeigt sich auch, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei 83
+Es zeigt sich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei 83
 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
 tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
@@ -265,7 +265,9 @@ wären. Es spricht aber einiges dagegen:
    Das beinhaltet auch SARS-CoV-2. Laut dessen Daten wurde während der ersten Welle SARS-CoV-2 über
    einen Zeitraum von 13 Wochen bei maximal 3,1% der eingereichten Sentinelproben nachgewiesen. Die
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
-   (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren).
+   (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren). Die aktuelle Verteilung
+   kann man auf der Webseite der Arbeitsgemeinschaft unter „Nachweise respiratorischer Viren im
+   Nationalen Referenzzentrum“ finden: https://influenza.rki.de/Diagrams.aspx?agiRegion=0.
 
 4. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
    (Quelle: https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich
