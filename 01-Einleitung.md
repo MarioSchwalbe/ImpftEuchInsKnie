@@ -48,7 +48,11 @@ Impfpflicht verweisen:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
    https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
 
-6. **Beate Bahner**:
+6. **Jens Berger**:
+   30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
+   https://www.nachdenkseiten.de/?p=79084
+
+7. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
    http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
