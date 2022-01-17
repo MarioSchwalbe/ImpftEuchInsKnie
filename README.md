@@ -336,6 +336,7 @@ empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 <img src="images/BelegungErwachsene.png" width="49%" align="left">
 <img src="images/BelegungKinder.png" width="49%" align="right">
+<br/>
 
 Die Abbildungen (Quelle: https://www.intensivregister.de/#/aktuelle-lage/zeitreihen, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
