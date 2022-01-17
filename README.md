@@ -6,15 +6,16 @@ ImpftEuchInsKnie: Warum ich ungeimpft bin!
 <img src="images/IQTest.jpg" width="200" align="left">
 
 **Autor:** Mario Schwalbe <br/>
-**An:**    Jens O. Schindler <br/>
+**An:**     J. O. S. (mein Chef) <br/>
 **Datum:** 11.1.2022 <br/>
+**Lizenz:** CC BY-ND <br/>
 
 ---
 
-Ich weiß zwar nicht warum ich so einen Aufsatz schreiben muß - immerhin bin ich schon einige Zeit
-aus der Schule raus - aber wenn es denn sein muß, bitte sehr. Ich interpretiere die Aufgabe so, daß
-du dabei etwas lernen möchtest. Wenn ja, kann dir vielleicht geholfen werden. Wenn nicht, bitte
-nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
+Ich weiß zwar nicht warum ich so einen Aufsatz schreiben soll - immerhin bin ich schon einige Zeit
+aus der Schule raus - aber wenn es sein muß, bitte sehr. Ich interpretiere die Aufgabe so, daß der
+Lerneffekt nicht zu kurz kommt. Wenn das erwünscht ist, kann dir vielleicht geholfen werden. Wenn
+nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
 ---
 
