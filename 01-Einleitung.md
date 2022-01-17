@@ -17,11 +17,6 @@ aus der Schule raus - aber wenn es sein muß, bitte sehr. Ich interpretiere die 
 Lerneffekt nicht zu kurz kommt. Wenn das erwünscht ist, kann dir vielleicht geholfen werden. Wenn
 nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
----
-
-<br/>
-<br/>
-<br/>
 <br/>
 
 Einleitung
