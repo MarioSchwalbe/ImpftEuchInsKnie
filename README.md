@@ -5,9 +5,9 @@ ImpftEuchInsKnie: Warum ich ungeimpft bin!
 
 <img src="images/IQTest.jpg" width="200" align="left">
 
-**Autor:** Mario Schwalbe <br/>
+**Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
-**Datum:** 11.1.2022 <br/>
+**Datum:**  11.1.2022 <br/>
 **Lizenz:** CC BY-ND <br/>
 
 ---
