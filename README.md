@@ -950,13 +950,13 @@ den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt 
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was richtige und was falsche Experten™ sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
-Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Covidiot“ oder „Corona-Leugner.“
-Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt? Das andere Lager
-kontert mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch nicht gerade
-verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man mittlerweile
-noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse, Rhein-Mainische
-Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich: Eine
-Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
+„Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
+Das andere Lager kontert mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch
+nicht gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man
+mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse,
+Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich:
+Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
@@ -968,7 +968,7 @@ zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Wissenschaftsfeinde sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
-diejenigen, die einen offenen Diskurs darüber unterbinden wollen. Ohne Selbigen kann man eigentlich
+diejenigen, die einen offenen Diskurs darüber unterbinden wollen. Ohne Diskurs kann man eigentlich
 nicht klären, was korrekt ist und was nicht. Alles andere wäre lediglich ein Vorurteil basierend auf
 bloßer Einbildung. Stattdessen findet man eine Menge davon: Jedwede regierungskonforme Aussage ist
 automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege werden keine benötigt. Danach
