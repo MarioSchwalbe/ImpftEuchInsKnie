@@ -21,6 +21,6 @@ README.md: $(PARTS) Makefile
 	cat $(filter %.md, $^) > $@
 
 spaces::
-	convert-whitespace -x $(PARTS)
+	convert-whitespace -x Makefile $(wildcard *.md)
 
 # ***** end of source *****
