@@ -4,9 +4,11 @@ Wirksamkeit der Impfung
 -----------------------
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Transmission. Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen
-nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von
-den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
+Weiteransteckung. Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
+Infektionsgeschehen nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch
+wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
+
+### Zulassungsstudien ###
 
 Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/BioNTech:
 - **Fernando P. Polack, Stephen J. Thomas, Nicholas Kitchin, et al.**:
@@ -49,20 +51,62 @@ vorgelegt, die auch erklären will warum das Ergebnis methodisch schlecht ist:
 
 Demnach hat der Wirkstoff von Pfizer/BioNTech neben seiner fragwürdigen Schutzwirkung das Risiko von
 schwerer Krankheit und Tod (Folie 11 und 12) sogar erhöht. Ergebnisse zu Langzeitfolgen können nicht
-vorliegen, da in der Studie vorzeitig nach 6 Monaten entblindet wurde.
+vorliegen, da in der Studie vorzeitig nach 6 Monaten entblindet wurde, d.h. die Kontrollgruppe bekam
+ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen unmöglich werden.
+
+### Unabhängige Studien ###
 
 Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
-Transmission). Allein die Tatsache, daß wir wieder bei Lockdown und 2G/2G+ sind, sollte diese Punkte
+Transmission, kein Fremdschutz), beispielsweise:
+
+- **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
+  Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
+  vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
+  https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext
+  > Although peak viral load did not differ by vaccination status or variant type, it increased
+  > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
+  > load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta
+  > variant infection had a faster (posterior probability >0.84) mean rate of viral load decline
+  > (0.95 log10 copies per mL per day) than did unvaccinated individuals with pre-alpha (0.69),
+  > alpha (0.82), or delta (0.79) variant infections. Within individuals, faster viral load growth
+  > was correlated with higher peak viral load (correlation 0.42 [95% credible interval 0.13 to
+  > 0.65]) and slower decline (–0.44 [–0.67 to –0.18]). [...] Vaccination reduces the risk of delta
+  > variant infection and accelerates viral clearance. Nonetheless, fully vaccinated individuals
+  > with breakthrough infections have peak viral load similar to unvaccinated cases and can
+  > efficiently transmit infection in household settings, including to fully vaccinated contacts.
+  > Host–virus interactions early in infection may shape the entire viral trajectory.
+
+- **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
+  Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
+  https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text
+  > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
+  > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
+  > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
+  > symptoms at the time of testing. Ct values <25 were detected in 7 of 24 unvaccinated (29%; CI:
+  > 13-51%) and 9 of 11 fully vaccinated asymptomatic individuals (82%; CI: 48-97%), and 158 of 232
+  > unvaccinated (68%, CI: 62-74%) and 156 of 225 fully vaccinated (69%; CI: 63-75%) symptomatic
+  > individuals. Testing a subset of these low-Ct samples revealed infectious SARS-CoV-2 in 15 of 17
+  > specimens (88%) from unvaccinated individuals and 37 of 39 (95%) from vaccinated people.
+  > Infectious virus was detected in the sole specimen tested from an asymptomatic fully vaccinated
+  > individual. Although few asymptomatic individuals were sampled, these results indicate that even
+  > asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. To determine whether
+  > infectious virus titers differed in vaccinated and unvaccinated persons, we performed plaque
+  > assays on an additional set of 48 samples with Ct <25, finding no difference in infectious virus
+  > titer between groups. Notably time from symptom onset to testing did not vary by vaccination
+  > status, suggesting that our observations are not confounded by biases in test-seeking behavior
+  > between vaccinated and unvaccinated persons (p=0.40).
+
+Allein die Tatsache, daß wir nach 3G wieder Lockdowns und 2G/2G+ benötigen, sollte diese Punkte
 eindrucksvoll belegen. Damit ist das Argument der Impfung aus Solidarität, daß noch immer bemüht
-wird, auch nicht mehr gerechtfertigt. Das sollte nicht verwundern: Es gibt Viren, die nach erfolgter
+wird, nicht mehr gerechtfertigt. Das sollte nicht verwundern: Es gibt Viren, die nach erfolgter
 Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder infektiös wird. Kann man in
 diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das
 ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer
 natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der
 Atemwege. Und ganz im Allgemeinen kann man schließlich alles was man einatmet auch sofort wieder
-ausatmen.
+ausatmen. Eine Begründung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
@@ -130,6 +174,8 @@ anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
 Infektion?)
 
+### Nutzen der Impfung ###
+
 Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
 Ergebnis schon bei der Deltavariante vernichtend aus:
 
@@ -176,11 +222,13 @@ folgern:
   > not be as strong as immunity acquired through recovery from the COVID-19 virus. A substantial
   > decline in immunity from mRNA vaccines 6-months post immunization has also been reported.
 
-Eine Impfung, die bald schneller runter ist als der Akku meines Telefons, taugt einfach nichts. Ich
-fasse zusammen: Gerade jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben
-Impfstoffe, die nicht an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso
-benötigen wir Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
-bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
-ein paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits
-angekündigt ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das
-erhöht die Motivation auch nicht besonders.
+Eine Impfung, die vor so gut wie nichts schützt und dabei bald noch schneller runter ist als der
+Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verabschiedung einer
+Impfpflicht zunächst überlegen was man eigentlich damit erreichen will. Ich fasse zusammen: Gerade
+jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben Impfstoffe, die nicht
+an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen wir
+Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei der
+Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein paar
+Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt ist?
+Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
+Motivation auch nicht besonders.
