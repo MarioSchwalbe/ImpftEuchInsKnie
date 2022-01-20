@@ -189,12 +189,13 @@ wären. Es spricht aber einiges dagegen:
    Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben
    ist.
 
-Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach Prof. Bertram Häussler könnten
-bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein. (Quelle:
-https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html)
-Wie groß die Abweichung genau ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen.
-Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
-2020 über alle Todesursachen keine signifikante Übersterblichkeit:
+Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
+zu 30% (Quelle: https://www.presseportal.de/pm/9377/4840896). Nach Prof. Bertram Häussler könnten
+bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
+https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html).
+Wie groß die Abweichung tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden
+sehen. Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank
+im Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
