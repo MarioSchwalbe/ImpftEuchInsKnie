@@ -32,12 +32,12 @@ Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann ma
 entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
 Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie im Film. Bilder
-prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Das schaltet den Verstand ab.
-Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
-gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
-Experten™ erwarten baldige Triage. Panik! Monty phantasiert was mit Ebola. Nur Impfung kann die
-Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese „Tyrannei der
-Ungeimpften.“ Die sollte man...
+prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Und Angst. Das schaltet den
+Verstand ab. Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der
+an Corona gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles
+überfüllt. Experten™ erwarten baldige Triage. Panik! Monty phantasiert was mit Ebola. Nur Impfung
+kann die Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese egoistischen
+Solidaritätsverweigerer. Die „Tyrannei der Ungeimpften.“ Die sollte man...
 
 Huch, wie bin ich denn hier gelandet?
 
@@ -86,40 +86,41 @@ Chomsky, The Common Good, Odonian Press, 1998, p. 43):
 Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten. Warum kommen in
 den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt es etwa nicht mehr als
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
-was richtige und was falsche Experten™ sind? (Quelle:
+was falsche und was richtige Experten™ sind? (Quelle:
 https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
 „Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
-Das andere Lager kontert mit „No-Covid-Sekte“ oder „Zeugen Coronas,“ was das Diskussionsklima auch
-nicht gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man böse wäre, könnte man
-mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels, Über die Presse,
-Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk im Dritten Reich:
-Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+Das andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
+Diskussionsklima auch nicht gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man
+böse wäre, könnte man mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels,
+Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk
+im Dritten Reich: Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
 Grundordnung keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung. Das sollte nicht so
-sein. (Vielleicht will sich Böhmermann ja auch nur - für den Fall der Machtergreifung der AfD - als
-zukünftiger Propagandaminister andienen. Talent hat er jedenfalls.)
+sein. (Vielleicht ergreift Böhmermann ja auch nur die Gunst der Stunde um sich - für den Fall der
+Machtergreifung der AfD - als zukünftiger Propagandaminister anzudienen. Talent hat er jedenfalls.)
 
 ### Aufklärung statt Fake-News ####
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Wissenschaftsfeinde sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
 diejenigen, die einen offenen Diskurs darüber unterbinden wollen. Ohne Diskurs kann man eigentlich
-nicht klären, was korrekt ist und was nicht. Alles andere wäre lediglich ein Vorurteil basierend auf
-bloßer Einbildung. Stattdessen findet man eine Menge davon: Jedwede regierungskonforme Aussage ist
-automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege werden keine benötigt. Danach
-fragen ist schon borderline-anrüchig. Alles andere ist sowieso Fake-News. Vor allem Relativierung
-ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit verboten? Das sollte nicht so sein.
-Was wir stattdessen brauchen wäre Aufklärung.
+nicht klären, was korrekt ist und [was nicht](https://correctiv.org). Alles andere führte lediglich
+zu Vorurteilen basierend auf bloßer Einbildung. Stattdessen findet man eine Menge davon: Jedwede
+regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege
+werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist sowieso
+Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit
+verboten? Das sollte nicht so sein. Was wir stattdessen bräuchten wäre Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
-nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als Verschwörungstheorie
-stigmatisiert wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird:
-(a) Geimpfte, die infektiös sind, (b) 3. und 4. Impfung, (c) halbjährliche Auffrischungsimpfungen,
-(d) jegliche Nebenwirkungen, (e) Segregation wie 2G/2G+, (f) Verlust des Arbeitsplatzes, (g) geheime
-Verträge mit Pharmafirmen, (h) Impfpflicht und (i) Impfpässe als Zugangsvoraussetzungen. Was ist
+nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
+[Verschwörungstheorie](https://twitter.com/MPKretschmer/status/1257619155810951168) stigmatisiert
+wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird: (a) Geimpfte,
+die infektiös sind, (b) 3. Impfung, (c) 4. Impfung, (d) halbjährliche Auffrischungsimpfungen, (e)
+jegliche Nebenwirkungen, (f) Segregation wie 2G/2G+, (g) Verlust des Arbeitsplatzes, (h) geheime
+Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als Zugangsvoraussetzungen. Was ist
 dann noch der Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate?
 Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die
 Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristigen Schaden

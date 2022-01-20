@@ -150,15 +150,16 @@ wären. Es spricht aber einiges dagegen:
    Vorhandensein des Viruses notwendige Voraussetzung für Kausalität, aber eben nicht hinreichend.
    Hier wird uns vom RKI ein notwendiges Kriterium als hinreichend verkauft. Das ist von der Logik
    her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und führen deswegen den
-   passenden Test durch. Da der Test positiv war, können wir aufhören zu denken. Weil wir aufgehört
-   haben zu denken, bekommen wir unsere Einbildung bestätigt. Was soll das? Ohne Ausschluß anderer
-   Ursachen befähigt der Test nicht zu einer solchen Schlußfolgerung. Nach der selben Logik könnte
-   man stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
+   passenden Test durch. Da der Test positiv war, haben wir eine Antwort und können aufhören zu
+   denken. Weil wir aufgehört haben zu denken, bekommen wir unsere Einbildung bestätigt. Was soll
+   das? Ohne Ausschluß anderer Ursachen befähigt der Test nicht zu einer solchen Schlußfolgerung.
+   Nach der selben Logik könnte man stattdessen auch einen Herpestest machen und dann jede Menge
+   Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
-   https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html). Das RKI in seiner
-   [FAQ](https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html) dazu:
+   https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html). Das RKI in seiner FAQ
+   dazu (Quelle: https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html, Stand: 7.1.2022):
    > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
    > Infektion verstorben sind. Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
@@ -172,7 +173,14 @@ wären. Es spricht aber einiges dagegen:
 
    Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
-3. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
+3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
+   (Quelle: https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich
+   doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor
+   alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der
+   Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben
+   ist.
+
+4. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
    bundesweit verteilter Arztpraxen), um die epidemiologische Situation der akuten
    Atemwegserkrankungen im Allgemeinen und der Influenza im Besonderen fortlaufend zu überwachen.
    Das beinhaltet auch SARS-CoV-2. Laut dessen Daten wurde während der ersten Welle SARS-CoV-2 über
@@ -181,13 +189,6 @@ wären. Es spricht aber einiges dagegen:
    (Quelle: https://multipolar-magazin.de/artikel/das-schweigen-der-viren). Die aktuelle Verteilung
    kann man auf der Webseite der Arbeitsgemeinschaft unter „Nachweise respiratorischer Viren im
    Nationalen Referenzzentrum“ finden: https://influenza.rki.de/Diagrams.aspx?agiRegion=0.
-
-4. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
-   (Quelle: https://intensivstationen.net, Stand: 9.1.2022). Das ist verwunderlich, handelt es sich
-   doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß zuvor
-   alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung der
-   Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend ausgeblieben
-   ist.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
 zu 30% (Quelle: https://www.presseportal.de/pm/9377/4840896). Nach Prof. Bertram Häussler könnten
@@ -293,7 +294,7 @@ Hospitalisierungsrate in Deutschland höher liegt als in England und Dänemark k
 erklären. In beiden Ländern ist Omikron bereits dominant. In Deutschland liegt die Verbreitung erst
 bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information: Zu den 126.223
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
-Direktorin des SSI prognostiziert bereits das Ende der Pandemie in Dänemark (Quelle:
+Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark (Quelle:
 https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html).
 Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
 https://dgpi.de/kinder-omikron-variante/, Stand: 29.12.2021):

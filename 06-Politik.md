@@ -49,7 +49,7 @@ resistenteren Varianten bedingt durch den Selektionsdruck größer (Quelle:
 https://www.nachdenkseiten.de/?p=78885).
 
 Nächster Versuch: Vermeidung der Überlastung des Gesundheitssystems? Wieso sollte das
-Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.000
+Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.745
 coronabedingte Intensivpatienten überlastet sein? Sollte dies wirklich der Fall sein, so offenbarte
 es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten Grippewelle?
 
@@ -80,7 +80,8 @@ TODO:
 - vielbeschworene Solidarität nichts weiter als Heuchelei
 
 Wir sind auf der Zielgeraden. Nächster Versuch: Eindämmung des Infektionsgeschehens? Jedenfalls
-nicht mit diesen Impfstoffen. Wie wäre es stattdessen mit Lockdowns?
+nicht mit diesen Impfstoffen. Das Argument hatten wir schon. Wie wäre es stattdessen mit Lockdown?
+Dazu gibt es Studien:
 
 - **Eran Bendavid, Christopher Oh, Jay Bhattacharya, John P. A. Ioannidis**:
   Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19, 5.1.2021 <br/>
@@ -110,7 +111,7 @@ nicht mit diesen Impfstoffen. Wie wäre es stattdessen mit Lockdowns?
 
 Die Studien untersuchten die Wirksamkeit von Lockdowns im Jahr 2020 und fanden keine nennenswerten
 Vorteile. Warum hat die Politik im Jahr 2021 trotzdem nichts daraus gelernt und besteht darauf,
-weiterhin einen toten Gaul zu reiten? Um die Folgeschäden zu maximieren?
+weiterhin einen toten Gaul zu reiten? Sollen die Folgeschäden möglichst maximiert werden?
 
 Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Frage: Was ist der Unterschied
 zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort: Negativ-getestete

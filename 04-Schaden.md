@@ -131,10 +131,11 @@ ursprünglich aus [Sitzung
 37](https://2020tube.de/video/sitzung-37-die-abrechnung-rechtssystem-und-mrna-technologie/) ab
 Minute 3:56 der [Stiftung Corona Ausschuss](https://corona-ausschuss.de). Es wäre auch ein Novum der
 Geschichte, wenn eine neuartige hochkomplexe Technologie von Beginn an völlig fehlerfrei
-funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen muß
-BioNTech jetzt nachträglich Qualitätssicherungsprozesse einbauen. Schön. Wenn Ingenieure so arbeiten
-würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die Aufsichtsbehörden bei den
-Impfstoffen? Was unterm Strich dabei herauskommt liest sich abenteuerlich. Eine kleine Auswahl:
+funktionierte. Allein diese Behauptung sollte jeden Ingenieur aufhorchen lassen. Deswegen wird
+BioNTech jetzt nachträglich verpflichtet Qualitätssicherungsprozesse einzubauen. Schön. Wenn
+Ingenieure so arbeiten würden, bekämen wir das vom TÜV sofort um die Ohren gehauen. Wo waren die
+Aufsichtsbehörden bei den Impfstoffen? Was unterm Strich dabei herauskommt liest sich abenteuerlich.
+Eine kleine Auswahl:
 
 <!--
 https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html
