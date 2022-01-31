@@ -21,7 +21,7 @@ einer Grippe liegen würde:
 Diese Abschätzung ist noch sehr pessimistisch - basierend auf den zum Zeitpunkt verfügbaren Daten -
 und ist seitdem weiter verbessert worden, beispielsweise:
 
-- **John P. A. Ioannidis**:
+- **Prof. Dr. John P. A. Ioannidis**:
   Global perspective of COVID-19 epidemiology for a full-cycle pandemic, 7.10.2020 <br/>
   https://onlinelibrary.wiley.com/doi/10.1111/eci.13423
   > COVID-19 shows extremely strong risk stratification across age, socioeconomic factors, and
@@ -34,7 +34,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
   > locations with different age-structure, institutionalization rates, socioeconomic inequalities,
   > population-level clinical risk profile, public health measures, and health care.
 
-- **John P. A. Ioannidis**:
+- **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
   An overview of systematic evaluations, 26.3.2021 <br/>
   https://onlinelibrary.wiley.com/doi/10.1111/eci.13554
@@ -99,7 +99,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > responses was associated with mild symptoms of COVID-19, providing evidence that immunity
   > requires recognition of multiple epitopes.
 
-- **Peter Doshi**:
+- **Prof. Dr. Peter Doshi**:
   Covid-19: Do many people have pre-existing immunity?, 17.9.2020 <br/>
   https://www.bmj.com/content/370/bmj.m3563
   > At least six studies have reported T cell reactivity against SARS-CoV-2 in 20% to 50% of people
@@ -145,21 +145,22 @@ tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die u
 Implikation noch immer lautet, daß das verhinderbar gewesen wäre, wenn nur alle geimpft gewesen
 wären. Es spricht aber einiges dagegen:
 
-1. Die Diagnose für die Statistik basiert weitestgehend auf PCR-Tests ohne Berücksichtigung von
-   Vorerkrankungen oder generell klinischer Symptomatik. Das ist grober Unfug. Natürlich ist das
-   Vorhandensein des Viruses notwendige Voraussetzung für Kausalität, aber eben nicht hinreichend.
-   Hier wird uns vom RKI ein notwendiges Kriterium als hinreichend verkauft. Das ist von der Logik
-   her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und führen deswegen den
-   passenden Test durch. Da der Test positiv war, haben wir eine Antwort und können aufhören zu
-   denken. Weil wir aufgehört haben zu denken, bekommen wir unsere Einbildung bestätigt. Was soll
-   das? Ohne Ausschluß anderer Ursachen befähigt der Test nicht zu einer solchen Schlußfolgerung.
-   Nach der selben Logik könnte man stattdessen auch einen Herpestest machen und dann jede Menge
-   Herpestote klassifizieren.
+1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests ohne
+   Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das ist grober Unfug.
+   Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für Kausalität, aber eben
+   nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als hinreichend verkauft. Das
+   ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und
+   führen deswegen den passenden Test durch. Da der Test positiv war, haben wir eine Antwort und
+   können aufhören zu denken. Weil wir aufgehört haben zu denken, bekommen wir unsere Einbildung
+   bestätigt. Was soll das? Ohne Ausschluß anderer Ursachen befähigt der Test nicht zu einer solchen
+   Schlußfolgerung. Nach der selben Logik könnte man stattdessen auch einen Herpestest machen und
+   dann jede Menge Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
-   https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html). Das RKI in seiner FAQ
-   dazu (Quelle: https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html, Stand: 7.1.2022):
+   https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html). Das RKI schreibt in
+   seiner FAQ dazu (Quelle: https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html, Stand:
+   7.1.2022):
    > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
    > Infektion verstorben sind. Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
@@ -194,15 +195,16 @@ Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Beri
 zu 30% (Quelle: https://www.presseportal.de/pm/9377/4840896). Nach Prof. Bertram Häussler könnten
 bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
 https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html).
-Wie groß die Abweichung tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden
-sehen. Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank
-im Jahr 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
+Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
+tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
+fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr 2020 über alle
+Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
   2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540
-  > In the first approach, the cumulative SMRs [standardized mortality ratio] show that in Germany
+  > In the first approach, the cumulative SMRs [standardized mortality ratios] show that in Germany
   > and Sweden there was no or little excess mortality in 2020 (SMR = 0.976 (95% CI: 0.974–0.978),
   > and 1.030 (1.023–1.036), respectively), while in Spain the excess mortality was 14.8% (1.148
   > (1.144–1.151)). In the second approach, the corresponding SMRs for Germany and Sweden increased
@@ -254,10 +256,11 @@ empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 Die Abbildungen (Quelle: https://www.intensivregister.de/#/aktuelle-lage/zeitreihen, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
-Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind nie mehr als
-25% benötigt worden. In einigen sächsischen Kreisen betrug die Belegung tatsächlich zeitweise bis zu
-70%, aber eine flächendeckende Überlastung des Gesundheitssystems durch SARS-CoV-2 ist nicht
-erkennbar. Eine besondere Gefährdung von Kindern sowieso nicht.
+Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind im
+bundesdeutschen Durchschnitt nie mehr als 25% benötigt worden. In einigen sächsischen Kreisen betrug
+die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Überlastung des
+Gesundheitssystems durch SARS-CoV-2 ist nicht erkennbar. Eine besondere Gefährdung von Kindern
+sowieso nicht.
 
 <img src="images/AuslastungIntensivstationen.png">
 

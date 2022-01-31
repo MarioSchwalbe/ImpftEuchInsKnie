@@ -9,10 +9,10 @@ Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
 <img src="images/Fernseher.jpg" width="300">
 
-### Bestandsaufnahme ####
+### Bestandsaufnahme ###
 
-Im Ernst. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt. Ich bitte darum
-folgenden Artikel vollständig zu lesen:
+Im Ernst. Trigger Warning. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt.
+Ich bitte darum folgenden Artikel vollständig zu lesen:
 
 - **Jens Bernert**: Weltweite Warnungen, 5.4.2020 <br/>
   https://www.rubikon.news/artikel/weltweite-warnungen
@@ -27,23 +27,24 @@ Daß Prof. Ferguson vom Imperial College London die Apokalypse™ prophezeit hat
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
 https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/) Und wo konnte
-man finden, daß er seine Vorhersage einige Wochen später selbst korrigiert hat? Wenn Karl
-Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
+man finden, daß er seine ursprüngliche Vorhersage einige Wochen später selbst korrigiert hat? Wenn
+Karl Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
 entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
-Und das ging die ganze Zeit so hochwertig weiter. Bergamo: Ein Killervirus wie im Film. Bilder
-prägen natürlich, auch unbewußt. Emotionalisierung ist immer gut. Und Angst. Das schaltet den
-Verstand ab. Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der
-an Corona gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles
-überfüllt. Experten™ erwarten baldige Triage. Panik! Monty phantasiert was mit Ebola. Nur Impfung
-kann die Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese egoistischen
+Das ging die ganze Zeit so hochwertig zu. Bergamo: Ein Killervirus wie im Film. Bilder prägen
+natürlich, auch unbewußt. Emotionalisierung ist immer gut. Und Angst. Das schaltet den Verstand ab.
+Österreichs Bundeskanzler Sebastian Kurz: „Bald wird jeder von uns jemanden kennen, der an Corona
+gestorben ist.“ Ohje, das wird schlimm werden. Bilder von Intensivstationen: Alles überfüllt.
+Experten™ erwarten baldige Triage. Monty phantasiert was mit Ebola. Panik! Nur Impfung kann die
+Erlösung sein. Funktioniert doch nicht. Schuld sind nur die Ungeimpften. Diese egoistischen
 Solidaritätsverweigerer. Die „Tyrannei der Ungeimpften.“ Die sollte man...
 
 Huch, wie bin ich denn hier gelandet?
 
-Im Ernst. So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen, aber kein
-investigativer Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo. Sachliche
-Erklärungen findet man hier, aber die klingen dann weniger reißerisch:
+Im Ernst. Trigger Warning. So klingt vielleicht mediale Propaganda zur Vorbereitung von Pogromen,
+aber kein investigativer Journalismus. Das sollte nicht so sein. Noch einmal kurz zu Bergamo.
+Sachliche Erklärungen findet man in den alternativen Medien, aber die klingen dann weniger
+reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
   https://www.rubikon.news/artikel/die-italien-keule
@@ -102,7 +103,7 @@ Grundordnung keinen Platz hat. Wir bewegen uns aber zunehmend in diese Richtung.
 sein. (Vielleicht ergreift Böhmermann ja auch nur die Gunst der Stunde um sich - für den Fall der
 Machtergreifung der AfD - als zukünftiger Propagandaminister anzudienen. Talent hat er jedenfalls.)
 
-### Aufklärung statt Fake-News ####
+### Aufklärung statt Fake-News ###
 
 Vor allem das - zumindest bei diesem Thema - voreilige Framing als Fake-News sollte man überdenken.
 Wissenschaftsfeinde sind nicht diejenigen, die Zahlen, Studien und Maßnahmen hinterfragen, sondern
@@ -118,13 +119,13 @@ Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nei
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
 [Verschwörungstheorie](https://twitter.com/MPKretschmer/status/1257619155810951168) stigmatisiert
 wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird: (a) Geimpfte,
-die infektiös sind, (b) 3. Impfung, (c) 4. Impfung, (d) halbjährliche Auffrischungsimpfungen, (e)
-jegliche Nebenwirkungen, (f) Segregation wie 2G/2G+, (g) Verlust des Arbeitsplatzes, (h) geheime
-Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als Zugangsvoraussetzungen. Was ist
-dann noch der Unterschied zwischen bundesdeutschen Nachrichten und Verschwörungstheorie? 6 Monate?
-Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war weitaus zuverlässiger als die
-Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch für langfristigen Schaden
-anrichtet, kann man sich gar nicht ausmalen.
+die trotzdem infektiös sind, (b) 3. Impfung, (c) 4. Impfung, (d) halbjährliche
+Auffrischungsimpfungen, (e) jegliche Nebenwirkungen, (f) Segregation wie 2G/2G+, (g) Verlust des
+Arbeitsplatzes, (h) geheime Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als
+Zugangsvoraussetzungen. Was ist dann noch der Unterschied zwischen bundesdeutschen Nachrichten und
+Verschwörungstheorie? 6 Monate? Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war
+weitaus zuverlässiger als die Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch
+für langfristigen Schaden anrichtet, kann man sich gar nicht ausmalen.
 
 Vielleicht wird es langsam besser. Wenn wir Glück haben ist der Spuk bald vorbei, und die
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:

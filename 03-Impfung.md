@@ -32,7 +32,7 @@ Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektio
 21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
 Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß von 100 Geimpften
 95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Was man
-denkt entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
+denkt, entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
 Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
 (162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
 Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
