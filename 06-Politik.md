@@ -263,9 +263,15 @@ Stephane Bancel in einem Interview (Quelle:
 https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/).
 
 Was ist dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
-zwingt einen nicht ihren Scheiß auch zu nehmen. Nach 2 Jahren freiwilliger Erkenntnisisolation in
-der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Abgeordnete. Was
-wir viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht in Deutschland. Offensichtlich ist
+zwingt einen nicht ihren Scheiß auch zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch
+einen Allwetter-Experten™ im Amt:
+> Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
+> zum Schluss freiwillig impfen lässt.
+
+Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von der Ampelkoalition erst
+noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der Politik wäre eine viel
+wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und Abgeordnete. Was wir in
+Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht. Offensichtlich ist
 Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--
