@@ -1223,6 +1223,15 @@ public health scientists“ geführt werden (Quelle: https://gbdeclaration.org/v
 15.1.2022).
 
 ### Und nun? ###
+
+<div style="width: 50%; float:left">
+  #left content in here
+</div>
+<div style="width: 50%; float:right">
+  #right content in there
+</div>
+
+
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Fazit
