@@ -23,4 +23,7 @@ README.md: $(PARTS) Makefile
 spaces::
 	convert-whitespace -x Makefile $(wildcard *.md)
 
+lines::
+	wc -l *.md
+
 # ***** end of source *****

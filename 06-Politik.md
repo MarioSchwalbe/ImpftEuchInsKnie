@@ -52,7 +52,7 @@ Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkei
 durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
 https://www.nachdenkseiten.de/?p=78885).
 
-Nächster Versuch: Vermeidung der Überlastung des Gesundheitssystems? Wieso sollte das
+Nächster Versuch: Vermeidung einer Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.745
 coronabedingte Intensivpatienten überlastet sein? Sollte dies wirklich der Fall sein, so offenbarte
 es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten Grippewelle?
@@ -65,7 +65,7 @@ https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-in
 Stand: 10.1.2022). Man sieht im Zusammenhang mit COVID-19 sind nie mehr als ein Viertel benötigt
 worden. Eine flächendeckende Überlastung des Gesundheitssystems durch SARS-CoV-2 ist nicht
 erkennbar. Deutschland ist im Vergleich zu anderen europäischen Ländern mit 26 Intensivbetten pro
-100.000 Einwohnern eigentlich auch gut aufgestellt. Die anderen haben deutlich weniger zur
+100.000 Einwohnern eigentlich auch gut aufgestellt. Die anderen Länder haben deutlich weniger zur
 Verfügung: Norwegen (8), Dänemark (7), Großbritannien (7), Niederlande (6) und Schweden (vor der
 Pandemie 6 jetzt 11) (Quelle:
 https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html).
@@ -139,7 +139,7 @@ Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es ein
 dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
 https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html). Das heißt Geboosterte
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
-Minderwertige Geimpfte - ehemals vollständig geimpft - müssen logischerweise getestet werden.
+Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
 Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
 Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht im Restaurant
 essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften ausschließen
@@ -157,8 +157,8 @@ https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.h
 Wider des Zitates sind es tatsächlich nur 2 Monate, da der Status 28 Tage nach einem positiven Test
 beginnt und 90 Tage danach wieder erlischt. Begründet wird dies mit einem herabgesetzten Schutz vor
 Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvariante ist
-bekanntermaßen infektiöser. Das gilt für alle. Niemand ist in Wirklichkeit vor Infektion geschützt,
-egal ob mit oder ohne Impfung. Und auch noch nebenbei völlig ignoriert wird dabei, daß eine
+bekanntermaßen infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
+geschützt, egal ob mit oder ohne Impfung. Auch noch nebenbei völlig ignoriert wird dabei, daß eine
 natürliche Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle
 Virenbestandteile bildet und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
@@ -173,7 +173,7 @@ Je beschissener das Produkt um so aggressiver ist das Marketing.
 ### Great Barrington Declaration ###
 
 Dabei gibt es seit Oktober 2020 eine sinnvolle Handlungsempfehlung von Professoren der Universitäten
-Harvard, Oxford und Stanford, die sich alle Mühe gegeben haben selbst für Politiker leicht
+Harvard, Oxford und Stanford, die sich alle Mühe gegeben haben, selbst für Politiker leicht
 verständlich zu formulieren. Ihre Deklaration sei hier in deutscher Übersetzung vollständig
 wiederholt:
 
@@ -232,7 +232,7 @@ wiederholt:
   > dürfen. Einfache Hygienemaßnahmen wie Händewaschen und der Aufenthalt zu Hause im Krankheitsfall
   > sollten von allen praktiziert werden, um den Schwellenwert für die Herdenimmunität zu senken.
   > Schulen und Universitäten sollten für den Präsenzunterricht geöffnet sein. Außerschulische
-  > Aktivitäten, wie z. B. Sport, sollten wieder aufgenommen werden. Junge Erwachsene mit geringem
+  > Aktivitäten, wie z.B. Sport, sollten wieder aufgenommen werden. Junge Erwachsene mit geringem
   > Risiko sollten normal und nicht von zu Hause aus arbeiten. Restaurants und andere Geschäfte
   > sollten öffnen können. Kunst, Musik, Sport und andere kulturelle Aktivitäten sollten wieder
   > aufgenommen werden. Menschen, die stärker gefährdet sind, können teilnehmen, wenn sie dies
@@ -247,8 +247,8 @@ Wäre es nicht langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerad
 Ausweg aus der Lage recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man mit
 der Ausrede aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht
 haben, aber jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das
-würden die Meisten wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
-davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
+würden die meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem
+blauen Auge davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
 
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
@@ -259,7 +259,7 @@ Fachkräftemangel auch besser vermeiden. Ebenso steuert die Politik sehr konsequ
 Was kommt als nächstes? Eine staatlich erzwungene Abofalle? In der Schweiz möchte die
 Impfstoff-Produzentin Moderna ihre Zusammenarbeit gern vertiefen. Im Blickpunkt laufender
 Verhandlungen stehe ein Impfabo mit garantierter Mengenabnahme durch die Schweiz, sagte Moderna-Chef
-Stephane Bancel in einem Interview (Quelle:
+Stephane Bancel vor Kurzem in einem Interview (Quelle:
 https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/).
 
 Was ist dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
