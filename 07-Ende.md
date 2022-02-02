@@ -27,7 +27,7 @@ Jahren:
   > illness is being replaced by the corporate construction of disease.
 
 Besonders treffend finde ich das Inverse Benefit Law der amerikanischen Autoren über das dortige
-Gesundheitssystem. Je schlechter das Produkt um so energischer ist das Marketing:
+Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
 
 - **Howard Brody, Donald W. Light**:
   The Inverse Benefit Law: How Drug Marketing Undermines Patient Safety and Public Health, 20.9.2011 <br/>
@@ -125,7 +125,7 @@ Geschäft:
   > business._ [...]
 
 Trotz aller widrigen Umstände konnten die Impfstoffhersteller in einem heroischen Kampf 14 Monate
-später mit einem perfekten Produkt aufwarten, das Schutz vor Infektion, Krankheit und sogar
+später mit einem perfekten Produkt aufwarten, das Schutz vor Infektion, Krankheit, Tod und sogar
 Transmission mit 95-prozentiger Effektivität garantiert. (Wann gibt es die erste Hollywood-Adaption
 für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbehörden in Europa und
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
@@ -146,8 +146,8 @@ Stand: 27.1.2022).
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
 verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz zwischenzeitlich politisch etabliert
-wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen sind in der folgenden
-Tabelle zusammengefaßt:
+wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
+zusammengefaßt:
 
 | Woche      | Variante | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
 |------------|----------|----------------------:|-------------------:|-----------:|-----------:|
@@ -222,6 +222,11 @@ Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irr
 seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
 
 ### Hilfe zur Selbsthilfe ###
+
+```text
+Aktennotiz:
+Dieser Abschnitt ist nicht eigenständig und kann nicht losgelöst von den vorherigen 5 Kapiteln betrachtet werden.
+```
 
 Mir ist bewußt, daß es eine gewisse Diskrepanz zwischen der Berichterstattung in den Medien und
 obigen Kapiteln gibt. Es gibt hierfür zwei mögliche Erklärungen: (a) Ich liege falsch (oder spinne),
@@ -298,42 +303,43 @@ Zeigen_ (Quelle: https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/, Stan
 > Verstorbenen in der Stadt Dresden im Stillen zu gedenken.
 
 Die Begründung beginnt mit der üblichen Unterteilung in Gut und Böse. Die Guten™ stehen für soziales
-Miteinander (Solidarität) und wollen doch nur helfen und Leben retten. Keinesfalls sollte man
-annehmen, daß die Anderen etwa ähnliche Motive hegen. Deswegen sind sie auch böse. Die Bösen™ suchen
-von sich aus den Schulterschluß mit der rechtsradikalen Szene (Solidarität mit Nazis). Keinesfalls
-könnten diese einfach nur unbedeutend in der Menge sein. Das macht die Anderen, da eine freiwillige
-Handlung vorliegt, fast schon selbst zu Rechtsradikalen. Als nächstes folgt die versteckte
-Gleichsetzung mit Terroristen (Fackeln, Morddrohungen, Ministerpräsidentenmord). Denn die Ziele sind
-keinesfalls Dialog (demokratisch) sondern Umsturz (gewalttätig, totalitär). Der Absatz endet mit
-offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung von Schutz.
-Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich auch aus jedem
-anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in der Masse
-untergehen, wirken sie wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im Übrigen ist ein
-Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen Mitteln wirksam
-umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser Rhetorik ist ein
-anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - aufgefordert werden ihren
-Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen. Dabei wird
-implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das Richtige sagen,
-ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
+Miteinander (Solidarität) und wollen nur helfen und Leben retten. Keinesfalls sollte man annehmen,
+daß die Anderen etwa ähnliche Motive hegen. Deswegen sind sie auch böse. Die Bösen™ suchen von sich
+aus den Schulterschluß mit der rechtsradikalen Szene (Solidarität mit Nazis). Keinesfalls könnten
+diese einfach nur unbedeutend mit in der Menge sein. Das macht die Anderen, da eine freiwillige
+Handlung vorliegt, fast selbst zu Rechtsradikalen. Als nächstes folgt die versteckte Gleichsetzung
+mit Terroristen (Fackeln, Morddrohungen, Ministerpräsidentenmord), denn deren Ziele sind keinesfalls
+Dialog (demokratisch) sondern Umsturz (gewalttätig, totalitär). Der Absatz endet mit offener
+Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung von Schutz. Tatsächlich
+liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich auch aus jedem anderen
+Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in der Masse untergehen,
+wirken sie wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im Übrigen ist ein Ausschluß
+von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen Mitteln wirksam umzusetzen.
+Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser Rhetorik ist ein anderer: Die
+Spaziergänger sollen - gemäß den Äußerungen der Politik - aufgefordert werden ihren Standpunkt
+aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen. Dabei wird implizit
+unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das Richtige sagen, ist es
+dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
 
 Absatz 2: Ein paar kleine Fehler müssen zugegeben werden sonst wirkt es zu unglaubwürdig, aber nicht
-ohne sofortige Relativierung. Besser war keinesfalls möglich. Das ist deswegen noch lange kein Grund
-die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Die Betonung
-dieses Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff
+ohne sofortige Relativierung. Besser wäre keinesfalls möglich gewesen. Das ist deswegen noch lange
+kein Grund die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Die
+Betonung dieses Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff
 zutreffend wäre, fehlt.
 
-Absatz 3: Erneute Proklamation von Solidarität garniert mit Vernunft. Wieder keine Erklärung. Dafür
-eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen - als wenn diesem
-Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach wird der Frame
+Absatz 3: Erneute Proklamation von Solidarität garniert mit dem Wort Vernunft. Wieder keine
+Erklärung. Dafür eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen - als
+wenn diesem Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach wird der Frame
 geschlossen: Gleichsetzung der Anderen mit Gewalt, Rassismus, Antisemitismus und
-Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß noch eine Prise Emotionalisierung:
-Trauer um die Verstorbenen aus Dresden - als wenn diese nicht auch ohne die vorherige Diffamierung
-möglich gewesen wäre. Alternativ könnte man das Ende auch als unterschwellige Schuldzuweisung lesen.
+Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß gehört noch eine Prise
+Emotionalisierung: Trauer um die Verstorbenen aus Dresden - als wenn diese nicht auch ohne die
+vorherige Diffamierung möglich gewesen wäre. Alternativ könnte man das Ende auch als unterschwellige
+Schuldzuweisung lesen.
 
 Während _Haltung Zeigen_ 75% der Begründung darauf verwendet, zu Emotionalisieren und die
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
-Solidarität vorkommt, aber weniger oft wiederholt wird (Quelle:
+Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
 https://friedlichzusammen.de/wofuer-wir-stehen/, Stand: 30.1.2022):
 
 > `Für ein friedliches Miteinander` #friedlichzusammen steht für ein friedliches respektvolles
@@ -380,10 +386,10 @@ https://friedlichzusammen.de/wofuer-wir-stehen/, Stand: 30.1.2022):
 
 Wer könnte Recht haben und wer irren? Nicht vergessen: Faschismus lebt von Mitläufern. Egal wie man
 es am Ende inszeniert. Sonst wäre es schon Morgen vorbei. Und Faschist ist wer Faschismus macht.
-Gleiches gilt für die Demokratie. Die bloße Einbildung dessen ist nicht hinreichend. Das läßt sich,
-wie schon gesagt, sehr einfach selbst überprüfen. Nicht vergessen: Wenn du heutzutage von Politik
-und Medien protegiert wirst, bist du ziemlich sicher im falschen Team. (Das gilt übrigens auch für
-Greta.) Sollte das alles nichts helfen, bitte folgendes Gebet - frei nach [George
+Gleiches gilt für die Demokratie. Die bloße Einbildung dessen ist nicht hinreichend. Wenn du
+heutzutage von Politik und Medien protegiert wirst, bist du ziemlich sicher im falschen Team. (Das
+gilt übrigens auch für Greta.) Das läßt sich, wie schon gesagt, sehr einfach selbst überprüfen.
+Sollte das alles nichts helfen, bitte folgendes Gebet - frei nach [George
 Orwell](https://www.thalia.de/shop/home/artikeldetails/A1060371669) - auswendig lernen und bei
 Bedarf aufsagen: „Ich wurde nicht gehirngewaschen. Meine Regierung ist nicht korrupt. Meine
 Regierung will nur das Beste für mich. Krieg ist Frieden, Freiheit ist Sklaverei, Unwissenheit ist

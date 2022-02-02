@@ -367,24 +367,25 @@ als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter z
 (Quelle:
 https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html).
 Wie wäre es stattdessen mit keinem von beiden? Das wäre noch billiger, und so ließe sich ein
-Fachkräftemangel auch besser vermeiden. Ebenso steuert die Politik sehr konsequent gegen die Wand.
-Was kommt als nächstes? Eine staatlich erzwungene Abofalle? In der Schweiz möchte die
-Impfstoff-Produzentin Moderna ihre Zusammenarbeit gern vertiefen. Im Blickpunkt laufender
-Verhandlungen stehe ein Impfabo mit garantierter Mengenabnahme durch die Schweiz, sagte Moderna-Chef
-Stephane Bancel vor Kurzem in einem Interview (Quelle:
-https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/).
+Fachkräftemangel auch besser vermeiden.
 
-Was ist dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
-zwingt einen nicht ihren Scheiß auch zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch
-einen Allwetter-Experten™ im Amt:
+Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? Eine staatlich
+erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
+gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
+Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
+(Quelle: https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/). Was wäre
+dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia zwingt
+einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
+Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
+Immunologie hat sondern auch in Psychologie:
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
 > zum Schluss freiwillig impfen lässt.
 
-Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von der Ampelkoalition erst
-noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der Politik wäre eine viel
-wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und Abgeordnete. Was wir in
-Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht. Offensichtlich ist
-Beförderung in der Politik nicht an Kompetenz gebunden.
+Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von
+der Ampelkoalition erst noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der
+Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
+Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
+Offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
