@@ -168,7 +168,119 @@ Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 ### Kommunikation? ###
 
-Je beschissener das Produkt um so aggressiver ist das Marketing.
+Je beschissener das Produkt um so aggressiver ist das Marketing. Und das Marketing ist sehr
+aggressiv. Hinweise zur angedachten Kommunikationsstrategie der Bundesregierung lassen sich im
+Strategiepapier des BMI finden:
+
+- **Bundesministerium des Inneren**:
+  Wie wir COVID-19 unter Kontrolle bekommen, 28.4.2020 <br/>
+  https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html
+- **FragDenStaat**:
+  Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
+  https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/
+
+Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinen Staatssekretär Markus Kerber,
+Ökonom und früher Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
+„Gruppe von rund zehn Fachleuten“ verfasst, darunter Wissenschaftler des Instituts der deutschen
+Wirtschaft und vom RWI-Leibniz-Institut für Wirtschaftsforschung (Quelle:
+https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/). Es verwundert
+also nicht, daß die offizielle Version erst dann zur Verfügung gestellt wurde, nachdem das Projekt
+[FragDenStaat](https://fragdenstaat.de) eine Vorabversion mit dem Zusatz „Nur für den
+Dienstgebrauch“ veröffentlicht hatte, während die deutschen Medien aus dem Papier auszugsweise
+zitierten, eine Veröffentlichung aber nicht für nötig hielten.
+
+Neben anderen Vorschlägen für Maßnahmen findet man im Abschnitt 4 „Schlussfolgerungen für Maßnahmen
+und offene Kommunikation“:
+
+> Wir müssen wegkommen von einer Kommunikation, die auf die Fallsterblichkeitsrate zentriert ist.
+> Bei einer prozentual unerheblich klingenden Fallsterblichkeitsrate, die vor allem die Älteren
+> betrifft, denken sich viele dann unbewusst und uneingestanden: «Naja, so werden wir die Alten los,
+> die unsere Wirtschaft nach unten ziehen, wir sind sowieso schon zu viele auf der Erde, und mit ein
+> bisschen Glück erbe ich so schon ein bisschen früher». Diese Mechanismen haben in der
+> Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
+
+Ich bezweifle, daß viele Menschen so etwas freiwillig denken würden. Der Absatz offenbart aber
+nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie des Schocks
+empfehlen:
+
+> Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
+> auf die menschliche Gesellschaft verdeutlicht werden:
+>
+> 1. Viele Schwerkranke werden von ihren Angehörigen ins Krankenhaus gebracht, aber abgewiesen, und
+>    sterben qualvoll um Luft ringend zu Hause. Das Ersticken oder nicht genug Luft kriegen ist für
+>    jeden Menschen eine Urangst. Die Situation, in der man nichts tun kann, um in Lebensgefahr
+>    schwebenden Angehörigen zu helfen, ebenfalls. Die Bilder aus Italien sind verstörend.
+> 2. "Kinder werden kaum unter der Epidemie leiden": Falsch. Kinder werden sich leicht anstecken,
+>    selbst bei Ausgangsbeschränkungen, z.B. bei den Nachbarskindern. Wenn sie dann ihre Eltern
+>    anstecken, und einer davon qualvoll zu Hause stirbt und sie das Gefühl haben, Schuld daran zu
+>    sein, weil sie z.B. vergessen haben, sich nach dem Spielen die Hände zu waschen, ist es das
+>    Schrecklichste, was ein Kind je erleben kann.
+> 3. Folgeschäden: Auch wenn wir bisher nur Berichte über einzelne Fälle haben, zeichnen sie doch
+>    ein alarmierendes Bild. Selbst anscheinend Geheilte nach einem milden Verlauf können
+>    anscheinend jederzeit Rückfälle erleben, die dann ganz plötzlich tödlich enden, durch
+>    Herzinfarkt oder Lungenversagen, weil das Virus unbemerkt den Weg in die Lunge oder das Herz
+>    gefunden hat. Dies mögen Einzelfälle sein, werden aber ständig wie ein Damoklesschwert über
+>    denjenigen schweben, die einmal infiziert waren. Eine viel häufigere Folge ist monate- und
+>    wahrscheinlich jahrelang anhaltende Müdigkeit und reduzierte Lungenkapazität, wie dies schon
+>    oft von SARS-Überlebenden berichtet wurde und auch jetzt bei COVID-19 der Fall ist, obwohl die
+>    Dauer natürlich noch nicht abgeschätzt werden kann.
+
+Das ist offensichtlich keine normale Art der Kommunikation mit der man erwachsene mündige Bürger
+anspricht, sondern setzt vollsändig auf das Schüren von Angst. Kindern einzureden sie könnten am Tod
+ihrer Eltern schuld sein, ist widerlich. Diese Punkte offenbaren erneut ein sehr interessantes
+Menschenbild. Man muß den Autoren unterstellen, daß sie ihre Mitmenschen für unfähig halten,
+sachliche nicht-reißerische Informationen zum Thema zu verstehen. Aber in Anbetracht der besonderen
+Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließlich gestattet sein.
+Interessanterweise wird in dem Strategiepapier an anderen Stellen mehrmals eine staatliche
+Aufklärungs- und Informationskampagne gefordert, wogegen grundsätzlich nichts einzuwenden wäre.
+Aufklärung setzt allerdings Wahrheit voraus. Wenn man dagegen wichtige zwischenzeitlich verfügbare
+Informationen \- Gefährlichkeit des Viruses, mangelnde Wirksamkeit der Impfung oder Gefährlichkeit
+der Impfung \- verschweigt, verwandelt sich die ursprüngliche Aufklärungskampagne langsam in eine
+Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist
+der Zweck unheilig.
+
+Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
+Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
+außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irreführende Werbung nach §
+3 Heilmittelwerbegesetz ohnehin (Quelle:
+https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html). Eine Irreführung liegt
+insbesondere dann vor,
+1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
+   bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
+   anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
+   haben,
+2. wenn fälschlich der Eindruck erweckt wird, daß
+   1. ein Erfolg mit Sicherheit erwartet werden kann,
+   2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
+
+Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
+Verlauf und Tod schützt, was ausweislich der Wochenberichte des RKI nicht der Fall ist. Auf mögliche
+Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist sicher.“ auch nicht hingewiesen. Für
+die Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der
+Zweck unheilig.
+
+Auch in neuen Medien wie Spotify und Twitter geht es heiß her. Nach den hauptsächlich im Herbst 2021
+zirkulierenden Twitter-Trends
+[`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
+und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
+Antwort von offizieller Seite
+[`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query). Mit dem flotten
+Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
+schützen - nämlich gar nicht.
+
+Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, statt
+ausschließlich auf Prävention mit Impfung zu setzen. Dabei gäbe es mittlerweile Präventions- und
+Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist, beispielsweise:
+- [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com): [Präventions- und
+  Behandlungsprotokolle für COVID-19](https://covid19criticalcare.com/de/covid-19-protocols/) oder
+- [World Council for Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment
+  guidelines: A practical approach to home-based care for healthy
+  families](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/).
+
+Demzufolge ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
+20/188](https://dserver.bundestag.de/btd/20/001/2000188.pdf), mit dem die Impfpflicht im
+medizinischen Bereich beschlossen wurde, auch nur als dreiste Lüge der Regierungskoalition zu
+bewerten.
 
 ### Great Barrington Declaration ###
 
