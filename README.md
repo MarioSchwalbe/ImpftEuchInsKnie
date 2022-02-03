@@ -1589,7 +1589,7 @@ später mit einem perfekten Produkt aufwarten, das Schutz vor Infektion, Krankhe
 Transmission mit 95-prozentiger Effektivität garantiert. (Wann gibt es die erste Hollywood-Adaption
 für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbehörden in Europa und
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
-geworfen. In den USA mußten dazu noch die beiden Direktoren des Office of Vaccines Research & Review
+geworfen. In den USA mußten dann noch die beiden Direktoren des Office of Vaccines Research & Review
 der FDA kündigen (Quelle: https://brownstone.org/articles/the-meaning-of-the-fda-resignations/). Es
 mußte schließlich schnell und unbürokratisch geholfen werden.
 
