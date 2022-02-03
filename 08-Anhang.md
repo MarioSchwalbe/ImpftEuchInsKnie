@@ -17,6 +17,10 @@ Anhang
 - **Corona In Zahlen**: <br/>
   https://www.corona-in-zahlen.de
 
+- **DIVI-Intensivregister**: <br/>
+  https://www.intensivregister.de/#/aktuelle-lage/kartenansichten <br/>
+  https://www.intensivregister.de/#/aktuelle-lage/zeitreihen
+
 - **Intensivstationen.net**: <br/>
   https://intensivstationen.net
 
