@@ -69,7 +69,7 @@ Geschäft:
 - **BioNTech**:
   10,000,000 American Depositary Shares, 15.10.2019 <br/>
   https://investors.biontech.de/node/6806/html
-  > ### Risks Related to our Business ###
+  > #### Risks Related to our Business ####
   >
   > _No mRNA immunotherapy has been approved, and none may ever be approved. mRNA drug development
   > has substantial clinical development and regulatory risks due to the novel and unprecedented
@@ -95,7 +95,7 @@ Geschäft:
   > - changes that we make to optimize our manufacturing, testing or formulating of GMP materials
   >   could impact the safety, tolerability and efficacy of our product candidates; [...]
   >
-  > ### Risks Related to our Business ###
+  > #### Risks Related to our Business ####
   >
   > _Our product candidates may not work as intended, may cause undesirable side effects or may have
   > other properties that could delay or prevent their regulatory approval, limit the commercial
@@ -111,7 +111,7 @@ Geschäft:
   > delay or terminate clinical trials, or delay or prevent regulatory approval or market acceptance
   > of any of our product candidates._ [...]
   >
-  > ### Risks Related to the Manufacturing of our Product Candidates and Future Pipeline ###
+  > #### Risks Related to the Manufacturing of our Product Candidates and Future Pipeline ####
   >
   > _Our mRNA product candidates are based on novel technologies and any product candidates we
   > develop may be complex and difficult to manufacture. We may encounter difficulties in
