@@ -199,9 +199,9 @@ und offene Kommunikation“:
 > bisschen Glück erbe ich so schon ein bisschen früher». Diese Mechanismen haben in der
 > Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
 
-Ich bezweifle, daß viele Menschen so etwas freiwillig denken würden. Der Absatz offenbart aber
-nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie des Schocks
-empfehlen:
+Ich bezweifle, daß viele Menschen freiwillig auf die Idee kämen, so etwas zu denken. Der Absatz
+offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie
+des Schocks empfehlen:
 
 > Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
 > auf die menschliche Gesellschaft verdeutlicht werden:
@@ -256,8 +256,8 @@ insbesondere dann vor,
 Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
 Verlauf und Tod schützt, was ausweislich der Wochenberichte des RKI nicht der Fall ist. Auf mögliche
 Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist sicher.“ auch nicht hingewiesen. Für
-die Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der
-Zweck unheilig.
+vermeintliche Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt,
+dann ist der Zweck unheilig.
 
 Auch in neuen Medien wie Spotify und Twitter geht es heiß her. Nach den hauptsächlich im Herbst 2021
 zirkulierenden Twitter-Trends

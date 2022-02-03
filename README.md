@@ -29,30 +29,34 @@ will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist
 eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
 Impfpflicht verweisen:
 
-1. **Ärzte stehen auf**:
+1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
+   https://7argumente.de
+
+2. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/
 
-2. **Netzwerk Kritische Richter und Staatsanwälte**:
+3. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+   Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
+   https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument
+
+4. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
    https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/
 
-3. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
-   https://7argumente.de
-
-4. **Dr. Martin Sprenger**:
+5. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
    https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf
 
-5. **Dr. Peter F. Mayer**:
+6. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
    https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
 
-6. **Jens Berger**:
+7. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
    https://www.nachdenkseiten.de/?p=79084
 
-7. **Beate Bahner**:
+8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
    http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
@@ -671,6 +675,7 @@ https://vigiaccess.org, Stand: 9.1.2022):
 | Medikament/Impfung  | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |---------------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps               | 1972-2021 |               719 |                 14,38 |              15 |
+| _Interferon_        | 1988-2021 |             1.572 |                 46,24 |              30 |
 | Masern              | 1968-2021 |             5.868 |                108,67 |             148 |
 | Pocken              | 1968-2021 |             6.905 |                127,87 |              40 |
 | _Ivermectin_        | 1992-2021 |             5.840 |                194,67 |           1.263 |
@@ -1267,9 +1272,9 @@ und offene Kommunikation“:
 > bisschen Glück erbe ich so schon ein bisschen früher». Diese Mechanismen haben in der
 > Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
 
-Ich bezweifle, daß viele Menschen so etwas freiwillig denken würden. Der Absatz offenbart aber
-nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie des Schocks
-empfehlen:
+Ich bezweifle, daß viele Menschen freiwillig auf die Idee kämen, so etwas zu denken. Der Absatz
+offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie
+des Schocks empfehlen:
 
 > Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
 > auf die menschliche Gesellschaft verdeutlicht werden:
@@ -1324,8 +1329,8 @@ insbesondere dann vor,
 Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
 Verlauf und Tod schützt, was ausweislich der Wochenberichte des RKI nicht der Fall ist. Auf mögliche
 Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist sicher.“ auch nicht hingewiesen. Für
-die Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der
-Zweck unheilig.
+vermeintliche Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt,
+dann ist der Zweck unheilig.
 
 Auch in neuen Medien wie Spotify und Twitter geht es heiß her. Nach den hauptsächlich im Herbst 2021
 zirkulierenden Twitter-Trends
@@ -1638,6 +1643,9 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
    Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
+   Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
+   die einen schweren Verlauf der Erkrankung verhindern können. Diese gibt es jedoch und dies ist
+   auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferon.
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
@@ -1883,6 +1891,10 @@ Anhang
 
 - **Corona In Zahlen**: <br/>
   https://www.corona-in-zahlen.de
+
+- **DIVI-Intensivregister**: <br/>
+  https://www.intensivregister.de/#/aktuelle-lage/kartenansichten <br/>
+  https://www.intensivregister.de/#/aktuelle-lage/zeitreihen
 
 - **Intensivstationen.net**: <br/>
   https://intensivstationen.net
