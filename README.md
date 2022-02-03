@@ -1,7 +1,7 @@
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
-ImpftEuchInsKnie: Warum ich ungeimpft bin!
-==========================================
+Warum ich ungeimpft bin!
+========================
 
 <img src="images/IQTest.jpg" width="200" align="left">
 
