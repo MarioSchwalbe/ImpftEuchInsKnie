@@ -29,30 +29,34 @@ will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist
 eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
 Impfpflicht verweisen:
 
-1. **Ärzte stehen auf**:
+1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
+   https://7argumente.de
+
+2. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/
 
-2. **Netzwerk Kritische Richter und Staatsanwälte**:
+3. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+   Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
+   https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument
+
+4. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
    https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/
 
-3. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
-   https://7argumente.de
-
-4. **Dr. Martin Sprenger**:
+5. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
    https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf
 
-5. **Dr. Peter F. Mayer**:
+6. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
    https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
 
-6. **Jens Berger**:
+7. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
    https://www.nachdenkseiten.de/?p=79084
 
-7. **Beate Bahner**:
+8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
    http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
