@@ -10,7 +10,7 @@ einer Grippe liegen würde:
 
 - **Anthony S. Fauci, H. Clifford Lane, Robert R. Redfield**:
   Covid-19 - Navigating the Uncharted, 26.3.2020 <br/>
-  [https://www.nejm.org/doi/full/10.1056/NEJMe2002387]()
+  <https://www.nejm.org/doi/full/10.1056/NEJMe2002387>
   > If one assumes that the number of asymptomatic or minimally symptomatic cases is several times
   > as high as the number of reported cases, the case fatality rate may be considerably less than
   > 1%. This suggests that the overall clinical consequences of Covid-19 may ultimately be more akin
@@ -23,7 +23,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 
 - **Prof. Dr. John P. A. Ioannidis**:
   Global perspective of COVID-19 epidemiology for a full-cycle pandemic, 7.10.2020 <br/>
-  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13423]()
+  <https://onlinelibrary.wiley.com/doi/10.1111/eci.13423>
   > COVID-19 shows extremely strong risk stratification across age, socioeconomic factors, and
   > clinical factors. Calculation of years-of-life-lost from COVID-19 is methodologically
   > challenging and can yield misleading over-estimates. Many early deaths may have been due to
@@ -37,7 +37,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 - **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
   An overview of systematic evaluations, 26.3.2021 <br/>
-  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13554]()
+  <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>
   > All systematic evaluations of seroprevalence data converge that SARS-CoV-2 infection is widely
   > spread globally. Acknowledging residual uncertainties, the available evidence suggests average
   > global IFR [infection fatality rate] of ~0.15% and ~1.5-2.0 billion infections by February 2021
@@ -63,7 +63,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Julian Braun, Lucie Loyal, Marco Frentsch, et al.**:
   SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19, 29.7.2020 <br/>
-  [https://www.nature.com/articles/s41586-020-2598-9]()
+  <https://www.nature.com/articles/s41586-020-2598-9>
   > Here we investigated CD4+ T cells that are reactive against the spike glycoprotein of SARS-CoV-2
   > in the peripheral blood of patients with COVID-19 and SARS-CoV-2-unexposed healthy donors. We
   > detected spike-reactive CD4+ T cells not only in 83% of patients with COVID-19 but also in 35%
@@ -77,7 +77,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Jose Mateus, Alba Grifoni, Alison Tarke, et al.**:
   Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans, 4.8.2020 <br/>
-  [https://www.science.org/doi/10.1126/science.abd3871]()
+  <https://www.science.org/doi/10.1126/science.abd3871>
   > Many unknowns exist about human immune responses to the severe acute respiratory syndrome
   > coronavirus 2 (SARS-CoV-2) virus. SARS-CoV-2–reactive CD4+ T cells have been reported in
   > unexposed individuals, suggesting preexisting cross-reactive T cell memory in 20 to 50% of
@@ -92,7 +92,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Annika Nelde, Tatjana Bilich, Jonas S. Heitmann, et al.**:
   SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition, 30.9.2020 <br/>
-  [https://www.nature.com/articles/s41590-020-00808-x]()
+  <https://www.nature.com/articles/s41590-020-00808-x>
   > Cross-reactive SARS-CoV-2 peptides revealed pre-existing T cell responses in 81% of unexposed
   > individuals and validated similarity with common cold coronaviruses, providing a functional
   > basis for heterologous immunity in SARS-CoV-2 infection. Diversity of SARS-CoV-2 T cell
@@ -101,7 +101,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Prof. Dr. Peter Doshi**:
   Covid-19: Do many people have pre-existing immunity?, 17.9.2020 <br/>
-  [https://www.bmj.com/content/370/bmj.m3563]()
+  <https://www.bmj.com/content/370/bmj.m3563>
   > At least six studies have reported T cell reactivity against SARS-CoV-2 in 20% to 50% of people
   > with no known exposure to the virus. [...] In Germany reactive T cells were detected in a third
   > of SARS-CoV-2 seronegative healthy donors (23 of 68). [...] Researchers are also confident that
@@ -120,7 +120,7 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
 Daten des RKI (Quelle:
-[https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/](),
+<https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
 durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
@@ -129,7 +129,7 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
-  [https://gbdeclaration.org]()
+  <https://gbdeclaration.org>
   > Fortunately, our understanding of the virus is growing. We know that vulnerability to death from
   > COVID-19 is more than a thousand-fold higher in the old and infirm than the young. Indeed, for
   > children, COVID-19 is less dangerous than many other harms, including influenza.
@@ -158,8 +158,8 @@ wären. Es spricht aber einiges dagegen:
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
-   [https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html]()). Das RKI schreibt
-   in seiner FAQ dazu (Quelle: [https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html](), Stand:
+   <https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html>). Das RKI schreibt in
+   seiner FAQ dazu (Quelle: <https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html>, Stand:
    7.1.2022):
    > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
@@ -175,7 +175,7 @@ wären. Es spricht aber einiges dagegen:
    Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
 3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
-   (Quelle: [https://intensivstationen.net](), Stand: 9.1.2022). Das ist verwunderlich, handelt es
+   (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
    sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
    zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
    der Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
@@ -187,15 +187,15 @@ wären. Es spricht aber einiges dagegen:
    Das beinhaltet auch SARS-CoV-2. Laut dessen Daten wurde während der ersten Welle SARS-CoV-2 über
    einen Zeitraum von 13 Wochen bei maximal 3,1% der eingereichten Sentinelproben nachgewiesen. Die
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
-   (Quelle: [https://multipolar-magazin.de/artikel/das-schweigen-der-viren]()). Die aktuelle
+   (Quelle: <https://multipolar-magazin.de/artikel/das-schweigen-der-viren>). Die aktuelle
    Verteilung kann man auf der Webseite der Arbeitsgemeinschaft unter „Nachweise respiratorischer
    Viren im Nationalen Referenzzentrum“ finden:
-   [https://influenza.rki.de/Diagrams.aspx?agiRegion=0]().
+   <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
-zu 30% (Quelle: [https://www.presseportal.de/pm/9377/4840896]()). Nach Prof. Bertram Häussler
-könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
-[https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html]()).
+zu 30% (Quelle: <https://www.presseportal.de/pm/9377/4840896>). Nach Prof. Bertram Häussler könnten
+bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
+<https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
 fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr 2020 über alle
@@ -204,7 +204,7 @@ Todesursachen keine signifikante Übersterblichkeit:
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
   2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
-  [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540]()
+  <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540>
   > In the first approach, the cumulative SMRs [standardized mortality ratios] show that in Germany
   > and Sweden there was no or little excess mortality in 2020 (SMR = 0.976 (95% CI: 0.974–0.978),
   > and 1.030 (1.023–1.036), respectively), while in Spain the excess mortality was 14.8% (1.148
@@ -216,12 +216,12 @@ Todesursachen keine signifikante Übersterblichkeit:
 
 ### Akute Atemwegserkrankungen (ARE) ###
 
-Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch
-die entsprechende Einordnung vornehmen.
+Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch die
+entsprechende Einordnung vornehmen.
 
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
-Ich zitiere den Absatz gleich komplett (Quelle: [https://grippeweb.rki.de](), Stand: 9.1.2022):
+Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
 > die COVID-19-Rate von der 27. KW bis zur 52. KW 2021. Die seit der 46. KW 2021 kontinuierlich und
 > zum Teil deutliche gesunkene ARE-Rate ist mit Ausnahme in der 51. KW auch in der 52. KW wieder
@@ -255,7 +255,7 @@ empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 <img src="images/BelegungErwachsene.png" width="49%"> <img src="images/BelegungKinder.png" width="49%">
 
-Die Abbildungen (Quelle: [https://www.intensivregister.de/#/aktuelle-lage/zeitreihen](), Stand:
+Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
 Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind im
 bundesdeutschen Durchschnitt nie mehr als 25% benötigt worden. In einigen sächsischen Kreisen betrug
@@ -266,7 +266,7 @@ sowieso nicht.
 <img src="images/AuslastungIntensivstationen.png">
 
 Eine detailliertere Aufschlüsselung nach Altersgruppen und Kreisen kann man unter
-[https://intensivstationen.net]() finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
+<https://intensivstationen.net> finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
 bundesdeutschen Durchschnitt. Bemerkenswert ist auch, daß in den Sommermonaten Juli und August der
 Jahre 2020 und 2021 die Pandemie schon zweimal vorbei war. Hätten wir aufgehört Masken zu tragen,
 hätten die Menschen die Pandemie nach 2 Wochen vergessen.
@@ -285,13 +285,13 @@ die verfügbaren Daten bereits zulassen:
 Quellen:
 - **Robert Koch-Institut**:
   Tägliche Übersicht zu Omikron-Fällen vom 07. Januar 2022 <br/>
-  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile]()
+  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
 - **UK Health Security Agency**:
   Omicron daily overview: 31 December 2021 <br/>
-  [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf]()
+  <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf>
 - **Statens Serum Institute**:
   Covid-19 Rapport om omikronvarianten, 31.12.2021 <br/>
-  [https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18]()
+  <https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18>
 
 Die Tabelle enthält den Durchschnitt über alle Altersgruppen, und das sieht gut aus. Warum die
 Hospitalisierungsrate in Deutschland höher liegt als in England und Dänemark kann ich nicht
@@ -299,9 +299,9 @@ erklären. In beiden Ländern ist Omikron bereits dominant. In Deutschland liegt
 bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information: Zu den 126.223
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark (Quelle:
-[https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html]()).
+<https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html>).
 Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
-[https://dgpi.de/kinder-omikron-variante/](), Stand: 29.12.2021):
+<https://dgpi.de/kinder-omikron-variante/>, Stand: 29.12.2021):
 
 > Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
 > sich ein besonderes Risiko von Kindern in keiner dieser Wellen bestätigt hat. [...]
@@ -316,7 +316,7 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
   in southern California, 11.1.2022 <br/>
-  [https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text]()
+  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
   > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
@@ -337,4 +337,4 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
 jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
 Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
-Virus und der verursachten Erkrankung finden sich unter: [https://corona-reframed.de]().
+Virus und der verursachten Erkrankung finden sich unter: <https://corona-reframed.de>.

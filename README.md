@@ -34,37 +34,37 @@ Impfpflicht verweisen:
 
 2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
    Standpunkt, 27.01.2022 <br/>
-   [https://individuelle-impfentscheidung.de/standpunkt.html]()
+   <https://individuelle-impfentscheidung.de/standpunkt.html>
 
 3. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
-   [https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/]()
+   <https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/>
 
 4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
-   [https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument]()
+   <https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument>
 
 5. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
-   [https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/]()
+   <https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/>
 
 6. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
-   [https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf]()
+   <https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf>
 
 7. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
-   [https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/]()
+   <https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/>
 
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   [https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf]()
-   <!-- [http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf]() -->
+   <https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf>
+   <!-- <http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf> -->
 
 9. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
-   [https://www.nachdenkseiten.de/?p=79084]()
+   <https://www.nachdenkseiten.de/?p=79084>
 
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
 den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -
@@ -106,7 +106,7 @@ einer Grippe liegen würde:
 
 - **Anthony S. Fauci, H. Clifford Lane, Robert R. Redfield**:
   Covid-19 - Navigating the Uncharted, 26.3.2020 <br/>
-  [https://www.nejm.org/doi/full/10.1056/NEJMe2002387]()
+  <https://www.nejm.org/doi/full/10.1056/NEJMe2002387>
   > If one assumes that the number of asymptomatic or minimally symptomatic cases is several times
   > as high as the number of reported cases, the case fatality rate may be considerably less than
   > 1%. This suggests that the overall clinical consequences of Covid-19 may ultimately be more akin
@@ -119,7 +119,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 
 - **Prof. Dr. John P. A. Ioannidis**:
   Global perspective of COVID-19 epidemiology for a full-cycle pandemic, 7.10.2020 <br/>
-  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13423]()
+  <https://onlinelibrary.wiley.com/doi/10.1111/eci.13423>
   > COVID-19 shows extremely strong risk stratification across age, socioeconomic factors, and
   > clinical factors. Calculation of years-of-life-lost from COVID-19 is methodologically
   > challenging and can yield misleading over-estimates. Many early deaths may have been due to
@@ -133,7 +133,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 - **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
   An overview of systematic evaluations, 26.3.2021 <br/>
-  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13554]()
+  <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>
   > All systematic evaluations of seroprevalence data converge that SARS-CoV-2 infection is widely
   > spread globally. Acknowledging residual uncertainties, the available evidence suggests average
   > global IFR [infection fatality rate] of ~0.15% and ~1.5-2.0 billion infections by February 2021
@@ -159,7 +159,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Julian Braun, Lucie Loyal, Marco Frentsch, et al.**:
   SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19, 29.7.2020 <br/>
-  [https://www.nature.com/articles/s41586-020-2598-9]()
+  <https://www.nature.com/articles/s41586-020-2598-9>
   > Here we investigated CD4+ T cells that are reactive against the spike glycoprotein of SARS-CoV-2
   > in the peripheral blood of patients with COVID-19 and SARS-CoV-2-unexposed healthy donors. We
   > detected spike-reactive CD4+ T cells not only in 83% of patients with COVID-19 but also in 35%
@@ -173,7 +173,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Jose Mateus, Alba Grifoni, Alison Tarke, et al.**:
   Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans, 4.8.2020 <br/>
-  [https://www.science.org/doi/10.1126/science.abd3871]()
+  <https://www.science.org/doi/10.1126/science.abd3871>
   > Many unknowns exist about human immune responses to the severe acute respiratory syndrome
   > coronavirus 2 (SARS-CoV-2) virus. SARS-CoV-2–reactive CD4+ T cells have been reported in
   > unexposed individuals, suggesting preexisting cross-reactive T cell memory in 20 to 50% of
@@ -188,7 +188,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Annika Nelde, Tatjana Bilich, Jonas S. Heitmann, et al.**:
   SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition, 30.9.2020 <br/>
-  [https://www.nature.com/articles/s41590-020-00808-x]()
+  <https://www.nature.com/articles/s41590-020-00808-x>
   > Cross-reactive SARS-CoV-2 peptides revealed pre-existing T cell responses in 81% of unexposed
   > individuals and validated similarity with common cold coronaviruses, providing a functional
   > basis for heterologous immunity in SARS-CoV-2 infection. Diversity of SARS-CoV-2 T cell
@@ -197,7 +197,7 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 - **Prof. Dr. Peter Doshi**:
   Covid-19: Do many people have pre-existing immunity?, 17.9.2020 <br/>
-  [https://www.bmj.com/content/370/bmj.m3563]()
+  <https://www.bmj.com/content/370/bmj.m3563>
   > At least six studies have reported T cell reactivity against SARS-CoV-2 in 20% to 50% of people
   > with no known exposure to the virus. [...] In Germany reactive T cells were detected in a third
   > of SARS-CoV-2 seronegative healthy donors (23 of 68). [...] Researchers are also confident that
@@ -216,7 +216,7 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
 Daten des RKI (Quelle:
-[https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/](),
+<https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
 durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
@@ -225,7 +225,7 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
-  [https://gbdeclaration.org]()
+  <https://gbdeclaration.org>
   > Fortunately, our understanding of the virus is growing. We know that vulnerability to death from
   > COVID-19 is more than a thousand-fold higher in the old and infirm than the young. Indeed, for
   > children, COVID-19 is less dangerous than many other harms, including influenza.
@@ -254,8 +254,8 @@ wären. Es spricht aber einiges dagegen:
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
-   [https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html]()). Das RKI schreibt
-   in seiner FAQ dazu (Quelle: [https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html](), Stand:
+   <https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html>). Das RKI schreibt in
+   seiner FAQ dazu (Quelle: <https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html>, Stand:
    7.1.2022):
    > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
@@ -271,7 +271,7 @@ wären. Es spricht aber einiges dagegen:
    Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
 3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
-   (Quelle: [https://intensivstationen.net](), Stand: 9.1.2022). Das ist verwunderlich, handelt es
+   (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
    sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
    zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
    der Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
@@ -283,15 +283,15 @@ wären. Es spricht aber einiges dagegen:
    Das beinhaltet auch SARS-CoV-2. Laut dessen Daten wurde während der ersten Welle SARS-CoV-2 über
    einen Zeitraum von 13 Wochen bei maximal 3,1% der eingereichten Sentinelproben nachgewiesen. Die
    Atemwegsinfektionen wurden durchgängig von Influenza-, Rhino- und/oder hMP-Viren dominiert
-   (Quelle: [https://multipolar-magazin.de/artikel/das-schweigen-der-viren]()). Die aktuelle
+   (Quelle: <https://multipolar-magazin.de/artikel/das-schweigen-der-viren>). Die aktuelle
    Verteilung kann man auf der Webseite der Arbeitsgemeinschaft unter „Nachweise respiratorischer
    Viren im Nationalen Referenzzentrum“ finden:
-   [https://influenza.rki.de/Diagrams.aspx?agiRegion=0]().
+   <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
 Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
-zu 30% (Quelle: [https://www.presseportal.de/pm/9377/4840896]()). Nach Prof. Bertram Häussler
-könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
-[https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html]()).
+zu 30% (Quelle: <https://www.presseportal.de/pm/9377/4840896>). Nach Prof. Bertram Häussler könnten
+bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
+<https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
 fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr 2020 über alle
@@ -300,7 +300,7 @@ Todesursachen keine signifikante Übersterblichkeit:
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
   2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
-  [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540]()
+  <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540>
   > In the first approach, the cumulative SMRs [standardized mortality ratios] show that in Germany
   > and Sweden there was no or little excess mortality in 2020 (SMR = 0.976 (95% CI: 0.974–0.978),
   > and 1.030 (1.023–1.036), respectively), while in Spain the excess mortality was 14.8% (1.148
@@ -312,12 +312,12 @@ Todesursachen keine signifikante Übersterblichkeit:
 
 ### Akute Atemwegserkrankungen (ARE) ###
 
-Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch
-die entsprechende Einordnung vornehmen.
+Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch die
+entsprechende Einordnung vornehmen.
 
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
-Ich zitiere den Absatz gleich komplett (Quelle: [https://grippeweb.rki.de](), Stand: 9.1.2022):
+Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
 > die COVID-19-Rate von der 27. KW bis zur 52. KW 2021. Die seit der 46. KW 2021 kontinuierlich und
 > zum Teil deutliche gesunkene ARE-Rate ist mit Ausnahme in der 51. KW auch in der 52. KW wieder
@@ -351,7 +351,7 @@ empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 <img src="images/BelegungErwachsene.png" width="49%"> <img src="images/BelegungKinder.png" width="49%">
 
-Die Abbildungen (Quelle: [https://www.intensivregister.de/#/aktuelle-lage/zeitreihen](), Stand:
+Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
 Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind im
 bundesdeutschen Durchschnitt nie mehr als 25% benötigt worden. In einigen sächsischen Kreisen betrug
@@ -362,7 +362,7 @@ sowieso nicht.
 <img src="images/AuslastungIntensivstationen.png">
 
 Eine detailliertere Aufschlüsselung nach Altersgruppen und Kreisen kann man unter
-[https://intensivstationen.net]() finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
+<https://intensivstationen.net> finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
 bundesdeutschen Durchschnitt. Bemerkenswert ist auch, daß in den Sommermonaten Juli und August der
 Jahre 2020 und 2021 die Pandemie schon zweimal vorbei war. Hätten wir aufgehört Masken zu tragen,
 hätten die Menschen die Pandemie nach 2 Wochen vergessen.
@@ -381,13 +381,13 @@ die verfügbaren Daten bereits zulassen:
 Quellen:
 - **Robert Koch-Institut**:
   Tägliche Übersicht zu Omikron-Fällen vom 07. Januar 2022 <br/>
-  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile]()
+  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
 - **UK Health Security Agency**:
   Omicron daily overview: 31 December 2021 <br/>
-  [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf]()
+  <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf>
 - **Statens Serum Institute**:
   Covid-19 Rapport om omikronvarianten, 31.12.2021 <br/>
-  [https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18]()
+  <https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18>
 
 Die Tabelle enthält den Durchschnitt über alle Altersgruppen, und das sieht gut aus. Warum die
 Hospitalisierungsrate in Deutschland höher liegt als in England und Dänemark kann ich nicht
@@ -395,9 +395,9 @@ erklären. In beiden Ländern ist Omikron bereits dominant. In Deutschland liegt
 bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information: Zu den 126.223
 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
 Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark (Quelle:
-[https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html]()).
+<https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html>).
 Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
-[https://dgpi.de/kinder-omikron-variante/](), Stand: 29.12.2021):
+<https://dgpi.de/kinder-omikron-variante/>, Stand: 29.12.2021):
 
 > Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
 > sich ein besonderes Risiko von Kindern in keiner dieser Wellen bestätigt hat. [...]
@@ -412,7 +412,7 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
   in southern California, 11.1.2022 <br/>
-  [https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text]()
+  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
   > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
@@ -433,7 +433,7 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
 Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
 jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
 Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
-Virus und der verursachten Erkrankung finden sich unter: [https://corona-reframed.de]().
+Virus und der verursachten Erkrankung finden sich unter: <https://corona-reframed.de>.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Wirksamkeit der Impfung
@@ -449,7 +449,7 @@ wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfu
 Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/BioNTech:
 - **Fernando P. Polack, Stephen J. Thomas, Nicholas Kitchin, et al.**:
   Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine, 31.12.2020 <br/>
-  [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577]()
+  <https://www.nejm.org/doi/full/10.1056/NEJMoa2034577>
   > A total of 43,548 participants underwent randomization, of whom 43,448 received injections:
   > 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least
   > 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among
@@ -476,14 +476,14 @@ Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinit
 Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
 nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
 bietet der Artikel von Multipolar (Quelle:
-[https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen]()).
+<https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen>).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
 vorgelegt, die auch erklären will warum das Ergebnis methodisch schlecht ist:
 
 - **[Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org)**:
   THE PFIZER INOCULATIONS FOR COVID-19: MORE HARM THAN GOOD, 16.12.2021 <br/>
-  [https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf]()
+  <https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf>
 
 Demnach hat der Wirkstoff von Pfizer/BioNTech neben seiner fragwürdigen Schutzwirkung das Risiko von
 schwerer Krankheit und Tod (Folie 11 und 12) sogar erhöht. Ergebnisse zu Langzeitfolgen können nicht
@@ -500,7 +500,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
   vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
-  [https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext]()
+  <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext>
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
   > load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta
@@ -516,7 +516,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
-  [https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text]()
+  <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text>
   > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
   > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
   > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
@@ -546,7 +546,7 @@ ausatmen. Eine Begründung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
-  [https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/]()
+  <https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/>
   > All of the currently used COVID vaccines are applied by intramuscular injection, and they are
   > therefore unable to prevent infection of the upper airways with the SARS-CoV-2 virus. In fact,
   > in their clinical trials, none of the manufacturers even attempted to demonstrate efficacy
@@ -560,7 +560,7 @@ ausatmen. Eine Begründung findet sich in:
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht (Quelle:
-[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile]()):
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>):
 
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
@@ -617,13 +617,13 @@ Ergebnis schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>
-  [https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_8c97b2396c2842b3b05975bfbd8254cb.pdf]()
+  <https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_8c97b2396c2842b3b05975bfbd8254cb.pdf>
   > The NNTV is between 200 and 700 to prevent one case of COVID-19 for the mRNA vaccine marketed by
   > Pfizer. NNTV to prevent one death is between 9,000 and 100,000 (95% confidence interval), with
   > 16,000 as a point estimate. We observed strong variability in the number of Individual Case
   > Safety Reports (ICSRs) per 100,000 vaccine doses across all EU member states. The estimate for
   > the number of ICSRs per 100,000 vaccinations derived from the Lareb database was approximately
-  > 700. Among those, there were 16 serious ICSRs, and the number of ICSRs reporting fatal
+  > 700\. Among those, there were 16 serious ICSRs, and the number of ICSRs reporting fatal
   > side-effects was at 4.11/100,000 vaccinations. Thus, for 6 (95% CI 2–11) deaths prevented by
   > vaccination, there were approximately 4 deaths reported to Dutch Lareb that occurred after
   > vaccination, yielding a potential risk/benefit ratio of 2:3.
@@ -635,7 +635,7 @@ folgern:
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
   2947 counties in the United States, 30.9.2021 <br/>
-  [https://link.springer.com/article/10.1007%2Fs10654-021-00808-7]()
+  <https://link.springer.com/article/10.1007%2Fs10654-021-00808-7>
   > At the country-level, there appears to be no discernable relationship between percentage of
   > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line
   > suggests a marginally positive association such that countries with higher percentage of
@@ -676,7 +676,7 @@ Schadwirkung der Impfung
 Die Schadwirkung - oder freundlicher Nebenwirkung - wurde von den anderen Stellungnahmen nur
 spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheorie anhaftet. Dazu
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
-[https://vigiaccess.org](), Stand: 9.1.2022):
+<https://vigiaccess.org>, Stand: 9.1.2022):
 
 | Medikament/Impfung  | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |---------------------|-----------|------------------:|----------------------:|----------------:|
@@ -710,11 +710,11 @@ Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 
 - **Christoph Jehle**:
   Die Geschichte der mRNA-Impfstoffe, 25.9.2021 <br/>
-  [https://www.heise.de/tp/features/Die-Geschichte-der-mRNA-Impfstoffe-6201171.html]()
+  <https://www.heise.de/tp/features/Die-Geschichte-der-mRNA-Impfstoffe-6201171.html>
 
 - **Prof. Dr. Michael Palmer, Prof. Dr. Sucharit Bhakdi**:
   Elementary, my dear Watson: why mRNA vaccines are a very bad idea, 9.1.2022 <br/>
-  [https://doctors4covidethics.org/elementary-my-dear-watson-why-mrna-vaccines-are-a-very-bad-idea/]()
+  <https://doctors4covidethics.org/elementary-my-dear-watson-why-mrna-vaccines-are-a-very-bad-idea/>
 
 Das Prinzip ist im Grunde einfach: Die Impfstoffe enthalten den Bauplan für ein Protein - als
 synthetische mRNA - verpackt in Lipid-Nanopartikel (Pfizer und Moderna) bzw. Vektorviren
@@ -750,9 +750,10 @@ einige relevante Unterschiede:
 
 4. Einige Bestandteile (Kationen) der Lipid-Nanopartikel, die nach dem Freigeben der mRNA in der
    Zelle verbleiben, sind selbst toxisch:
+
    - **Prof. Dr. Michael Palmer, Prof. Dr. Sucharit Bhakdi**:
      The Pfizer mRNA vaccine: pharmacokinetics and toxicity, 23.7.2021 <br/>
-     [https://doctors4covidethics.org/the-pfizer-mrna-vaccine-pharmacokinetics-and-toxicity/]()
+     <https://doctors4covidethics.org/the-pfizer-mrna-vaccine-pharmacokinetics-and-toxicity/>
      > Of particularly grave concern is the very slow elimination of the toxic cationic lipids. In
      > persons repeatedly injected with mRNA vaccines containing these lipids — be they directed
      > against COVID, or any other pathogen or disease — this would result in cumulative toxicity.
@@ -771,7 +772,7 @@ dürfen:
 
 - **Gilian Crowther**:
   Interview with Dr. Vanessa Schmidt-Krüger, 29.1.2021 <br/>
-  [http://enformtk.u-aizu.ac.jp/howard/gcep_dr_vanessa_schmidt_krueger/]()
+  <http://enformtk.u-aizu.ac.jp/howard/gcep_dr_vanessa_schmidt_krueger/>
   > The problem that BioNTech had is that in the clinical phase the product, i.e. the RNA, was
   > produced with completely different techniques to how it is being produced now. During the
   > clinical phase they only needed small volumes of vaccine, they were able to use very expensive
@@ -815,9 +816,8 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 -->
 
 - **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
-  Why are we vaccinating children against COVID-19?,
-  Toxicology Reports, Volume 8, 2021 <br/>
-  [https://www.sciencedirect.com/science/article/pii/S221475002100161X]()
+  Why are we vaccinating children against COVID-19?, Toxicology Reports, Volume 8, 2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S221475002100161X>
   > Thus, our extremely conservative estimate for risk-benefit ratio is about 5/1. In plain English,
   > people in the 65+ demographic are five times as likely to die from the inoculation as from
   > COVID-19 under the most favorable assumptions! This demographic is the most vulnerable to
@@ -827,7 +827,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 - **Kyle A. Beattie**:
   Worldwide Bayesian Causal Impact Analysis of Vaccine Administration on Deaths and
   Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
-  [https://vector-news.github.io/editorials/CausalAnalysisReport_html.html]()
+  <https://vector-news.github.io/editorials/CausalAnalysisReport_html.html>
   > The statistically significant and overwhelmingly positive causal impact after vaccine deployment
   > on the dependent variables total deaths and total cases per million should be highly worrisome
   > for policy makers. They indicate a marked increase in both COVID-19 related cases and death due
@@ -842,7 +842,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 - **Prof. Dr. Sucharit Bhakdi, Prof. Dr. Arne Burkhardt**:
   On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in
   deaths after vaccination, 15.12.2021 <br/>
-  [https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/]()
+  <https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/>
   > Histopathologic analysis show clear evidence of vaccine-induced autoimmune-like pathology in
   > multiple organs. That myriad adverse events deriving from such auto-attack processes must be
   > expected to very frequently occur in all individuals, particularly following booster injections,
@@ -850,13 +850,13 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 Es ist auch bemerkenswert, daß sich Toxikologen und Pathologen überhaupt mit einer Impfung
 beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Dr. Arne Burkhardt und
-Prof. Dr. Walter Lang zum Thema kann man hier anschauen: [https://pathologie-konferenz.de](). Wenn
+Prof. Dr. Walter Lang zum Thema kann man hier anschauen: <https://pathologie-konferenz.de>. Wenn
 Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
   kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
-  [https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate]()
+  <https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate>
   > So, to put it simply, the Biden administration plan would kill 5,248 children via Pfizer mRNA
   > shots in order to save 45 children from dying of coronavirus. For every one child saved by the
   > shot, another 117 would be killed by the shot. The Pfizer mRNA shot fails any honest
@@ -864,7 +864,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Steve Kirsch**:
   We will kill 117 kids to save one child from dying from COVID in the 5 to 11 age range, 4.11.2021 <br/>
-  [https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one]()
+  <https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one>
   > This injection [Pfizer/BioNTech] for COVID-19 is NOT a vaccine (the vaccines do not stop
   > infection, transmission, severe COVID, hospitalization, or death); it is best described as a
   > gene manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals
@@ -881,7 +881,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Egidius Schwarz**:
   Geimpfte können wahrscheinlich nie wieder volle Immunität erreichen, 28.12.2021 <br/>
-  [https://www.theeuropean.de/egidius-schwarz/neue-studie-britische-gesundheitsbehoerde-warnt-geimpfte-koennten-dauerhaft-weniger-antikoerper-haben/]()
+  <https://www.theeuropean.de/egidius-schwarz/neue-studie-britische-gesundheitsbehoerde-warnt-geimpfte-koennten-dauerhaft-weniger-antikoerper-haben/>
   > Wie aus der Studie aus Großbritanien hervorhebt, bedeutet dies, dass der Impfstoff die
   > körpereigene Fähigkeit beeinträchtigt, nach der Infektion Antikörper nicht nur gegen das
   > Spike-Protein, sondern auch gegen andere Teile des Virus zu produzieren. Das Schlimme an dem
@@ -892,7 +892,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 - **Dr. Toby Rogers**:
   Ten red flags in the FDA's risk-benefit analysis of Pfizer's EUA application to
   inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
-  [https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit]()
+  <https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit>
   > What the British are saying is they are now finding the vaccine interferes with your body’s
   > innate ability after infection to produce antibodies against not just the spike protein but
   > other pieces of the virus. Specifically, vaccinated people don’t seem to be producing antibodies
@@ -917,7 +917,7 @@ als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für sein
 Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch völlig ungeklärt. Da die
 FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen muß, kann man bei dem
 Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
-[https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/]()).
+<https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/>).
 Da würde ich definitiv wachsam bleiben.
 
 Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet Schweigen, obwohl es
@@ -943,7 +943,7 @@ Im Ernst. Trigger Warning. Die Gate-Keeper der öffentlichen Wahrnehmung sind si
 Ich bitte darum folgenden Artikel vollständig zu lesen:
 
 - **Jens Bernert**: Weltweite Warnungen, 5.4.2020 <br/>
-  [https://www.rubikon.news/artikel/weltweite-warnungen]()
+  <https://www.rubikon.news/artikel/weltweite-warnungen>
 
 Darin befinden sich 61 Aussagen von Fachleuten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
@@ -954,10 +954,10 @@ nichts lesen.
 Daß Prof. Ferguson vom Imperial College London die Apokalypse™ prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
-[https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/]()) Und wo konnte
-man finden, daß er seine ursprüngliche Vorhersage einige Wochen später selbst korrigiert hat? Wenn
-Karl Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
-entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
+<https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/>) Und wo
+konnte man finden, daß er seine ursprüngliche Vorhersage einige Wochen später selbst korrigiert hat?
+Wenn Karl Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem
+kaum entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
 Das ging die ganze Zeit so hochwertig zu. Bergamo: Ein Killervirus wie im Film. Bilder prägen
 natürlich, auch unbewußt. Emotionalisierung ist immer gut. Und Angst. Das schaltet den Verstand ab.
@@ -975,18 +975,18 @@ Sachliche Erklärungen findet man in den alternativen Medien, aber die klingen d
 reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
-  [https://www.rubikon.news/artikel/die-italien-keule]()
+  <https://www.rubikon.news/artikel/die-italien-keule>
 
 - **Michael Ewert**: Der Tod in Italien, 20.6.2020 <br/>
-  [https://www.rubikon.news/artikel/der-tod-in-italien]()
+  <https://www.rubikon.news/artikel/der-tod-in-italien>
 
 - **Thomas Castellini**: Mehr als tausend Worte, 7.9.2020 <br/>
-  [https://www.rubikon.news/artikel/mehr-als-tausend-worte]()
+  <https://www.rubikon.news/artikel/mehr-als-tausend-worte>
 
 Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter die Kulissen bot uns
 Marc Walder, CEO der schweizerischen Ringier AG, bei einer internen Gesprächsrunde am 3.2.2021, die
 aufgezeichnet wurde (Quelle:
-[https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs]()):
+<https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs>):
 > Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
 > bleibt – auf meine Initiative hin gesagt: „Wir wollen die Regierung unterstützen durch unsere
 > mediale Berichterstattung, daß wir alle gut durch die Krise kommen.“
@@ -1016,7 +1016,7 @@ Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten
 den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt es etwa nicht mehr als
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was falsche und was richtige Experten™ sind? (Quelle:
-[https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html]())
+<https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html>)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
 „Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
 Das andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
@@ -1060,20 +1060,20 @@ Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon d
 
 - **Tim Röhn, Benjamin Stibi**:
   Die große Verzerrung der bayerischen Corona-Daten, 09.01.2022 <br/>
-  [https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html]()
+  <https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html>
   > Neue Daten belegen, dass Bayerns Ministerpräsident Söder (CSU) wiederholt viel zu hohe
   > Inzidenzen für Ungeimpfte nannte.
 
 - **Elke Bodderas**:
   Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
-  [https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html]()
+  <https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html>
   > Deutschland müsse in der Pandemiebekämpfung endlich dem Beispiel jener Länder folgen, die den
   > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
   > Forderungen.
 
 Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
 nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
-[https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013]()). Gut, es handelt sich um ein
+<https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013>). Gut, es handelt sich um ein
 Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für die
 Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
 zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
@@ -1129,7 +1129,7 @@ Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Ant
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Natürlich können
 Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkeit ist dann bedingt
 durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
-[https://www.nachdenkseiten.de/?p=78885]()).
+<https://www.nachdenkseiten.de/?p=78885>).
 
 Nächster Versuch: Vermeidung einer Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.745
@@ -1140,32 +1140,32 @@ es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der 
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
 sowie deren Auslastung (Quelle:
-[https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/](),
+<https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/>,
 Stand: 10.1.2022). Man sieht im Zusammenhang mit COVID-19 sind nie mehr als ein Viertel benötigt
 worden. Eine flächendeckende Überlastung des Gesundheitssystems durch SARS-CoV-2 ist nicht
 erkennbar. Deutschland ist im Vergleich zu anderen europäischen Ländern mit 26 Intensivbetten pro
 100.000 Einwohnern eigentlich auch gut aufgestellt. Die anderen Länder haben deutlich weniger zur
 Verfügung: Norwegen (8), Dänemark (7), Großbritannien (7), Niederlande (6) und Schweden (vor der
 Pandemie 6 jetzt 11) (Quelle:
-[https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html]()).
+<https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html>).
 Die Abbildung zeigt aber auch ein Rückgang während der Pandemie von 32.000 auf nunmehr 22.000 Betten
 (ein Drittel) bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und den Bedarf
 unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür sind
 vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
 neoliberale Privatisierungs- und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden
 (Quelle:
-[https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter]()).
+<https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter>).
 Und wo sind unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben? Gesundheitsminister
 Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts mehr schief gehen.
 Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
 schließen (Quelle:
-[https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/]()).
+<https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
 Die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter als Heuchelei.
 
 Nächster Versuch: Zwangsmaßnahmen? Zur weiteren Verschlimmerung der Lage dürfte die bereits
 beschlossene Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich
 20-30% nicht geimpftes medizinisches Personal kündigt, möchte ich nicht erleben (Quelle:
-[https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html]()).
+<https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html>).
 Das dürfte auf den Bereich der Altenpflege ebenso zutreffen. Aber der Grund ist eben nicht ein
 spezielles Virus sondern die dämlichste Politik, die man sich vorstellen kann.
 
@@ -1175,7 +1175,7 @@ Dazu gibt es Studien:
 
 - **Eran Bendavid, Christopher Oh, Jay Bhattacharya, John P. A. Ioannidis**:
   Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19, 5.1.2021 <br/>
-  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13484]()
+  <https://onlinelibrary.wiley.com/doi/10.1111/eci.13484>
   > In summary, we fail to find strong evidence supporting a role for more restrictive NPIs
   > [non-pharmaceutical interventions] in the control of COVID in early 2020. We do not question the
   > role of all public health interventions, or of coordinated communications about the epidemic,
@@ -1187,7 +1187,7 @@ Dazu gibt es Studien:
 
 - **Virat Agrawal, Jonathan H. Cantor, Neeraj Sood, Christopher M. Whaley**:
   The Impact of the COVID-19 Pandemic and Policy Responses on Excess Mortality, June 2021 <br/>
-  [https://www.nber.org/papers/w28930]()
+  <https://www.nber.org/papers/w28930>
   > We find that following the implementation of SIP policies [shelter-in-place], excess mortality
   > increases. The increase in excess mortality is statistically significant in the immediate weeks
   > following SIP implementation for the international comparison only and occurs despite the fact
@@ -1210,13 +1210,13 @@ begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die Tests
 zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe. Geimpfte werden
 vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine Infektionen
 verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
-[https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993]()).
+<https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993>).
 (Die echten Zahlen veröffentlichte das bayerische LGL natürlich erst nachdem die WELT AM SONNTAG
 juristische Schritte angekündigt hatte.)
 
 Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es einmal nicht funktioniert,
 dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
-[https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html]()). Das heißt Geboosterte
+<https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html>). Das heißt Geboosterte
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
 Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
 Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
@@ -1226,7 +1226,7 @@ kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
 
 Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
 fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
-[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html](), Stand:
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
 > Die Dauer des Genesenenstatus wurde von 6 Monate auf 90 Tage reduziert, da die bisherige
 > wissenschaftliche Evidenz darauf hindeutet, dass Ungeimpfte nach einer durchgemachten Infektion
@@ -1253,16 +1253,16 @@ Strategiepapier des BMI finden:
 
 - **Bundesministerium des Inneren**:
   Wie wir COVID-19 unter Kontrolle bekommen, 28.4.2020 <br/>
-  [https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html]()
+  <https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html>
 - **FragDenStaat**:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
-  [https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/]()
+  <https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/>
 
 Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinen Staatssekretär Markus Kerber,
 Ökonom und früher Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
 „Gruppe von rund zehn Fachleuten“ verfasst, darunter Wissenschaftler des Instituts der deutschen
 Wirtschaft und vom RWI-Leibniz-Institut für Wirtschaftsforschung (Quelle:
-[https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/]()). Es verwundert
+<https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/>). Es verwundert
 also nicht, daß die offizielle Version erst dann zur Verfügung gestellt wurde, nachdem das Projekt
 [FragDenStaat](https://fragdenstaat.de) eine Vorabversion mit dem Zusatz „Nur für den
 Dienstgebrauch“ veröffentlicht hatte, während die deutschen Medien aus dem Papier auszugsweise
@@ -1322,8 +1322,9 @@ der Zweck unheilig.
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
 außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irreführende Werbung nach §
 3 Heilmittelwerbegesetz ohnehin (Quelle:
-[https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html]()). Eine Irreführung liegt
+<https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html>). Eine Irreführung liegt
 insbesondere dann vor,
+
 1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
    anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
@@ -1350,6 +1351,7 @@ schützen - nämlich gar nicht.
 Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, statt
 ausschließlich auf Prävention mit Impfung zu setzen. Dabei gäbe es mittlerweile Präventions- und
 Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist, beispielsweise:
+
 - [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com): [Präventions- und
   Behandlungsprotokolle für COVID-19](https://covid19criticalcare.com/de/covid-19-protocols/) oder
 - [World Council for Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment
@@ -1370,7 +1372,7 @@ wiederholt:
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
-  [https://gbdeclaration.org]()
+  <https://gbdeclaration.org>
   > Die Great Barrington Erklärung
   >
   > Als Epidemiologen für Infektionskrankheiten und Wissenschaftler im Bereich des öffentlichen
@@ -1432,7 +1434,7 @@ wiederholt:
 
 Zuzüglich zu den Erstunterzeichnern, haben sich weitere 916.587 Unterzeichner der Deklaration
 angeschlossen, wovon 15.638 als „medical & public health scientists“ geführt werden (Quelle:
-[https://gbdeclaration.org/view-signatures/](), Stand: 15.1.2022).
+<https://gbdeclaration.org/view-signatures/>, Stand: 15.1.2022).
 
 Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
 tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
@@ -1448,7 +1450,7 @@ davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überl
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
 (Quelle:
-[https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html]()).
+<https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html>).
 Wie wäre es stattdessen mit keinem von beiden? Das wäre noch billiger, und so ließe sich ein
 Fachkräftemangel auch besser vermeiden.
 
@@ -1456,7 +1458,7 @@ Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? E
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
 Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
-(Quelle: [https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/]()). Was
+(Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Was
 wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
 zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
 Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
@@ -1493,7 +1495,7 @@ Jahren:
 
 - **Ray Moynihan, Iona Heath, David Henry**:
   Selling sickness: the pharmaceutical industry and disease mongering, 13.4.2002 <br/>
-  [https://www.bmj.com/content/324/7342/886.1.full]()
+  <https://www.bmj.com/content/324/7342/886.1.full>
   > There’s a lot of money to be made from telling healthy people they’re sick. Some forms of
   > medicalising ordinary life may now be better described as disease mongering: widening the
   > boundaries of treatable illness in order to expand markets for those who sell and deliver
@@ -1506,7 +1508,7 @@ Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
 
 - **Howard Brody, Donald W. Light**:
   The Inverse Benefit Law: How Drug Marketing Undermines Patient Safety and Public Health, 20.9.2011 <br/>
-  [https://ajph.aphapublications.org/doi/10.2105/AJPH.2010.199844]()
+  <https://ajph.aphapublications.org/doi/10.2105/AJPH.2010.199844>
   > The inverse benefit law, inspired by Hart's inverse care law, states that the ratio of benefits
   > to harms among patients taking new drugs tends to vary inversely with how extensively the drugs
   > are marketed. The law is manifested through 6 basic marketing strategies: reducing thresholds
@@ -1523,7 +1525,7 @@ sichern. Der Chief Investment Officer der Deutschen Apotheker- und Ärztebank ve
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
-  [https://www.aerztezeitung.de/Wirtschaft/Pharma-Aktien-Selektion-ist-Trumpf-416809.html]()
+  <https://www.aerztezeitung.de/Wirtschaft/Pharma-Aktien-Selektion-ist-Trumpf-416809.html>
   > Auch das Patent für das innovativste Medikament läuft einmal ab. Das ist den Pharmaunternehmen
   > wohl bewusst. Und sie wissen: Den Hoch-Zeiten folgen – gerade bei Blockbuster-Patenten – Zeiten
   > mit herben Umsatzeinbußen und Gewinneinbrüchen. [...] Bis 2023 werden die Erlösrückgänge der
@@ -1543,7 +1545,7 @@ Geschäft:
 
 - **BioNTech**:
   10,000,000 American Depositary Shares, 15.10.2019 <br/>
-  [https://investors.biontech.de/node/6806/html]()
+  <https://investors.biontech.de/node/6806/html>
   > #### Risks Related to our Business ####
   >
   > _No mRNA immunotherapy has been approved, and none may ever be approved. mRNA drug development
@@ -1605,7 +1607,7 @@ Transmission mit 95-prozentiger Effektivität garantiert. (Wann gibt es die erst
 für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbehörden in Europa und
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
 geworfen. In den USA mußten dann noch die beiden Direktoren des Office of Vaccines Research & Review
-der FDA kündigen (Quelle: [https://brownstone.org/articles/the-meaning-of-the-fda-resignations/]()).
+der FDA kündigen (Quelle: <https://brownstone.org/articles/the-meaning-of-the-fda-resignations/>).
 Es mußte schließlich schnell und unbürokratisch geholfen werden.
 
 ### Big Virus ###
@@ -1613,7 +1615,7 @@ Es mußte schließlich schnell und unbürokratisch geholfen werden.
 Die folgende Abbildung zeigt die in Deutschland im Zusammenhang mit COVID-19 gemeldeten Infektionen,
 hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend auf den Daten
 des RKI (Quelle:
-[https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/](),
+<https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 27.1.2022).
 
 <img src="images/FaelleProWoche.png" width="700">
@@ -1686,7 +1688,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
 sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
 natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
-[https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html]()):
+<https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
 > Durchseuchung der Bevölkerung haben.
 
@@ -1724,21 +1726,21 @@ Mut aufbringt selbst zu spazieren, wäre es auch möglich die Spaziergänger wen
 sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernsehen gezeigt. Für die
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
-- Augsburg 4.1.2022: [https://twitter.com/mansalke/status/1478147388263084035]()
-- München 5.1.2022: [https://twitter.com/niy_yang/status/1478787656733667338]() <br/> Aus einer anderen
-  Perspektive kann man auch das Vorgehen der Polizei sehen:
-  [https://twitter.com/manaf12hassan/status/1479092879238877196]().
-- Bamberg 6.1.2022: [https://twitter.com/Susa512/status/1479108621099155462]()
-- Magdeburg 8.1.2022: [https://twitter.com/ChristianTietz5/status/1479861010269982726]()
-- Hamburg 8.1.2022: [https://twitter.com/fireflymum/status/1479861294157246475]()
+- Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
+- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338> <br/> Aus einer
+  anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
+  <https://twitter.com/manaf12hassan/status/1479092879238877196>.
+- Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
+- Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>
+- Hamburg 8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
 
 Bitte anschauen. Interessant ist auch eine Aufnahme aus Dresden, in der ein Agent Provocateur (oder
 V-Mann) für tätliche Angriffe auf Polizeibeamte gleich mehrfach verhaftet wird, was wiederum gute
-Bilder für die Presse liefert: [https://twitter.com/alterdonauwels/status/1479827634091704329](). Ob
+Bilder für die Presse liefert: <https://twitter.com/alterdonauwels/status/1479827634091704329>. Ob
 diese Interpretation korrekt ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls
 seit Jahrhunderten bekannt.
 
-Du hattest mir _Haltung Zeigen_ ([https://haltung-zeigen.com]()) empfohlen. Was soll das sein? Das
+Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
 haben? Wenn sie Solidarität wünschen - darauf könnten wir uns ja einigen - dürfen sie sich gern den
 Spaziergängern anschließen. Die treten nämlich für Solidarität und gegen Ausgrenzung wie 2G und 2G+
@@ -1746,17 +1748,17 @@ ein. Und welche Haltung soll das sein? Ich bevorzuge Stehend, nicht Kriechend. B
 stattdessen hier:
 
 - #FriedlichZusammen - Wir bilden Brücken wo Gräben gezogen werden <br/>
-  [https://friedlichzusammen.de]()
+  <https://friedlichzusammen.de>
 - München Steht Auf - Für Recht und Freiheit <br/>
-  [https://muenchen-steht-auf.de]()
+  <https://muenchen-steht-auf.de>
 - Studenten Stehen Auf <br/>
-  [https://studentenstehenauf.eu/blog/forderungen-und-werte]()
+  <https://studentenstehenauf.eu/blog/forderungen-und-werte>
 - 7108 Unternehmen aus Österreich für das Miteinander der Gesellschaft und für eine freie Impfentscheidung <br/>
-  [https://einheit.at]() (Stand: 30.1.2022)
+  <https://einheit.at> (Stand: 30.1.2022)
 
 Interessanterweise liest sich die Motivation beider Seiten in einigen Punkten sehr ähnlich. Beide
 betonen die Elemente der Solidarität und Vernunft. Ich zitiere zuerst die Webseite von _Haltung
-Zeigen_ (Quelle: [https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/](), Stand: 30.1.2022):
+Zeigen_ (Quelle: <https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/>, Stand: 30.1.2022):
 
 > Während sich zahlreiche Menschen in den unterschiedlichsten Berufen und Berufungen für ein
 > soziales Miteinander engagieren, Hilfe leisten und Leben retten, gehören mittlerweile auch
@@ -1817,7 +1819,7 @@ Während _Haltung Zeigen_ 75% der Begründung darauf verwendet, zu Emotionalisie
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
 Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
-[https://friedlichzusammen.de/wofuer-wir-stehen/](), Stand: 30.1.2022):
+<https://friedlichzusammen.de/wofuer-wir-stehen/>, Stand: 30.1.2022):
 
 > `Für ein friedliches Miteinander` #friedlichzusammen steht für ein friedliches respektvolles
 > Miteinander und klar gegen jede Art von Ausgrenzung. Kein Mensch darf aufgrund von Alter,
@@ -1873,7 +1875,7 @@ Regierung will nur das Beste für mich. Krieg ist Frieden, Freiheit ist Sklavere
 Stärke, Ausgrenzung ist Solidarität und Impfzwang ist Freiheit.“
 
 Zum Finale habe ich noch ein schönes Lied aus Australien:
-[https://twitter.com/RitaYaeli/status/1473552683940331522](). Das darf gern als Zusammenfassung
+<https://twitter.com/RitaYaeli/status/1473552683940331522>. Das darf gern als Zusammenfassung
 verstanden werden. Ich suche übrigens noch Mitstreiter für eine deutsche Adaption. Hast du nicht
 früher im Chor gesungen?
 
@@ -1890,52 +1892,52 @@ Anhang
 ### Visualisierungen ###
 
 - **Our World in Data**: Coronavirus Pandemic (COVID-19) <br/>
-  [https://ourworldindata.org/coronavirus]()
+  <https://ourworldindata.org/coronavirus>
 
 - **Statista**: Statistiken und Zahlen zur Corona-Pandemie 2019-2022 <br/>
-  [https://de.statista.com/themen/6018/corona/]()
+  <https://de.statista.com/themen/6018/corona/>
 
 - **Corona Fakten & Fragen**: <br/>
-  [https://corona-reframed.de]()
+  <https://corona-reframed.de>
 
 - **Corona In Zahlen**: <br/>
-  [https://www.corona-in-zahlen.de]()
+  <https://www.corona-in-zahlen.de>
 
 - **DIVI-Intensivregister**: <br/>
-  [https://www.intensivregister.de/#/aktuelle-lage/kartenansichten]() <br/>
-  [https://www.intensivregister.de/#/aktuelle-lage/zeitreihen]()
+  <https://www.intensivregister.de/#/aktuelle-lage/kartenansichten> <br/>
+  <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>
 
 - **Intensivstationen.net**: <br/>
-  [https://intensivstationen.net]()
+  <https://intensivstationen.net>
 
 - **Robert Koch-Institut**: GrippeWeb <br/>
-  [https://grippeweb.rki.de]()
+  <https://grippeweb.rki.de>
 
 - **Robert Koch-Institut**: Arbeitsgemeinschaft Influenza <br/>
-  [https://influenza.rki.de]()
+  <https://influenza.rki.de>
 
 - **Deutsche Gesellschaft für Pädiatrische Infektiologie**: COVID-19 Survey-Update <br/>
-  [https://dgpi.de/covid-19-survey-update/]()
+  <https://dgpi.de/covid-19-survey-update/>
 
 - **Deutsche Gesellschaft für Pädiatrische Infektiologie**: PIMS Survey Update <br/>
-  [https://dgpi.de/pims-survey-update/]()
+  <https://dgpi.de/pims-survey-update/>
 
 - **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
-  [https://covid.cdc.gov/covid-data-tracker/#variant-proportions]()
+  <https://covid.cdc.gov/covid-data-tracker/#variant-proportions>
 
 ### Offizielle Berichte ###
 
 - **Robert Koch-Institut**: Wochenberichte zu COVID-19 <br/>
-  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html]()
+  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html>
 
 - **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>
-  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile]()
+  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
 
 - **UK Health Security Agency**: COVID-19: Omicron daily overview <br/>
-  [https://www.gov.uk/government/publications/covid-19-omicron-daily-overview]()
+  <https://www.gov.uk/government/publications/covid-19-omicron-daily-overview>
 
 - **UK Health Security Agency**: COVID-19 vaccine weekly surveillance reports <br/>
-  [https://www.gov.uk/government/publications/covid-19-vaccine-weekly-surveillance-reports]()
+  <https://www.gov.uk/government/publications/covid-19-vaccine-weekly-surveillance-reports>
 
 - **UK National Health Service**: COVID-19 Hospital Activity <br/>
-  [https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/]()
+  <https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/>

@@ -34,37 +34,37 @@ Impfpflicht verweisen:
 
 2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
    Standpunkt, 27.01.2022 <br/>
-   [https://individuelle-impfentscheidung.de/standpunkt.html]()
+   <https://individuelle-impfentscheidung.de/standpunkt.html>
 
 3. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
-   [https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/]()
+   <https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/>
 
 4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
-   [https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument]()
+   <https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument>
 
 5. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
-   [https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/]()
+   <https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/>
 
 6. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
-   [https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf]()
+   <https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf>
 
 7. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
-   [https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/]()
+   <https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/>
 
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   [https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf]()
-   <!-- [http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf]() -->
+   <https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf>
+   <!-- <http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf> -->
 
 9. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
-   [https://www.nachdenkseiten.de/?p=79084]()
+   <https://www.nachdenkseiten.de/?p=79084>
 
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
 den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -

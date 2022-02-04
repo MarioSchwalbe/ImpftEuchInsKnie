@@ -15,7 +15,7 @@ Im Ernst. Trigger Warning. Die Gate-Keeper der öffentlichen Wahrnehmung sind si
 Ich bitte darum folgenden Artikel vollständig zu lesen:
 
 - **Jens Bernert**: Weltweite Warnungen, 5.4.2020 <br/>
-  [https://www.rubikon.news/artikel/weltweite-warnungen]()
+  <https://www.rubikon.news/artikel/weltweite-warnungen>
 
 Darin befinden sich 61 Aussagen von Fachleuten vom April 2020, die die Lage rational und - wie wir
 heute wissen - zumeist korrekt einschätzten. Allenfalls Prof. Levitt hat sich mit der Vorhersage der
@@ -26,10 +26,10 @@ nichts lesen.
 Daß Prof. Ferguson vom Imperial College London die Apokalypse™ prophezeit hatte, wurde dagegen allen
 umgehend unter die Nase gehalten. Aber wo konnte man in Deutschland lesen, daß seine Modelle in der
 Vergangenheit schon mehrmals falsch waren? (Quelle:
-[https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/]()) Und wo konnte
-man finden, daß er seine ursprüngliche Vorhersage einige Wochen später selbst korrigiert hat? Wenn
-Karl Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem kaum
-entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
+<https://www.nationalreview.com/corner/professor-lockdown-modeler-resigns-in-disgrace/>) Und wo
+konnte man finden, daß er seine ursprüngliche Vorhersage einige Wochen später selbst korrigiert hat?
+Wenn Karl Lauterbach, unser Gesundheitsminister der Herzen, mal wieder Tote sieht, kann man sich dem
+kaum entziehen. Aber wer hat dann nachträglich erklärt, daß er mal wieder falsch gelegen hat?
 
 Das ging die ganze Zeit so hochwertig zu. Bergamo: Ein Killervirus wie im Film. Bilder prägen
 natürlich, auch unbewußt. Emotionalisierung ist immer gut. Und Angst. Das schaltet den Verstand ab.
@@ -47,18 +47,18 @@ Sachliche Erklärungen findet man in den alternativen Medien, aber die klingen d
 reißerisch:
 
 - **Prof. Albrecht Goeschel**: Die Italien-Keule, 10.6.2020 <br/>
-  [https://www.rubikon.news/artikel/die-italien-keule]()
+  <https://www.rubikon.news/artikel/die-italien-keule>
 
 - **Michael Ewert**: Der Tod in Italien, 20.6.2020 <br/>
-  [https://www.rubikon.news/artikel/der-tod-in-italien]()
+  <https://www.rubikon.news/artikel/der-tod-in-italien>
 
 - **Thomas Castellini**: Mehr als tausend Worte, 7.9.2020 <br/>
-  [https://www.rubikon.news/artikel/mehr-als-tausend-worte]()
+  <https://www.rubikon.news/artikel/mehr-als-tausend-worte>
 
 Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter die Kulissen bot uns
 Marc Walder, CEO der schweizerischen Ringier AG, bei einer internen Gesprächsrunde am 3.2.2021, die
 aufgezeichnet wurde (Quelle:
-[https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs]()):
+<https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs>):
 > Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
 > bleibt – auf meine Initiative hin gesagt: „Wir wollen die Regierung unterstützen durch unsere
 > mediale Berichterstattung, daß wir alle gut durch die Krise kommen.“
@@ -88,7 +88,7 @@ Da hat Prof. Chomsky mal wieder Recht behalten. Das kann man durchaus beobachten
 den Nachrichten und den Talk-Shows immer die gleichen Experten™ zu Wort? Gibt es etwa nicht mehr als
 eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüte wie Jan Böhmermann
 was falsche und was richtige Experten™ sind? (Quelle:
-[https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html]())
+<https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html>)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
 „Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
 Das andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
@@ -132,20 +132,20 @@ Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon d
 
 - **Tim Röhn, Benjamin Stibi**:
   Die große Verzerrung der bayerischen Corona-Daten, 09.01.2022 <br/>
-  [https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html]()
+  <https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html>
   > Neue Daten belegen, dass Bayerns Ministerpräsident Söder (CSU) wiederholt viel zu hohe
   > Inzidenzen für Ungeimpfte nannte.
 
 - **Elke Bodderas**:
   Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
-  [https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html]()
+  <https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html>
   > Deutschland müsse in der Pandemiebekämpfung endlich dem Beispiel jener Länder folgen, die den
   > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
   > Forderungen.
 
 Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
 nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
-[https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013]()). Gut, es handelt sich um ein
+<https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013>). Gut, es handelt sich um ein
 Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für die
 Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
 zuletzt. Ansonsten bleiben uns ja noch die Fake-News.

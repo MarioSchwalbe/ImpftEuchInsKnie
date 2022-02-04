@@ -18,7 +18,7 @@ Jahren:
 
 - **Ray Moynihan, Iona Heath, David Henry**:
   Selling sickness: the pharmaceutical industry and disease mongering, 13.4.2002 <br/>
-  [https://www.bmj.com/content/324/7342/886.1.full]()
+  <https://www.bmj.com/content/324/7342/886.1.full>
   > There’s a lot of money to be made from telling healthy people they’re sick. Some forms of
   > medicalising ordinary life may now be better described as disease mongering: widening the
   > boundaries of treatable illness in order to expand markets for those who sell and deliver
@@ -31,7 +31,7 @@ Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
 
 - **Howard Brody, Donald W. Light**:
   The Inverse Benefit Law: How Drug Marketing Undermines Patient Safety and Public Health, 20.9.2011 <br/>
-  [https://ajph.aphapublications.org/doi/10.2105/AJPH.2010.199844]()
+  <https://ajph.aphapublications.org/doi/10.2105/AJPH.2010.199844>
   > The inverse benefit law, inspired by Hart's inverse care law, states that the ratio of benefits
   > to harms among patients taking new drugs tends to vary inversely with how extensively the drugs
   > are marketed. The law is manifested through 6 basic marketing strategies: reducing thresholds
@@ -48,7 +48,7 @@ sichern. Der Chief Investment Officer der Deutschen Apotheker- und Ärztebank ve
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
-  [https://www.aerztezeitung.de/Wirtschaft/Pharma-Aktien-Selektion-ist-Trumpf-416809.html]()
+  <https://www.aerztezeitung.de/Wirtschaft/Pharma-Aktien-Selektion-ist-Trumpf-416809.html>
   > Auch das Patent für das innovativste Medikament läuft einmal ab. Das ist den Pharmaunternehmen
   > wohl bewusst. Und sie wissen: Den Hoch-Zeiten folgen – gerade bei Blockbuster-Patenten – Zeiten
   > mit herben Umsatzeinbußen und Gewinneinbrüchen. [...] Bis 2023 werden die Erlösrückgänge der
@@ -68,7 +68,7 @@ Geschäft:
 
 - **BioNTech**:
   10,000,000 American Depositary Shares, 15.10.2019 <br/>
-  [https://investors.biontech.de/node/6806/html]()
+  <https://investors.biontech.de/node/6806/html>
   > #### Risks Related to our Business ####
   >
   > _No mRNA immunotherapy has been approved, and none may ever be approved. mRNA drug development
@@ -130,7 +130,7 @@ Transmission mit 95-prozentiger Effektivität garantiert. (Wann gibt es die erst
 für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbehörden in Europa und
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
 geworfen. In den USA mußten dann noch die beiden Direktoren des Office of Vaccines Research & Review
-der FDA kündigen (Quelle: [https://brownstone.org/articles/the-meaning-of-the-fda-resignations/]()).
+der FDA kündigen (Quelle: <https://brownstone.org/articles/the-meaning-of-the-fda-resignations/>).
 Es mußte schließlich schnell und unbürokratisch geholfen werden.
 
 ### Big Virus ###
@@ -138,7 +138,7 @@ Es mußte schließlich schnell und unbürokratisch geholfen werden.
 Die folgende Abbildung zeigt die in Deutschland im Zusammenhang mit COVID-19 gemeldeten Infektionen,
 hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend auf den Daten
 des RKI (Quelle:
-[https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/](),
+<https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 27.1.2022).
 
 <img src="images/FaelleProWoche.png" width="700">
@@ -211,7 +211,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
 sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
 natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
-[https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html]()):
+<https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
 > Durchseuchung der Bevölkerung haben.
 
@@ -249,21 +249,21 @@ Mut aufbringt selbst zu spazieren, wäre es auch möglich die Spaziergänger wen
 sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernsehen gezeigt. Für die
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
-- Augsburg 4.1.2022: [https://twitter.com/mansalke/status/1478147388263084035]()
-- München 5.1.2022: [https://twitter.com/niy_yang/status/1478787656733667338]() <br/> Aus einer anderen
-  Perspektive kann man auch das Vorgehen der Polizei sehen:
-  [https://twitter.com/manaf12hassan/status/1479092879238877196]().
-- Bamberg 6.1.2022: [https://twitter.com/Susa512/status/1479108621099155462]()
-- Magdeburg 8.1.2022: [https://twitter.com/ChristianTietz5/status/1479861010269982726]()
-- Hamburg 8.1.2022: [https://twitter.com/fireflymum/status/1479861294157246475]()
+- Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
+- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338> <br/> Aus einer
+  anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
+  <https://twitter.com/manaf12hassan/status/1479092879238877196>.
+- Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
+- Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>
+- Hamburg 8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
 
 Bitte anschauen. Interessant ist auch eine Aufnahme aus Dresden, in der ein Agent Provocateur (oder
 V-Mann) für tätliche Angriffe auf Polizeibeamte gleich mehrfach verhaftet wird, was wiederum gute
-Bilder für die Presse liefert: [https://twitter.com/alterdonauwels/status/1479827634091704329](). Ob
+Bilder für die Presse liefert: <https://twitter.com/alterdonauwels/status/1479827634091704329>. Ob
 diese Interpretation korrekt ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls
 seit Jahrhunderten bekannt.
 
-Du hattest mir _Haltung Zeigen_ ([https://haltung-zeigen.com]()) empfohlen. Was soll das sein? Das
+Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
 haben? Wenn sie Solidarität wünschen - darauf könnten wir uns ja einigen - dürfen sie sich gern den
 Spaziergängern anschließen. Die treten nämlich für Solidarität und gegen Ausgrenzung wie 2G und 2G+
@@ -271,17 +271,17 @@ ein. Und welche Haltung soll das sein? Ich bevorzuge Stehend, nicht Kriechend. B
 stattdessen hier:
 
 - #FriedlichZusammen - Wir bilden Brücken wo Gräben gezogen werden <br/>
-  [https://friedlichzusammen.de]()
+  <https://friedlichzusammen.de>
 - München Steht Auf - Für Recht und Freiheit <br/>
-  [https://muenchen-steht-auf.de]()
+  <https://muenchen-steht-auf.de>
 - Studenten Stehen Auf <br/>
-  [https://studentenstehenauf.eu/blog/forderungen-und-werte]()
+  <https://studentenstehenauf.eu/blog/forderungen-und-werte>
 - 7108 Unternehmen aus Österreich für das Miteinander der Gesellschaft und für eine freie Impfentscheidung <br/>
-  [https://einheit.at]() (Stand: 30.1.2022)
+  <https://einheit.at> (Stand: 30.1.2022)
 
 Interessanterweise liest sich die Motivation beider Seiten in einigen Punkten sehr ähnlich. Beide
 betonen die Elemente der Solidarität und Vernunft. Ich zitiere zuerst die Webseite von _Haltung
-Zeigen_ (Quelle: [https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/](), Stand: 30.1.2022):
+Zeigen_ (Quelle: <https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/>, Stand: 30.1.2022):
 
 > Während sich zahlreiche Menschen in den unterschiedlichsten Berufen und Berufungen für ein
 > soziales Miteinander engagieren, Hilfe leisten und Leben retten, gehören mittlerweile auch
@@ -342,7 +342,7 @@ Während _Haltung Zeigen_ 75% der Begründung darauf verwendet, zu Emotionalisie
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
 Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
-[https://friedlichzusammen.de/wofuer-wir-stehen/](), Stand: 30.1.2022):
+<https://friedlichzusammen.de/wofuer-wir-stehen/>, Stand: 30.1.2022):
 
 > `Für ein friedliches Miteinander` #friedlichzusammen steht für ein friedliches respektvolles
 > Miteinander und klar gegen jede Art von Ausgrenzung. Kein Mensch darf aufgrund von Alter,
@@ -398,7 +398,7 @@ Regierung will nur das Beste für mich. Krieg ist Frieden, Freiheit ist Sklavere
 Stärke, Ausgrenzung ist Solidarität und Impfzwang ist Freiheit.“
 
 Zum Finale habe ich noch ein schönes Lied aus Australien:
-[https://twitter.com/RitaYaeli/status/1473552683940331522](). Das darf gern als Zusammenfassung
+<https://twitter.com/RitaYaeli/status/1473552683940331522>. Das darf gern als Zusammenfassung
 verstanden werden. Ich suche übrigens noch Mitstreiter für eine deutsche Adaption. Hast du nicht
 früher im Chor gesungen?
 
