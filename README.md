@@ -1,11 +1,5 @@
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
-<style type="text/css">
-p {
-  text-align: justify;
-}
-</style>
-
 Warum ich ungeimpft bin!
 ========================
 
@@ -13,7 +7,7 @@ Warum ich ungeimpft bin!
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
-**Datum:**  11.1.2022 <br/>
+**Datum:**  30.1.2022 <br/>
 **Lizenz:** CC BY-ND <br/>
 
 ---
@@ -38,37 +32,42 @@ Impfpflicht verweisen:
 1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
    https://7argumente.de
 
-2. **Ärzte stehen auf**:
+2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
+   Standpunkt, 27.01.2022 <br/>
+   https://individuelle-impfentscheidung.de/standpunkt.html
+
+3. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/
 
-3. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
    https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument
 
-4. **Netzwerk Kritische Richter und Staatsanwälte**:
+5. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
    https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/
 
-5. **Dr. Martin Sprenger**:
+6. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
    https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf
 
-6. **Dr. Peter F. Mayer**:
+7. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
    https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
-
-7. **Jens Berger**:
-   30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
-   https://www.nachdenkseiten.de/?p=79084
 
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
+   https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf
+   <!-- http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf -->
+
+9. **Jens Berger**:
+   30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
+   https://www.nachdenkseiten.de/?p=79084
 
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
-den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren vollumfänglich zustimmen -
+den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -
 allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
 schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt aufweisen als
 der deutsche Ethikrat zu diesem Thema zustande bringt.
@@ -84,7 +83,7 @@ In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksi
 Jeder vernünftige Ingenieur würde darauf aufbauend die beste Lösung zu finden versuchen. Ganz im
 Gegensatz zum von Anfang an propagierten Mantra der Politik, daß nur die Impfung - am besten der
 gesamten Weltbevölkerung - der Ausweg aus der Pandemie sein kann. So reden eigentlich nur
-Lobbyisten, Dogmatiker und Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell
+Lobbyisten, Dogmatiker oder Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell
 soviel Interesse an unserer Gesundheit wie die Waffenindustrie am Weltfrieden.
 
 Insbesondere in der alltäglichen Diskussion werden immer wieder Argumente verwendet wie: „Die
@@ -1434,12 +1433,16 @@ Zuzüglich zu den Erstunterzeichnern, haben sich weitere 916.587 Unterzeichner d
 angeschlossen, wovon 15.638 als „medical & public health scientists“ geführt werden (Quelle:
 https://gbdeclaration.org/view-signatures/, Stand: 15.1.2022).
 
-Wäre es nicht langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein
-Ausweg aus der Lage recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man mit
-der Ausrede aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht
-haben, aber jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das
-würden die meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem
-blauen Auge davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
+Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
+tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
+dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau der
+Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht langsam
+an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage recht
+einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
+aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht haben, aber
+jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das würden die
+meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
+davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
 
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
@@ -1464,7 +1467,7 @@ Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte
 der Ampelkoalition erst noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der
 Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
 Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
-Offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
+Offensichtlich ist Beförderung in der Politik nicht mehr an Kompetenz gebunden.
 
 <!--
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
@@ -1650,7 +1653,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
-   die einen schweren Verlauf der Erkrankung verhindern können. Diese gibt es jedoch und dies ist
+   die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
    auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferon.
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der

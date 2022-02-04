@@ -7,7 +7,7 @@ Warum ich ungeimpft bin!
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
-**Datum:**  11.1.2022 <br/>
+**Datum:**  30.1.2022 <br/>
 **Lizenz:** CC BY-ND <br/>
 
 ---
@@ -32,37 +32,42 @@ Impfpflicht verweisen:
 1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
    https://7argumente.de
 
-2. **Ärzte stehen auf**:
+2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
+   Standpunkt, 27.01.2022 <br/>
+   https://individuelle-impfentscheidung.de/standpunkt.html
+
+3. **Ärzte stehen auf**:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/
 
-3. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
    https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument
 
-4. **Netzwerk Kritische Richter und Staatsanwälte**:
+5. **Netzwerk Kritische Richter und Staatsanwälte**:
    10 Gründe gegen die Impfpflicht, 10.12.2021 <br/>
    https://netzwerkkrista.de/2021/12/10/10-gruende-gegen-die-impfpflicht/
 
-5. **Dr. Martin Sprenger**:
+6. **Dr. Martin Sprenger**:
    Mit dem Virus leben lernen, 4.1.2022 <br/>
    https://tkp.at/wp-content/uploads/2022/01/05_01_2022_Sprenger_Alternativen-Impfpflicht.pdf
 
-6. **Dr. Peter F. Mayer**:
+7. **Dr. Peter F. Mayer**:
    Stellungnahme zum Covid-19 Impfpflichtgesetz, 11.12.2021 <br/>
    https://tkp.at/2021/12/11/stellungnahme-zum-covid-19-impfpflichtgesetz-in-der-parlamentarischen-begutachtung/
-
-7. **Jens Berger**:
-   30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
-   https://www.nachdenkseiten.de/?p=79084
 
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf
+   https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf
+   <!-- http://www.khkramer.de/Rechtsgutachten%20zur%20Strafbarkeit%20der%20Impfung%20nach%2095%20AMG.pdf -->
+
+9. **Jens Berger**:
+   30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
+   https://www.nachdenkseiten.de/?p=79084
 
 Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
-den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren vollumfänglich zustimmen -
+den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -
 allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
 schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt aufweisen als
 der deutsche Ethikrat zu diesem Thema zustande bringt.
@@ -78,7 +83,7 @@ In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksi
 Jeder vernünftige Ingenieur würde darauf aufbauend die beste Lösung zu finden versuchen. Ganz im
 Gegensatz zum von Anfang an propagierten Mantra der Politik, daß nur die Impfung - am besten der
 gesamten Weltbevölkerung - der Ausweg aus der Pandemie sein kann. So reden eigentlich nur
-Lobbyisten, Dogmatiker und Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell
+Lobbyisten, Dogmatiker oder Ideologen. Und nicht vergessen: Die Pharmaindustrie hat tendenziell
 soviel Interesse an unserer Gesundheit wie die Waffenindustrie am Weltfrieden.
 
 Insbesondere in der alltäglichen Diskussion werden immer wieder Argumente verwendet wie: „Die

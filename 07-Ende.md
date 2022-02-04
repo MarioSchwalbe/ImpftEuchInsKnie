@@ -179,7 +179,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
-   die einen schweren Verlauf der Erkrankung verhindern können. Diese gibt es jedoch und dies ist
+   die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
    auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferon.
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der

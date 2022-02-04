@@ -355,12 +355,16 @@ Zuzüglich zu den Erstunterzeichnern, haben sich weitere 916.587 Unterzeichner d
 angeschlossen, wovon 15.638 als „medical & public health scientists“ geführt werden (Quelle:
 https://gbdeclaration.org/view-signatures/, Stand: 15.1.2022).
 
-Wäre es nicht langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein
-Ausweg aus der Lage recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man mit
-der Ausrede aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht
-haben, aber jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das
-würden die meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem
-blauen Auge davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
+Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
+tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
+dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau der
+Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht langsam
+an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage recht
+einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
+aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht haben, aber
+jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das würden die
+meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
+davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
 
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
@@ -385,7 +389,7 @@ Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte
 der Ampelkoalition erst noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der
 Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
 Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
-Offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
+Offensichtlich ist Beförderung in der Politik nicht mehr an Kompetenz gebunden.
 
 <!--
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
