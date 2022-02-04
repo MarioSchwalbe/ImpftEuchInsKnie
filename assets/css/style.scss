@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  h1 {
+    color: #ff0000;
+  }
+  p {
+    text-align: justify;
+  }
+}
