@@ -1,5 +1,11 @@
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
+<style type="text/css">
+p {
+  text-align: justify;
+}
+</style>
+
 Warum ich ungeimpft bin!
 ========================
 
