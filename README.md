@@ -30,7 +30,7 @@ eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten 
 Impfpflicht verweisen:
 
 1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
-   https://7argumente.de
+   [https://7argumente.de]()
 
 2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
    Standpunkt, 27.01.2022 <br/>
