@@ -13,7 +13,7 @@ wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfu
 Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/BioNTech:
 - **Fernando P. Polack, Stephen J. Thomas, Nicholas Kitchin, et al.**:
   Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine, 31.12.2020 <br/>
-  https://www.nejm.org/doi/full/10.1056/NEJMoa2034577
+  [https://www.nejm.org/doi/full/10.1056/NEJMoa2034577]()
   > A total of 43,548 participants underwent randomization, of whom 43,448 received injections:
   > 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least
   > 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among
@@ -40,14 +40,14 @@ Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinit
 Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
 nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
 bietet der Artikel von Multipolar (Quelle:
-https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen).
+[https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen]()).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
 vorgelegt, die auch erklären will warum das Ergebnis methodisch schlecht ist:
 
 - **[Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org)**:
   THE PFIZER INOCULATIONS FOR COVID-19: MORE HARM THAN GOOD, 16.12.2021 <br/>
-  https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf
+  [https://www.canadiancovidcarealliance.org/wp-content/uploads/2021/12/The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf]()
 
 Demnach hat der Wirkstoff von Pfizer/BioNTech neben seiner fragwürdigen Schutzwirkung das Risiko von
 schwerer Krankheit und Tod (Folie 11 und 12) sogar erhöht. Ergebnisse zu Langzeitfolgen können nicht
@@ -64,7 +64,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
   vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
-  https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext
+  [https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext]()
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
   > load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta
@@ -80,7 +80,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
-  https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text
+  [https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text]()
   > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
   > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
   > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
@@ -110,7 +110,7 @@ ausatmen. Eine Begründung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
-  https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/
+  [https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/]()
   > All of the currently used COVID vaccines are applied by intramuscular injection, and they are
   > therefore unable to prevent infection of the upper airways with the SARS-CoV-2 virus. In fact,
   > in their clinical trials, none of the manufacturers even attempted to demonstrate efficacy
@@ -124,7 +124,7 @@ ausatmen. Eine Begründung findet sich in:
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht (Quelle:
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile):
+[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile]()):
 
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
@@ -181,7 +181,7 @@ Ergebnis schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>
-  https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_8c97b2396c2842b3b05975bfbd8254cb.pdf
+  [https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_8c97b2396c2842b3b05975bfbd8254cb.pdf]()
   > The NNTV is between 200 and 700 to prevent one case of COVID-19 for the mRNA vaccine marketed by
   > Pfizer. NNTV to prevent one death is between 9,000 and 100,000 (95% confidence interval), with
   > 16,000 as a point estimate. We observed strong variability in the number of Individual Case
@@ -199,7 +199,7 @@ folgern:
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
   2947 counties in the United States, 30.9.2021 <br/>
-  https://link.springer.com/article/10.1007%2Fs10654-021-00808-7
+  [https://link.springer.com/article/10.1007%2Fs10654-021-00808-7]()
   > At the country-level, there appears to be no discernable relationship between percentage of
   > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line
   > suggests a marginally positive association such that countries with higher percentage of

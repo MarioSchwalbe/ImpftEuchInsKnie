@@ -6,7 +6,7 @@ Schadwirkung der Impfung
 Die Schadwirkung - oder freundlicher Nebenwirkung - wurde von den anderen Stellungnahmen nur
 spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheorie anhaftet. Dazu
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
-https://vigiaccess.org, Stand: 9.1.2022):
+[https://vigiaccess.org](), Stand: 9.1.2022):
 
 | Medikament/Impfung  | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |---------------------|-----------|------------------:|----------------------:|----------------:|
@@ -40,11 +40,11 @@ Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 
 - **Christoph Jehle**:
   Die Geschichte der mRNA-Impfstoffe, 25.9.2021 <br/>
-  https://www.heise.de/tp/features/Die-Geschichte-der-mRNA-Impfstoffe-6201171.html
+  [https://www.heise.de/tp/features/Die-Geschichte-der-mRNA-Impfstoffe-6201171.html]()
 
 - **Prof. Dr. Michael Palmer, Prof. Dr. Sucharit Bhakdi**:
   Elementary, my dear Watson: why mRNA vaccines are a very bad idea, 9.1.2022 <br/>
-  https://doctors4covidethics.org/elementary-my-dear-watson-why-mrna-vaccines-are-a-very-bad-idea/
+  [https://doctors4covidethics.org/elementary-my-dear-watson-why-mrna-vaccines-are-a-very-bad-idea/]()
 
 Das Prinzip ist im Grunde einfach: Die Impfstoffe enthalten den Bauplan für ein Protein - als
 synthetische mRNA - verpackt in Lipid-Nanopartikel (Pfizer und Moderna) bzw. Vektorviren
@@ -82,7 +82,7 @@ einige relevante Unterschiede:
    Zelle verbleiben, sind selbst toxisch:
    - **Prof. Dr. Michael Palmer, Prof. Dr. Sucharit Bhakdi**:
      The Pfizer mRNA vaccine: pharmacokinetics and toxicity, 23.7.2021 <br/>
-     https://doctors4covidethics.org/the-pfizer-mrna-vaccine-pharmacokinetics-and-toxicity/
+     [https://doctors4covidethics.org/the-pfizer-mrna-vaccine-pharmacokinetics-and-toxicity/]()
      > Of particularly grave concern is the very slow elimination of the toxic cationic lipids. In
      > persons repeatedly injected with mRNA vaccines containing these lipids — be they directed
      > against COVID, or any other pathogen or disease — this would result in cumulative toxicity.
@@ -101,7 +101,7 @@ dürfen:
 
 - **Gilian Crowther**:
   Interview with Dr. Vanessa Schmidt-Krüger, 29.1.2021 <br/>
-  http://enformtk.u-aizu.ac.jp/howard/gcep_dr_vanessa_schmidt_krueger/
+  [http://enformtk.u-aizu.ac.jp/howard/gcep_dr_vanessa_schmidt_krueger/]()
   > The problem that BioNTech had is that in the clinical phase the product, i.e. the RNA, was
   > produced with completely different techniques to how it is being produced now. During the
   > clinical phase they only needed small volumes of vaccine, they were able to use very expensive
@@ -147,7 +147,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 - **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
   Why are we vaccinating children against COVID-19?,
   Toxicology Reports, Volume 8, 2021 <br/>
-  https://www.sciencedirect.com/science/article/pii/S221475002100161X
+  [https://www.sciencedirect.com/science/article/pii/S221475002100161X]()
   > Thus, our extremely conservative estimate for risk-benefit ratio is about 5/1. In plain English,
   > people in the 65+ demographic are five times as likely to die from the inoculation as from
   > COVID-19 under the most favorable assumptions! This demographic is the most vulnerable to
@@ -157,7 +157,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 - **Kyle A. Beattie**:
   Worldwide Bayesian Causal Impact Analysis of Vaccine Administration on Deaths and
   Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
-  https://vector-news.github.io/editorials/CausalAnalysisReport_html.html
+  [https://vector-news.github.io/editorials/CausalAnalysisReport_html.html]()
   > The statistically significant and overwhelmingly positive causal impact after vaccine deployment
   > on the dependent variables total deaths and total cases per million should be highly worrisome
   > for policy makers. They indicate a marked increase in both COVID-19 related cases and death due
@@ -172,7 +172,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 - **Prof. Dr. Sucharit Bhakdi, Prof. Dr. Arne Burkhardt**:
   On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in
   deaths after vaccination, 15.12.2021 <br/>
-  https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/
+  [https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/]()
   > Histopathologic analysis show clear evidence of vaccine-induced autoimmune-like pathology in
   > multiple organs. That myriad adverse events deriving from such auto-attack processes must be
   > expected to very frequently occur in all individuals, particularly following booster injections,
@@ -180,13 +180,13 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 Es ist auch bemerkenswert, daß sich Toxikologen und Pathologen überhaupt mit einer Impfung
 beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Dr. Arne Burkhardt und
-Prof. Dr. Walter Lang zum Thema kann man hier anschauen: https://pathologie-konferenz.de. Wenn
+Prof. Dr. Walter Lang zum Thema kann man hier anschauen: [https://pathologie-konferenz.de](). Wenn
 Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
   kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
-  https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate
+  [https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate]()
   > So, to put it simply, the Biden administration plan would kill 5,248 children via Pfizer mRNA
   > shots in order to save 45 children from dying of coronavirus. For every one child saved by the
   > shot, another 117 would be killed by the shot. The Pfizer mRNA shot fails any honest
@@ -194,7 +194,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Steve Kirsch**:
   We will kill 117 kids to save one child from dying from COVID in the 5 to 11 age range, 4.11.2021 <br/>
-  https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one
+  [https://stevekirsch.substack.com/p/we-will-kill-117-kids-to-save-one]()
   > This injection [Pfizer/BioNTech] for COVID-19 is NOT a vaccine (the vaccines do not stop
   > infection, transmission, severe COVID, hospitalization, or death); it is best described as a
   > gene manipulating platform. The mRNA shots has had disastrous results on laboratory test-animals
@@ -211,7 +211,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Egidius Schwarz**:
   Geimpfte können wahrscheinlich nie wieder volle Immunität erreichen, 28.12.2021 <br/>
-  https://www.theeuropean.de/egidius-schwarz/neue-studie-britische-gesundheitsbehoerde-warnt-geimpfte-koennten-dauerhaft-weniger-antikoerper-haben/
+  [https://www.theeuropean.de/egidius-schwarz/neue-studie-britische-gesundheitsbehoerde-warnt-geimpfte-koennten-dauerhaft-weniger-antikoerper-haben/]()
   > Wie aus der Studie aus Großbritanien hervorhebt, bedeutet dies, dass der Impfstoff die
   > körpereigene Fähigkeit beeinträchtigt, nach der Infektion Antikörper nicht nur gegen das
   > Spike-Protein, sondern auch gegen andere Teile des Virus zu produzieren. Das Schlimme an dem
@@ -222,7 +222,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 - **Dr. Toby Rogers**:
   Ten red flags in the FDA's risk-benefit analysis of Pfizer's EUA application to
   inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
-  https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit
+  [https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit]()
   > What the British are saying is they are now finding the vaccine interferes with your body’s
   > innate ability after infection to produce antibodies against not just the spike protein but
   > other pieces of the virus. Specifically, vaccinated people don’t seem to be producing antibodies
@@ -247,7 +247,7 @@ als Impffreiwilliger unterschreiben, daß der Hersteller keine Haftung für sein
 Wie diese Frage bei einer Zwangsimpfung beantwortet werden soll, ist noch völlig ungeklärt. Da die
 FDA die vormals geheimgehaltenen Dokumente von Pfizer jetzt veröffentlichen muß, kann man bei dem
 Thema Schadwirkung demnächst noch mehr Neues erwarten (Quelle:
-https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/).
+[https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/]()).
 Da würde ich definitiv wachsam bleiben.
 
 Das Interessanteste dabei ist: Man findet Kritik an den Impfstoffen. Man findet Schweigen, obwohl es

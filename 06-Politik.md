@@ -50,7 +50,7 @@ Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Ant
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Natürlich können
 Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkeit ist dann bedingt
 durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
-https://www.nachdenkseiten.de/?p=78885).
+[https://www.nachdenkseiten.de/?p=78885]()).
 
 Nächster Versuch: Vermeidung einer Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.745
@@ -61,32 +61,32 @@ es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der 
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
 sowie deren Auslastung (Quelle:
-https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/,
+[https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/](),
 Stand: 10.1.2022). Man sieht im Zusammenhang mit COVID-19 sind nie mehr als ein Viertel benötigt
 worden. Eine flächendeckende Überlastung des Gesundheitssystems durch SARS-CoV-2 ist nicht
 erkennbar. Deutschland ist im Vergleich zu anderen europäischen Ländern mit 26 Intensivbetten pro
 100.000 Einwohnern eigentlich auch gut aufgestellt. Die anderen Länder haben deutlich weniger zur
 Verfügung: Norwegen (8), Dänemark (7), Großbritannien (7), Niederlande (6) und Schweden (vor der
 Pandemie 6 jetzt 11) (Quelle:
-https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html).
+[https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html]()).
 Die Abbildung zeigt aber auch ein Rückgang während der Pandemie von 32.000 auf nunmehr 22.000 Betten
 (ein Drittel) bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und den Bedarf
 unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür sind
 vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
 neoliberale Privatisierungs- und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden
 (Quelle:
-https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter).
+[https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter]()).
 Und wo sind unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben? Gesundheitsminister
 Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts mehr schief gehen.
 Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
 schließen (Quelle:
-https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/).
+[https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/]()).
 Die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter als Heuchelei.
 
 Nächster Versuch: Zwangsmaßnahmen? Zur weiteren Verschlimmerung der Lage dürfte die bereits
 beschlossene Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich
 20-30% nicht geimpftes medizinisches Personal kündigt, möchte ich nicht erleben (Quelle:
-https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html).
+[https://www.welt.de/politik/deutschland/article236219718/Pflexit-40-Prozent-der-Pflegekraefte-erwaegen-ihren-Job-aufzugeben.html]()).
 Das dürfte auf den Bereich der Altenpflege ebenso zutreffen. Aber der Grund ist eben nicht ein
 spezielles Virus sondern die dämlichste Politik, die man sich vorstellen kann.
 
@@ -96,7 +96,7 @@ Dazu gibt es Studien:
 
 - **Eran Bendavid, Christopher Oh, Jay Bhattacharya, John P. A. Ioannidis**:
   Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19, 5.1.2021 <br/>
-  https://onlinelibrary.wiley.com/doi/10.1111/eci.13484
+  [https://onlinelibrary.wiley.com/doi/10.1111/eci.13484]()
   > In summary, we fail to find strong evidence supporting a role for more restrictive NPIs
   > [non-pharmaceutical interventions] in the control of COVID in early 2020. We do not question the
   > role of all public health interventions, or of coordinated communications about the epidemic,
@@ -108,7 +108,7 @@ Dazu gibt es Studien:
 
 - **Virat Agrawal, Jonathan H. Cantor, Neeraj Sood, Christopher M. Whaley**:
   The Impact of the COVID-19 Pandemic and Policy Responses on Excess Mortality, June 2021 <br/>
-  https://www.nber.org/papers/w28930
+  [https://www.nber.org/papers/w28930]()
   > We find that following the implementation of SIP policies [shelter-in-place], excess mortality
   > increases. The increase in excess mortality is statistically significant in the immediate weeks
   > following SIP implementation for the international comparison only and occurs despite the fact
@@ -131,13 +131,13 @@ begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die Tests
 zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe. Geimpfte werden
 vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine Infektionen
 verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
-https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993).
+[https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993]()).
 (Die echten Zahlen veröffentlichte das bayerische LGL natürlich erst nachdem die WELT AM SONNTAG
 juristische Schritte angekündigt hatte.)
 
 Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es einmal nicht funktioniert,
 dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
-https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html). Das heißt Geboosterte
+[https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html]()). Das heißt Geboosterte
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
 Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
 Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
@@ -147,7 +147,7 @@ kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
 
 Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
 fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html, Stand:
+[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html](), Stand:
 15.1.2022):
 > Die Dauer des Genesenenstatus wurde von 6 Monate auf 90 Tage reduziert, da die bisherige
 > wissenschaftliche Evidenz darauf hindeutet, dass Ungeimpfte nach einer durchgemachten Infektion
@@ -174,16 +174,16 @@ Strategiepapier des BMI finden:
 
 - **Bundesministerium des Inneren**:
   Wie wir COVID-19 unter Kontrolle bekommen, 28.4.2020 <br/>
-  https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html
+  [https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html]()
 - **FragDenStaat**:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
-  https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/
+  [https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/]()
 
 Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinen Staatssekretär Markus Kerber,
 Ökonom und früher Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
 „Gruppe von rund zehn Fachleuten“ verfasst, darunter Wissenschaftler des Instituts der deutschen
 Wirtschaft und vom RWI-Leibniz-Institut für Wirtschaftsforschung (Quelle:
-https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/). Es verwundert
+[https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/]()). Es verwundert
 also nicht, daß die offizielle Version erst dann zur Verfügung gestellt wurde, nachdem das Projekt
 [FragDenStaat](https://fragdenstaat.de) eine Vorabversion mit dem Zusatz „Nur für den
 Dienstgebrauch“ veröffentlicht hatte, während die deutschen Medien aus dem Papier auszugsweise
@@ -243,7 +243,7 @@ der Zweck unheilig.
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
 außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irreführende Werbung nach §
 3 Heilmittelwerbegesetz ohnehin (Quelle:
-https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html). Eine Irreführung liegt
+[https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html]()). Eine Irreführung liegt
 insbesondere dann vor,
 1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
@@ -291,7 +291,7 @@ wiederholt:
 
 - **Prof. Dr. Martin Kulldorff, Prof. Dr. Sunetra Gupta, Prof. Dr. Jay Bhattacharya**:
   Great Barrington Declaration, 4.10.2020 <br/>
-  https://gbdeclaration.org
+  [https://gbdeclaration.org]()
   > Die Great Barrington Erklärung
   >
   > Als Epidemiologen für Infektionskrankheiten und Wissenschaftler im Bereich des öffentlichen
@@ -353,7 +353,7 @@ wiederholt:
 
 Zuzüglich zu den Erstunterzeichnern, haben sich weitere 916.587 Unterzeichner der Deklaration
 angeschlossen, wovon 15.638 als „medical & public health scientists“ geführt werden (Quelle:
-https://gbdeclaration.org/view-signatures/, Stand: 15.1.2022).
+[https://gbdeclaration.org/view-signatures/](), Stand: 15.1.2022).
 
 Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
 tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
@@ -369,7 +369,7 @@ davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überl
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
 (Quelle:
-https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html).
+[https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html]()).
 Wie wäre es stattdessen mit keinem von beiden? Das wäre noch billiger, und so ließe sich ein
 Fachkräftemangel auch besser vermeiden.
 
@@ -377,9 +377,9 @@ Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? E
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
 Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
-(Quelle: https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/). Was wäre
-dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia zwingt
-einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
+(Quelle: [https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/]()). Was
+wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
+zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
 Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
 Immunologie hat sondern auch in Psychologie:
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
