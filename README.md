@@ -257,6 +257,7 @@ wären. Es spricht aber einiges dagegen:
    <https://www.heise.de/tp/features/Wer-zaehlt-als-Corona-Toter-5035504.html>). Das RKI schreibt in
    seiner FAQ dazu (Quelle: <https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html>, Stand:
    7.1.2022):
+
    > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
    > Infektion verstorben sind. Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
