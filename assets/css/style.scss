@@ -19,7 +19,15 @@
 }
 
 body, blockquote {
+  // Schriftgröße 15px => 17 px.
   font-size: 17px;
+}
+
+blockquote {
+  // Weniger Platzverschwendung.
+  margin-left:  20px;
+  margin-right: 20px;
+  padding-left: 20px;
 }
 
 table {
