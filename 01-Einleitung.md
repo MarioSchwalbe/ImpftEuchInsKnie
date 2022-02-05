@@ -3,7 +3,7 @@
 Warum ich ungeimpft bin!
 ========================
 
-<img src="images/IQTest.jpg" width="200" align="left" class="ImgFloatLeft">
+<img src="images/IQTest.jpg" width="250" align="left" class="ImgFloatLeft">
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
@@ -17,6 +17,7 @@ aus der Schule raus - aber wenn es sein muß, bitte sehr. Ich interpretiere die 
 Lerneffekt nicht zu kurz kommt. Wenn das erwünscht ist, kann dir vielleicht geholfen werden. Wenn
 nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 
+<br/>
 <br/>
 
 Einleitung
