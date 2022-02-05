@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 div.wrapper {
   max-width: calc(1000px - (30px * 2));
 }
@@ -12,3 +10,5 @@ div.wrapper {
     text-align: justify;
   }
 }
+
+@import "{{ site.theme }}";
