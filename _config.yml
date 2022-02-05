@@ -1,6 +1,5 @@
 # DOCS: https://docs.github.com/en/pages/
 # DOSS: https://github.com/jekyll/minima
 
-# theme: jekyll-theme-architect
-theme: minima
+theme: jekyll-theme-architect
 title: Sapere Aude
