@@ -584,7 +584,7 @@ ausatmen. Eine Begründung findet sich in:
   > natural infection rather than vaccination.
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
-schreibt dazu in seinem aktuellen Wochenbericht (Quelle:
+schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
 [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile)):
 
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
