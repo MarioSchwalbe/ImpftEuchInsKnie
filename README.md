@@ -3,7 +3,7 @@
 Warum ich ungeimpft bin!
 ========================
 
-<img src="images/IQTest.jpg" width="200" align="left" style="margin-right:20px">
+<img src="images/IQTest.jpg" width="200" align="left" style="margin-right:10px">
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
@@ -951,7 +951,7 @@ Die Rolle der Medien
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
-<img src="images/Fernseher.jpg" width="300">
+<img src="images/Fernseher.jpg" width="300" align="left" style="margin-right:10px">
 
 ### Bestandsaufnahme ###
 

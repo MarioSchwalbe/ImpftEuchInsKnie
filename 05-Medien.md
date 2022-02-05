@@ -7,7 +7,7 @@ Die Rolle der Medien
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
-<img src="images/Fernseher.jpg" width="300">
+<img src="images/Fernseher.jpg" width="300" align="left" style="margin-right:10px">
 
 ### Bestandsaufnahme ###
 
