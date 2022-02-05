@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-p {
-  text-align: justify;
+.page-content {
+  p {
+    text-align: justify;
+  }
 }
