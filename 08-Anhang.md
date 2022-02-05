@@ -36,6 +36,9 @@ Anhang
 - **Deutsche Gesellschaft für Pädiatrische Infektiologie**: PIMS Survey Update <br/>
   <https://dgpi.de/pims-survey-update/>
 
+- **Zusammen gegen Corona**: COVID-19-Impfdashboard <br/>
+  <https://impfdashboard.de>
+
 - **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
   <https://covid.cdc.gov/covid-data-tracker/>
 

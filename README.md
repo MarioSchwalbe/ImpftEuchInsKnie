@@ -33,7 +33,7 @@ Impfpflicht verweisen:
    <https://7argumente.de>
 
 2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
-   Standpunkt, 27.01.2022 <br/>
+   Standpunkt, 27.1.2022 <br/>
    <https://individuelle-impfentscheidung.de/standpunkt.html>
 
 3. **Ärzte stehen auf**:
@@ -214,7 +214,7 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 <img src="images/Todesfaelle.png" width="700">
 
-Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
+Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
 Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
@@ -238,19 +238,19 @@ Es zeigt sich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmed
 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
 tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
-Implikation noch immer lautet, daß das verhinderbar gewesen wäre, wenn nur alle geimpft gewesen
-wären. Es spricht aber einiges dagegen:
+Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
+gewesen wären. Es spricht aber einiges dagegen:
 
-1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests ohne
-   Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das ist grober Unfug.
-   Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für Kausalität, aber eben
-   nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als hinreichend verkauft. Das
-   ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und
-   führen deswegen den passenden Test durch. Da der Test positiv war, haben wir eine Antwort und
-   können aufhören zu denken. Weil wir aufgehört haben zu denken, bekommen wir unsere Einbildung
-   bestätigt. Was soll das? Ohne Ausschluß anderer Ursachen befähigt der Test nicht zu einer solchen
-   Schlußfolgerung. Nach der selben Logik könnte man stattdessen auch einen Herpestest machen und
-   dann jede Menge Herpestote klassifizieren.
+1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
+   Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
+   ist grober Unfug. Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für
+   Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
+   hinreichend verkauft. Das ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das
+   Virus gefährlich wäre und führen deswegen den passenden Test durch. Da der Test positiv war,
+   haben wir eine Antwort gefunden und können aufhören zu denken. Weil wir aufgehört haben zu
+   denken, bekommen wir unsere Einbildung bestätigt. Was soll das? Ohne Ausschluß anderer Ursachen
+   befähigt der Test nicht zu einer solchen Schlußfolgerung. Nach der selben Logik könnte man
+   stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
@@ -269,13 +269,14 @@ wären. Es spricht aber einiges dagegen:
    > liegt es immer im Ermessen des Gesundheitsamtes, ob ein Fall als verstorben an bzw. mit
    > COVID-19 ans RKI übermittelt wird oder nicht.
 
-   Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
+   Oder deutlich formuliert: Nichts genaues weiß man nicht. Das macht auch die üblicherweise
+   verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
 3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
    (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
    sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
    zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
-   der Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
+   einer Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
    ausgeblieben ist.
 
 4. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
@@ -289,9 +290,24 @@ wären. Es spricht aber einiges dagegen:
    Viren im Nationalen Referenzzentrum“ finden:
    <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
-Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
-zu 30% (Quelle: <https://www.presseportal.de/pm/9377/4840896>). Nach Prof. Bertram Häussler könnten
-bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
+Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der ZEIT wird die
+Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um bis zu 30%
+überschätzt. Ihre Erklärung hierfür lautet (Quelle: <https://www.presseportal.de/pm/9377/4840896>):
+
+> Verantwortlich für dieses Graufeld ist das deutsche Meldesystem: Alle neuen Patienten werden
+> systematisch bei der Aufnahme ins Krankenhaus auf das Virus getestet und bei einem positiven
+> Befund über das Gesundheitsamt an das Robert Koch-Institut gemeldet. Für die Krankenhäuser selbst
+> ist die Unterscheidung nicht erheblich: Ein Corona-Patient muss, ob er nun mit oder wegen Corona
+> behandelt wird, in ein Isolierzimmer verlegt werden. Pfleger und Ärzte müssen sich bei seiner
+> Behandlung besonders schützen. Politisch aber ist die Zahl der schweren Corona-Verläufe ein
+> wichtiger Indikator.
+>
+> „Auf Grundlage der Schätzung einzelner Kliniken kann ein evidenzbasiertes Institut keine
+> Bereinigung von Fällen vornehmen,“ sagt das RKI auf Anfrage der ZEIT. Das harte Kriterium sei ein
+> positiver PCR-Test.
+
+Nach Prof. Dr. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
+Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
@@ -313,8 +329,8 @@ Todesursachen keine signifikante Übersterblichkeit:
 
 ### Akute Atemwegserkrankungen (ARE) ###
 
-Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch die
-entsprechende Einordnung vornehmen.
+Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
+natürlich die entsprechende Einordnung vornehmen.
 
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
@@ -350,6 +366,9 @@ SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Gri
 empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Intensivbelegung ###
+
+Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
+Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
 
 <img src="images/BelegungErwachsene.png" width="49%"> <img src="images/BelegungKinder.png" width="49%">
 
@@ -393,12 +412,13 @@ Quellen:
 
 Die Tabelle enthält den Durchschnitt über alle Altersgruppen, und das sieht gut aus. Warum die
 Hospitalisierungsrate in Deutschland höher liegt als in England und Dänemark kann ich nicht
-erklären. In beiden Ländern ist Omikron bereits dominant. In Deutschland liegt die Verbreitung erst
-bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information: Zu den 126.223
-Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
-Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark (Quelle:
+erklären. In beiden Ländern ist die Omikronvariante bereits dominant. In Deutschland liegt die
+Verbreitung erst bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information:
+Zu den 126.223 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330
+(0,7%) bei. Die Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark
+(Quelle:
 <https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html>).
-Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
+Die Deutsche Gesellschaft für Pädiatrische Infektiologie schlußfolgert zu Omikron (Quelle:
 <https://dgpi.de/kinder-omikron-variante/>, Stand: 29.12.2021):
 
 > Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
@@ -409,12 +429,12 @@ Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (
 > in Deutschland verdrängen. Die Erkrankungsschwere liegt nach neuen Erkenntnissen allerdings in
 > allen Altersgruppen deutlich unter der der Delta-Variante.
 
-Erste Studien sind auch bereits verfügbar (Pre-Print):
+Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
   in southern California, 11.1.2022 <br/>
-  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text>
+  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
   > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
@@ -432,10 +452,11 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
-jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
-Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
-Virus und der verursachten Erkrankung finden sich unter: <https://corona-reframed.de>.
+Wie es aussieht enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
+Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die
+nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
+aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:
+<https://corona-reframed.de>.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Wirksamkeit der Impfung
@@ -443,7 +464,7 @@ Wirksamkeit der Impfung
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
 Weiteransteckung (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
-Infektionsgeschehen nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch
+Infektionsgeschehen nicht mehr teil.“ (Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch
 wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
@@ -474,10 +495,10 @@ denkt, entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die
 Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
 (162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
 Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
-Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet.
-Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
-nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
-bietet der Artikel von Multipolar (Quelle:
+Vaccinate, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA
+richtet. Das bedeutet insbesondere auch, daß ein Nachweis eines Schutzes vor Infektion oder
+Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine
+gute Erklärung bietet der Artikel von Multipolar (Quelle:
 <https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen>).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -518,7 +539,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
-  <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text>
+  <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full>
   > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
   > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
   > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
@@ -581,9 +602,9 @@ ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann
 <img src="images/Omikronfaelle.png" width="800">
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
-Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12%. Der Anteil symptomatischer Fälle beträgt
-44,1%/14,6%/13,2%, der Anteil hospitalisierter Fälle 40,0%/23,0%/27,9%. Konsequenterweise schreibt
-das RKI auch (Quelle: selber Bericht):
+Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
+symptomatischen Fällen beträgt 44,1%/14,6%/13,2%, der Anteil an hospitalisierten Fällen
+40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
 > beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
@@ -658,10 +679,10 @@ Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verab
 Impfpflicht zunächst überlegen was man eigentlich damit erreichen will. Ich fasse zusammen: Gerade
 jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben Impfstoffe, die nicht
 an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen wir
-Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei der
-Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein paar
-Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt ist?
-Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
+überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei
+der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein
+paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt
+ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
 Motivation auch nicht besonders.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
@@ -1005,8 +1026,8 @@ antwortete darauf:
 > neo-conservative view of the role of the press in a free society.
 
 Das war damals möglicherweise noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in
-den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
-Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist von essentieller Wichtigkeit
+(Quelle: Noam Chomsky, The Common Good, Odonian Press, 1998, p. 43):
 
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
@@ -1059,22 +1080,22 @@ Vielleicht wird es langsam besser. Wenn wir Glück haben ist der Spuk bald vorbe
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
 
 - **Tim Röhn, Benjamin Stibi**:
-  Die große Verzerrung der bayerischen Corona-Daten, 09.01.2022 <br/>
+  Die große Verzerrung der bayerischen Corona-Daten, 8.1.2022 <br/>
   <https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html>
   > Neue Daten belegen, dass Bayerns Ministerpräsident Söder (CSU) wiederholt viel zu hohe
   > Inzidenzen für Ungeimpfte nannte.
 
 - **Elke Bodderas**:
-  Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
+  Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 10.1.2022 <br/>
   <https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html>
   > Deutschland müsse in der Pandemiebekämpfung endlich dem Beispiel jener Länder folgen, die den
   > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
   > Forderungen.
 
-Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
+Eine dänische Zeitung hat sich bereits bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
 nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
 <https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013>). Gut, es handelt sich um ein
-Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für die
+Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für diese
 Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
 zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
@@ -1161,7 +1182,7 @@ Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nich
 Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
 schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
-Es wäre wesentlich solidarischer dem schwedischem Beispiel zu folgen und die Kapazitäten zu erhöhen
+Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
 statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
 als Heuchelei.
 
@@ -1223,12 +1244,12 @@ dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
 Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
 Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
-Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht im Restaurant
-essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften ausschließen
-kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
+Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht als Gast im
+Restaurant essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften
+ausschließen kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
 
 Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
-fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
+fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund genauer (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
 
@@ -1243,9 +1264,9 @@ Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvaria
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
 vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt Genesene bei
-unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird dabei, daß eine natürliche
-Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
-und somit wesentlich effektiver bei neuen Varianten schützen kann.
+unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche Immunität
+Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet und somit
+wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -1264,10 +1285,10 @@ Strategiepapier des BMI finden:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
   <https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/>
 
-Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinen Staatssekretär Markus Kerber,
-Ökonom und früher Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
+Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinem Staatssekretär Markus Kerber,
+Ökonom und früherer Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
 „Gruppe von rund zehn Fachleuten“ verfasst, darunter Wissenschaftler des Instituts der deutschen
-Wirtschaft und vom RWI-Leibniz-Institut für Wirtschaftsforschung (Quelle:
+Wirtschaft und des RWI-Leibniz-Instituts für Wirtschaftsforschung (Quelle:
 <https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/>). Es verwundert
 also nicht, daß die offizielle Version erst dann zur Verfügung gestellt wurde, nachdem das Projekt
 [FragDenStaat](https://fragdenstaat.de) eine Vorabversion mit dem Zusatz „Nur für den
@@ -1320,25 +1341,26 @@ sachliche nicht-reißerische Informationen zum Thema zu verstehen. Aber in Anbet
 Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließlich gestattet sein.
 Interessanterweise wird in dem Strategiepapier an anderen Stellen mehrmals eine staatliche
 Aufklärungs- und Informationskampagne gefordert, wogegen grundsätzlich nichts einzuwenden wäre.
-Aufklärung setzt allerdings Wahrheit voraus. Wenn man dagegen wichtige zwischenzeitlich verfügbare
-Informationen \- Gefährlichkeit des Viruses, mangelnde Wirksamkeit der Impfung oder Gefährlichkeit
-der Impfung \- verschweigt, verwandelt sich die ursprüngliche Aufklärungskampagne langsam in eine
-Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist
-der Zweck unheilig.
+Aufklärung setzt allerdings Sachlichkeit und Wahrheit voraus. Wenn man dagegen nur Angst schürt und
+wichtige zwischenzeitlich verfügbare Informationen \- Gefährlichkeit des Viruses, mangelnde
+Wirksamkeit der Impfung oder Gefährlichkeit der Impfung \- verschweigt, verwandelt sich die
+Aufklärungskampagne langsam in eine Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der
+Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
-außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irreführende Werbung nach §
-3 Heilmittelwerbegesetz ohnehin (Quelle:
+außerhalb von Fachkreisen eigentlich nicht erlaubt. Grundsätzlich unzulässig ist eine irreführende
+Werbung nach § 3 Heilmittelwerbegesetz ohnehin (Quelle:
 <https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html>). Eine Irreführung liegt
 insbesondere dann vor,
 1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
-   anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
-   haben,
+   anderen Mitteln _eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
+   haben_,
 2. wenn fälschlich der Eindruck erweckt wird, daß
-   1. ein Erfolg mit Sicherheit erwartet werden kann,
-   2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
+   1. _ein Erfolg mit Sicherheit erwartet werden kann_,
+   2. _bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten_,
+   3. _die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird_.
 
 Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
 Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
@@ -1367,7 +1389,7 @@ beispielsweise:
   guidelines: A practical approach to home-based care for healthy
   families](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/).
 
-Demzufolge ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
+Dementsprechend ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
 20/188](https://dserver.bundestag.de/btd/20/001/2000188.pdf), mit dem die Impfpflicht im
 medizinischen Bereich beschlossen wurde, auch nur als dreiste Lüge der Regierungskoalition zu
 bewerten.
@@ -1480,7 +1502,7 @@ Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte
 der Ampelkoalition erst noch legalisiert werden. Nach 2 Jahren freiwilliger Erkenntnisisolation in
 der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
 Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
-Offensichtlich ist Beförderung in der Politik nicht mehr an Kompetenz gebunden.
+Ganz offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
@@ -1490,12 +1512,12 @@ Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waa
 Fazit
 -----
 
-> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
-
 ```text
 Aktennotiz:
 Dieses Kapitel ist nicht eigenständig und kann nicht losgelöst von den anderen 5 Kapiteln betrachtet werden.
 ```
+
+> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
 
 ### Big Business ###
 
@@ -1939,6 +1961,9 @@ Anhang
 
 - **Deutsche Gesellschaft für Pädiatrische Infektiologie**: PIMS Survey Update <br/>
   <https://dgpi.de/pims-survey-update/>
+
+- **Zusammen gegen Corona**: COVID-19-Impfdashboard <br/>
+  <https://impfdashboard.de>
 
 - **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
   <https://covid.cdc.gov/covid-data-tracker/>

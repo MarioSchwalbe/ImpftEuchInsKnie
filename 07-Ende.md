@@ -3,12 +3,12 @@
 Fazit
 -----
 
-> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
-
 ```text
 Aktennotiz:
 Dieses Kapitel ist nicht eigenständig und kann nicht losgelöst von den anderen 5 Kapiteln betrachtet werden.
 ```
+
+> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
 
 ### Big Business ###
 

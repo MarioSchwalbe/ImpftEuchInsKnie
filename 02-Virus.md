@@ -118,7 +118,7 @@ Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer no
 
 <img src="images/Todesfaelle.png" width="700">
 
-Die Abbildung zeigt die Todesfälle im Zusammenhang mit COVID-19 in Deutschland basierend auf den
+Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
 Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
@@ -142,19 +142,19 @@ Es zeigt sich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmed
 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
 tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
-Implikation noch immer lautet, daß das verhinderbar gewesen wäre, wenn nur alle geimpft gewesen
-wären. Es spricht aber einiges dagegen:
+Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
+gewesen wären. Es spricht aber einiges dagegen:
 
-1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests ohne
-   Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das ist grober Unfug.
-   Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für Kausalität, aber eben
-   nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als hinreichend verkauft. Das
-   ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das Virus gefährlich wäre und
-   führen deswegen den passenden Test durch. Da der Test positiv war, haben wir eine Antwort und
-   können aufhören zu denken. Weil wir aufgehört haben zu denken, bekommen wir unsere Einbildung
-   bestätigt. Was soll das? Ohne Ausschluß anderer Ursachen befähigt der Test nicht zu einer solchen
-   Schlußfolgerung. Nach der selben Logik könnte man stattdessen auch einen Herpestest machen und
-   dann jede Menge Herpestote klassifizieren.
+1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
+   Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
+   ist grober Unfug. Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für
+   Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
+   hinreichend verkauft. Das ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das
+   Virus gefährlich wäre und führen deswegen den passenden Test durch. Da der Test positiv war,
+   haben wir eine Antwort gefunden und können aufhören zu denken. Weil wir aufgehört haben zu
+   denken, bekommen wir unsere Einbildung bestätigt. Was soll das? Ohne Ausschluß anderer Ursachen
+   befähigt der Test nicht zu einer solchen Schlußfolgerung. Nach der selben Logik könnte man
+   stattdessen auch einen Herpestest machen und dann jede Menge Herpestote klassifizieren.
 
 2. Daß das RKI nicht zwischen „an“ (Hauptdiagnose) und „mit“ (Nebendiagnose) COVID-19 unterscheidet,
    wurde zwischenzeitlich auch eingeräumt (Quelle:
@@ -173,13 +173,14 @@ wären. Es spricht aber einiges dagegen:
    > liegt es immer im Ermessen des Gesundheitsamtes, ob ein Fall als verstorben an bzw. mit
    > COVID-19 ans RKI übermittelt wird oder nicht.
 
-   Das macht auch die üblicherweise verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
+   Oder deutlich formuliert: Nichts genaues weiß man nicht. Das macht auch die üblicherweise
+   verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
 3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
    (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
    sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
    zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
-   der Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
+   einer Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
    ausgeblieben ist.
 
 4. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
@@ -193,9 +194,24 @@ wären. Es spricht aber einiges dagegen:
    Viren im Nationalen Referenzzentrum“ finden:
    <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
-Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der Zeit um bis
-zu 30% (Quelle: <https://www.presseportal.de/pm/9377/4840896>). Nach Prof. Bertram Häussler könnten
-bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere Ursachen der Grund sein (Quelle:
+Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der ZEIT wird die
+Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um bis zu 30%
+überschätzt. Ihre Erklärung hierfür lautet (Quelle: <https://www.presseportal.de/pm/9377/4840896>):
+
+> Verantwortlich für dieses Graufeld ist das deutsche Meldesystem: Alle neuen Patienten werden
+> systematisch bei der Aufnahme ins Krankenhaus auf das Virus getestet und bei einem positiven
+> Befund über das Gesundheitsamt an das Robert Koch-Institut gemeldet. Für die Krankenhäuser selbst
+> ist die Unterscheidung nicht erheblich: Ein Corona-Patient muss, ob er nun mit oder wegen Corona
+> behandelt wird, in ein Isolierzimmer verlegt werden. Pfleger und Ärzte müssen sich bei seiner
+> Behandlung besonders schützen. Politisch aber ist die Zahl der schweren Corona-Verläufe ein
+> wichtiger Indikator.
+>
+> „Auf Grundlage der Schätzung einzelner Kliniken kann ein evidenzbasiertes Institut keine
+> Bereinigung von Fällen vornehmen,“ sagt das RKI auf Anfrage der ZEIT. Das harte Kriterium sei ein
+> positiver PCR-Test.
+
+Nach Prof. Dr. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
+Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
@@ -217,8 +233,8 @@ Todesursachen keine signifikante Übersterblichkeit:
 
 ### Akute Atemwegserkrankungen (ARE) ###
 
-Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir auch die
-entsprechende Einordnung vornehmen.
+Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
+natürlich die entsprechende Einordnung vornehmen.
 
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
@@ -254,6 +270,9 @@ SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Gri
 empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Intensivbelegung ###
+
+Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
+Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
 
 <img src="images/BelegungErwachsene.png" width="49%"> <img src="images/BelegungKinder.png" width="49%">
 
@@ -297,12 +316,13 @@ Quellen:
 
 Die Tabelle enthält den Durchschnitt über alle Altersgruppen, und das sieht gut aus. Warum die
 Hospitalisierungsrate in Deutschland höher liegt als in England und Dänemark kann ich nicht
-erklären. In beiden Ländern ist Omikron bereits dominant. In Deutschland liegt die Verbreitung erst
-bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information: Zu den 126.223
-Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330 (0,7%) bei. Die
-Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark (Quelle:
+erklären. In beiden Ländern ist die Omikronvariante bereits dominant. In Deutschland liegt die
+Verbreitung erst bei 20%. Der dänische Bericht enthält noch eine weitere interessante Information:
+Zu den 126.223 Krankenhauseinweisungen mit bekannter SARS-CoV-2-Variante trägt Omikron nur 330
+(0,7%) bei. Die Direktorin des SSI prognostiziert daher bereits das Ende der Pandemie in Dänemark
+(Quelle:
 <https://www.rnd.de/politik/corona-pandemie-in-zwei-monaten-vorbei-daenische-top-epidemiologin-tyra-grove-krause-geht-davon-aus-UALXWIDB4JF3LHF4O6ETO5K2QA.html>).
-Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (Quelle:
+Die Deutsche Gesellschaft für Pädiatrische Infektiologie schlußfolgert zu Omikron (Quelle:
 <https://dgpi.de/kinder-omikron-variante/>, Stand: 29.12.2021):
 
 > Die Erfahrung auch aus den vorherigen Pandemiewellen mit den Varianten Alpha und Delta lehrt, dass
@@ -313,12 +333,12 @@ Die Deutsche Gesellschaft für Pädiatrische Infektiologie schreibt zu Omikron (
 > in Deutschland verdrängen. Die Erkrankungsschwere liegt nach neuen Erkenntnissen allerdings in
 > allen Altersgruppen deutlich unter der der Delta-Variante.
 
-Erste Studien sind auch bereits verfügbar (Pre-Print):
+Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
   in southern California, 11.1.2022 <br/>
-  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full-text>
+  <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
   > (1.3%) of cases with Omicron and Delta variant infections, respectively. Among cases first
@@ -336,7 +356,8 @@ Erste Studien sind auch bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Das neue hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Das ganze Thema ist
-jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die nachfolgenden
-Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön aufbereitete Fakten zum
-Virus und der verursachten Erkrankung finden sich unter: <https://corona-reframed.de>.
+Wie es aussieht enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
+Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die
+nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
+aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:
+<https://corona-reframed.de>.

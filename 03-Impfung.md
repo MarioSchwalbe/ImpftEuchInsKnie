@@ -5,7 +5,7 @@ Wirksamkeit der Impfung
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
 Weiteransteckung (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
-Infektionsgeschehen nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch
+Infektionsgeschehen nicht mehr teil.“ (Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch
 wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
@@ -36,10 +36,10 @@ denkt, entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die
 Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
 (162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
 Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
-Vaccinate, NNTV=100/0,71=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA richtet.
-Das bedeutet insbesondere auch, daß der Beweis eines Schutzes vor Infektion oder Transmission gar
-nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine gute Erklärung
-bietet der Artikel von Multipolar (Quelle:
+Vaccinate, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA
+richtet. Das bedeutet insbesondere auch, daß ein Nachweis eines Schutzes vor Infektion oder
+Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine
+gute Erklärung bietet der Artikel von Multipolar (Quelle:
 <https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen>).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -80,7 +80,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
-  <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full-text>
+  <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full>
   > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
   > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
   > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
@@ -143,9 +143,9 @@ ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann
 <img src="images/Omikronfaelle.png" width="800">
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
-Altersgruppen (außer 5-11 Jahre) beträgt 40%/22%/12%. Der Anteil symptomatischer Fälle beträgt
-44,1%/14,6%/13,2%, der Anteil hospitalisierter Fälle 40,0%/23,0%/27,9%. Konsequenterweise schreibt
-das RKI auch (Quelle: selber Bericht):
+Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
+symptomatischen Fällen beträgt 44,1%/14,6%/13,2%, der Anteil an hospitalisierten Fällen
+40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
 > beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
@@ -220,8 +220,8 @@ Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verab
 Impfpflicht zunächst überlegen was man eigentlich damit erreichen will. Ich fasse zusammen: Gerade
 jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben Impfstoffe, die nicht
 an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen wir
-Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei der
-Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein paar
-Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt ist?
-Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
+überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei
+der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein
+paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt
+ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
 Motivation auch nicht besonders.

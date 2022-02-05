@@ -33,7 +33,7 @@ Impfpflicht verweisen:
    <https://7argumente.de>
 
 2. **Ärztinnen und Ärzte für individuelle Impfentscheidung**:
-   Standpunkt, 27.01.2022 <br/>
+   Standpunkt, 27.1.2022 <br/>
    <https://individuelle-impfentscheidung.de/standpunkt.html>
 
 3. **Ärzte stehen auf**:

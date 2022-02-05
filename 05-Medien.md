@@ -82,8 +82,8 @@ antwortete darauf:
 > neo-conservative view of the role of the press in a free society.
 
 Das war damals möglicherweise noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in
-den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
-Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist von essentieller Wichtigkeit
+(Quelle: Noam Chomsky, The Common Good, Odonian Press, 1998, p. 43):
 
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
@@ -136,21 +136,21 @@ Vielleicht wird es langsam besser. Wenn wir Glück haben ist der Spuk bald vorbe
 Journalisten schaffen es, ihr Handwerk wieder zu entdecken. Einige haben schon damit begonnen:
 
 - **Tim Röhn, Benjamin Stibi**:
-  Die große Verzerrung der bayerischen Corona-Daten, 09.01.2022 <br/>
+  Die große Verzerrung der bayerischen Corona-Daten, 8.1.2022 <br/>
   <https://www.welt.de/politik/deutschland/plus236105812/Soeders-falsche-Zahlen-Grosse-Verzerrung-von-Bayerns-Corona-Daten.html>
   > Neue Daten belegen, dass Bayerns Ministerpräsident Söder (CSU) wiederholt viel zu hohe
   > Inzidenzen für Ungeimpfte nannte.
 
 - **Elke Bodderas**:
-  Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 9.1.2022 <br/>
+  Ex-Charité-Chefvirologe fordert Rückkehr zur Normalität für die Jüngsten, 10.1.2022 <br/>
   <https://www.welt.de/politik/deutschland/plus236119126/Offener-Brief-Ex-Charite-Chefvirologe-fordert-Rueckkehr-zur-Normalitaet-fuer-die-Juengsten.html>
   > Deutschland müsse in der Pandemiebekämpfung endlich dem Beispiel jener Länder folgen, die den
   > Bedürfnissen von Kindern und Jugendlichen eine hohe Priorität einräumen, heißt es in den
   > Forderungen.
 
-Eine dänische Zeitung hat sich schon bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
+Eine dänische Zeitung hat sich bereits bei ihrem Volk dafür entschuldigt, nur willfährig Behörden
 nachgeplappert zu haben. Der Titel des Artikels: „Vi fejlede“ (dt. „Wir haben versagt“) (Quelle:
 <https://ekstrabladet.dk/nyheder/lederen/vi-fejlede/9072013>). Gut, es handelt sich um ein
-Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für die
+Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein großer Schritt für diese
 Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
 zuletzt. Ansonsten bleiben uns ja noch die Fake-News.

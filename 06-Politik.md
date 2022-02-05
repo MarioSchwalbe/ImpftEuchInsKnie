@@ -82,7 +82,7 @@ Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nich
 Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
 schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
-Es wäre wesentlich solidarischer dem schwedischem Beispiel zu folgen und die Kapazitäten zu erhöhen
+Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
 statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
 als Heuchelei.
 
@@ -144,12 +144,12 @@ dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (
 brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
 Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
 Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
-Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht im Restaurant
-essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften ausschließen
-kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
+Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht als Gast im
+Restaurant essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften
+ausschließen kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
 
 Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
-fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
+fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund genauer (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
 
@@ -164,9 +164,9 @@ Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvaria
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
 vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt Genesene bei
-unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird dabei, daß eine natürliche
-Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
-und somit wesentlich effektiver bei neuen Varianten schützen kann.
+unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche Immunität
+Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet und somit
+wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -185,10 +185,10 @@ Strategiepapier des BMI finden:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
   <https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/>
 
-Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinen Staatssekretär Markus Kerber,
-Ökonom und früher Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
+Das Papier wurde laut FAZ im Auftrag von Horst Seehofer unter seinem Staatssekretär Markus Kerber,
+Ökonom und früherer Hauptgeschäftsführer des Bundesverbandes der Deutschen Industrie, von einer
 „Gruppe von rund zehn Fachleuten“ verfasst, darunter Wissenschaftler des Instituts der deutschen
-Wirtschaft und vom RWI-Leibniz-Institut für Wirtschaftsforschung (Quelle:
+Wirtschaft und des RWI-Leibniz-Instituts für Wirtschaftsforschung (Quelle:
 <https://zeitung.faz.net/faz/politik/2020-04-02/f8e7cfb89e5590d367435a9fa8a0a702/>). Es verwundert
 also nicht, daß die offizielle Version erst dann zur Verfügung gestellt wurde, nachdem das Projekt
 [FragDenStaat](https://fragdenstaat.de) eine Vorabversion mit dem Zusatz „Nur für den
@@ -241,25 +241,26 @@ sachliche nicht-reißerische Informationen zum Thema zu verstehen. Aber in Anbet
 Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließlich gestattet sein.
 Interessanterweise wird in dem Strategiepapier an anderen Stellen mehrmals eine staatliche
 Aufklärungs- und Informationskampagne gefordert, wogegen grundsätzlich nichts einzuwenden wäre.
-Aufklärung setzt allerdings Wahrheit voraus. Wenn man dagegen wichtige zwischenzeitlich verfügbare
-Informationen \- Gefährlichkeit des Viruses, mangelnde Wirksamkeit der Impfung oder Gefährlichkeit
-der Impfung \- verschweigt, verwandelt sich die ursprüngliche Aufklärungskampagne langsam in eine
-Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist
-der Zweck unheilig.
+Aufklärung setzt allerdings Sachlichkeit und Wahrheit voraus. Wenn man dagegen nur Angst schürt und
+wichtige zwischenzeitlich verfügbare Informationen \- Gefährlichkeit des Viruses, mangelnde
+Wirksamkeit der Impfung oder Gefährlichkeit der Impfung \- verschweigt, verwandelt sich die
+Aufklärungskampagne langsam in eine Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der
+Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
-außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irreführende Werbung nach §
-3 Heilmittelwerbegesetz ohnehin (Quelle:
+außerhalb von Fachkreisen eigentlich nicht erlaubt. Grundsätzlich unzulässig ist eine irreführende
+Werbung nach § 3 Heilmittelwerbegesetz ohnehin (Quelle:
 <https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html>). Eine Irreführung liegt
 insbesondere dann vor,
 1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
-   anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
-   haben,
+   anderen Mitteln _eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
+   haben_,
 2. wenn fälschlich der Eindruck erweckt wird, daß
-   1. ein Erfolg mit Sicherheit erwartet werden kann,
-   2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
+   1. _ein Erfolg mit Sicherheit erwartet werden kann_,
+   2. _bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten_,
+   3. _die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird_.
 
 Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
 Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
@@ -288,7 +289,7 @@ beispielsweise:
   guidelines: A practical approach to home-based care for healthy
   families](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/).
 
-Demzufolge ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
+Dementsprechend ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
 20/188](https://dserver.bundestag.de/btd/20/001/2000188.pdf), mit dem die Impfpflicht im
 medizinischen Bereich beschlossen wurde, auch nur als dreiste Lüge der Regierungskoalition zu
 bewerten.
@@ -401,7 +402,7 @@ Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte
 der Ampelkoalition erst noch legalisiert werden. Nach 2 Jahren freiwilliger Erkenntnisisolation in
 der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
 Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
-Offensichtlich ist Beförderung in der Politik nicht mehr an Kompetenz gebunden.
+Ganz offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
