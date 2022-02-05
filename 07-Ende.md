@@ -181,6 +181,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
    die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
    auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferon.
+
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
@@ -190,21 +191,27 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    nicht für die Verwendung am oder im Menschen zugelassen, sondern ausschließlich für
    Forschungszwecke bestimmt. Ohne immanente Notlage kann man auf derartige Experimente durchaus
    verzichten.
+
 3. Qualitätssicherungsprozesse in der Herstellung wurden implementiert und unabhängig geprüft.
    Etwaige gefundene Mängel wurden behoben. Die obigen Punkte sind wahrlich keine überzogenen
    Anforderungen, sondern in anderen Branchen normaler Standard.
+
 4. Die Impfstoffe haben ihre Praxistauglichkeit unter Beweis gestellt und halten ihre
    Werbeversprechen von 95-prozentiger Effektivität. Insbesondere einen Schutz vor Transmission
    sollten sie bieten, um das Argument der Impfung aus Solidarität wirksam werden zu lassen. Das
    wäre bei einem saisonal auftretendem Virus frühestens nach dem nächsten Winter, also im Frühjahr
    2023, der Fall.
+
 5. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Viruses
    vernachlässigbar. Das Virus hat mit der Omikronvariante die Gefährlichkeit einer Grippe
    unterschritten, d.h. Nebenwirkungen dürften praktisch nicht vorhanden sein.
+
 6. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
+
 7. Es handelt sind um einen klassischen Totimpfstoff ohne neuartige unausgereifte Technologien.
+
 8. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
    sind. Dies würde dann die nächsten 10 Jahre in Anspruch nehmen.
 

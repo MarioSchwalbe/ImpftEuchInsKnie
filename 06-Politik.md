@@ -216,11 +216,13 @@ Strategie des Schocks empfehlen:
 >    sterben qualvoll um Luft ringend zu Hause. Das Ersticken oder nicht genug Luft kriegen ist für
 >    jeden Menschen eine Urangst. Die Situation, in der man nichts tun kann, um in Lebensgefahr
 >    schwebenden Angehörigen zu helfen, ebenfalls. Die Bilder aus Italien sind verstörend.
+>
 > 2. "Kinder werden kaum unter der Epidemie leiden": Falsch. Kinder werden sich leicht anstecken,
 >    selbst bei Ausgangsbeschränkungen, z.B. bei den Nachbarskindern. Wenn sie dann ihre Eltern
 >    anstecken, und einer davon qualvoll zu Hause stirbt und sie das Gefühl haben, Schuld daran zu
 >    sein, weil sie z.B. vergessen haben, sich nach dem Spielen die Hände zu waschen, ist es das
 >    Schrecklichste, was ein Kind je erleben kann.
+>
 > 3. Folgeschäden: Auch wenn wir bisher nur Berichte über einzelne Fälle haben, zeichnen sie doch
 >    ein alarmierendes Bild. Selbst anscheinend Geheilte nach einem milden Verlauf können
 >    anscheinend jederzeit Rückfälle erleben, die dann ganz plötzlich tödlich enden, durch
