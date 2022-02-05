@@ -951,9 +951,9 @@ Die Rolle der Medien
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
-<img src="images/Fernseher.jpg" width="300" align="left" style="margin-right:10px;margin-bottom:10px">
-
 ### Bestandsaufnahme ###
+
+<img src="images/Fernseher.jpg" width="300" align="left" style="margin-right:10px;margin-bottom:10px">
 
 Im Ernst. Trigger Warning. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt.
 Ich bitte darum folgenden Artikel vollständig zu lesen:
