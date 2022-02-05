@@ -3,12 +3,7 @@
 
 @import "{{ site.theme }}";
 
-// @media only screen and (min-width: 960px) {
-//   .inner {
-//     width: 1000px;
-//   }
-// }
-
+// Text volle Breite, Sidebar aus.
 #main-content {
   width: 100%;
 }
@@ -18,10 +13,17 @@
 }
 
 .ImgFloatLeft {
-  margin-right:  10px;
-  margin-bottom: 10px;
+  // Extra Spacing neben Bildern.
+  margin-right:  20px;
+  margin-bottom: 20px;
+}
+
+table {
+  // Normal paragraph spacing after tables.
+  margin-bottom: 20px;
 }
 
 p {
+  // Blocksatz.
   text-align: justify;
 }
