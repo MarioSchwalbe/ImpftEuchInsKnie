@@ -76,9 +76,9 @@ der deutsche Ethikrat zu diesem Thema zustande bringt.
 Konsonantenkombination „mpfpf“ und ist dabei auch noch ernst gemeint.)
 
 In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksichtigen:
-1. Wie gefährlich ist das Virus?
-2. Wie wirksam sind die Maßnahmen, insbesondere die Impfung?
-3. Welche Nachteile bringen die Maßnahmen mit sich?
+1. [Wie gefährlich ist das Virus](#gefährlichkeit-des-viruses)?
+2. [Wie wirksam sind die Maßnahmen, insbesondere die Impfung](#wirksamkeit-der-impfung)?
+3. [Welche Nachteile bringen die Maßnahmen mit sich](#schadwirkung-der-impfung)?
 
 Jeder vernünftige Ingenieur würde darauf aufbauend die beste Lösung zu finden versuchen. Ganz im
 Gegensatz zum von Anfang an propagierten Mantra der Politik, daß nur die Impfung - am besten der
