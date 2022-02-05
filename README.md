@@ -23,6 +23,8 @@ nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 Einleitung
 ----------
 
+Dummy.
+
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
