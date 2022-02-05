@@ -404,10 +404,10 @@ die verfügbaren Daten bereits zulassen:
 Quellen:
 - **Robert Koch-Institut**:
   Tägliche Übersicht zu Omikron-Fällen vom 07. Januar 2022 <br/>
-  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
+  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile)
 - **UK Health Security Agency**:
   Omicron daily overview: 31 December 2021 <br/>
-  <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf>
+  [https://assets.publishing.service.gov.uk/.../20211231_OS_Daily_Omicron_Overview.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf)
 - **Statens Serum Institute**:
   Covid-19 Rapport om omikronvarianten, 31.12.2021 <br/>
   <https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18>
@@ -585,7 +585,7 @@ ausatmen. Eine Begründung findet sich in:
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht (Quelle:
-<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>):
+[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile)):
 
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
@@ -1974,9 +1974,6 @@ Anhang
 
 - **Robert Koch-Institut**: Wochenberichte zu COVID-19 <br/>
   <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html>
-
-- **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>
-  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
 
 - **UK Health Security Agency**: COVID-19: Omicron daily overview <br/>
   <https://www.gov.uk/government/publications/covid-19-omicron-daily-overview>

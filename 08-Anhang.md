@@ -47,9 +47,6 @@ Anhang
 - **Robert Koch-Institut**: Wochenberichte zu COVID-19 <br/>
   <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html>
 
-- **Robert Koch-Institut**: Tägliche Übersicht zu Omikron-Fällen <br/>
-  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
-
 - **UK Health Security Agency**: COVID-19: Omicron daily overview <br/>
   <https://www.gov.uk/government/publications/covid-19-omicron-daily-overview>
 

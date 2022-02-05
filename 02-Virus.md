@@ -306,10 +306,10 @@ die verfügbaren Daten bereits zulassen:
 Quellen:
 - **Robert Koch-Institut**:
   Tägliche Übersicht zu Omikron-Fällen vom 07. Januar 2022 <br/>
-  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile>
+  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile)
 - **UK Health Security Agency**:
   Omicron daily overview: 31 December 2021 <br/>
-  <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf>
+  [https://assets.publishing.service.gov.uk/.../20211231_OS_Daily_Omicron_Overview.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf)
 - **Statens Serum Institute**:
   Covid-19 Rapport om omikronvarianten, 31.12.2021 <br/>
   <https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18>
