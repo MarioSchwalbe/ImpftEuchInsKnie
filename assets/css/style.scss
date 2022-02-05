@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+div.wrapper {
+  max-width: calc(1000px - (30px * 2));
+}
+
 .home {
   p {
     text-align: justify;
