@@ -3,7 +3,7 @@
 Warum ich ungeimpft bin!
 ========================
 
-<img src="images/IQTest.jpg" width="200" class="ImgFloatLeft">
+<img src="images/IQTest.jpg" width="200" align="left" class="ImgFloatLeft">
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
@@ -953,7 +953,7 @@ Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
 ### Bestandsaufnahme ###
 
-<img src="images/Fernseher.jpg" width="300" class="ImgFloatLeft">
+<img src="images/Fernseher.jpg" width="300" align="left" class="ImgFloatLeft">
 
 Im Ernst. Trigger Warning. Die Gate-Keeper der öffentlichen Wahrnehmung sind sichtbar gut gezähmt.
 Ich bitte darum folgenden Artikel vollständig zu lesen:
