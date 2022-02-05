@@ -180,7 +180,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
    die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
-   auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferon.
+   auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferone.
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
@@ -210,7 +210,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-7. Es handelt sind um einen klassischen Totimpfstoff ohne neuartige unausgereifte Technologien.
+7. Es handelt sich um einen klassischen Totimpfstoff ohne neuartige unausgereifte Technologien.
 
 8. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
    sind. Dies würde dann die nächsten 10 Jahre in Anspruch nehmen.
@@ -226,8 +226,8 @@ natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
 Falsch. Der Impfzwang ist verfassungswidrig und wird nicht erst irgendwann überflüssig. Mit welcher
 Impfung wurde eigentlich die spanische Grippe beendet? Oder die Pest? Auch wenn der Vergleich etwas
 hinkt, da die Gefährlichkeit von SARS-CoV-2 nicht annähernd die der Anderen erreicht, so sollte man
-doch erkennen, daß Epidemien von allein enden, und die Omikronvariante könnte genau dafür sorgen,
-ohne noch mehr Impfschäden zu verursachen. Das Warten kann sich also durchaus lohnen.
+doch erkennen, daß Epidemien von allein enden. Die Omikronvariante könnte nunmehr genau dafür
+sorgen, ohne noch mehr Impfschäden zu verursachen. Das Warten kann sich also durchaus lohnen.
 
 Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren, die glauben sie
 seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
@@ -274,9 +274,9 @@ ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls seit Ja
 Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
 haben? Wenn sie Solidarität wünschen - darauf könnten wir uns ja einigen - dürfen sie sich gern den
-Spaziergängern anschließen. Die treten nämlich für Solidarität und gegen Ausgrenzung wie 2G und 2G+
-ein. Und welche Haltung soll das sein? Ich bevorzuge Stehend, nicht Kriechend. Bitte schau mal
-stattdessen hier:
+Spaziergängern anschließen. Die treten nämlich für Solidarität und gegen Ausgrenzung in Form von 2G
+und 2G+ ein. Und welche Haltung soll das sein? Ich bevorzuge Stehend, nicht Kriechend. Bitte schau
+mal stattdessen hier:
 
 - #FriedlichZusammen - Wir bilden Brücken wo Gräben gezogen werden <br/>
   <https://friedlichzusammen.de>
@@ -314,22 +314,23 @@ Zeigen_ (Quelle: <https://haltung-zeigen.com/dresden/rueckblick-08-01-2022/>, St
 
 Die Begründung beginnt mit der üblichen Unterteilung in Gut und Böse. Die Guten™ stehen für soziales
 Miteinander (Solidarität) und wollen nur helfen und Leben retten. Keinesfalls sollte man annehmen,
-daß die Anderen etwa ähnliche Motive hegen. Deswegen sind sie auch böse. Die Bösen™ suchen von sich
-aus den Schulterschluß mit der rechtsradikalen Szene (Solidarität mit Nazis). Keinesfalls könnten
-diese einfach nur unbedeutend mit in der Menge sein. Das macht die Anderen, da eine freiwillige
-Handlung vorliegt, fast selbst zu Rechtsradikalen. Als nächstes folgt die versteckte Gleichsetzung
-mit Terroristen (Fackeln, Morddrohungen, Mord des Ministerpräsidenten), denn deren Ziele sind
-keinesfalls Dialog (demokratisch) sondern Umsturz (gewalttätig, totalitär). Der Absatz endet mit
-offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung von Schutz.
-Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich auch aus jedem
-anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in der Masse
-untergehen, wirken sie wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im Übrigen ist ein
-Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen Mitteln wirksam
-umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser Rhetorik ist ein
-anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - aufgefordert werden ihren
-Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen. Dabei wird
-implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das Richtige sagen,
-ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
+daß die Anderen etwa ähnliche Motive hegen könnten. Deswegen sind sie auch böse. Die Bösen™ suchen
+von sich aus den Schulterschluß mit der rechtsradikalen Szene (Solidarität mit Nazis). Keinesfalls
+könnten diese einfach nur unbedeutend mit in der Menge sein. Das macht die Anderen, da eine
+freiwillige Handlung vorliegt, fast selbst zu Rechtsradikalen. Als nächstes folgt die versteckte
+Gleichsetzung mit Terroristen (Fackeln, Morddrohungen, Mord des Ministerpräsidenten), denn deren
+Ziele sind keinesfalls Dialog (demokratisch) sondern zweifelsfrei Umsturz (gewalttätig, totalitär).
+Der Absatz endet mit offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung
+von Schutz. Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich
+auch aus jedem anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in
+der Masse untergehen, wirken sie eher wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im
+Übrigen ist ein Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen
+Mitteln wirksam umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser
+Rhetorik ist ein anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - genötigt
+werden ihren Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen.
+Dabei wird implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das
+Richtige sagen, ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das
+Falsche sagen?
 
 Absatz 2: Ein paar kleine Fehler müssen zugegeben werden sonst wirkt es zu unglaubwürdig, aber nicht
 ohne sofortige Relativierung. Besser wäre keinesfalls möglich gewesen. Das ist deswegen noch lange
@@ -396,7 +397,7 @@ Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
 
 Wer könnte Recht haben und wer irren? Nicht vergessen: Faschismus lebt von Mitläufern. Egal wie man
 es am Ende inszeniert. Sonst wäre es schon Morgen vorbei. Und Faschist ist wer Faschismus macht.
-Gleiches gilt für die Demokratie. Die bloße Einbildung dessen ist nicht hinreichend. Wenn du
+Gleiches gilt für die Demokratie. Die bloße Einbildung dessen ist nicht ausreichend. Wenn du
 heutzutage von Politik und Medien protegiert wirst, bist du ziemlich sicher im falschen Team. (Das
 gilt übrigens auch für Greta.) Das läßt sich, wie schon gesagt, sehr einfach selbst überprüfen.
 Sollte das alles nichts helfen, bitte folgendes Gebet - frei nach [George

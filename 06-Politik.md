@@ -262,8 +262,8 @@ insbesondere dann vor,
    2. _bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten_,
    3. _die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird_.
 
-Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
-Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
+Diese Kriterien dürften erfüllt sein, solange behauptet wird, daß die Impfung vor Infektion,
+schwerem Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
 RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html)
 nicht der Fall ist. Auf mögliche Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist
 sicher.“ auch nicht hingewiesen. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
