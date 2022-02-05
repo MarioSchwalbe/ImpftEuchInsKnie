@@ -4,7 +4,7 @@ Wirksamkeit der Impfung
 -----------------------
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weiteransteckung. Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
+Weiteransteckung (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
 Infektionsgeschehen nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch
 wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
 

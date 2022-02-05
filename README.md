@@ -440,7 +440,7 @@ Wirksamkeit der Impfung
 -----------------------
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weiteransteckung. Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
+Weiteransteckung (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
 Infektionsgeschehen nicht mehr teil.“ (Quelle: Mittlerweile nicht mehr verfügbar.) Auch heute noch
 wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
 
@@ -1104,7 +1104,7 @@ Voraussetzungen erfüllt sein:
 
 3. Es müßte sich um Viren handeln, die langsam genug mutieren, so daß wir ihnen die Wirte schneller
    entziehen können. Andernfalls könnten sich zwischenzeitlich neue Varianten bilden, die dem
-   Impfschutz wirksam entgehen, und wir müßten wieder von vorn beginnen. Das ist bei DNA-Viren
+   Impfschutz wirksam entgehen, und wir müßten wieder von Neuem beginnen. Das ist bei DNA-Viren
    (Pocken) durchaus machbar, da deren Mutationsrate bei ca. 1 Mutation pro 1.000.000 Nukleotiden
    liegt. Bei RNA-Viren (Influenzaviren, Coronaviren) mit einer 1.000-fach höheren Mutationsrate von
    1 zu 1.000 Nukleotiden erscheint dieses Unterfangen eher utopisch. Es gibt einen Grund warum die
@@ -1126,13 +1126,14 @@ durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
 
 Nächster Versuch: Vermeidung einer Überlastung des Gesundheitssystems? Wieso sollte das
 Gesundheitssystem der viertgrößten Volkswirtschaft der Erde mit 83 Millionen Einwohnern durch 5.745
-coronabedingte Intensivpatienten überlastet sein? Sollte dies wirklich der Fall sein, so offenbarte
-es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten Grippewelle?
+Intensivpatienten im Zusammenhang mit COVID-19 überlastet sein? Sollte dies wirklich der Fall sein,
+so offenbarte es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten
+Grippewelle?
 
 <img src="images/Intensivbetten.png" width="700">
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
-sowie deren Auslastung (Quelle:
+sowie deren Auslastung basierend auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1246685/umfrage/auslastung-von-intensivbetten-in-deutschland/>,
 Stand: 10.1.2022). Man sieht im Zusammenhang mit COVID-19 sind nie mehr als ein Viertel benötigt
 worden. Eine flächendeckende Überlastung des Gesundheitssystems durch SARS-CoV-2 ist nicht
@@ -1153,7 +1154,9 @@ Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nich
 Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
 schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
-Die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter als Heuchelei.
+Es wäre wesentlich solidarischer dem schwedischem Beispiel zu folgen und die Kapazitäten zu erhöhen
+statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
+als Heuchelei.
 
 Nächster Versuch: Zwangsmaßnahmen? Zur weiteren Verschlimmerung der Lage dürfte die bereits
 beschlossene Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich
@@ -1229,13 +1232,15 @@ fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
 Wider des Zitates sind es tatsächlich nur 2 Monate, da der Status 28 Tage nach einem positiven Test
 beginnt und 90 Tage danach wieder erlischt. Begründet wird dies mit einem herabgesetzten Schutz vor
 Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvariante ist
-bekanntermaßen infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
-geschützt, egal ob mit oder ohne Impfung. Auch noch nebenbei völlig ignoriert wird dabei, daß eine
-natürliche Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle
-Virenbestandteile bildet und somit wesentlich effektiver bei neuen Varianten schützen kann.
+bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
+geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
+vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt Genesene bei
+unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird dabei, daß eine natürliche
+Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
+und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
-Viele an die Nadel zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
+Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
 Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 ### Kommunikation? ###
@@ -1272,8 +1277,8 @@ und offene Kommunikation“:
 > Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
 
 Ich bezweifle, daß viele Menschen freiwillig auf die Idee kämen, so etwas zu denken. Der Absatz
-offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie eine Strategie
-des Schocks empfehlen:
+offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie auch eine
+Strategie des Schocks empfehlen:
 
 > Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
 > auf die menschliche Gesellschaft verdeutlicht werden:
@@ -1298,8 +1303,8 @@ des Schocks empfehlen:
 >    Dauer natürlich noch nicht abgeschätzt werden kann.
 
 Das ist offensichtlich keine normale Art der Kommunikation mit der man erwachsene mündige Bürger
-anspricht, sondern setzt vollsändig auf das Schüren von Angst. Kindern einzureden sie könnten am Tod
-ihrer Eltern schuld sein, ist widerlich. Diese Punkte offenbaren erneut ein sehr interessantes
+anspricht, sondern setzt vollständig auf das Schüren von Angst. Kindern einzureden sie könnten am
+Tod ihrer Eltern schuld sein, ist widerlich. Diese Punkte offenbaren ein sehr interessantes
 Menschenbild. Man muß den Autoren unterstellen, daß sie ihre Mitmenschen für unfähig halten,
 sachliche nicht-reißerische Informationen zum Thema zu verstehen. Aber in Anbetracht der besonderen
 Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließlich gestattet sein.
@@ -1327,10 +1332,11 @@ insbesondere dann vor,
    2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
 
 Diese Kriterien dürften erfüllt sein solange behauptet wird, daß die Impfung vor Infektion, schwerem
-Verlauf und Tod schützt, was ausweislich der Wochenberichte des RKI nicht der Fall ist. Auf mögliche
-Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist sicher.“ auch nicht hingewiesen. Für
-vermeintliche Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt,
-dann ist der Zweck unheilig.
+Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
+RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html)
+nicht der Fall ist. Auf mögliche Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist
+sicher.“ auch nicht hingewiesen. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
+Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 Auch in neuen Medien wie Spotify und Twitter geht es heiß her. Nach den hauptsächlich im Herbst 2021
 zirkulierenden Twitter-Trends
@@ -1341,9 +1347,10 @@ Antwort von offizieller Seite
 Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
 schützen - nämlich gar nicht.
 
-Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, statt
-ausschließlich auf Prävention mit Impfung zu setzen. Dabei gäbe es mittlerweile Präventions- und
-Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist, beispielsweise:
+Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, um
+ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es mittlerweile Präventions-
+und Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist,
+beispielsweise:
 
 - [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com): [Präventions- und
   Behandlungsprotokolle für COVID-19](https://covid19criticalcare.com/de/covid-19-protocols/) oder
@@ -1431,10 +1438,10 @@ angeschlossen, wovon 15.638 als „medical & public health scientists“ geführ
 
 Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
 tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
-dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau der
-Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht langsam
-an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage recht
-einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
+dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau
+derjenige Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht
+langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage
+recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
 aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht haben, aber
 jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das würden die
 meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
@@ -1460,8 +1467,8 @@ Immunologie hat sondern auch in Psychologie:
 > zum Schluss freiwillig impfen lässt.
 
 Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von
-der Ampelkoalition erst noch legalisiert. Nach 2 Jahren freiwilliger Erkenntnisisolation in der
-Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
+der Ampelkoalition erst noch legalisiert werden. Nach 2 Jahren freiwilliger Erkenntnisisolation in
+der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
 Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
 Offensichtlich ist Beförderung in der Politik nicht mehr an Kompetenz gebunden.
 
