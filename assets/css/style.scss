@@ -1,14 +1,13 @@
 ---
 ---
 
-// @import "{{ site.theme }}";
-@import "";
+@import "{{ site.theme }}";
 
-.page-content {
-  h1 {
-    color: #ff0000;
-  }
-  p {
-    text-align: justify;
-  }
-}
+// .page-content {
+//   h1 {
+//     color: #ff0000;
+//   }
+//   p {
+//     text-align: justify;
+//   }
+// }
