@@ -1337,6 +1337,7 @@ insbesondere dann vor,
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
    anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
    haben,
+
 2. wenn fälschlich der Eindruck erweckt wird, daß
    1. ein Erfolg mit Sicherheit erwartet werden kann,
    2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
