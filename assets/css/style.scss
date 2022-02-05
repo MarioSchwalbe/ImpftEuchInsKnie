@@ -7,10 +7,14 @@
   .inner {
     width: 1050px;
   }
+
+  #main-content {
+    width: 900px;
+  }
 }
 
 aside#sidebar {
-  width: 130px;
+  display: none;
 }
 
 .ImgFloatLeft {
