@@ -3,11 +3,10 @@
 
 @import "{{ site.theme }}";
 
-// .page-content {
-//   h1 {
-//     color: #ff0000;
-//   }
-//   p {
-//     text-align: justify;
-//   }
-// }
+h1 {
+  color: #ff0000;
+}
+
+p {
+  text-align: justify;
+}
