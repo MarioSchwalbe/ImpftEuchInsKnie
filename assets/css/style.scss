@@ -1,14 +1,8 @@
 ---
 ---
 
-div.wrapper {
-  max-width: calc(1000px - (30px * 2));
-}
-
-.home {
-  p {
-    text-align: justify;
-  }
-}
-
 @import "{{ site.theme }}";
+
+p {
+  text-align: justify;
+}
