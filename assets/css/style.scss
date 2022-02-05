@@ -3,17 +3,17 @@
 
 @import "{{ site.theme }}";
 
-@media only screen and (min-width: 960px) {
-  .inner {
-    width: 1050px;
-  }
+// @media only screen and (min-width: 960px) {
+//   .inner {
+//     width: 1000px;
+//   }
+// }
 
-  #main-content {
-    width: 900px;
-  }
+#main-content {
+  width: 100%;
 }
 
-aside#sidebar {
+#sidebar {
   display: none;
 }
 
