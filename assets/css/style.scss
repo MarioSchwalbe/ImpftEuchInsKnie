@@ -21,6 +21,8 @@
 body, blockquote {
   // Schriftgröße 15px => 17 px.
   font-size: 17px;
+  // Extra Breaks für Links.
+  hyphenate-character: "/-";
 }
 
 blockquote {
