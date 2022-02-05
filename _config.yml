@@ -1,2 +1,6 @@
 theme: minima
 title: Sapere Aude
+description: Langer Text hier.
+
+minima:
+  skin: dark
