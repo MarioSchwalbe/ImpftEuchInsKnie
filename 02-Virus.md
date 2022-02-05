@@ -223,6 +223,7 @@ entsprechende Einordnung vornehmen.
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
+
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
 > die COVID-19-Rate von der 27. KW bis zur 52. KW 2021. Die seit der 46. KW 2021 kontinuierlich und
 > zum Teil deutliche gesunkene ARE-Rate ist mit Ausnahme in der 51. KW auch in der 52. KW wieder

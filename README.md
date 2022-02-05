@@ -319,6 +319,7 @@ entsprechende Einordnung vornehmen.
 <img src="images/GrippeWeb-2021-52-01.png" width="600">
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
+
 > Die Abbildung zeigt die Gesamt-ARE-Rate in den Saisons 2017/18 bis 2021/22 sowie (zum Vergleich)
 > die COVID-19-Rate von der 27. KW bis zur 52. KW 2021. Die seit der 46. KW 2021 kontinuierlich und
 > zum Teil deutliche gesunkene ARE-Rate ist mit Ausnahme in der 51. KW auch in der 52. KW wieder
@@ -981,6 +982,7 @@ Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter d
 Marc Walder, CEO der schweizerischen Ringier AG, bei einer internen Gesprächsrunde am 3.2.2021, die
 aufgezeichnet wurde (Quelle:
 <https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs>):
+
 > Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
 > bleibt – auf meine Initiative hin gesagt: „Wir wollen die Regierung unterstützen durch unsere
 > mediale Berichterstattung, daß wir alle gut durch die Krise kommen.“
@@ -992,17 +994,20 @@ Deutschland, angesichts der Einseitigkeit der Berichterstattung, ähnlich verhä
 vierte Gewalt im Staate endgültig als Handlanger der Exekutive entlarvt - getreu den
 neokonservativen Vordenkern aus Amerika (Quelle: Edward S. Herman, Beyond Hypocrisy: Decoding the
 News in an Age of Propaganda, South End Press, 1992, p. 13):
+
 > Most journalists these days consider it beneath their dignity to simply report the words of
 > government officials – and let it go at that.
 
 Dieses Bedauern stammt von Michael Arthur Ledeen zitiert von Edward Samuel Herman. Prof. Herman
 antwortete darauf:
+
 > Ledeen is wrong: most are quite content to serve as a conduit, but his statement illuminates the
 > neo-conservative view of the role of the press in a free society.
 
 Das war damals möglicherweise noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in
 den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
 Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
 
@@ -1018,6 +1023,7 @@ Diskussionsklima auch nicht gerade verbessert. Wo sind die vernünftigen Stimmen
 böse wäre, könnte man mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels,
 Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk
 im Dritten Reich: Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen
@@ -1225,6 +1231,7 @@ Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein
 fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
+
 > Die Dauer des Genesenenstatus wurde von 6 Monate auf 90 Tage reduziert, da die bisherige
 > wissenschaftliche Evidenz darauf hindeutet, dass Ungeimpfte nach einer durchgemachten Infektion
 > einen im Vergleich zur Deltavariante herabgesetzten und zeitlich noch stärker begrenzten Schutz
@@ -1464,6 +1471,7 @@ wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia
 zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
 Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
 Immunologie hat sondern auch in Psychologie:
+
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
 > zum Schluss freiwillig impfen lässt.
 
@@ -1690,6 +1698,7 @@ Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichen
 sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
 natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
 <https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
+
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
 > Durchseuchung der Bevölkerung haben.
 

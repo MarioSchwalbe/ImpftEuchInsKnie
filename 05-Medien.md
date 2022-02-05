@@ -59,6 +59,7 @@ Das ganze Theater wirft aber auch Fragen auf. Einen interessanten Blick hinter d
 Marc Walder, CEO der schweizerischen Ringier AG, bei einer internen Gesprächsrunde am 3.2.2021, die
 aufgezeichnet wurde (Quelle:
 <https://www.nebelspalter.ch/geheimes-video-zeigt-ceo-marc-walder-zwang-alle-redaktionen-der-ringier-medien-weltweit-auf-regierungskurs>):
+
 > Wir hatten in allen Ländern, wo wir tätig sind – und da wäre ich froh, wenn das in diesem Kreis
 > bleibt – auf meine Initiative hin gesagt: „Wir wollen die Regierung unterstützen durch unsere
 > mediale Berichterstattung, daß wir alle gut durch die Krise kommen.“
@@ -70,17 +71,20 @@ Deutschland, angesichts der Einseitigkeit der Berichterstattung, ähnlich verhä
 vierte Gewalt im Staate endgültig als Handlanger der Exekutive entlarvt - getreu den
 neokonservativen Vordenkern aus Amerika (Quelle: Edward S. Herman, Beyond Hypocrisy: Decoding the
 News in an Age of Propaganda, South End Press, 1992, p. 13):
+
 > Most journalists these days consider it beneath their dignity to simply report the words of
 > government officials – and let it go at that.
 
 Dieses Bedauern stammt von Michael Arthur Ledeen zitiert von Edward Samuel Herman. Prof. Herman
 antwortete darauf:
+
 > Ledeen is wrong: most are quite content to serve as a conduit, but his statement illuminates the
 > neo-conservative view of the role of the press in a free society.
 
 Das war damals möglicherweise noch anders. Heute wäre ein passender Vergleich die Aktuelle Kamera in
 den letzten Atemzügen der DDR. Und das muß auch so sein. Das ist äußerst wichtig (Quelle: Noam
 Chomsky, The Common Good, Odonian Press, 1998, p. 43):
+
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable
 > opinion, but allow very lively debate within that spectrum.
 
@@ -96,6 +100,7 @@ Diskussionsklima auch nicht gerade verbessert. Wo sind die vernünftigen Stimmen
 böse wäre, könnte man mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels,
 Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk
 im Dritten Reich: Eine Dokumentation, Ullstein Verlag, Frankfurt a. M., 1989):
+
 > Sie [die Presse] muß ein Klavier sein, auf dem die Regierung spielen kann.
 
 Es versteht sich von selbst, daß eine derartige Ideologie in einer freiheitlich-demokratischen

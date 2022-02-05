@@ -152,6 +152,7 @@ Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein
 fühlen, aber jetzt nur noch 2 Monate lang. Das RKI schreibt dazu (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
+
 > Die Dauer des Genesenenstatus wurde von 6 Monate auf 90 Tage reduziert, da die bisherige
 > wissenschaftliche Evidenz darauf hindeutet, dass Ungeimpfte nach einer durchgemachten Infektion
 > einen im Vergleich zur Deltavariante herabgesetzten und zeitlich noch stärker begrenzten Schutz
@@ -391,6 +392,7 @@ wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia
 zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
 Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
 Immunologie hat sondern auch in Psychologie:
+
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
 > zum Schluss freiwillig impfen lässt.
 

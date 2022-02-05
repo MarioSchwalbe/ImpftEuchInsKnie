@@ -212,6 +212,7 @@ Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichen
 sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
 natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
 <https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
+
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
 > Durchseuchung der Bevölkerung haben.
 
