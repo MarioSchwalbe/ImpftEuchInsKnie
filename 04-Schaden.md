@@ -61,7 +61,7 @@ einige relevante Unterschiede:
    dies eine schwerere Symptomatik zur Folge (Pneumonie). Die Impfstoffe können dagegen über die
    Blutbahn alle Körperzellen erreichen. Je nachdem welches Gewebe dabei aufgrund der
    Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Dieser
-   Effekt dürfte auch kumulativ sein. Wieso sollte das sinnvoll sein?
+   Effekt dürfte auch kumulativ sein. Wieso sollte das überhaupt sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
    Eindringen des Viruses in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen

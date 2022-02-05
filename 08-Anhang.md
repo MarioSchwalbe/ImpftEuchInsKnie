@@ -14,7 +14,7 @@ Anhang
 - **Corona Fakten & Fragen**: <br/>
   <https://corona-reframed.de>
 
-- **Corona In Zahlen**: <br/>
+- **Corona in Zahlen**: <br/>
   <https://www.corona-in-zahlen.de>
 
 - **DIVI-Intensivregister**: <br/>
@@ -37,7 +37,7 @@ Anhang
   <https://dgpi.de/pims-survey-update/>
 
 - **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
-  <https://covid.cdc.gov/covid-data-tracker/#variant-proportions>
+  <https://covid.cdc.gov/covid-data-tracker/>
 
 ### Offizielle Berichte ###
 

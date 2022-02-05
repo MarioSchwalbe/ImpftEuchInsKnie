@@ -726,7 +726,7 @@ einige relevante Unterschiede:
    dies eine schwerere Symptomatik zur Folge (Pneumonie). Die Impfstoffe können dagegen über die
    Blutbahn alle Körperzellen erreichen. Je nachdem welches Gewebe dabei aufgrund der
    Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Dieser
-   Effekt dürfte auch kumulativ sein. Wieso sollte das sinnvoll sein?
+   Effekt dürfte auch kumulativ sein. Wieso sollte das überhaupt sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
    Eindringen des Viruses in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
@@ -1332,12 +1332,10 @@ außerhalb von Fachkreisen eigentlich nicht erlaubt. Unzulässig ist eine irref�
 3 Heilmittelwerbegesetz ohnehin (Quelle:
 <https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html>). Eine Irreführung liegt
 insbesondere dann vor,
-
 1. wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes in der
    bis einschließlich 25. Mai 2021 geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder
    anderen Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt werden, die sie nicht
    haben,
-
 2. wenn fälschlich der Eindruck erweckt wird, daß
    1. ein Erfolg mit Sicherheit erwartet werden kann,
    2. bei bestimmungsgemäßem oder längerem Gebrauch keine schädlichen Wirkungen eintreten.
@@ -1756,9 +1754,9 @@ Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
 Bitte anschauen. Interessant ist auch eine Aufnahme aus Dresden, in der ein Agent Provocateur (oder
 V-Mann) für tätliche Angriffe auf Polizeibeamte gleich mehrfach verhaftet wird, was wiederum gute
-Bilder für die Presse liefert: <https://twitter.com/alterdonauwels/status/1479827634091704329>. Ob
-diese Interpretation korrekt ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls
-seit Jahrhunderten bekannt.
+Bilder für die Presse liefert (Quelle:
+<https://twitter.com/alterdonauwels/status/1479827634091704329>). Ob diese Interpretation korrekt
+ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls seit Jahrhunderten bekannt.
 
 Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
@@ -1807,18 +1805,18 @@ daß die Anderen etwa ähnliche Motive hegen. Deswegen sind sie auch böse. Die 
 aus den Schulterschluß mit der rechtsradikalen Szene (Solidarität mit Nazis). Keinesfalls könnten
 diese einfach nur unbedeutend mit in der Menge sein. Das macht die Anderen, da eine freiwillige
 Handlung vorliegt, fast selbst zu Rechtsradikalen. Als nächstes folgt die versteckte Gleichsetzung
-mit Terroristen (Fackeln, Morddrohungen, Ministerpräsidentenmord), denn deren Ziele sind keinesfalls
-Dialog (demokratisch) sondern Umsturz (gewalttätig, totalitär). Der Absatz endet mit offener
-Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung von Schutz. Tatsächlich
-liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich auch aus jedem anderen
-Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in der Masse untergehen,
-wirken sie wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im Übrigen ist ein Ausschluß
-von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen Mitteln wirksam umzusetzen.
-Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser Rhetorik ist ein anderer: Die
-Spaziergänger sollen - gemäß den Äußerungen der Politik - aufgefordert werden ihren Standpunkt
-aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen. Dabei wird implizit
-unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das Richtige sagen, ist es
-dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
+mit Terroristen (Fackeln, Morddrohungen, Mord des Ministerpräsidenten), denn deren Ziele sind
+keinesfalls Dialog (demokratisch) sondern Umsturz (gewalttätig, totalitär). Der Absatz endet mit
+offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung von Schutz.
+Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich auch aus jedem
+anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in der Masse
+untergehen, wirken sie wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im Übrigen ist ein
+Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen Mitteln wirksam
+umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser Rhetorik ist ein
+anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - aufgefordert werden ihren
+Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen. Dabei wird
+implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das Richtige sagen,
+ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
 
 Absatz 2: Ein paar kleine Fehler müssen zugegeben werden sonst wirkt es zu unglaubwürdig, aber nicht
 ohne sofortige Relativierung. Besser wäre keinesfalls möglich gewesen. Das ist deswegen noch lange
@@ -1827,15 +1825,15 @@ Betonung dieses Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung,
 zutreffend wäre, fehlt.
 
 Absatz 3: Erneute Proklamation von Solidarität garniert mit dem Wort Vernunft. Wieder keine
-Erklärung. Dafür eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen - als
-wenn diesem Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach wird der Frame
-geschlossen: Gleichsetzung der Anderen mit Gewalt, Rassismus, Antisemitismus und
+Erklärung. Dafür eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen
+könnten - als wenn diesem Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach
+wird der Frame geschlossen: Gleichsetzung der Anderen mit Gewalt, Rassismus, Antisemitismus und
 Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß gehört noch eine Prise
 Emotionalisierung: Trauer um die Verstorbenen aus Dresden - als wenn diese nicht auch ohne die
 vorherige Diffamierung möglich gewesen wäre. Alternativ könnte man das Ende auch als unterschwellige
 Schuldzuweisung lesen.
 
-Während _Haltung Zeigen_ 75% der Begründung darauf verwendet, zu Emotionalisieren und die
+Während _Haltung Zeigen_ drei Viertel der Begründung darauf verwendet, zu Emotionalisieren und die
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
 Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
@@ -1901,7 +1899,7 @@ früher im Chor gesungen?
 
 <!--
 Man kann das Ganze schließlich auch positiv sehen: Du hattest zwar '89 gekniffen, aber Gott hatte
-Nachsicht mit dir und hat dir noch eine Chance im Leben eingeräumt dich für Demokratie zu
+Nachsicht mit dir und hat dir noch eine Chance im Leben eingeräumt dich für echte Demokratie zu
 engagieren.
 -->
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
@@ -1920,7 +1918,7 @@ Anhang
 - **Corona Fakten & Fragen**: <br/>
   <https://corona-reframed.de>
 
-- **Corona In Zahlen**: <br/>
+- **Corona in Zahlen**: <br/>
   <https://www.corona-in-zahlen.de>
 
 - **DIVI-Intensivregister**: <br/>
@@ -1943,7 +1941,7 @@ Anhang
   <https://dgpi.de/pims-survey-update/>
 
 - **Centers for Disease Control and Prevention**: COVID Data Tracker <br/>
-  <https://covid.cdc.gov/covid-data-tracker/#variant-proportions>
+  <https://covid.cdc.gov/covid-data-tracker/>
 
 ### Offizielle Berichte ###
 
