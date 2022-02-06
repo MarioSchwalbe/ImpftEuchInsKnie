@@ -1371,8 +1371,11 @@ nicht der Fall ist. Auf mögliche Nebenwirkungen wird mit dem Slogan „Die Impf
 sicher.“ auch nicht hingewiesen. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
 Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
-Auch in neuen Medien wie Spotify und Twitter geht es heiß her. Nach den hauptsächlich im Herbst 2021
-zirkulierenden Twitter-Trends
+Daß das grundsätzlich auch anders ginge, beweist die Kampagne der Regierung von El Salvador, in der
+der Bevölkerung zur Vermeidung von schwerer Erkrankung ein gesunder Lebenswandel, Sport und gesunde
+Ernährung empfohlen wird (Quelle: https://www.youtube.com/watch?v=u9vrf9IU_EY). In Deutschland geht
+es dagegen auch in den neuen Medien wie Spotify und Twitter wie gewohnt heiß her. Nach den
+hauptsächlich im Herbst 2021 zirkulierenden Twitter-Trends
 [`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
 und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
 Antwort von offizieller Seite
