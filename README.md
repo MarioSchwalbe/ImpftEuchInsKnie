@@ -1682,7 +1682,6 @@ befürchtet hatte, ist wieder kein Ebola in Sicht. Das neue hochgejubelte Killer
 enttäuscht auf ganzer Linie.
 
 ### Big Decision ###
-<!-- ### Big Balls ### -->
 
 Es ist an der Zeit die große Frage zu beantworten. Um es mit den Worten von Harald Schmidt zu sagen:
 Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Lies: Mit wem muß
@@ -1745,8 +1744,28 @@ hinkt, da die Gefährlichkeit von SARS-CoV-2 nicht annähernd die der Anderen er
 doch erkennen, daß Epidemien von allein enden. Die Omikronvariante könnte nunmehr genau dafür
 sorgen, ohne noch mehr Impfschäden zu verursachen. Das Warten kann sich also durchaus lohnen.
 
-Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren, die glauben sie
-seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
+Folglich möchte ich mich lieber den Mitgliedern des Ethikrats anschließen, die gegen die Empfehlung
+einer allgemeinen Impfpflicht gestimmt haben. Frau Prof. Rostalski fasst die Gründe treffend
+zusammen (Quelle:
+<https://www.focus.de/politik/deutschland/interview-mit-ethikratsmitglied-frauke-rostalski-sie-lehnt-allgemeine-impfpflicht-ab-sollten-solidaritaet-der-jungen-nicht-ueberstrapazieren_id_29344486.html>):
+
+> Ich habe aus verschiedenen Gründen gegen die Ad-hoc-Empfehlung gestimmt. Zum einen bin ich der
+> Ansicht, dass die erheblichen Wissensdefizite, mit denen wir nach wie vor zu kämpfen haben, es
+> ausschließen, Bürgerinnen und Bürger zu einer Impfung zu verpflichten. Die Ungewissheiten
+> betreffen in erster Linie die Effektivität der Wirkstoffe einschließlich ihrer Wirkdauer. Gerade
+> angesichts der neuen Omikron-Variante fällt dies besonders ins Gewicht. Es spricht - nicht zuletzt
+> nach Äußerungen des Expertenrats der Bundesregierung - vieles dafür, dass die vorhandenen
+> Impfstoffe weniger effektiv gegen schwere Verläufe schützen.
+>
+> Dann aber bedeutete eine Impfpflicht, dass wir Bürgerinnen und Bürger zur Impfung mit einem Vakzin
+> verpflichten, das womöglich nicht einmal die erforderliche Wirkung besitzt, um effektiv zu einer
+> Entlastung des Gesundheitssystems beizutragen. Unter dieser Voraussetzung ist eine gesetzliche
+> Impfpflicht nur ein sehr eingriffsintensives Symbol - fehlt es an einem effektiven Mittel, dem
+> Virus zu begegnen, lässt sich dies nicht rechtfertigen.
+
+Die Wissensdefizite sind, trotz der vollmundigen Versprechungen der Politik und der Pharmalobby,
+einfach zu groß. Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren,
+die glauben sie seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
 
 ### Hilfe zur Selbsthilfe ###
 
