@@ -686,8 +686,10 @@ an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso b
 überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei
 der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein
 paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt
-ist? Außerdem gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die
-Motivation auch nicht besonders.
+ist? (Quelle:
+<https://www.tagesschau.de/wirtschaft/unternehmen/biontech-omikron-impfstoff-101.html>) Außerdem
+gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die Motivation
+auch nicht besonders.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
 Schadwirkung der Impfung
