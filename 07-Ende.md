@@ -187,10 +187,12 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
-   Lipid-Nanopartikel eingereicht hat. Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315
-   nicht für die Verwendung am oder im Menschen zugelassen, sondern ausschließlich für
-   Forschungszwecke bestimmt. Ohne immanente Notlage kann man auf derartige Experimente durchaus
-   verzichten.
+   Lipid-Nanopartikel eingereicht hat. Ohne immanente Notlage kann man auf derartige Experimente
+   durchaus verzichten.
+   <!--
+   Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315 nicht für die Verwendung am oder im
+   Menschen zugelassen, sondern ausschließlich für Forschungszwecke bestimmt.
+   -->
 
 3. Qualitätssicherungsprozesse in der Herstellung wurden implementiert und unabhängig geprüft.
    Etwaige gefundene Mängel wurden behoben. Die obigen Punkte sind wahrlich keine überzogenen

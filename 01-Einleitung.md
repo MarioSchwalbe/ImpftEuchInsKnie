@@ -23,8 +23,6 @@ nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 Einleitung
 ----------
 
-Dummy.
-
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
@@ -62,9 +60,7 @@ Impfpflicht verweisen:
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   [https://beatebahner.de/lib.medien/Rechtsgutachten RAin Bahner Strafbarkeit nach 95 AMG durch
-   Impfung, korr.
-   27.12.2021.pdf](https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf)
+   <https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf>
 
 9. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>

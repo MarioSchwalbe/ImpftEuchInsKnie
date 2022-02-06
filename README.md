@@ -23,8 +23,6 @@ nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 Einleitung
 ----------
 
-Dummy.
-
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
@@ -62,9 +60,7 @@ Impfpflicht verweisen:
 8. **Beate Bahner**:
    Rechtsgutachten zur Strafbarkeit nach dem Arzneimittelgesetz durch die Herstellung,
    Verbreitung und Anwendung (Impfung) des Impfstoffs Comirnaty von Pfizer/Biontech, 27.12.2021 <br/>
-   [https://beatebahner.de/lib.medien/Rechtsgutachten RAin Bahner Strafbarkeit nach 95 AMG durch
-   Impfung, korr.
-   27.12.2021.pdf](https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf)
+   <https://beatebahner.de/lib.medien/Rechtsgutachten%20RAin%20Bahner%20Strafbarkeit%20nach%2095%20AMG%20durch%20Impfung%2C%20korr.%2027.12.2021.pdf>
 
 9. **Jens Berger**:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
@@ -406,10 +402,10 @@ die verfügbaren Daten bereits zulassen:
 Quellen:
 - **Robert Koch-Institut**:
   Tägliche Übersicht zu Omikron-Fällen vom 07. Januar 2022 <br/>
-  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html?__blob=publicationFile)
+  <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Omikron-Faelle/Omikron-Faelle.html>
 - **UK Health Security Agency**:
   Omicron daily overview: 31 December 2021 <br/>
-  [https://assets.publishing.service.gov.uk/.../20211231_OS_Daily_Omicron_Overview.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf)
+  <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044522/20211231_OS_Daily_Omicron_Overview.pdf>
 - **Statens Serum Institute**:
   Covid-19 Rapport om omikronvarianten, 31.12.2021 <br/>
   <https://files.ssi.dk/covid19/omikron/statusrapport/rapport-omikronvarianten-31122021-ct18>
@@ -587,7 +583,7 @@ ausatmen. Eine Begründung findet sich in:
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
-[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile)):
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>):
 
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
@@ -1700,10 +1696,12 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
-   Lipid-Nanopartikel eingereicht hat. Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315
-   nicht für die Verwendung am oder im Menschen zugelassen, sondern ausschließlich für
-   Forschungszwecke bestimmt. Ohne immanente Notlage kann man auf derartige Experimente durchaus
-   verzichten.
+   Lipid-Nanopartikel eingereicht hat. Ohne immanente Notlage kann man auf derartige Experimente
+   durchaus verzichten.
+   <!--
+   Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315 nicht für die Verwendung am oder im
+   Menschen zugelassen, sondern ausschließlich für Forschungszwecke bestimmt.
+   -->
 
 3. Qualitätssicherungsprozesse in der Herstellung wurden implementiert und unabhängig geprüft.
    Etwaige gefundene Mängel wurden behoben. Die obigen Punkte sind wahrlich keine überzogenen
