@@ -211,7 +211,7 @@ bis zu 30% überschätzt. Ihre Erklärung hierfür lautet wie folgt (Quelle:
 > Bereinigung von Fällen vornehmen,“ sagt das RKI auf Anfrage der ZEIT. Das harte Kriterium sei ein
 > positiver PCR-Test.
 
-Nach Prof. Dr. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
+Nach Prof. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
 Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)

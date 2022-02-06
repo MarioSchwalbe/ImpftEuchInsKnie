@@ -179,8 +179,8 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
   > is self-evident.
 
 Es ist auch bemerkenswert, daß sich Toxikologen und Pathologen überhaupt mit einer Impfung
-beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Dr. Arne Burkhardt und
-Prof. Dr. Walter Lang zum Thema kann man hier anschauen: <https://pathologie-konferenz.de>. Wenn
+beschäftigen müssen. Die Aufzeichnungen der Konferenzen der Pathologen Prof. Arne Burkhardt und
+Prof. Walter Lang zum Thema kann man hier anschauen: <https://pathologie-konferenz.de>. Wenn
 Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
