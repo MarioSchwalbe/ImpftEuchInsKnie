@@ -66,11 +66,11 @@ Impfpflicht verweisen:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
    <https://www.nachdenkseiten.de/?p=79084>
 
-Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
-den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -
-allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
-schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt aufweisen als
-der deutsche Ethikrat zu diesem Thema zustande bringt.
+Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele neue Erkenntnisse, die
+man in den letzten 2 Jahren hätte erwerben können. Außerdem möchte ich den Autoren weitestgehend
+zustimmen - allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation
+klingt aber schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt
+aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 
 (Übrigens ist Impfpflicht auch eines der schönsten deutschen Wörter - enthält es doch die schöne
 Konsonantenkombination „mpfpf“ und ist dabei auch noch ernst gemeint.)
@@ -290,9 +290,10 @@ gewesen wären. Es spricht aber einiges dagegen:
    Viren im Nationalen Referenzzentrum“ finden:
    <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
-Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der ZEIT wird die
-Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um bis zu 30%
-überschätzt. Ihre Erklärung hierfür lautet (Quelle: <https://www.presseportal.de/pm/9377/4840896>):
+Der Verdacht der systematischen Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht
+der ZEIT wird die Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um
+bis zu 30% überschätzt. Ihre Erklärung hierfür lautet wie folgt (Quelle:
+<https://www.presseportal.de/pm/9377/4840896>):
 
 > Verantwortlich für dieses Graufeld ist das deutsche Meldesystem: Alle neuen Patienten werden
 > systematisch bei der Aufnahme ins Krankenhaus auf das Virus getestet und bei einem positiven
@@ -310,9 +311,9 @@ Nach Prof. Dr. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten 
 Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
-tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
-fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr 2020 über alle
-Todesursachen keine signifikante Übersterblichkeit:
+tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
+Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
+2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
@@ -365,7 +366,7 @@ Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 20
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
 empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
-### Intensivbelegung ###
+### Belegung der Intensivstationen ###
 
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
@@ -453,7 +454,7 @@ Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Wie es aussieht enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
+Wie es aussieht, enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
 Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die
 nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
 aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:
@@ -1655,7 +1656,7 @@ Stand: 27.1.2022).
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
-verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz zwischenzeitlich politisch etabliert
+verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz im November 2021 politisch etabliert
 wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
 zusammengefaßt:
 

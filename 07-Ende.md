@@ -145,7 +145,7 @@ Stand: 27.1.2022).
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
-verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz zwischenzeitlich politisch etabliert
+verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz im November 2021 politisch etabliert
 wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
 zusammengefaßt:
 

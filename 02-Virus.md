@@ -194,9 +194,10 @@ gewesen wären. Es spricht aber einiges dagegen:
    Viren im Nationalen Referenzzentrum“ finden:
    <https://influenza.rki.de/Diagrams.aspx?agiRegion=0>.
 
-Der Verdacht der Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht der ZEIT wird die
-Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um bis zu 30%
-überschätzt. Ihre Erklärung hierfür lautet (Quelle: <https://www.presseportal.de/pm/9377/4840896>):
+Der Verdacht der systematischen Verzerrung scheint sich langsam zu bestätigen. Nach einem Bericht
+der ZEIT wird die Anzahl der Personen, die wegen Corona im Krankenhaus behandelt werden müssen, um
+bis zu 30% überschätzt. Ihre Erklärung hierfür lautet wie folgt (Quelle:
+<https://www.presseportal.de/pm/9377/4840896>):
 
 > Verantwortlich für dieses Graufeld ist das deutsche Meldesystem: Alle neuen Patienten werden
 > systematisch bei der Aufnahme ins Krankenhaus auf das Virus getestet und bei einem positiven
@@ -214,9 +215,9 @@ Nach Prof. Dr. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten 
 Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
-tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden sehen. Dementsprechend
-fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr 2020 über alle
-Todesursachen keine signifikante Übersterblichkeit:
+tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
+Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
+2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
@@ -269,7 +270,7 @@ Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 20
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
 empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 
-### Intensivbelegung ###
+### Belegung der Intensivstationen ###
 
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
@@ -357,7 +358,7 @@ Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
   > were associated with substantially reduced risk of severe clinical endpoints and shorter
   > durations of hospital stay.
 
-Wie es aussieht enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
+Wie es aussieht, enttäuscht das neue hochgejubelte Killervirus in spe auf ganzer Linie. Das ganze
 Thema ist jedenfalls noch lange nicht abgeschlossen und bleibt weiterhin spannend, wie auch die
 nachfolgenden Themen. Es spricht aber definitiv nichts für einen Impfzwang. Weitere schön
 aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:

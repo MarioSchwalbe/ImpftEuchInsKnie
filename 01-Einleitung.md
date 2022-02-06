@@ -66,11 +66,11 @@ Impfpflicht verweisen:
    30 Argumente gegen die Impfpflicht, 17.12.2021 <br/>
    <https://www.nachdenkseiten.de/?p=79084>
 
-Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele Grundlagen, die man in
-den letzten 2 Jahren hätte lernen können. Außerdem möchte ich den Autoren weitestgehend zustimmen -
-allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation klingt aber
-schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt aufweisen als
-der deutsche Ethikrat zu diesem Thema zustande bringt.
+Bitte vollständig lesen. Das gehört zur Erklärung dazu, enthält es doch viele neue Erkenntnisse, die
+man in den letzten 2 Jahren hätte erwerben können. Außerdem möchte ich den Autoren weitestgehend
+zustimmen - allenfalls bei Beate Bahner fehlt mit die juristische Expertise. Ihre Argumentation
+klingt aber schlüssig. Man kann dabei auch sehen, daß obige Stellungnahmen deutlich mehr Inhalt
+aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 
 (Übrigens ist Impfpflicht auch eines der schönsten deutschen Wörter - enthält es doch die schöne
 Konsonantenkombination „mpfpf“ und ist dabei auch noch ernst gemeint.)
