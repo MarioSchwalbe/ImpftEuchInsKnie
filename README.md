@@ -370,7 +370,8 @@ empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
 
-<img src="images/BelegungErwachsene.png" width="49%"> <img src="images/BelegungKinder.png" width="49%">
+<a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
+<a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
 
 Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
@@ -380,7 +381,7 @@ die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Über
 Gesundheitssystems durch SARS-CoV-2 ist nicht erkennbar. Eine besondere Gefährdung von Kindern
 sowieso nicht.
 
-<img src="images/AuslastungIntensivstationen.png">
+<a href="images/AuslastungIntensivstationen.png"><img src="images/AuslastungIntensivstationen.png"></a>
 
 Eine detailliertere Aufschlüsselung nach Altersgruppen und Kreisen kann man unter
 <https://intensivstationen.net> finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
