@@ -25,7 +25,7 @@ body, blockquote {
 
 blockquote {
   // Weniger Platzverschwendung.
-  margin-left:  20px;
+  margin-left:   0px;
   margin-right: 20px;
   padding-left: 20px;
 }
@@ -40,7 +40,7 @@ p {
   text-align: justify;
 }
 
-p.a {
+a {
   // Break words at any character.
   word-break: break-all;
 }
