@@ -212,7 +212,7 @@ Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang des Jahres 
 schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die starke
 Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe:
 
-<img src="images/Todesfaelle.png" width="700">
+<a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
 
 Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
 Daten des RKI (Quelle:
@@ -332,7 +332,7 @@ Todesursachen keine signifikante Übersterblichkeit:
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
 natürlich die entsprechende Einordnung vornehmen.
 
-<img src="images/GrippeWeb-2021-52-01.png" width="600">
+<a href="images/GrippeWeb-2021-52-01.png"><img src="images/GrippeWeb-2021-52-01.png" width="600"></a>
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 
@@ -600,7 +600,7 @@ bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis 
 ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
 (Quelle: selber Bericht):
 
-<img src="images/Omikronfaelle.png" width="800">
+<a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
@@ -1159,7 +1159,7 @@ Intensivpatienten im Zusammenhang mit COVID-19 überlastet sein? Sollte dies wir
 so offenbarte es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten
 Grippewelle?
 
-<img src="images/Intensivbetten.png" width="700">
+<a href="images/Intensivbetten.png"><img src="images/Intensivbetten.png" width="700"></a>
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
 sowie deren Auslastung basierend auf den Daten des RKI (Quelle:
@@ -1651,7 +1651,7 @@ des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 27.1.2022).
 
-<img src="images/FaelleProWoche.png" width="700">
+<a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu

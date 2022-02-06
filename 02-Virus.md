@@ -116,7 +116,7 @@ Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang des Jahres 
 schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die starke
 Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe:
 
-<img src="images/Todesfaelle.png" width="700">
+<a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
 
 Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
 Daten des RKI (Quelle:
@@ -236,7 +236,7 @@ Todesursachen keine signifikante Übersterblichkeit:
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
 natürlich die entsprechende Einordnung vornehmen.
 
-<img src="images/GrippeWeb-2021-52-01.png" width="600">
+<a href="images/GrippeWeb-2021-52-01.png"><img src="images/GrippeWeb-2021-52-01.png" width="600"></a>
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 
