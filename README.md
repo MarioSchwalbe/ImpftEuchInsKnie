@@ -132,7 +132,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 
 - **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
-  An overview of systematic evaluations, 26.3.2021 <br/>
+    An overview of systematic evaluations, 26.3.2021 <br/>
   <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>
   > All systematic evaluations of seroprevalence data converge that SARS-CoV-2 infection is widely
   > spread globally. Acknowledging residual uncertainties, the available evidence suggests average
@@ -316,8 +316,8 @@ Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROST
 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
-  Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
-  2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
+  Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
+    in 2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
   <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540>
   > In the first approach, the cumulative SMRs [standardized mortality ratios] show that in Germany
   > and Sweden there was no or little excess mortality in 2020 (SMR = 0.976 (95% CI: 0.974–0.978),
@@ -435,7 +435,7 @@ Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
-  in southern California, 11.1.2022 <br/>
+    in southern California, 11.1.2022 <br/>
   <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222
@@ -525,7 +525,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
-  vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
+    vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
   <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext>
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
@@ -654,7 +654,7 @@ folgern:
 
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
-  2947 counties in the United States, 30.9.2021 <br/>
+    2947 counties in the United States, 30.9.2021 <br/>
   <https://link.springer.com/article/10.1007%2Fs10654-021-00808-7>
   > At the country-level, there appears to be no discernable relationship between percentage of
   > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line
@@ -848,7 +848,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 - **Kyle A. Beattie**:
   Worldwide Bayesian Causal Impact Analysis of Vaccine Administration on Deaths and
-  Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
+    Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
   <https://vector-news.github.io/editorials/CausalAnalysisReport_html.html>
   > The statistically significant and overwhelmingly positive causal impact after vaccine deployment
   > on the dependent variables total deaths and total cases per million should be highly worrisome
@@ -863,7 +863,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 - **Prof. Dr. Sucharit Bhakdi, Prof. Dr. Arne Burkhardt**:
   On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in
-  deaths after vaccination, 15.12.2021 <br/>
+    deaths after vaccination, 15.12.2021 <br/>
   <https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/>
   > Histopathologic analysis show clear evidence of vaccine-induced autoimmune-like pathology in
   > multiple organs. That myriad adverse events deriving from such auto-attack processes must be
@@ -877,7 +877,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
-  kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
+    kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
   <https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate>
   > So, to put it simply, the Biden administration plan would kill 5,248 children via Pfizer mRNA
   > shots in order to save 45 children from dying of coronavirus. For every one child saved by the
@@ -913,7 +913,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Dr. Toby Rogers**:
   Ten red flags in the FDA's risk-benefit analysis of Pfizer's EUA application to
-  inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
+    inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
   <https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit>
   > What the British are saying is they are now finding the vaccine interferes with your body’s
   > innate ability after infection to produce antibodies against not just the spike protein but

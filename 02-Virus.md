@@ -36,7 +36,7 @@ und ist seitdem weiter verbessert worden, beispielsweise:
 
 - **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
-  An overview of systematic evaluations, 26.3.2021 <br/>
+    An overview of systematic evaluations, 26.3.2021 <br/>
   <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>
   > All systematic evaluations of seroprevalence data converge that SARS-CoV-2 infection is widely
   > spread globally. Acknowledging residual uncertainties, the available evidence suggests average
@@ -220,8 +220,8 @@ Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROST
 2020 über alle Todesursachen keine signifikante Übersterblichkeit:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
-  Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality in
-  2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
+  Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
+    in 2016 to 2019 in Germany, Sweden and Spain, 3.8.2021 <br/>
   <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255540>
   > In the first approach, the cumulative SMRs [standardized mortality ratios] show that in Germany
   > and Sweden there was no or little excess mortality in 2020 (SMR = 0.976 (95% CI: 0.974–0.978),
@@ -339,7 +339,7 @@ Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
-  in southern California, 11.1.2022 <br/>
+    in southern California, 11.1.2022 <br/>
   <https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1.full>
   > Our analyses included 52,297 cases with SGTF (Omicron) and 16,982 cases with non-SGTF (Delta
   > [B.1.617.2]) infections, respectively. Hospital admissions occurred among 235 (0.5%) and 222

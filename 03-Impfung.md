@@ -64,7 +64,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
-  vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
+    vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
   <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext>
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
@@ -193,7 +193,7 @@ folgern:
 
 - **S.V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
-  2947 counties in the United States, 30.9.2021 <br/>
+    2947 counties in the United States, 30.9.2021 <br/>
   <https://link.springer.com/article/10.1007%2Fs10654-021-00808-7>
   > At the country-level, there appears to be no discernable relationship between percentage of
   > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line

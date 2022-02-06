@@ -156,7 +156,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 - **Kyle A. Beattie**:
   Worldwide Bayesian Causal Impact Analysis of Vaccine Administration on Deaths and
-  Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
+    Cases Associated with COVID-19: A BigData Analysis of 145 Countries, 15.11.2021 <br/>
   <https://vector-news.github.io/editorials/CausalAnalysisReport_html.html>
   > The statistically significant and overwhelmingly positive causal impact after vaccine deployment
   > on the dependent variables total deaths and total cases per million should be highly worrisome
@@ -171,7 +171,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 
 - **Prof. Dr. Sucharit Bhakdi, Prof. Dr. Arne Burkhardt**:
   On COVID vaccines: why they cannot work, and irrefutable evidence of their causative role in
-  deaths after vaccination, 15.12.2021 <br/>
+    deaths after vaccination, 15.12.2021 <br/>
   <https://doctors4covidethics.org/on-covid-vaccines-why-they-cannot-work-and-irrefutable-evidence-of-their-causative-role-in-deaths-after-vaccination/>
   > Histopathologic analysis show clear evidence of vaccine-induced autoimmune-like pathology in
   > multiple organs. That myriad adverse events deriving from such auto-attack processes must be
@@ -185,7 +185,7 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
 
 - **Dr. Toby Rogers**:
   What is the Number Needed to Vaccinate (NNTV) to prevent a single COVID-19 fatality in
-  kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
+    kids 5 to 11 based on the Pfizer EUA application?, 1.11.2021 <br/>
   <https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate>
   > So, to put it simply, the Biden administration plan would kill 5,248 children via Pfizer mRNA
   > shots in order to save 45 children from dying of coronavirus. For every one child saved by the
@@ -221,7 +221,7 @@ Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
 
 - **Dr. Toby Rogers**:
   Ten red flags in the FDA's risk-benefit analysis of Pfizer's EUA application to
-  inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
+    inject American children 5 to 11 with its mRNA product, 25.10.2021 <br/>
   <https://tobyrogers.substack.com/p/ten-red-flags-in-the-fdas-risk-benefit>
   > What the British are saying is they are now finding the vaccine interferes with your body’s
   > innate ability after infection to produce antibodies against not just the spike protein but
