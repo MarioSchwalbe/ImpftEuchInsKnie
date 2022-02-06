@@ -431,7 +431,26 @@ Die Deutsche Gesellschaft für Pädiatrische Infektiologie schlußfolgert zu Omi
 > in Deutschland verdrängen. Die Erkrankungsschwere liegt nach neuen Erkenntnissen allerdings in
 > allen Altersgruppen deutlich unter der der Delta-Variante.
 
-Erste Studien zur Omikronvariante sind bereits verfügbar (Pre-Print):
+Erste Studien zur Abschätzung der Gefährlichkeit der Omikronvariante sind bereits verfügbar
+(Pre-Print):
+
+- **Eleanor G. Bentley, Adam Kirby, Parul Sharma, et al.**:
+  SARS-CoV-2 Omicron-B.1.1.529 Variant leads to less severe disease than
+    Pango B and Delta variants strains in a mouse model of severe COVID-19, 30.12.2021 <br/>
+  <https://www.biorxiv.org/content/10.1101/2021.12.26.474085v2.full>
+  > The variant is highly transmissible and partially or fully evades a spectrum of neutralising
+  > antibodies due to a high number of substitutions in the spike glycoprotein. A major question is
+  > the relative severity of disease caused by the Omicron variant compared with previous and
+  > currently circulating variants of SARS-CoV-2. To address this, a mouse model of infection that
+  > recapitulates severe disease in humans, K18-hACE2 mice, were infected with either a Pango B,
+  > Delta or Omicron variant of SARS-CoV-2 and their relative pathogenesis compared. In contrast to
+  > mice infected with Pango B and Delta variant viruses, those infected with the Omicron variant
+  > had less severe clinical signs (weight loss), showed recovery and had a lower virus load in both
+  > the lower and upper respiratory tract. This is also reflected by less extensive inflammatory
+  > processes in the lungs. [...] These animal model data suggest the clinical consequences of
+  > infection with the Omicron variant may be less severe but the higher transmissibility could
+  > still place huge burden upon healthcare systems even if a lower proportion of infected patients
+  > are hospitalised.
 
 - **Joseph A. Lewnard, Vennis X. Hong, Manish M. Patel**:
   Clinical outcomes among patients infected with Omicron (B.1.1.529) SARS-CoV-2 variant
@@ -1797,8 +1816,8 @@ sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernseh
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
 - Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
-- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>. Aus einer anderen
-  Perspektive kann man auch das Vorgehen der Polizei sehen:
+- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
+  Aus einer anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
   <https://twitter.com/manaf12hassan/status/1479092879238877196>.
 - Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
 - Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>

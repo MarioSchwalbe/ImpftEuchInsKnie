@@ -279,8 +279,8 @@ sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernseh
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
 - Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
-- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>. Aus einer anderen
-  Perspektive kann man auch das Vorgehen der Polizei sehen:
+- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
+  Aus einer anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
   <https://twitter.com/manaf12hassan/status/1479092879238877196>.
 - Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
 - Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>
