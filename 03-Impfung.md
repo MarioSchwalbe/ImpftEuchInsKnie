@@ -4,13 +4,14 @@ Wirksamkeit der Impfung
 -----------------------
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weiteransteckung (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
+Weitergabe (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
 Infektionsgeschehen nicht mehr teil.“ (Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch
 wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
 Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/BioNTech:
+
 - **Fernando P. Polack, Stephen J. Thomas, Nicholas Kitchin, et al.**:
   Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine, 31.12.2020 <br/>
   <https://www.nejm.org/doi/full/10.1056/NEJMoa2034577>
@@ -78,7 +79,7 @@ Transmission, kein Fremdschutz), beispielsweise:
   > efficiently transmit infection in household settings, including to fully vaccinated contacts.
   > Host–virus interactions early in infection may shape the entire viral trajectory.
 
-- **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro**:
+- **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro, et al.**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
   <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full>
   > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
@@ -98,15 +99,16 @@ Transmission, kein Fremdschutz), beispielsweise:
   > status, suggesting that our observations are not confounded by biases in test-seeking behavior
   > between vaccinated and unvaccinated persons (p=0.40).
 
-Allein die Tatsache, daß wir nach 3G wieder Lockdowns und 2G/2G+ benötigen, sollte diese Punkte
-eindrucksvoll belegen. Damit ist das Argument der Impfung aus Solidarität, daß noch immer bemüht
-wird, nicht mehr gerechtfertigt. Das sollte nicht verwundern: Es gibt Viren, die nach erfolgter
-Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder infektiös wird. Kann man in
-diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das
-ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer
-natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der
-Atemwege. Und ganz im Allgemeinen kann man schließlich alles was man einatmet auch sofort wieder
-ausatmen. Eine Begründung findet sich in:
+Allein die Tatsache, daß wir nach 3G (Geimpft/Genesen/Getestet) wieder Lockdowns und verschärfte
+Maßnahmen wie 2G und 2G+ benötigen, sollte diese Punkte eindrucksvoll belegen. Damit ist das
+Argument der Impfung aus Solidarität, daß noch immer bemüht wird, nicht mehr gerechtfertigt. Das
+sollte nicht verwundern: Es gibt Viren, die nach erfolgter Infektion eine Inkubationszeit benötigen
+bis der neue Wirt selbst wieder infektiös wird. Kann man in diesem Zeitraum die Vermehrung
+verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das ist bei Atemwegsviren aber
+nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur
+zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen
+kann man schließlich alles was man einatmet auch sofort wieder ausatmen. Eine konsequente
+Schlußfolgerung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
@@ -159,7 +161,7 @@ symptomatischen Fällen beträgt 44,1%/14,6%/13,2%, der Anteil an hospitalisiert
 > der Geimpften mit Auffrischimpfung (dreimalige Impfung) als moderat eingeschätzt.
 
 Wie man - bis auf den ersten Satz - zu so einem Urteil kommen kann ist völlig unklar nachdem Omikron
-die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Und die Altersstratifizierung
+die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Auch die Altersstratifizierung
 der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssystems ist es in
 anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 
@@ -174,7 +176,7 @@ Ergebnis schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>
-  <https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_8c97b2396c2842b3b05975bfbd8254cb.pdf>
+  <https://www.researchgate.net/publication/354223836_The_Safety_of_COVID-19_Vaccinations_-_Should_We_Rethink_the_Policy_newly_and_independently_peer-reviewed_version>
   > The NNTV is between 200 and 700 to prevent one case of COVID-19 for the mRNA vaccine marketed by
   > Pfizer. NNTV to prevent one death is between 9,000 and 100,000 (95% confidence interval), with
   > 16,000 as a point estimate. We observed strong variability in the number of Individual Case
