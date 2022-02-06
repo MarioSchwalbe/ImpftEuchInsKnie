@@ -227,8 +227,8 @@ natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
 Falsch. Der Impfzwang ist verfassungswidrig und wird nicht erst irgendwann überflüssig. Mit welcher
 Impfung wurde eigentlich die spanische Grippe beendet? Oder die Pest? Auch wenn der Vergleich etwas
 hinkt, da die Gefährlichkeit von SARS-CoV-2 nicht annähernd die der Anderen erreicht, so sollte man
-doch erkennen, daß Epidemien von allein enden. Die Omikronvariante könnte nunmehr genau dafür
-sorgen, ohne noch mehr Impfschäden zu verursachen. Das Warten kann sich also durchaus lohnen.
+doch erkennen, daß Epidemien von allein enden. Die Omikronvariante könnte genau dafür sorgen, ohne
+noch mehr Impfschäden zu verursachen. Das Warten kann sich also durchaus lohnen.
 
 Folglich möchte ich mich lieber den Mitgliedern des Ethikrats anschließen, die gegen die Empfehlung
 einer allgemeinen Impfpflicht gestimmt haben. Frau Prof. Rostalski fasst die Gründe treffend
