@@ -44,7 +44,7 @@ p {
 }
 
 // Links überall trennen.
-a {
+a, a:hover {
   // word-break: break-all;
   overflow-wrap: break-word;
 }
