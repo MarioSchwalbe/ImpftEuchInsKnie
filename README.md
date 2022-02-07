@@ -103,6 +103,8 @@ jedenfalls wahrgenommene - Umstand sollte misstrauisch machen. Deshalb möchte i
 diese Punkte wie auch die erwähnten Fragen näher eingehen.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
+---
+
 Gefährlichkeit des Viruses
 --------------------------
 
@@ -487,6 +489,8 @@ aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:
 <https://corona-reframed.de>.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
+---
+
 Wirksamkeit der Impfung
 -----------------------
 
@@ -717,6 +721,8 @@ ist? (Quelle:
 gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die Motivation
 auch nicht besonders.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
+
+---
 
 Schadwirkung der Impfung
 ------------------------
@@ -976,6 +982,8 @@ Angesichts der Defizite muß auch die Frage erlaubt sein, ob die neuartige Techn
 mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden sollte.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
 
+---
+
 Die Rolle der Medien
 --------------------
 
@@ -1131,6 +1139,8 @@ Boulevardblatt, aber immerhin. Ein kleiner Schritt für die Menschheit, ein gro�
 Zunft. Wann können wir das in Deutschland erleben? Schön wäre es. Die Hoffnung stirbt bekanntlich
 zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
+
+---
 
 Die Rolle der Politik
 ---------------------
@@ -1543,6 +1553,8 @@ Ganz offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waage?
 -->
 <!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
+
+---
 
 Fazit
 -----
