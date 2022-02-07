@@ -23,6 +23,13 @@ nicht, bitte nicht weiter lesen. Wir müssen jetzt etwas schwurbeln.
 Einleitung
 ----------
 
+> Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Unmündigkeit
+> ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen.
+> Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des
+> Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen
+> zu bedienen. _Sapere aude!_ Habe Mut, dich deines eigenen Verstandes zu bedienen! ist also der
+> Wahlspruch der Aufklärung. (Immanuel Kant)
+
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
 Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
