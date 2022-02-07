@@ -137,13 +137,16 @@ Es mußte schließlich schnell und unbürokratisch geholfen werden.
 
 ### Big Virus ###
 
-Die folgende Abbildung zeigt die in Deutschland im Zusammenhang mit COVID-19 gemeldeten Infektionen,
-hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend auf den Daten
-des RKI (Quelle:
+Die folgenden Abbildungen zeigen die in Deutschland im Zusammenhang mit COVID-19 gemeldeten
+Infektionen, hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend
+auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
-Stand: 27.1.2022).
+Stand: 30.1.2022) sowie die Verbreitung der Varianten nach Kalenderwoche seit April 2021 (Quelle:
+<https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
+Stand: 30.1.2022).
 
 <a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
+<a href="images/VariantenProWoche.png"><img src="images/VariantenProWoche.png" width="700"></a>
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
@@ -152,12 +155,12 @@ wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in de
 zusammengefaßt:
 
 | Woche      | Variante | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
-|------------|----------|----------------------:|-------------------:|-----------:|-----------:|
-| KW 51 2020 | Wildtyp  |               174.701 |             12.653 |      6.430 |      3,68% |
-| KW 16 2021 | Alpha    |               144.749 |              8.019 |      1.604 |      1,11% |
-| KW 35 2021 | Delta    |                74.692 |              3.253 |        420 |      0,56% |
-| KW 47 2021 | Delta    |               403.430 |             10.691 |      2.868 |      0,71% |
-| KW 03 2022 | 15% Delta, 85% Omikron | 763.027 |              4.214 |        146 |      0,02% |
+|------------|---------------|----------------------:|-------------------:|-----------:|-----------:|
+| KW 51 2020 | Wildtyp                   |   174.695 |             12.652 |      6.432 |     3,681% |
+| KW 16 2021 | Alpha, Rest Wildtyp       |   144.748 |              8.019 |      1.605 |     1,109% |
+| KW 35 2021 | Delta                     |    74.691 |              3.253 |        421 |     0,564% |
+| KW 47 2021 | Delta                     |   403.424 |             10.754 |      2.911 |     0,722% |
+| KW 04 2022 | 97,8% Omikron, 1,5% Delta | 1.060.988 |              5.057 |        171 |     0,016% |
 
 Die dem RKI gemeldeten Infektionen entsprechen _nicht_ der tatsächlichen Menge an Infektionen in
 Deutschland, da symptomlose bzw. leicht symptomatische Infektionen ohne Test unerkannt bleiben,
