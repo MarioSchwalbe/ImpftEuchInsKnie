@@ -145,7 +145,7 @@ Stand: 30.1.2022).
 
 <a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
 
-Sowie die Verbreitung der Varianten nach Kalenderwoche seit April 2021 (Quelle:
+Sowie die Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021 (Quelle:
 <https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
 Stand: 30.1.2022).
 
