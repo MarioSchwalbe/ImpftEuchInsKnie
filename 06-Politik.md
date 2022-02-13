@@ -22,7 +22,7 @@ Voraussetzungen erfüllt sein:
 1. Die Impfstoffe müßten Schutz vor Infektion und Transmission gewährleisten, was nicht der Fall
    ist.
 
-2. Davon abgesehen müßten immer noch alle potentiellen Wirte des Viruses geimpft werden. Bei, im
+2. Davon abgesehen müßten immer noch alle potentiellen Wirte des Virus geimpft werden. Bei, im
    Gegensatz zum humanen Pockenvirus, nicht auf den Menschen spezialisierten Viren wie Coronaviren
    schließt das auch Tiere mit ein:
    [Fledermäuse](https://www.faz.net/aktuell/wissen/coronavirus-warum-viren-ihren-ursprung-in-fledertieren-haben-16660770.html),
@@ -32,7 +32,12 @@ Voraussetzungen erfüllt sein:
    [Nilpferde](https://www.deutschlandfunknova.de/nachrichten/zoo-antwerpen-nilpferde-corona-positiv),
    Elefanten, ... Das macht die Idee eigentlich noch absurder.
 
-3. Es müßte sich um Viren handeln, die langsam genug mutieren, so daß wir ihnen die Wirte schneller
+3. Außerdem sind weitere Varianten bereits existent aber noch nicht dominant (engl. VOI, variants of
+   interest und VOC, variants of concern). Die Beseitigung einer Variante ermöglicht dann lediglich
+   die Ausbreitung einer Anderen. Das könnte potentiell auch kontraproduktiv sein, denn die
+   infektiöseren und milderen Varianten bewahren uns auch vor ihren gefährlicheren Artgenossen.
+
+4. Es müßte sich um Viren handeln, die langsam genug mutieren, so daß wir ihnen die Wirte schneller
    entziehen können. Andernfalls könnten sich zwischenzeitlich neue Varianten bilden, die dem
    Impfschutz wirksam entgehen, und wir müßten wieder von Neuem beginnen. Das ist bei DNA-Viren
    (Pocken) durchaus machbar, da deren Mutationsrate bei ca. 1 Mutation pro 1.000.000 Nukleotiden
@@ -48,7 +53,7 @@ die weder Infektion noch Transmission verhindern können?
 
 Nächster Versuch: Verhinderung von neuen potentiell gefährlicheren Varianten? Ungeimpfte seien die
 Brutkästen des unsichtbaren Todes. Wo entstehen multiresistente Keime, denen bekanntlich in
-Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Antibiotika verwendet
+Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viele Antibiotika verwendet
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Natürlich können
 Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkeit ist dann bedingt
 durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
@@ -72,17 +77,17 @@ erkennbar. Deutschland ist im Vergleich zu anderen europäischen Ländern mit 26
 Verfügung: Norwegen (8), Dänemark (7), Großbritannien (7), Niederlande (6) und Schweden (vor der
 Pandemie 6 jetzt 11) (Quelle:
 <https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html>).
-Die Abbildung zeigt aber auch ein Rückgang während der Pandemie von 32.000 auf nunmehr 22.000 Betten
-(ein Drittel) bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und den Bedarf
-unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür sind
-vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
+Die Abbildung zeigt aber auch ein Rückgang um fast ein Drittel während der Pandemie von 32.000 auf
+nunmehr 22.000 Betten bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und
+den Bedarf unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür
+sind vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
 neoliberale Privatisierungs- und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden
 (Quelle:
 <https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter>).
-Und wo sind unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben? Gesundheitsminister
-Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts mehr schief gehen.
-Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
-schließen (Quelle:
+Und wo sind eigentlich unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben?
+Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts
+mehr schief gehen. Der selbe Gesundheitsexperte, der sich im Jahr 2019 noch dafür aussprach jede
+dritte Klinik zu schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
 Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
 statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
@@ -129,29 +134,33 @@ Die Studien untersuchten die Wirksamkeit von Lockdowns im Jahr 2020 und fanden k
 Vorteile. Warum hat die Politik im Jahr 2021 trotzdem nichts daraus gelernt und besteht darauf,
 weiterhin einen toten Gaul zu reiten? Sollen die Folgeschäden möglichst maximiert werden?
 
-Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Frage: Was ist der Unterschied
-zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort: Negativ-getestete
-Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom Impfstatus in Quarantäne
-begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die Tests hinreichend
-zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe. Geimpfte werden
-vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine Infektionen
-verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
+Nächster Versuch: Eindämmung des Infektionsgeschehens mit Zugangsbeschränkungen? Frage: Was ist der
+Unterschied zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort:
+Negativ-getestete Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom
+Impfstatus in Quarantäne begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die
+Tests hinreichend zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe.
+Geimpfte werden vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine
+Infektionen verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
 <https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993>).
 (Die echten Zahlen veröffentlichte das bayerische LGL natürlich erst nachdem die WELT AM SONNTAG
 juristische Schritte angekündigt hatte.)
 
-Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es einmal nicht funktioniert,
-dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
-<https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html>). Das heißt Geboosterte
-brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
-Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
-Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
+Nächster Versuch: Eindämmung des Infektionsgeschehens mit Zugangsbeschränkungen? Wenn es einmal
+nicht funktioniert, dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen
+(Quelle: <https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html>). Das heißt
+Geboosterte brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere
+anstecken. Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet
+werden. Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
 Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht als Gast im
 Restaurant essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften
-ausschließen kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
+ausschließen kann. Logisch. Angesichts der Erkenntnis, daß Impfungen die Ansteckungswellen nicht
+wirksam aufhalten können, legen die hohen Inzidenzen vielmehr nahe, daß die Erleichterungen für
+Geimpfte und Genesene Ursache der Rekordwerte sind. Die deutsche Politik verkommt langsam zur
+Realsatire.
 
-Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
-fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund genauer (Quelle:
+Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie
+privilegierte Geimpfte fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund
+genauer (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
 
@@ -165,10 +174,10 @@ beginnt und 90 Tage danach wieder erlischt. Begründet wird dies mit einem herab
 Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvariante ist
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
-vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt Genesene bei
-unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche Immunität
-Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet und somit
-wesentlich effektiver bei neuen Varianten schützen kann.
+vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt nur Genesene
+bei unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche
+Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
+und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -183,6 +192,7 @@ Strategiepapier des BMI finden:
 - **Bundesministerium des Inneren**:
   Wie wir COVID-19 unter Kontrolle bekommen, 28.4.2020 <br/>
   <https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html>
+
 - **FragDenStaat**:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
   <https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/>
@@ -208,8 +218,8 @@ und offene Kommunikation“:
 > Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
 
 Ich bezweifle, daß viele Menschen freiwillig auf die Idee kämen, so etwas zu denken. Der Absatz
-offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie auch eine
-Strategie des Schocks empfehlen:
+offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren. Wohl deshalb empfehlen sie
+auch eine Strategie des Schocks:
 
 > Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
 > auf die menschliche Gesellschaft verdeutlicht werden:
@@ -244,10 +254,10 @@ Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließli
 Interessanterweise wird in dem Strategiepapier an anderen Stellen mehrmals eine staatliche
 Aufklärungs- und Informationskampagne gefordert, wogegen grundsätzlich nichts einzuwenden wäre.
 Aufklärung setzt allerdings Sachlichkeit und Wahrheit voraus. Wenn man dagegen nur Angst schürt und
-wichtige zwischenzeitlich verfügbare Informationen \- Gefährlichkeit des Viruses, mangelnde
-Wirksamkeit der Impfung oder Gefährlichkeit der Impfung \- verschweigt, verwandelt sich die
-Aufklärungskampagne langsam in eine Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der
-Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+wichtige zwischenzeitlich verfügbare Informationen - betreffend der Gefährlichkeit des Virus, der
+mangelnden Wirksamkeit der Impfung oder der Gefährlichkeit der Impfung - verschweigt, verwandelt
+sich die Aufklärungskampagne langsam in eine Propagandakampagne. Für vermeintliche Solidarität. Wie
+schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
@@ -265,17 +275,18 @@ insbesondere dann vor,
    3. _die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird_.
 
 Diese Kriterien dürften erfüllt sein, solange behauptet wird, daß die Impfung vor Infektion,
-schwerem Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
+symptomatischem bzw. schwerem Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
 RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html)
-nicht der Fall ist. Auf mögliche Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist
-sicher.“ auch nicht hingewiesen. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
-Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+nicht der Fall ist. Auch wird es mit dem Werbespruch „Die Impfung schützt und ist sicher“ versäumt
+auf die nicht unerheblichen Nebenwirkungen hinzuweisen. Für vermeintliche Solidarität. Wie schrieb
+Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
-Daß das grundsätzlich auch anders ginge, beweist die Kampagne der Regierung von El Salvador, in der
-der Bevölkerung zur Vermeidung von schwerer Erkrankung ein gesunder Lebenswandel, Sport und gesunde
-Ernährung empfohlen wird (Quelle: https://www.youtube.com/watch?v=u9vrf9IU_EY). In Deutschland geht
-es dagegen auch in den neuen Medien wie Spotify und Twitter wie gewohnt heiß her. Nach den
-hauptsächlich im Herbst 2021 zirkulierenden Twitter-Trends
+Daß Kommunikation grundsätzlich auch anders ginge, beweist die Kampagne der Regierung von El
+Salvador, in der der Bevölkerung zur Vermeidung von schwerer Erkrankung ein gesunder Lebenswandel,
+Sport an der frischen Luft und gesunde Ernährung empfohlen wird (Quelle:
+<https://www.youtube.com/watch?v=u9vrf9IU_EY>). In Deutschland geht es dagegen auch in neuen Medien
+wie Spotify und Twitter wie gewohnt heiß her. Nach den hauptsächlich im Herbst 2021 zirkulierenden
+Twitter-Trends
 [`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
 und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
 Antwort von offizieller Seite
@@ -283,21 +294,23 @@ Antwort von offizieller Seite
 Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
 schützen - nämlich gar nicht.
 
-Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, um
-ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es mittlerweile Präventions-
-und Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist,
-beispielsweise:
+Konsequenterweise werden alternative Behandlungsmethoden der Krankheit medial und politisch
+vollständig ignoriert, um ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es
+mittlerweile Präventions- und Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien
+nachgewiesen ist, beispielsweise:
 
 - [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com): [Präventions- und
   Behandlungsprotokolle für COVID-19](https://covid19criticalcare.com/de/covid-19-protocols/) oder
-- [World Council for Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment
-  guidelines: A practical approach to home-based care for healthy
+- [Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org) bzw. [World Council for
+  Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment guidelines: A practical
+  approach to home-based care for healthy
   families](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/).
 
 Dementsprechend ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
 20/188](https://dserver.bundestag.de/btd/20/001/2000188.pdf), mit dem die Impfpflicht im
 medizinischen Bereich beschlossen wurde, auch nur als dreiste Lüge der Regierungskoalition zu
-bewerten.
+bewerten. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die
+Mittel heiligt, dann ist der Zweck unheilig.
 
 ### Great Barrington Declaration ###
 
@@ -375,30 +388,31 @@ angeschlossen, wovon 15.638 als „medical & public health scientists“ geführ
 Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
 tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
 dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau
-derjenige Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht
-langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage
-recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
-aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht haben, aber
-jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das würden die
-meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
-davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
+derjenige Gemeinschaftsschutz, der mit der nicht wirksamen Impfung vorgeblich auch bezweckt wird.
+Wäre es nicht langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein
+Ausweg aus der Lage recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man
+politisch mit der Ausrede aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere
+Zeit gebracht haben, aber jetzt wäre es schlußendlich angebracht wieder zum normalen Leben
+zurückzufinden. Das würden die meisten Menschen wahrscheinlich glauben wollen. Damit könnte man
+politisch mit einem blauen Auge davonkommen, ohne gleich für Unfähigkeit komplett zurückzutreten und
+der AfD das Feld zu überlassen.
 
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
 (Quelle:
 <https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html>).
-Wie wäre es stattdessen mit keinem von beiden? Das wäre noch billiger, und so ließe sich ein
-Fachkräftemangel auch besser vermeiden.
+Offensichtlich hat die Demokratie keine Lobby in Deutschland. Wie wäre es stattdessen mit keinem von
+beiden? Das wäre noch billiger, und so ließe sich ein Fachkräftemangel auch am besten vermeiden.
 
 Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? Eine staatlich
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
 Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
-(Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Was
-wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
-zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
-Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
-Immunologie hat sondern auch in Psychologie:
+(Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Und
+ich dachte es geht um Gesundheit. Was wäre dann noch der Unterschied zwischen der Bundesregierung
+und der Drogenmafia? Ok, die Mafia zwingt einen nicht ihren Scheiß zu nehmen. Dafür haben wir mit
+Karl Lauterbach schließlich auch einen Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel
+in Virologie, Epidemiologie und Immunologie hat sondern auch in Psychologie:
 
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
 > zum Schluss freiwillig impfen lässt.

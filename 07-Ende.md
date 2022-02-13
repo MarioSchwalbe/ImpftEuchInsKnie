@@ -10,7 +10,7 @@ Aktennotiz:
 Dieses Kapitel ist nicht eigenständig und kann nicht losgelöst von den anderen 5 Kapiteln betrachtet werden.
 ```
 
-> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
+> Unsichtbar macht sich die Dummheit, indem sie sehr große Ausmaße annimmt. (Bertold Brecht)
 
 ### Big Business ###
 
@@ -44,9 +44,10 @@ Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) symp
 Statistiken (Meldeinzidenz), (b) unsinnige Fokusierung auf Antikörperspiegel, obwohl diese nach
 kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel relevanter wären, (c)
 überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt erteilte
-Notzulassungen. Das ist auch notwendig, denn leider laufen gewinnträchtige Patente in jeder Branche
-irgendwann ab, so daß neue Technologien benötigt werden, um das weitere Wirtschaftswachstum zu
-sichern. Der Chief Investment Officer der Deutschen Apotheker- und Ärztebank verrät uns:
+Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig, denn leider
+laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien benötigt
+werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der Deutschen
+Apotheker- und Ärztebank verrät uns:
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
@@ -133,19 +134,20 @@ für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbe
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
 geworfen. In den USA mußten dann noch die beiden Direktoren des Office of Vaccines Research & Review
 der FDA kündigen (Quelle: <https://brownstone.org/articles/the-meaning-of-the-fda-resignations/>).
-Es mußte schließlich schnell und unbürokratisch geholfen werden.
+Es mußte schließlich schnell und unbürokratisch geholfen werden - alles für die Solidarität.
 
 ### Big Virus ###
 
-Die folgenden Abbildungen zeigen die in Deutschland im Zusammenhang mit COVID-19 gemeldeten
-Infektionen, hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend
-auf den Daten des RKI (Quelle:
+Schließlich ist das Virus auch gefährlich. Die folgenden Abbildungen zeigen die in Deutschland im
+Zusammenhang mit COVID-19 gemeldeten Infektionen, hospitalisierten Patienten und Todesfälle nach
+Kalenderwoche seit März 2020 basierend auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 30.1.2022).
 
 <a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
 
-Sowie die Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021 (Quelle:
+Sowie die prozentualen Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021
+(Quelle:
 <https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
 Stand: 30.1.2022).
 
@@ -153,11 +155,12 @@ Stand: 30.1.2022).
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
-verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz im November 2021 politisch etabliert
-wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
-zusammengefaßt:
+verkünden, obwohl die Hospitalisierungsinzidenz im November 2021 politisch etabliert wurde. Was soll
+uns eine Inzidenz von 1.000 sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der
+sprichwörtliche Sack Reis in China. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der
+Wellen in der folgenden Tabelle zusammengefaßt:
 
-| Woche      | Variante | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
+| Woche      | Variante      | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
 |------------|---------------|----------------------:|-------------------:|-----------:|-----------:|
 | KW 51 2020 | Wildtyp                   |   174.695 |             12.652 |      6.432 |     3,681% |
 | KW 16 2021 | Alpha, Rest Wildtyp       |   144.748 |              8.019 |      1.605 |     1,109% |
@@ -167,18 +170,18 @@ zusammengefaßt:
 
 Die dem RKI gemeldeten Infektionen entsprechen _nicht_ der tatsächlichen Menge an Infektionen in
 Deutschland, da symptomlose bzw. leicht symptomatische Infektionen ohne Test unerkannt bleiben,
-insbesondere zu Beginn der Pandemie mit noch geringem Testaufkommen. Demzufolge entspricht die
+insbesondere auch zu Beginn der Pandemie mit noch geringem Testaufkommen. Demzufolge entspricht die
 berechnete Mortalität auch _nicht_ der Infektionssterblichkeit. Dennoch kann man erkennen, daß alle
 dem Wildtyp folgenden Varianten - entsprechend der Evolutionstheorie - schrittweise weniger
 gefährlich wurden. Insbesondere die Omikronvariante ist wesentlich milder als der ursprüngliche Typ
 (Faktor 192). Obwohl der Vorsitzende des Weltärztebundes Frank Ulrich Montgomery das Schlimmste
-befürchtet hatte, ist wieder kein Ebola in Sicht. Das neue hochgejubelte Killervirus in spe
-enttäuscht auf ganzer Linie.
+befürchtet hatte, ist wieder kein Ebola in Sicht. Charles Darwin hatte doch Recht. Das neue
+hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie.
 
 ### Big Decision ###
 
 Es ist an der Zeit die große Frage zu beantworten. Um es mit den Worten von Harald Schmidt zu sagen:
-Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Lies: Mit wem muß
+Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Also mit wem muß
 ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir gefallen. Eine Impfung käme
 jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 
@@ -187,46 +190,58 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
    die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
-   auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferone.
+   auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
-   Lipid-Nanopartikel eingereicht hat. Ohne immanente Notlage kann man auf derartige Experimente
-   durchaus verzichten.
-   <!--
-   Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315 nicht für die Verwendung am oder im
-   Menschen zugelassen, sondern ausschließlich für Forschungszwecke bestimmt.
-   -->
+   Lipid-Nanopartikel eingereicht hat (Special Obligations). Desweiteren sind die Inhaltsstoffe
+   ALC-0159 und ALC-0315 laut deren Herstellern nicht für die Verwendung am oder im Menschen
+   zugelassen, sondern ausschließlich für Forschungszwecke bestimmt. Trotzdem wurden sie im Rahmen
+   der Notzulassung vom der EMA akzeptiert. Ohne immanente Notlage kann man auf derartige
+   Experimente durchaus verzichten.
 
 3. Qualitätssicherungsprozesse in der Herstellung wurden implementiert und unabhängig geprüft.
-   Etwaige gefundene Mängel wurden behoben. Die obigen Punkte sind wahrlich keine überzogenen
-   Anforderungen, sondern in anderen Branchen normaler Standard.
+   Etwaige gefundene Mängel wurden selbstverständlich behoben. Die obigen Punkte sind wahrlich keine
+   überzogenen Anforderungen, sondern in anderen Branchen gewöhnlicher Standard.
 
 4. Die Impfstoffe haben ihre Praxistauglichkeit unter Beweis gestellt und halten ihre
    Werbeversprechen von 95-prozentiger Effektivität. Insbesondere einen Schutz vor Transmission
    sollten sie bieten, um das Argument der Impfung aus Solidarität wirksam werden zu lassen. Das
    wäre bei einem saisonal auftretendem Virus frühestens nach dem nächsten Winter, also im Frühjahr
-   2023, der Fall.
+   2023, überprüfbar.
 
-5. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Viruses
-   vernachlässigbar. Das Virus hat mit der Omikronvariante die Gefährlichkeit einer Grippe
-   unterschritten, d.h. Nebenwirkungen dürften praktisch nicht vorhanden sein.
+5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
+   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. (Das
+   kaufmännische Argument, daß die Bestellungen bereits aufgegeben sind und deswegen alles noch
+   verimpft werden müsse, ist irrelevant.)
 
-6. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
+6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
+   unausgereifte Technologien und ohne Ersatzviren.
+
+7. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
+   vernachlässigbar. Da das Virus mit der Omikronvariante die Gefährlichkeit einer Grippe
+   unterschritten hat, dürften Nebenwirkungen praktisch nicht vorhanden sein.
+
+8. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-7. Es handelt sich um einen klassischen Totimpfstoff ohne neuartige unausgereifte Technologien.
+9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit wäre es ratsam die
+   impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
+   https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
+   Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
+   https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
 
-8. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
-   sind. Dies würde dann die nächsten 10 Jahre in Anspruch nehmen.
+10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
+    sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
 
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
-sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
-natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
+sollte das jemals der Fall sein. Erwartungskonform ist Gesundheitsminister und Experte™ Karl
+Lauterbach natürlich anderer Meinung und drängt auf baldigen Vollzug, obwohl keine dringende
+Notwendigkeit besteht (Quelle:
 <https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
 
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
@@ -258,15 +273,12 @@ zusammen (Quelle:
 > Virus zu begegnen, lässt sich dies nicht rechtfertigen.
 
 Die Wissensdefizite sind, trotz der vollmundigen Versprechungen der Politik und der Pharmalobby,
-einfach zu groß. Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren,
-die glauben sie seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
+einfach zu groß. Wie vertrauenswürdig ist eine Impfung, für deren Sicherheit und Wirksamkeit
+sämtliche kritischen Stimmen zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
+Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien Wissenschaftler. Die Irren
+erkennt man gewöhnlich dran, daß sie nie irren.
 
 ### Hilfe zur Selbsthilfe ###
-
-```text
-Aktennotiz:
-Dieser Abschnitt ist nicht eigenständig und kann nicht losgelöst von den vorherigen 5 Kapiteln betrachtet werden.
-```
 
 Mir ist bewußt, daß es eine gewisse Diskrepanz zwischen der Berichterstattung in den Medien und
 obigen Kapiteln gibt. Es gibt hierfür zwei mögliche Erklärungen: (a) Ich liege falsch (oder spinne),
@@ -274,9 +286,9 @@ oder (b) die Medien liegen falsch (oder lügen). Beide Hypothesen kann man leich
 demokratischen Verantwortung überprüfen.
 
 _Test 1_: Beispielsweise könnte man beides - die bundesdeutschen Nachrichten und die
-Gegendarstellung in den alternativen Medien - lesen und vergleichen. Das erlaubt selbständig zu
-prüfen wer die bessere Qualität liefert. Das ist jederzeit leicht machbar und erfordert nur etwas
-zusätzlichen Zeitaufwand.
+Gegendarstellung in den alternativen Medien - lesen und vergleichen. Das erlaubt, selbständig zu
+prüfen, wer mit der besseren Qualität aufwarten kann. Das ist jederzeit leicht machbar und erfordert
+nur etwas zusätzlichen Zeitaufwand.
 
 _Test 2_: Alternativ besteht, im Gegensatz zur Berichterstattung über ferne Länder, die Möglichkeit
 sich unmittelbar zu informieren. Man könnte beispielsweise selbst spazieren gehen und etwaige
@@ -286,19 +298,19 @@ Mut aufbringt selbst zu spazieren, wäre es auch möglich die Spaziergänger wen
 sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernsehen gezeigt. Für die
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
-- Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
-- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
+- Augsburg  4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
+- München   5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
   Aus einer anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
   <https://twitter.com/manaf12hassan/status/1479092879238877196>.
-- Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
+- Bamberg   6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
 - Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>
-- Hamburg 8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
+- Hamburg   8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
 
 Bitte anschauen. Interessant ist auch eine Aufnahme aus Dresden, in der ein Agent Provocateur (oder
 V-Mann) für tätliche Angriffe auf Polizeibeamte gleich mehrfach verhaftet wird, was wiederum gute
 Bilder für die Presse liefert (Quelle:
 <https://twitter.com/alterdonauwels/status/1479827634091704329>). Ob diese Interpretation korrekt
-ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls seit Jahrhunderten bekannt.
+ist, läßt sich nicht abschließend klären, das Prinzip wäre jedenfalls seit Jahrhunderten bekannt.
 
 Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
@@ -352,26 +364,32 @@ Ziele sind keinesfalls Dialog (demokratisch) sondern zweifelsfrei Umsturz (gewal
 Der Absatz endet mit offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung
 von Schutz. Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich
 auch aus jedem anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in
-der Masse untergehen, wirken sie eher wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im
-Übrigen ist ein Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen
-Mitteln wirksam umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser
-Rhetorik ist ein anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - genötigt
-werden ihren Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen.
-Dabei wird implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das
-Richtige sagen, ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das
-Falsche sagen?
+der Masse untergehen, wirken sie wie Demokraten und dürften ihre Ziele kaum erreichen. Im Übrigen
+ist ein Ausschluß von echten oder vermuteten Rechtsradikalen auch nicht mit demokratischen Mitteln
+wirksam umzusetzen. Wie sollte das bewerkstelligt werden? Eine freiwillige Selbstauskunft wäre zu
+leicht zu umgehen. Ein Social-Credit-System nach dem Vorbild Chinas könnte funktionieren. Man darf
+nur dann gegen die Politik demonstrieren, wenn der Social-Credit-Score ausweist, daß man ein braver
+Befürworter ist.
+
+Der eigentliche Zweck dieser Rhetorik ist ein anderer: Die Spaziergänger sollen - gemäß den
+Äußerungen der Politik - genötigt werden ihren Standpunkt aufzugeben, um sich vermeintlich besser
+von Rechtsradikalen abzugrenzen. Dabei wird implizit unterstellt dies wäre die einzige Möglichkeit
+dazu, weshalb es auch alternativlos geboten wäre. Wenn die Falschen das Richtige sagen, ist es dann
+richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
 
 Absatz 2: Ein paar kleine Fehler müssen zugegeben werden sonst wirkt es zu unglaubwürdig, aber nicht
 ohne sofortige Relativierung. Besser wäre keinesfalls möglich gewesen. Das ist deswegen noch lange
-kein Grund die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Die
-Betonung dieses Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff
+kein Grund die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Bloß
+nicht anfangen zu denken. Das Problem besteht auch nicht darin, daß eben nicht alle Entwicklungen in
+ihrem Ausmaß vorhersehbar waren, sondern daß sie maßlos überschätzt wurden. Die Betonung dieses
+Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff überhaupt
 zutreffend wäre, fehlt.
 
 Absatz 3: Erneute Proklamation von Solidarität garniert mit dem Wort Vernunft. Wieder keine
 Erklärung. Dafür eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen
 könnten - als wenn diesem Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach
 wird der Frame geschlossen: Gleichsetzung der Anderen mit Gewalt, Rassismus, Antisemitismus und
-Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß gehört noch eine Prise
+Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß fehlt noch eine Prise
 Emotionalisierung: Trauer um die Verstorbenen aus Dresden - als wenn diese nicht auch ohne die
 vorherige Diffamierung möglich gewesen wäre. Alternativ könnte man das Ende auch als unterschwellige
 Schuldzuweisung lesen.
@@ -379,7 +397,7 @@ Schuldzuweisung lesen.
 Während _Haltung Zeigen_ drei Viertel der Begründung darauf verwendet, zu Emotionalisieren und die
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
-Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
+Solidarität ebenso vorkommt, aber weniger exzessiv wiederholt wird (Quelle:
 <https://friedlichzusammen.de/wofuer-wir-stehen/>, Stand: 30.1.2022):
 
 > `Für ein friedliches Miteinander` #friedlichzusammen steht für ein friedliches respektvolles

@@ -2,13 +2,15 @@
 
 ---
 
-Gefährlichkeit des Viruses
---------------------------
+Gefährlichkeit des Virus
+------------------------
+
+> Autoritätsdusel ist der größte Feind der Wahrheit. (Albert Einstein)
 
 Bereits im März 2020 kam Dr. Fauci, Direktor des National Institute of Allergy and Infectious
 Diseases (NIAID) der USA und mittlerweile Chief Medical Advisor to the President, zu dem Ergebnis,
-daß die Gefährlichkeit des neuen Viruses - bemessen an der Sterblichkeit - in der Größenordnung
-einer Grippe liegen würde:
+daß die Gefährlichkeit des neuen Virus - bemessen an der Sterblichkeit - in der Größenordnung einer
+Grippe liegen würde:
 
 - **Anthony S. Fauci, H. Clifford Lane, Robert R. Redfield**:
   Covid-19 - Navigating the Uncharted, 26.3.2020 <br/>
@@ -113,15 +115,44 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > hypothesis. “We have really shown that this is a true immune memory and it is derived in part
   > from common cold viruses.”
 
-Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang des Jahres 2020 völlig
-übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen, mittlerweile aber
-schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die starke
-Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe:
+Im Jahr 2021 analysierte eine Forschergruppe aus Dänemark die Art der gebildeten Antikörper nach
+einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich um
+IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären IgG-Antikörper
+zu erwarten. Bei 202 von 203 Probanden fanden sie IgG-Antikörper:
+
+- **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
+  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
+    eBioMedicine, Volume 68, 2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
+  > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
+  > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
+  > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001,
+  > Fig. 1a). Furthermore, IgG antibodies from SARS-CoV-2 infected individuals exhibited strongly
+  > increased reactivity towards spike protein from other human beta coronaviruses: SARS-CoV-1 and
+  > Middle East respiratory syndrome (MERS), as compared to the negative controls. Further,
+  > increased IgG levels towards the seasonal beta coronavirus strains: HKU1 and OC43, compared to
+  > IgG from the control group were also observed (p<0.0001, Fig. 1b). [...] Overall, we conclude
+  > that more than 202 (99%) of the SARS-CoV-2 infected individuals in this cohort had readily
+  > detectable antibodies to SARS-CoV-2 spike antigen, and that broad IgG immunological recognition
+  > of SARS-CoV-2 as well as several different coronavirus develops during COVID-19. [...] In
+  > conclusion, we observed that disease severity is closely related to the potency and breadth of
+  > the antibody response towards SARS-CoV-2. Furthermore, we identified the SARS-CoV-2 spike
+  > protein as a target of adaptive immunity in >99% of the cohort, irrespective of COVID-19 symptom
+  > manifestation. Only two individuals (<2%) had neither antibodies with virus neutralization
+  > capacity, nor detectable CD8+ T-cell responses. Hence, we conclude that regardless of COVID-19
+  > severity, _a robust adaptive immune response towards SARS-CoV-2 is elicited during primary
+  > infections_.
+
+Für das menschliche Immunsystem ist das neuartige Virus folglich nicht neu. Aus diesem Grund sind
+die ursprünglichen Modellrechnungen am Anfang des Jahres 2020 völlig übertrieben gewesen. Das konnte
+man damals vielleicht nicht so genau wissen, mittlerweile aber schon. Gleiches gilt für ein weiteres
+Detail, daß gerne unerwähnt bleibt: Die starke Altersstratifizierung der hervorgerufenen Symptome
+und Todesfälle - größer noch als bei der Grippe.
 
 <a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
 
-Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
-Daten des RKI (Quelle:
+Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 nach Altersgruppe und
+Geschlecht basierend auf den Daten des Robert Koch-Instituts (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
@@ -140,8 +171,8 @@ Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren
 bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
 zu konzentrieren.
 
-Es zeigt sich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei 83
-Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
+Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
+83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit
 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
 tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
 Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
@@ -149,7 +180,7 @@ gewesen wären. Es spricht aber einiges dagegen:
 
 1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
    Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
-   ist grober Unfug. Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für
+   ist grober Unfug. Natürlich ist das Vorhandensein des Virus notwendige Voraussetzung für
    Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
    hinreichend verkauft. Das ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das
    Virus gefährlich wäre und führen deswegen den passenden Test durch. Da der Test positiv war,
@@ -219,7 +250,7 @@ Ursachen der Grund sein (Quelle:
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
 Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
-2020 über alle Todesursachen keine signifikante Übersterblichkeit:
+2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
@@ -270,12 +301,16 @@ Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stan
 Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
 100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
-empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
+empfehlen, statt den Menschen einzureden, daß die Coronaimpfung zwingend geboten wäre. Das könnte
+die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Belegung der Intensivstationen ###
 
-Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
-Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
+Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
+Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
+eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
+März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
 <a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
 <a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
@@ -285,8 +320,8 @@ Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitre
 Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind im
 bundesdeutschen Durchschnitt nie mehr als 25% benötigt worden. In einigen sächsischen Kreisen betrug
 die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Überlastung des
-Gesundheitssystems durch SARS-CoV-2 ist nicht erkennbar. Eine besondere Gefährdung von Kindern
-sowieso nicht.
+Gesundheitssystems durch SARS-CoV-2 war zu keinem Zeitpunkt zu befürchten. Eine besondere Gefährdung
+von Kindern sowieso nicht.
 
 <a href="images/AuslastungIntensivstationen.png"><img src="images/AuslastungIntensivstationen.png"></a>
 
@@ -338,7 +373,7 @@ Die Deutsche Gesellschaft für Pädiatrische Infektiologie schlußfolgert zu Omi
 > allen Altersgruppen deutlich unter der der Delta-Variante.
 
 Erste Studien zur Abschätzung der Gefährlichkeit der Omikronvariante sind bereits verfügbar
-(Pre-Print):
+(Preprint):
 
 - **Eleanor G. Bentley, Adam Kirby, Parul Sharma, et al.**:
   SARS-CoV-2 Omicron-B.1.1.529 Variant leads to less severe disease than

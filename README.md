@@ -31,11 +31,11 @@ Einleitung
 > Wahlspruch der Aufklärung. (Immanuel Kant)
 
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
-der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
-Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
-will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
-eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
-Impfpflicht verweisen:
+der letzten 2 Jahre neu lernen müßtest. Leider kann ich das nicht alles wiedergeben. Die
+Aufarbeitung dürfte der Nachwelt überlassen bleiben. (Wahrscheinlich kann man die Lehrstühle der
+Geschichte der Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich mich außerdem nicht
+mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit eines Politikers - möchte ich
+zuerst auf einige Stellungnahmen zur angedachten allgemeinen Impfpflicht verweisen:
 
 1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
    <https://7argumente.de>
@@ -48,7 +48,7 @@ Impfpflicht verweisen:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    <https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/>
 
-4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf, et al.**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
    <https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument>
 
@@ -83,7 +83,7 @@ aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 Konsonantenkombination „mpfpf“ und ist dabei auch noch ernst gemeint.)
 
 In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksichtigen:
-1. [Wie gefährlich ist das Virus](#gefährlichkeit-des-viruses)?
+1. [Wie gefährlich ist das Virus](#gefährlichkeit-des-virus)?
 2. [Wie wirksam sind die Maßnahmen, insbesondere die Impfung](#wirksamkeit-der-impfung)?
 3. [Welche Nachteile bringen die Maßnahmen mit sich](#schadwirkung-der-impfung)?
 
@@ -105,13 +105,15 @@ diese Punkte wie auch die erwähnten Fragen näher eingehen.
 
 ---
 
-Gefährlichkeit des Viruses
---------------------------
+Gefährlichkeit des Virus
+------------------------
+
+> Autoritätsdusel ist der größte Feind der Wahrheit. (Albert Einstein)
 
 Bereits im März 2020 kam Dr. Fauci, Direktor des National Institute of Allergy and Infectious
 Diseases (NIAID) der USA und mittlerweile Chief Medical Advisor to the President, zu dem Ergebnis,
-daß die Gefährlichkeit des neuen Viruses - bemessen an der Sterblichkeit - in der Größenordnung
-einer Grippe liegen würde:
+daß die Gefährlichkeit des neuen Virus - bemessen an der Sterblichkeit - in der Größenordnung einer
+Grippe liegen würde:
 
 - **Anthony S. Fauci, H. Clifford Lane, Robert R. Redfield**:
   Covid-19 - Navigating the Uncharted, 26.3.2020 <br/>
@@ -216,15 +218,44 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > hypothesis. “We have really shown that this is a true immune memory and it is derived in part
   > from common cold viruses.”
 
-Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang des Jahres 2020 völlig
-übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen, mittlerweile aber
-schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die starke
-Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe:
+Im Jahr 2021 analysierte eine Forschergruppe aus Dänemark die Art der gebildeten Antikörper nach
+einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich um
+IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären IgG-Antikörper
+zu erwarten. Bei 202 von 203 Probanden fanden sie IgG-Antikörper:
+
+- **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
+  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
+    eBioMedicine, Volume 68, 2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
+  > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
+  > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
+  > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001,
+  > Fig. 1a). Furthermore, IgG antibodies from SARS-CoV-2 infected individuals exhibited strongly
+  > increased reactivity towards spike protein from other human beta coronaviruses: SARS-CoV-1 and
+  > Middle East respiratory syndrome (MERS), as compared to the negative controls. Further,
+  > increased IgG levels towards the seasonal beta coronavirus strains: HKU1 and OC43, compared to
+  > IgG from the control group were also observed (p<0.0001, Fig. 1b). [...] Overall, we conclude
+  > that more than 202 (99%) of the SARS-CoV-2 infected individuals in this cohort had readily
+  > detectable antibodies to SARS-CoV-2 spike antigen, and that broad IgG immunological recognition
+  > of SARS-CoV-2 as well as several different coronavirus develops during COVID-19. [...] In
+  > conclusion, we observed that disease severity is closely related to the potency and breadth of
+  > the antibody response towards SARS-CoV-2. Furthermore, we identified the SARS-CoV-2 spike
+  > protein as a target of adaptive immunity in >99% of the cohort, irrespective of COVID-19 symptom
+  > manifestation. Only two individuals (<2%) had neither antibodies with virus neutralization
+  > capacity, nor detectable CD8+ T-cell responses. Hence, we conclude that regardless of COVID-19
+  > severity, _a robust adaptive immune response towards SARS-CoV-2 is elicited during primary
+  > infections_.
+
+Für das menschliche Immunsystem ist das neuartige Virus folglich nicht neu. Aus diesem Grund sind
+die ursprünglichen Modellrechnungen am Anfang des Jahres 2020 völlig übertrieben gewesen. Das konnte
+man damals vielleicht nicht so genau wissen, mittlerweile aber schon. Gleiches gilt für ein weiteres
+Detail, daß gerne unerwähnt bleibt: Die starke Altersstratifizierung der hervorgerufenen Symptome
+und Todesfälle - größer noch als bei der Grippe.
 
 <a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
 
-Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 basierend auf den
-Daten des RKI (Quelle:
+Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 nach Altersgruppe und
+Geschlecht basierend auf den Daten des Robert Koch-Instituts (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
 80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
@@ -243,8 +274,8 @@ Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren
 bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
 zu konzentrieren.
 
-Es zeigt sich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei 83
-Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung liegt in Deutschland bei 81 Jahren mit
+Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
+83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit
 79 Jahren (Männer) und 83 Jahren (Frauen). Das wirft die berechtigte Frage auf, ob es sich
 tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die unausgesprochene
 Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
@@ -252,7 +283,7 @@ gewesen wären. Es spricht aber einiges dagegen:
 
 1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
    Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
-   ist grober Unfug. Natürlich ist das Vorhandensein des Viruses notwendige Voraussetzung für
+   ist grober Unfug. Natürlich ist das Vorhandensein des Virus notwendige Voraussetzung für
    Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
    hinreichend verkauft. Das ist von der Logik her wie im Mittelalter: Wir bilden uns ein, daß das
    Virus gefährlich wäre und führen deswegen den passenden Test durch. Da der Test positiv war,
@@ -322,7 +353,7 @@ Ursachen der Grund sein (Quelle:
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
 Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
-2020 über alle Todesursachen keine signifikante Übersterblichkeit:
+2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
@@ -373,12 +404,16 @@ Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stan
 Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
 100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
-empfehlen. Das könnte die Krankenhäuser viel wirkungsvoller entlasten.
+empfehlen, statt den Menschen einzureden, daß die Coronaimpfung zwingend geboten wäre. Das könnte
+die Krankenhäuser viel wirkungsvoller entlasten.
 
 ### Belegung der Intensivstationen ###
 
-Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Viruses erfolgt mit Hilfe der
-Daten des [DIVI-Intensivregisters](https://www.intensivregister.de).
+Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
+Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
+eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
+März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
 <a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
 <a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
@@ -388,8 +423,8 @@ Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitre
 Erwachsene (links) sowie Kinder (rechts). Man sieht im Zusammenhang mit COVID-19 sind im
 bundesdeutschen Durchschnitt nie mehr als 25% benötigt worden. In einigen sächsischen Kreisen betrug
 die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Überlastung des
-Gesundheitssystems durch SARS-CoV-2 ist nicht erkennbar. Eine besondere Gefährdung von Kindern
-sowieso nicht.
+Gesundheitssystems durch SARS-CoV-2 war zu keinem Zeitpunkt zu befürchten. Eine besondere Gefährdung
+von Kindern sowieso nicht.
 
 <a href="images/AuslastungIntensivstationen.png"><img src="images/AuslastungIntensivstationen.png"></a>
 
@@ -441,7 +476,7 @@ Die Deutsche Gesellschaft für Pädiatrische Infektiologie schlußfolgert zu Omi
 > allen Altersgruppen deutlich unter der der Delta-Variante.
 
 Erste Studien zur Abschätzung der Gefährlichkeit der Omikronvariante sind bereits verfügbar
-(Pre-Print):
+(Preprint):
 
 - **Eleanor G. Bentley, Adam Kirby, Parul Sharma, et al.**:
   SARS-CoV-2 Omicron-B.1.1.529 Variant leads to less severe disease than
@@ -494,10 +529,14 @@ aufbereitete Fakten zum Virus und der verursachten Erkrankung finden sich unter:
 Wirksamkeit der Impfung
 -----------------------
 
+> Dies ist das erste Medikament, dessen Versagen jenen angelastet wird, die es nicht genommen haben.
+> (Dr. Robert Malone)
+
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weitergabe (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
-Infektionsgeschehen nicht mehr teil.“ (Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch
-wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
+Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod sowieso. Das Bundesministerium
+für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“ (Quelle
+mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten Politikern
+propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
@@ -548,6 +587,57 @@ ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen u
 
 ### Unabhängige Studien ###
 
+Wie bereits erwähnt, fand eine Forschergruppe aus Dänemark, daß das Immunsystem bei einer Infektion
+mit SARS-CoV-2 IgG-Antikörper bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper
+handeln, die normalerweise bei einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man
+auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
+
+- **Alana F. Ogata, Chi-An Cheng, Michaël Desjardins, et al.**:
+  Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected
+    in the Plasma of mRNA-1273 Vaccine Recipients, 20.5.2021 <br/>
+  <https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075>
+  > Plasma antibodies IgG, IgA, and IgM were measured against spike, S1, RBD, and nucleocapsid.
+  > Antibody levels measured on day zero represent the baseline level in each participant, all who
+  > had no previous report of COVID-19 infection. In all 13 participants, as expected, IgG levels
+  > against spike, S1, and RBD increased after the first injection, whereas IgG against nucleocapsid
+  > showed no change over time. IgA is involved in early neutralization activity and is therefore
+  > crucial to target potentially short-lived IgA responses. Our Simoa assays detected increased IgA
+  > against spike, S1, and RBD after the first injection. Nine participants presented measurable IgG
+  > levels against S1 and spike by day 14 after the first vaccine injection. Four participants,
+  > showed a delayed IgG-S1 and IgG-spike response, which did not increase until day 28 after the
+  > first injection. Nonetheless, all participants showed additional boost in IgG-S1 after the
+  > second injection.
+
+- **Fatima Amanat, Mahima Thapa, Tinting Lei, et al.**:
+  SARS-CoV-2 mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2, 8.6.2021 <br/>
+  <https://www.cell.com/cell/fulltext/S0092-8674(21)00706-6>
+  > The spike-reactive plasmablast response is dominated by IgG1+ cells and is comprised of a
+  > mixture of cells with low and high levels of somatic hypermutation (SHM). [...] We next examined
+  > the isotype and IgG subclass distribution among the recovered sequences. IgG1 was by far the
+  > most dominant isotype in the three vaccinees.
+
+- **Adam V. Wisnewski, Julian Campillo Luna, Carrie A. Redlich**:
+  Human IgG and IgA responses to COVID-19 mRNA vaccines, 16.6.2021 <br/>
+  <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249499>
+  > SARS-CoV-2 spike antigen-specific IgG and IgA elicited by infection mediate viral neutralization
+  > and are likely an important component of natural immunity, however, limited information exists
+  > on vaccine induced responses. We measured COVID-19 mRNA vaccine induced IgG and IgA in serum
+  > serially, up to 145 days post vaccination in 4 subjects. Spike antigen-specific IgG levels rose
+  > exponentially and plateaued 21 days after the initial vaccine dose. After the second vaccine
+  > dose IgG levels increased further, reaching a maximum approximately 7–10 days later, and
+  > remained elevated (average of 58% peak levels) during the additional >100 day follow up period.
+  > COVID-19 mRNA vaccination elicited spike antigen-specific IgA with similar kinetics of induction
+  > and time to peak levels, but more rapid decline in serum levels following both the 1st and 2nd
+  > vaccine doses (<18% peak levels within 100 days of the 2nd shot). The data demonstrate COVID-19
+  > mRNA vaccines effectively induce spike antigen specific IgG and IgA and highlight marked
+  > differences in their persistence in serum.
+
+Aus Sicht des Immunsystems handelt es sich folglich nicht um einen Erstkontakt mit einem neuen
+Krankheitserreger. Das ist bedeutsam, da der Sinn einer Impfung eigentlich darin besteht, den
+Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit wird das Immunsystem dazu
+gebracht, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem richtigen Krankheitserreger
+die Abwehrreaktion schneller und effizienter einleiten zu können.
+
 Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
@@ -556,7 +646,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
     vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
-  <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext>
+  <https://www.thelancet.com/journals/laninf/article/PIIS1473-30992100648-4/fulltext>
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
   > load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta
@@ -631,7 +721,7 @@ entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedri
 bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
 überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
 ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
-(Quelle: selber Bericht):
+(Quelle: selber Bericht).
 
 <a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
 
@@ -660,10 +750,27 @@ anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
 Infektion?)
 
+Die Autoren einer Studie der Universität Oxford fanden jedenfalls einen erheblichen Rückgang der
+Wirksamkeit der Impfstoffe bis hin zum Ausbleiben jeglicher Wirksamkeit gegenüber der
+Omikronvariante:
+
+- **Wanwisa Dejnirattisai, Robert H. Shaw, Piyada Supasa, et al.**:
+  Reduced neutralisation of SARS-COV-2 Omicron-B.1.1.529 variant by post-immunisation serum, 11.12.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.12.10.21267534v1.full>
+  > In this report, we present live neutralisation titres against SARS-CoV-2 Omicron variant,
+  > compared with neutralisation against Victoria, Beta and Delta variants. Sera from day-28 post
+  > second-dose were obtained from participants in the Com-COV2 study who had received a two-dose
+  > COVID-19 vaccination schedule with either AstraZeneca (AZD1222) or Pfizer (BNT162b2) vaccines.
+  > There was a substantial fall in neutralisation titres in recipients of both AZD1222 and BNT16b2
+  > primary courses, with evidence of some recipients failing to neutralise at all. This will likely
+  > lead to increased breakthrough infections in previously infected or double vaccinated
+  > individuals, which could drive a further wave of infection, although there is currently no
+  > evidence of increased potential to cause severe disease, hospitalization or death.
+
 ### Nutzen der Impfung ###
 
-Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
-Ergebnis schon bei der Deltavariante vernichtend aus:
+Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt die Analyse
+des Risiko-Nutzen-Verhältnisses schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>
@@ -732,7 +839,7 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 <https://vigiaccess.org>, Stand: 9.1.2022):
 
-| Medikament/Impfung  | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+| Wirkstoff/Impfung   | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |---------------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps               | 1972-2021 |               719 |                 14,38 |              15 |
 | _Interferon_        | 1988-2021 |             1.572 |                 46,24 |              30 |
@@ -773,7 +880,7 @@ Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 Das Prinzip ist im Grunde einfach: Die Impfstoffe enthalten den Bauplan für ein Protein - als
 synthetische mRNA - verpackt in Lipid-Nanopartikel (Pfizer und Moderna) bzw. Vektorviren
 (AstraZeneca und Johnson&Johnson). Diese gelangen nach der Injektion über die Lymph- und Blutgefäße
-in Körperzellen und regen dort die Proteinbiosynthese des Spike-Proteins des Viruses an. Die Zellen
+in Körperzellen und regen dort die Proteinbiosynthese des Spike-Proteins des Virus an. Die Zellen
 präsentieren das fremde Protein dann auf ihrer Oberfläche, was das Immunsystem zu einer
 Abwehrreaktion anregt. Damit erscheinen diese Körperzellen infiziert und werden vom Immunsystem
 eliminiert. Bei einer natürlichen Infektion könnte das prinzipiell auch passieren. Es gibt aber
@@ -788,7 +895,7 @@ einige relevante Unterschiede:
    Effekt dürfte auch kumulativ sein. Wieso sollte das überhaupt sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
-   Eindringen des Viruses in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
+   Eindringen des Virus in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
    und nicht gegen körpereigene Zellen richtet. Die Lipid-Nanopartikel der Impfstoffe enthalten aber
    das passende Antigen nicht, so daß einem erneuten Befall von Körperzellen nichts im Wege steht
    und sich das Spiel wiederholt - nunmehr mit schnellerer und verstärkter Immunreaktion.
@@ -1078,8 +1185,8 @@ eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüt
 was falsche und was richtige Experten™ sind? (Quelle:
 <https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html>)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
-„Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
-Das andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
+„Corona-Leugner.“ Leugnet etwa jemand die Existenz des Virus? Ist das Virus dann eingeschnappt? Das
+andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
 Diskussionsklima auch nicht gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man
 böse wäre, könnte man mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels,
 Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk
@@ -1162,7 +1269,7 @@ Voraussetzungen erfüllt sein:
 1. Die Impfstoffe müßten Schutz vor Infektion und Transmission gewährleisten, was nicht der Fall
    ist.
 
-2. Davon abgesehen müßten immer noch alle potentiellen Wirte des Viruses geimpft werden. Bei, im
+2. Davon abgesehen müßten immer noch alle potentiellen Wirte des Virus geimpft werden. Bei, im
    Gegensatz zum humanen Pockenvirus, nicht auf den Menschen spezialisierten Viren wie Coronaviren
    schließt das auch Tiere mit ein:
    [Fledermäuse](https://www.faz.net/aktuell/wissen/coronavirus-warum-viren-ihren-ursprung-in-fledertieren-haben-16660770.html),
@@ -1172,7 +1279,12 @@ Voraussetzungen erfüllt sein:
    [Nilpferde](https://www.deutschlandfunknova.de/nachrichten/zoo-antwerpen-nilpferde-corona-positiv),
    Elefanten, ... Das macht die Idee eigentlich noch absurder.
 
-3. Es müßte sich um Viren handeln, die langsam genug mutieren, so daß wir ihnen die Wirte schneller
+3. Außerdem sind weitere Varianten bereits existent aber noch nicht dominant (engl. VOI, variants of
+   interest und VOC, variants of concern). Die Beseitigung einer Variante ermöglicht dann lediglich
+   die Ausbreitung einer Anderen. Das könnte potentiell auch kontraproduktiv sein, denn die
+   infektiöseren und milderen Varianten bewahren uns auch vor ihren gefährlicheren Artgenossen.
+
+4. Es müßte sich um Viren handeln, die langsam genug mutieren, so daß wir ihnen die Wirte schneller
    entziehen können. Andernfalls könnten sich zwischenzeitlich neue Varianten bilden, die dem
    Impfschutz wirksam entgehen, und wir müßten wieder von Neuem beginnen. Das ist bei DNA-Viren
    (Pocken) durchaus machbar, da deren Mutationsrate bei ca. 1 Mutation pro 1.000.000 Nukleotiden
@@ -1188,7 +1300,7 @@ die weder Infektion noch Transmission verhindern können?
 
 Nächster Versuch: Verhinderung von neuen potentiell gefährlicheren Varianten? Ungeimpfte seien die
 Brutkästen des unsichtbaren Todes. Wo entstehen multiresistente Keime, denen bekanntlich in
-Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viel Antibiotika verwendet
+Krankenhäusern auch viele Menschen zum Opfer fallen? Dort wo besonders viele Antibiotika verwendet
 werden. Wo entstehen immunresistente Viren, wenn nicht dort wo viel geimpft wird? Natürlich können
 Mutationen überall zufällig entstehen, aber die Durchsetzungswahrscheinlichkeit ist dann bedingt
 durch den Selektionsdruck bei resistenteren Varianten größer (Quelle:
@@ -1212,17 +1324,17 @@ erkennbar. Deutschland ist im Vergleich zu anderen europäischen Ländern mit 26
 Verfügung: Norwegen (8), Dänemark (7), Großbritannien (7), Niederlande (6) und Schweden (vor der
 Pandemie 6 jetzt 11) (Quelle:
 <https://www.focus.de/politik/deutschland/zweifelhafte-belegung-bei-intensivbetten-mit-corona-kasse-machen-krankenhaeuser-melden-mal-wieder-engpass-bei-intensivbetten_id_24396015.html>).
-Die Abbildung zeigt aber auch ein Rückgang während der Pandemie von 32.000 auf nunmehr 22.000 Betten
-(ein Drittel) bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und den Bedarf
-unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür sind
-vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
+Die Abbildung zeigt aber auch ein Rückgang um fast ein Drittel während der Pandemie von 32.000 auf
+nunmehr 22.000 Betten bei annähernd gleichbleibendem Bedarf. Wenn sich dieser Trend fortsetzt und
+den Bedarf unterschreitet, können wir uns auf die prognostizierte Triage freuen. Die Gründe hierfür
+sind vielfältig, werden von der Politik aber auch schweigend ignoriert. Insbesondere sollte aber die
 neoliberale Privatisierungs- und Sparpolitik alter und neuer Gesundheitsminister erwähnt werden
 (Quelle:
 <https://www.aerzteblatt.de/nachrichten/104668/Debatte-um-Studie-zu-Krankenhausschliessungen-geht-weiter>).
-Und wo sind unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben? Gesundheitsminister
-Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts mehr schief gehen.
-Der selbe Gesundheitsexperte, der sich im Jahre 2019 noch dafür aussprach jede Dritte Klinik zu
-schließen (Quelle:
+Und wo sind eigentlich unsere 15 Milliarden Euro pandemiebedingte Förderung geblieben?
+Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsökonom. Da kann ja nichts
+mehr schief gehen. Der selbe Gesundheitsexperte, der sich im Jahr 2019 noch dafür aussprach jede
+dritte Klinik zu schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
 Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
 statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
@@ -1269,29 +1381,33 @@ Die Studien untersuchten die Wirksamkeit von Lockdowns im Jahr 2020 und fanden k
 Vorteile. Warum hat die Politik im Jahr 2021 trotzdem nichts daraus gelernt und besteht darauf,
 weiterhin einen toten Gaul zu reiten? Sollen die Folgeschäden möglichst maximiert werden?
 
-Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Frage: Was ist der Unterschied
-zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort: Negativ-getestete
-Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom Impfstatus in Quarantäne
-begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die Tests hinreichend
-zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe. Geimpfte werden
-vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine Infektionen
-verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
+Nächster Versuch: Eindämmung des Infektionsgeschehens mit Zugangsbeschränkungen? Frage: Was ist der
+Unterschied zwischen 3G (Geimpft/Genesen/Getestet) und 2G (Geimpft/Genesen)? Antwort:
+Negativ-getestete Ungeimpfte. Wäre der Test nämlich positiv, müßte man sich unabhängig vom
+Impfstatus in Quarantäne begeben. Das heißt wir hindern diejenigen, die am sichersten - sofern die
+Tests hinreichend zuverlässig sind - nichts zum Infektionsgeschehen beitragen, an sozialer Teilhabe.
+Geimpfte werden vorsorglich gar nicht erst getestet, sonst fiele noch auf, daß die Impfstoffe keine
+Infektionen verhindern. Die „Pandemie der Ungeimpften“ ergänzt um gefälschte Zahlen (Quelle:
 <https://www.nordbayern.de/region/weiter-wirbel-um-bayerische-inzidenz-verzerrungen-grosser-als-behauptet-1.11703993>).
 (Die echten Zahlen veröffentlichte das bayerische LGL natürlich erst nachdem die WELT AM SONNTAG
 juristische Schritte angekündigt hatte.)
 
-Nächster Versuch: Infektionseindämmung mit Zugangsbeschränkungen? Wenn es einmal nicht funktioniert,
-dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen (Quelle:
-<https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html>). Das heißt Geboosterte
-brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere anstecken.
-Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet werden.
-Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
+Nächster Versuch: Eindämmung des Infektionsgeschehens mit Zugangsbeschränkungen? Wenn es einmal
+nicht funktioniert, dann bestimmt beim nächsten mal. Bund und Länder haben jetzt 2G+ beschlossen
+(Quelle: <https://www.tagesschau.de/inland/bund-laender-beratungen-corona-105.html>). Das heißt
+Geboosterte brauchen im Restaurant keinen Test, können sich aber selbst infizieren und damit andere
+anstecken. Minderwertige Geimpfte - ehemals voll immunisiert - müssen logischerweise getestet
+werden. Ungeimpfte - ehemals minderwertig - dürfen dagegen mit Test im Restaurant arbeiten (3G am
 Arbeitsplatz), weil der Test zuverlässig ist. Aber nach Feierabend dürfen sie nicht als Gast im
 Restaurant essen, weil jetzt der selbe Test nicht zuverlässig eine Gefährdung der holden Geimpften
-ausschließen kann. Logisch. Die deutsche Politik verkommt langsam zur Realsatire.
+ausschließen kann. Logisch. Angesichts der Erkenntnis, daß Impfungen die Ansteckungswellen nicht
+wirksam aufhalten können, legen die hohen Inzidenzen vielmehr nahe, daß die Erleichterungen für
+Geimpfte und Genesene Ursache der Rekordwerte sind. Die deutsche Politik verkommt langsam zur
+Realsatire.
 
-Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie Geimpfte
-fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund genauer (Quelle:
+Nächster Versuch: Sinnloser Aktionismus? Von COVID-19 Genesene dürfen sich ein Bisschen wie
+privilegierte Geimpfte fühlen, aber jetzt nur noch 2 Monate lang. Das RKI erklärt uns den Grund
+genauer (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Genesenennachweis.html>, Stand:
 15.1.2022):
 
@@ -1305,10 +1421,10 @@ beginnt und 90 Tage danach wieder erlischt. Begründet wird dies mit einem herab
 Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvariante ist
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
-vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt Genesene bei
-unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche Immunität
-Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet und somit
-wesentlich effektiver bei neuen Varianten schützen kann.
+vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt nur Genesene
+bei unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche
+Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
+und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -1323,6 +1439,7 @@ Strategiepapier des BMI finden:
 - **Bundesministerium des Inneren**:
   Wie wir COVID-19 unter Kontrolle bekommen, 28.4.2020 <br/>
   <https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2020/corona/szenarienpapier-covid19.html>
+
 - **FragDenStaat**:
   Wie wir COVID-19 unter Kontrolle bekommen, 1.4.2020 <br/>
   <https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/>
@@ -1348,8 +1465,8 @@ und offene Kommunikation“:
 > Vergangenheit sicher zur Verharmlosung der Epidemie beigetragen.
 
 Ich bezweifle, daß viele Menschen freiwillig auf die Idee kämen, so etwas zu denken. Der Absatz
-offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren, weswegen sie auch eine
-Strategie des Schocks empfehlen:
+offenbart aber nebenbei ein sehr interessantes Menschenbild der Autoren. Wohl deshalb empfehlen sie
+auch eine Strategie des Schocks:
 
 > Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten Auswirkungen einer Durchseuchung
 > auf die menschliche Gesellschaft verdeutlicht werden:
@@ -1384,10 +1501,10 @@ Notlage und der guten Absichten der Politik, dürfen derartige Mittel schließli
 Interessanterweise wird in dem Strategiepapier an anderen Stellen mehrmals eine staatliche
 Aufklärungs- und Informationskampagne gefordert, wogegen grundsätzlich nichts einzuwenden wäre.
 Aufklärung setzt allerdings Sachlichkeit und Wahrheit voraus. Wenn man dagegen nur Angst schürt und
-wichtige zwischenzeitlich verfügbare Informationen \- Gefährlichkeit des Viruses, mangelnde
-Wirksamkeit der Impfung oder Gefährlichkeit der Impfung \- verschweigt, verwandelt sich die
-Aufklärungskampagne langsam in eine Propagandakampagne. Wie schrieb Marx einst so treffend? Wenn der
-Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+wichtige zwischenzeitlich verfügbare Informationen - betreffend der Gefährlichkeit des Virus, der
+mangelnden Wirksamkeit der Impfung oder der Gefährlichkeit der Impfung - verschweigt, verwandelt
+sich die Aufklärungskampagne langsam in eine Propagandakampagne. Für vermeintliche Solidarität. Wie
+schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
 Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
@@ -1405,17 +1522,18 @@ insbesondere dann vor,
    3. _die Werbung nicht zu Zwecken des Wettbewerbs veranstaltet wird_.
 
 Diese Kriterien dürften erfüllt sein, solange behauptet wird, daß die Impfung vor Infektion,
-schwerem Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
+symptomatischem bzw. schwerem Verlauf und Tod schützt, was ausweislich der [Wochenberichte des
 RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html)
-nicht der Fall ist. Auf mögliche Nebenwirkungen wird mit dem Slogan „Die Impfung schützt und ist
-sicher.“ auch nicht hingewiesen. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
-Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+nicht der Fall ist. Auch wird es mit dem Werbespruch „Die Impfung schützt und ist sicher“ versäumt
+auf die nicht unerheblichen Nebenwirkungen hinzuweisen. Für vermeintliche Solidarität. Wie schrieb
+Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
-Daß das grundsätzlich auch anders ginge, beweist die Kampagne der Regierung von El Salvador, in der
-der Bevölkerung zur Vermeidung von schwerer Erkrankung ein gesunder Lebenswandel, Sport und gesunde
-Ernährung empfohlen wird (Quelle: https://www.youtube.com/watch?v=u9vrf9IU_EY). In Deutschland geht
-es dagegen auch in den neuen Medien wie Spotify und Twitter wie gewohnt heiß her. Nach den
-hauptsächlich im Herbst 2021 zirkulierenden Twitter-Trends
+Daß Kommunikation grundsätzlich auch anders ginge, beweist die Kampagne der Regierung von El
+Salvador, in der der Bevölkerung zur Vermeidung von schwerer Erkrankung ein gesunder Lebenswandel,
+Sport an der frischen Luft und gesunde Ernährung empfohlen wird (Quelle:
+<https://www.youtube.com/watch?v=u9vrf9IU_EY>). In Deutschland geht es dagegen auch in neuen Medien
+wie Spotify und Twitter wie gewohnt heiß her. Nach den hauptsächlich im Herbst 2021 zirkulierenden
+Twitter-Trends
 [`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
 und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
 Antwort von offizieller Seite
@@ -1423,21 +1541,23 @@ Antwort von offizieller Seite
 Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
 schützen - nämlich gar nicht.
 
-Konsequenterweise werden alternative Behandlungsmethoden der Krankheit vollständig ignoriert, um
-ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es mittlerweile Präventions-
-und Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien nachgewiesen ist,
-beispielsweise:
+Konsequenterweise werden alternative Behandlungsmethoden der Krankheit medial und politisch
+vollständig ignoriert, um ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es
+mittlerweile Präventions- und Behandlungsprotokolle für COVID-19, deren Wirksamkeit in Studien
+nachgewiesen ist, beispielsweise:
 
 - [Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com): [Präventions- und
   Behandlungsprotokolle für COVID-19](https://covid19criticalcare.com/de/covid-19-protocols/) oder
-- [World Council for Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment
-  guidelines: A practical approach to home-based care for healthy
+- [Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org) bzw. [World Council for
+  Health](https://worldcouncilforhealth.org): [Early Covid-19 treatment guidelines: A practical
+  approach to home-based care for healthy
   families](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/).
 
 Dementsprechend ist die behauptete Alternativlosigkeit der Maßnahmen unter Punkt C im [Gesetzentwurf
 20/188](https://dserver.bundestag.de/btd/20/001/2000188.pdf), mit dem die Impfpflicht im
 medizinischen Bereich beschlossen wurde, auch nur als dreiste Lüge der Regierungskoalition zu
-bewerten.
+bewerten. Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend? Wenn der Zweck die
+Mittel heiligt, dann ist der Zweck unheilig.
 
 ### Great Barrington Declaration ###
 
@@ -1515,30 +1635,31 @@ angeschlossen, wovon 15.638 als „medical & public health scientists“ geführ
 Bemerkenswerterweise schlagen die Initiatoren explizit vor diejenigen, die ein geringes Risiko
 tragen, normal leben zu lassen, um eine natürliche Immunität gegen das Virus aufzubauen, so daß sie
 dazu beitragen können, die vulnerablen Gruppen der Gesellschaft indirekt zu schützen. Also genau
-derjenige Gemeinschaftsschutz, der mit der nicht wirksamen Impfung auch bezweckt wird. Wäre es nicht
-langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein Ausweg aus der Lage
-recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man politisch mit der Ausrede
-aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere Zeit gebracht haben, aber
-jetzt wäre es schlußendlich angebracht wieder zum normalen Leben zurückzufinden. Das würden die
-meisten Menschen wahrscheinlich glauben wollen. Damit könnte man politisch mit einem blauen Auge
-davonkommen, ohne gleich komplett zurückzutreten und der AfD das Feld zu überlassen.
+derjenige Gemeinschaftsschutz, der mit der nicht wirksamen Impfung vorgeblich auch bezweckt wird.
+Wäre es nicht langsam an der Zeit endlich auf die Wissenschaft zu hören? Gerade jetzt wäre ein
+Ausweg aus der Lage recht einfach möglich. In Anbetracht der milden Omikronvariante könnte man
+politisch mit der Ausrede aufwarten, daß die Maßnahmen nötig waren und uns gut durch die schwere
+Zeit gebracht haben, aber jetzt wäre es schlußendlich angebracht wieder zum normalen Leben
+zurückzufinden. Das würden die meisten Menschen wahrscheinlich glauben wollen. Damit könnte man
+politisch mit einem blauen Auge davonkommen, ohne gleich für Unfähigkeit komplett zurückzutreten und
+der AfD das Feld zu überlassen.
 
 Vielleicht bin ich aber auch zu naiv. Die Arbeitgeberverbände und die Industrie wollen lieber impfen
 als in einen Lockdown. Eine Impfpflicht wäre billiger umzusetzen und leichter zu kontrollieren
 (Quelle:
 <https://www.faz.net/aktuell/wirtschaft/corona-arbeitgeber-und-industrie-wollen-impfpflicht-statt-lockdown-17660471.html>).
-Wie wäre es stattdessen mit keinem von beiden? Das wäre noch billiger, und so ließe sich ein
-Fachkräftemangel auch besser vermeiden.
+Offensichtlich hat die Demokratie keine Lobby in Deutschland. Wie wäre es stattdessen mit keinem von
+beiden? Das wäre noch billiger, und so ließe sich ein Fachkräftemangel auch am besten vermeiden.
 
 Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? Eine staatlich
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
 Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
-(Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Was
-wäre dann noch der Unterschied zwischen der Bundesregierung und der Drogenmafia? Ok, die Mafia
-zwingt einen nicht ihren Scheiß zu nehmen. Aber wir haben mit Karl Lauterbach schließlich auch einen
-Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel in Virologie, Epidemiologie und
-Immunologie hat sondern auch in Psychologie:
+(Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Und
+ich dachte es geht um Gesundheit. Was wäre dann noch der Unterschied zwischen der Bundesregierung
+und der Drogenmafia? Ok, die Mafia zwingt einen nicht ihren Scheiß zu nehmen. Dafür haben wir mit
+Karl Lauterbach schließlich auch einen Allround-Experten™ im Amt, der nicht nur den schwarzen Gürtel
+in Virologie, Epidemiologie und Immunologie hat sondern auch in Psychologie:
 
 > Es wird ja niemand gegen seinen Willen geimpft. Selbst die Impfpflicht führt ja dazu, daß man sich
 > zum Schluss freiwillig impfen lässt.
@@ -1564,7 +1685,7 @@ Aktennotiz:
 Dieses Kapitel ist nicht eigenständig und kann nicht losgelöst von den anderen 5 Kapiteln betrachtet werden.
 ```
 
-> Unsichtbar wird der Wahnsinn, wenn er genügend große Ausmaße angenommen hat. (Bertold Brecht)
+> Unsichtbar macht sich die Dummheit, indem sie sehr große Ausmaße annimmt. (Bertold Brecht)
 
 ### Big Business ###
 
@@ -1598,9 +1719,10 @@ Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) symp
 Statistiken (Meldeinzidenz), (b) unsinnige Fokusierung auf Antikörperspiegel, obwohl diese nach
 kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel relevanter wären, (c)
 überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt erteilte
-Notzulassungen. Das ist auch notwendig, denn leider laufen gewinnträchtige Patente in jeder Branche
-irgendwann ab, so daß neue Technologien benötigt werden, um das weitere Wirtschaftswachstum zu
-sichern. Der Chief Investment Officer der Deutschen Apotheker- und Ärztebank verrät uns:
+Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig, denn leider
+laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien benötigt
+werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der Deutschen
+Apotheker- und Ärztebank verrät uns:
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
@@ -1687,19 +1809,20 @@ für die große Leinwand zu sehen?) Und glücklicherweise haben die Zulassungsbe
 den USA aufgrund der immanenten Bedrohung durch das gefährliche Virus etwaige Bedenken über Bord
 geworfen. In den USA mußten dann noch die beiden Direktoren des Office of Vaccines Research & Review
 der FDA kündigen (Quelle: <https://brownstone.org/articles/the-meaning-of-the-fda-resignations/>).
-Es mußte schließlich schnell und unbürokratisch geholfen werden.
+Es mußte schließlich schnell und unbürokratisch geholfen werden - alles für die Solidarität.
 
 ### Big Virus ###
 
-Die folgenden Abbildungen zeigen die in Deutschland im Zusammenhang mit COVID-19 gemeldeten
-Infektionen, hospitalisierten Patienten und Todesfälle nach Kalenderwoche seit März 2020 basierend
-auf den Daten des RKI (Quelle:
+Schließlich ist das Virus auch gefährlich. Die folgenden Abbildungen zeigen die in Deutschland im
+Zusammenhang mit COVID-19 gemeldeten Infektionen, hospitalisierten Patienten und Todesfälle nach
+Kalenderwoche seit März 2020 basierend auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 30.1.2022).
 
 <a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
 
-Sowie die Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021 (Quelle:
+Sowie die prozentualen Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021
+(Quelle:
 <https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
 Stand: 30.1.2022).
 
@@ -1707,11 +1830,12 @@ Stand: 30.1.2022).
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
-verkünden, obwohl die sinnvollere Hospitalisierungsinzidenz im November 2021 politisch etabliert
-wurde. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
-zusammengefaßt:
+verkünden, obwohl die Hospitalisierungsinzidenz im November 2021 politisch etabliert wurde. Was soll
+uns eine Inzidenz von 1.000 sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der
+sprichwörtliche Sack Reis in China. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der
+Wellen in der folgenden Tabelle zusammengefaßt:
 
-| Woche      | Variante | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
+| Woche      | Variante      | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
 |------------|---------------|----------------------:|-------------------:|-----------:|-----------:|
 | KW 51 2020 | Wildtyp                   |   174.695 |             12.652 |      6.432 |     3,681% |
 | KW 16 2021 | Alpha, Rest Wildtyp       |   144.748 |              8.019 |      1.605 |     1,109% |
@@ -1721,18 +1845,18 @@ zusammengefaßt:
 
 Die dem RKI gemeldeten Infektionen entsprechen _nicht_ der tatsächlichen Menge an Infektionen in
 Deutschland, da symptomlose bzw. leicht symptomatische Infektionen ohne Test unerkannt bleiben,
-insbesondere zu Beginn der Pandemie mit noch geringem Testaufkommen. Demzufolge entspricht die
+insbesondere auch zu Beginn der Pandemie mit noch geringem Testaufkommen. Demzufolge entspricht die
 berechnete Mortalität auch _nicht_ der Infektionssterblichkeit. Dennoch kann man erkennen, daß alle
 dem Wildtyp folgenden Varianten - entsprechend der Evolutionstheorie - schrittweise weniger
 gefährlich wurden. Insbesondere die Omikronvariante ist wesentlich milder als der ursprüngliche Typ
 (Faktor 192). Obwohl der Vorsitzende des Weltärztebundes Frank Ulrich Montgomery das Schlimmste
-befürchtet hatte, ist wieder kein Ebola in Sicht. Das neue hochgejubelte Killervirus in spe
-enttäuscht auf ganzer Linie.
+befürchtet hatte, ist wieder kein Ebola in Sicht. Charles Darwin hatte doch Recht. Das neue
+hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie.
 
 ### Big Decision ###
 
 Es ist an der Zeit die große Frage zu beantworten. Um es mit den Worten von Harald Schmidt zu sagen:
-Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Lies: Mit wem muß
+Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Also mit wem muß
 ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir gefallen. Eine Impfung käme
 jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 
@@ -1741,46 +1865,58 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
    Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
    die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
-   auch seit Beginn der Pandemie bekannt: Ivermectin, Hydroxychloroquin und Interferone.
+   auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
    Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
-   Lipid-Nanopartikel eingereicht hat. Ohne immanente Notlage kann man auf derartige Experimente
-   durchaus verzichten.
-   <!--
-   Desweiteren sind die Inhaltsstoffe ALC-0159 und ALC-0315 nicht für die Verwendung am oder im
-   Menschen zugelassen, sondern ausschließlich für Forschungszwecke bestimmt.
-   -->
+   Lipid-Nanopartikel eingereicht hat (Special Obligations). Desweiteren sind die Inhaltsstoffe
+   ALC-0159 und ALC-0315 laut deren Herstellern nicht für die Verwendung am oder im Menschen
+   zugelassen, sondern ausschließlich für Forschungszwecke bestimmt. Trotzdem wurden sie im Rahmen
+   der Notzulassung vom der EMA akzeptiert. Ohne immanente Notlage kann man auf derartige
+   Experimente durchaus verzichten.
 
 3. Qualitätssicherungsprozesse in der Herstellung wurden implementiert und unabhängig geprüft.
-   Etwaige gefundene Mängel wurden behoben. Die obigen Punkte sind wahrlich keine überzogenen
-   Anforderungen, sondern in anderen Branchen normaler Standard.
+   Etwaige gefundene Mängel wurden selbstverständlich behoben. Die obigen Punkte sind wahrlich keine
+   überzogenen Anforderungen, sondern in anderen Branchen gewöhnlicher Standard.
 
 4. Die Impfstoffe haben ihre Praxistauglichkeit unter Beweis gestellt und halten ihre
    Werbeversprechen von 95-prozentiger Effektivität. Insbesondere einen Schutz vor Transmission
    sollten sie bieten, um das Argument der Impfung aus Solidarität wirksam werden zu lassen. Das
    wäre bei einem saisonal auftretendem Virus frühestens nach dem nächsten Winter, also im Frühjahr
-   2023, der Fall.
+   2023, überprüfbar.
 
-5. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Viruses
-   vernachlässigbar. Das Virus hat mit der Omikronvariante die Gefährlichkeit einer Grippe
-   unterschritten, d.h. Nebenwirkungen dürften praktisch nicht vorhanden sein.
+5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
+   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. (Das
+   kaufmännische Argument, daß die Bestellungen bereits aufgegeben sind und deswegen alles noch
+   verimpft werden müsse, ist irrelevant.)
 
-6. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
+6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
+   unausgereifte Technologien und ohne Ersatzviren.
+
+7. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
+   vernachlässigbar. Da das Virus mit der Omikronvariante die Gefährlichkeit einer Grippe
+   unterschritten hat, dürften Nebenwirkungen praktisch nicht vorhanden sein.
+
+8. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-7. Es handelt sich um einen klassischen Totimpfstoff ohne neuartige unausgereifte Technologien.
+9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit wäre es ratsam die
+   impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
+   https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
+   Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
+   https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
 
-8. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
-   sind. Dies würde dann die nächsten 10 Jahre in Anspruch nehmen.
+10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
+    sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
 
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
-sollte das jemals der Fall sein. Bundesgesundheitsminister und Experte™ Karl Lauterbach ist da
-natürlich anderer Meinung und drängt auf baldigen Vollzug (Quelle:
+sollte das jemals der Fall sein. Erwartungskonform ist Gesundheitsminister und Experte™ Karl
+Lauterbach natürlich anderer Meinung und drängt auf baldigen Vollzug, obwohl keine dringende
+Notwendigkeit besteht (Quelle:
 <https://www.zdf.de/nachrichten/politik/corona-impfpflicht-impfregister-lauterbach-kontaktbeschraenkungen-100.html>):
 
 > Wir können nicht darauf warten, dass eine Impfpflicht überflüssig wird, weil wir eine sehr hohe
@@ -1812,15 +1948,12 @@ zusammen (Quelle:
 > Virus zu begegnen, lässt sich dies nicht rechtfertigen.
 
 Die Wissensdefizite sind, trotz der vollmundigen Versprechungen der Politik und der Pharmalobby,
-einfach zu groß. Im Zweifel gilt: Ich glaube lieber Wissenschaftlern, die sich mal irren, als Irren,
-die glauben sie seien Wissenschaftler. Die Irren erkennt man gewöhnlich dran, daß sie nie irren.
+einfach zu groß. Wie vertrauenswürdig ist eine Impfung, für deren Sicherheit und Wirksamkeit
+sämtliche kritischen Stimmen zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
+Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien Wissenschaftler. Die Irren
+erkennt man gewöhnlich dran, daß sie nie irren.
 
 ### Hilfe zur Selbsthilfe ###
-
-```text
-Aktennotiz:
-Dieser Abschnitt ist nicht eigenständig und kann nicht losgelöst von den vorherigen 5 Kapiteln betrachtet werden.
-```
 
 Mir ist bewußt, daß es eine gewisse Diskrepanz zwischen der Berichterstattung in den Medien und
 obigen Kapiteln gibt. Es gibt hierfür zwei mögliche Erklärungen: (a) Ich liege falsch (oder spinne),
@@ -1828,9 +1961,9 @@ oder (b) die Medien liegen falsch (oder lügen). Beide Hypothesen kann man leich
 demokratischen Verantwortung überprüfen.
 
 _Test 1_: Beispielsweise könnte man beides - die bundesdeutschen Nachrichten und die
-Gegendarstellung in den alternativen Medien - lesen und vergleichen. Das erlaubt selbständig zu
-prüfen wer die bessere Qualität liefert. Das ist jederzeit leicht machbar und erfordert nur etwas
-zusätzlichen Zeitaufwand.
+Gegendarstellung in den alternativen Medien - lesen und vergleichen. Das erlaubt, selbständig zu
+prüfen, wer mit der besseren Qualität aufwarten kann. Das ist jederzeit leicht machbar und erfordert
+nur etwas zusätzlichen Zeitaufwand.
 
 _Test 2_: Alternativ besteht, im Gegensatz zur Berichterstattung über ferne Länder, die Möglichkeit
 sich unmittelbar zu informieren. Man könnte beispielsweise selbst spazieren gehen und etwaige
@@ -1840,19 +1973,19 @@ Mut aufbringt selbst zu spazieren, wäre es auch möglich die Spaziergänger wen
 sicherer Distanz zu beobachten. Die Revolution wird gewöhnlich nicht im Fernsehen gezeigt. Für die
 Couchmuffel habe ich hierzu einige Amateuraufnahmen herausgesucht:
 
-- Augsburg 4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
-- München 5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
+- Augsburg  4.1.2022: <https://twitter.com/mansalke/status/1478147388263084035>
+- München   5.1.2022: <https://twitter.com/niy_yang/status/1478787656733667338>.
   Aus einer anderen Perspektive kann man auch das Vorgehen der Polizei sehen:
   <https://twitter.com/manaf12hassan/status/1479092879238877196>.
-- Bamberg 6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
+- Bamberg   6.1.2022: <https://twitter.com/Susa512/status/1479108621099155462>
 - Magdeburg 8.1.2022: <https://twitter.com/ChristianTietz5/status/1479861010269982726>
-- Hamburg 8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
+- Hamburg   8.1.2022: <https://twitter.com/fireflymum/status/1479861294157246475>
 
 Bitte anschauen. Interessant ist auch eine Aufnahme aus Dresden, in der ein Agent Provocateur (oder
 V-Mann) für tätliche Angriffe auf Polizeibeamte gleich mehrfach verhaftet wird, was wiederum gute
 Bilder für die Presse liefert (Quelle:
 <https://twitter.com/alterdonauwels/status/1479827634091704329>). Ob diese Interpretation korrekt
-ist, läßt sich nicht abschließend klären, das Prinzip ist jedenfalls seit Jahrhunderten bekannt.
+ist, läßt sich nicht abschließend klären, das Prinzip wäre jedenfalls seit Jahrhunderten bekannt.
 
 Du hattest mir _Haltung Zeigen_ (<https://haltung-zeigen.com>) empfohlen. Was soll das sein? Das
 letzte Aufgebot der unbelehrbaren Realitätsverweigerer, die in 2 Jahren leider nichts dazugelernt
@@ -1906,26 +2039,32 @@ Ziele sind keinesfalls Dialog (demokratisch) sondern zweifelsfrei Umsturz (gewal
 Der Absatz endet mit offener Schuldzuweisung als Sympathisanten aufgrund der eingebildeten Gewährung
 von Schutz. Tatsächlich liegt diese mitnichten vor. Wie auch? Der selbe Personenkreis dürfte sich
 auch aus jedem anderen Grund visuell erkennbar auf die Straße stellen. Wenn sie dabei allerdings in
-der Masse untergehen, wirken sie eher wie Demokraten und dürften ihre Ziele wohl kam erreichen. Im
-Übrigen ist ein Ausschluß von vermuteten oder echten Rechtsradikalen auch nicht mit demokratischen
-Mitteln wirksam umzusetzen. Wie sollte das bewerkstelligt werden? Der eigentliche Zweck dieser
-Rhetorik ist ein anderer: Die Spaziergänger sollen - gemäß den Äußerungen der Politik - genötigt
-werden ihren Standpunkt aufzugeben, um sich vermeintlich besser von Rechtsradikalen abzugrenzen.
-Dabei wird implizit unterstellt dies wäre die einzige Möglichkeit dazu. Wenn die Falschen das
-Richtige sagen, ist es dann richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das
-Falsche sagen?
+der Masse untergehen, wirken sie wie Demokraten und dürften ihre Ziele kaum erreichen. Im Übrigen
+ist ein Ausschluß von echten oder vermuteten Rechtsradikalen auch nicht mit demokratischen Mitteln
+wirksam umzusetzen. Wie sollte das bewerkstelligt werden? Eine freiwillige Selbstauskunft wäre zu
+leicht zu umgehen. Ein Social-Credit-System nach dem Vorbild Chinas könnte funktionieren. Man darf
+nur dann gegen die Politik demonstrieren, wenn der Social-Credit-Score ausweist, daß man ein braver
+Befürworter ist.
+
+Der eigentliche Zweck dieser Rhetorik ist ein anderer: Die Spaziergänger sollen - gemäß den
+Äußerungen der Politik - genötigt werden ihren Standpunkt aufzugeben, um sich vermeintlich besser
+von Rechtsradikalen abzugrenzen. Dabei wird implizit unterstellt dies wäre die einzige Möglichkeit
+dazu, weshalb es auch alternativlos geboten wäre. Wenn die Falschen das Richtige sagen, ist es dann
+richtig oder falsch? Und warum müssen die Richtigen dann unbedingt das Falsche sagen?
 
 Absatz 2: Ein paar kleine Fehler müssen zugegeben werden sonst wirkt es zu unglaubwürdig, aber nicht
 ohne sofortige Relativierung. Besser wäre keinesfalls möglich gewesen. Das ist deswegen noch lange
-kein Grund die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Die
-Betonung dieses Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff
+kein Grund die Sinnhaftigkeit der propagierten Ziele und Maßnahmen der Politik zu hinterfragen. Bloß
+nicht anfangen zu denken. Das Problem besteht auch nicht darin, daß eben nicht alle Entwicklungen in
+ihrem Ausmaß vorhersehbar waren, sondern daß sie maßlos überschätzt wurden. Die Betonung dieses
+Standpunktes erfolgt exzessiv mit Solidarität. Eine Erklärung, warum dieser Begriff überhaupt
 zutreffend wäre, fehlt.
 
 Absatz 3: Erneute Proklamation von Solidarität garniert mit dem Wort Vernunft. Wieder keine
 Erklärung. Dafür eine Widmung: Für die leisen Menschen, deren Stimmen sonst ungehört verhallen
 könnten - als wenn diesem Standpunkt in den Medien nicht schon genug Platz eingeräumt würde. Danach
 wird der Frame geschlossen: Gleichsetzung der Anderen mit Gewalt, Rassismus, Antisemitismus und
-Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß gehört noch eine Prise
+Verschwörungsideologien - also dem ultimativ Bösen™. Zum Abschluß fehlt noch eine Prise
 Emotionalisierung: Trauer um die Verstorbenen aus Dresden - als wenn diese nicht auch ohne die
 vorherige Diffamierung möglich gewesen wäre. Alternativ könnte man das Ende auch als unterschwellige
 Schuldzuweisung lesen.
@@ -1933,7 +2072,7 @@ Schuldzuweisung lesen.
 Während _Haltung Zeigen_ drei Viertel der Begründung darauf verwendet, zu Emotionalisieren und die
 vermeintliche Böshaftigkeit der Anderen zu unterstreichen, kommt die Initiative _#FriedlichZusammen_
 ohne Diffamierungen aus. Tatsächlich begründen die Initiatoren ihre Absichten mit Argumenten, wobei
-Solidarität ebenso vorkommt, aber weniger oft wiederholt wird (Quelle:
+Solidarität ebenso vorkommt, aber weniger exzessiv wiederholt wird (Quelle:
 <https://friedlichzusammen.de/wofuer-wir-stehen/>, Stand: 30.1.2022):
 
 > `Für ein friedliches Miteinander` #friedlichzusammen steht für ein friedliches respektvolles

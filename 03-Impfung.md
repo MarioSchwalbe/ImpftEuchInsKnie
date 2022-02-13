@@ -5,10 +5,14 @@
 Wirksamkeit der Impfung
 -----------------------
 
+> Dies ist das erste Medikament, dessen Versagen jenen angelastet wird, die es nicht genommen haben.
+> (Dr. Robert Malone)
+
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weitergabe (Transmission). Das Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am
-Infektionsgeschehen nicht mehr teil.“ (Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch
-wird dieser Weg von den meisten Politikern propagiert. Doch was bringt die Impfung wirklich?
+Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod sowieso. Das Bundesministerium
+für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“ (Quelle
+mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten Politikern
+propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
@@ -59,6 +63,57 @@ ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen u
 
 ### Unabhängige Studien ###
 
+Wie bereits erwähnt, fand eine Forschergruppe aus Dänemark, daß das Immunsystem bei einer Infektion
+mit SARS-CoV-2 IgG-Antikörper bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper
+handeln, die normalerweise bei einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man
+auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
+
+- **Alana F. Ogata, Chi-An Cheng, Michaël Desjardins, et al.**:
+  Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected
+    in the Plasma of mRNA-1273 Vaccine Recipients, 20.5.2021 <br/>
+  <https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075>
+  > Plasma antibodies IgG, IgA, and IgM were measured against spike, S1, RBD, and nucleocapsid.
+  > Antibody levels measured on day zero represent the baseline level in each participant, all who
+  > had no previous report of COVID-19 infection. In all 13 participants, as expected, IgG levels
+  > against spike, S1, and RBD increased after the first injection, whereas IgG against nucleocapsid
+  > showed no change over time. IgA is involved in early neutralization activity and is therefore
+  > crucial to target potentially short-lived IgA responses. Our Simoa assays detected increased IgA
+  > against spike, S1, and RBD after the first injection. Nine participants presented measurable IgG
+  > levels against S1 and spike by day 14 after the first vaccine injection. Four participants,
+  > showed a delayed IgG-S1 and IgG-spike response, which did not increase until day 28 after the
+  > first injection. Nonetheless, all participants showed additional boost in IgG-S1 after the
+  > second injection.
+
+- **Fatima Amanat, Mahima Thapa, Tinting Lei, et al.**:
+  SARS-CoV-2 mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2, 8.6.2021 <br/>
+  <https://www.cell.com/cell/fulltext/S0092-8674(21)00706-6>
+  > The spike-reactive plasmablast response is dominated by IgG1+ cells and is comprised of a
+  > mixture of cells with low and high levels of somatic hypermutation (SHM). [...] We next examined
+  > the isotype and IgG subclass distribution among the recovered sequences. IgG1 was by far the
+  > most dominant isotype in the three vaccinees.
+
+- **Adam V. Wisnewski, Julian Campillo Luna, Carrie A. Redlich**:
+  Human IgG and IgA responses to COVID-19 mRNA vaccines, 16.6.2021 <br/>
+  <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249499>
+  > SARS-CoV-2 spike antigen-specific IgG and IgA elicited by infection mediate viral neutralization
+  > and are likely an important component of natural immunity, however, limited information exists
+  > on vaccine induced responses. We measured COVID-19 mRNA vaccine induced IgG and IgA in serum
+  > serially, up to 145 days post vaccination in 4 subjects. Spike antigen-specific IgG levels rose
+  > exponentially and plateaued 21 days after the initial vaccine dose. After the second vaccine
+  > dose IgG levels increased further, reaching a maximum approximately 7–10 days later, and
+  > remained elevated (average of 58% peak levels) during the additional >100 day follow up period.
+  > COVID-19 mRNA vaccination elicited spike antigen-specific IgA with similar kinetics of induction
+  > and time to peak levels, but more rapid decline in serum levels following both the 1st and 2nd
+  > vaccine doses (<18% peak levels within 100 days of the 2nd shot). The data demonstrate COVID-19
+  > mRNA vaccines effectively induce spike antigen specific IgG and IgA and highlight marked
+  > differences in their persistence in serum.
+
+Aus Sicht des Immunsystems handelt es sich folglich nicht um einen Erstkontakt mit einem neuen
+Krankheitserreger. Das ist bedeutsam, da der Sinn einer Impfung eigentlich darin besteht, den
+Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit wird das Immunsystem dazu
+gebracht, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem richtigen Krankheitserreger
+die Abwehrreaktion schneller und effizienter einleiten zu können.
+
 Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
@@ -67,7 +122,7 @@ Transmission, kein Fremdschutz), beispielsweise:
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
     vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study, 29.10.2021 <br/>
-  <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext>
+  <https://www.thelancet.com/journals/laninf/article/PIIS1473-30992100648-4/fulltext>
   > Although peak viral load did not differ by vaccination status or variant type, it increased
   > modestly with age (difference of 0.39 [95% credible interval –0.03 to 0.79] in peak log10 viral
   > load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta
@@ -142,7 +197,7 @@ entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedri
 bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
 überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
 ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
-(Quelle: selber Bericht):
+(Quelle: selber Bericht).
 
 <a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
 
@@ -171,10 +226,27 @@ anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
 Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
 Infektion?)
 
+Die Autoren einer Studie der Universität Oxford fanden jedenfalls einen erheblichen Rückgang der
+Wirksamkeit der Impfstoffe bis hin zum Ausbleiben jeglicher Wirksamkeit gegenüber der
+Omikronvariante:
+
+- **Wanwisa Dejnirattisai, Robert H. Shaw, Piyada Supasa, et al.**:
+  Reduced neutralisation of SARS-COV-2 Omicron-B.1.1.529 variant by post-immunisation serum, 11.12.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.12.10.21267534v1.full>
+  > In this report, we present live neutralisation titres against SARS-CoV-2 Omicron variant,
+  > compared with neutralisation against Victoria, Beta and Delta variants. Sera from day-28 post
+  > second-dose were obtained from participants in the Com-COV2 study who had received a two-dose
+  > COVID-19 vaccination schedule with either AstraZeneca (AZD1222) or Pfizer (BNT162b2) vaccines.
+  > There was a substantial fall in neutralisation titres in recipients of both AZD1222 and BNT16b2
+  > primary courses, with evidence of some recipients failing to neutralise at all. This will likely
+  > lead to increased breakthrough infections in previously infected or double vaccinated
+  > individuals, which could drive a further wave of infection, although there is currently no
+  > evidence of increased potential to cause severe disease, hospitalization or death.
+
 ### Nutzen der Impfung ###
 
-Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt das
-Ergebnis schon bei der Deltavariante vernichtend aus:
+Bei Autoren, die nicht von Pfizer bezahlt und auch nicht beim RKI angestellt sind, fällt die Analyse
+des Risiko-Nutzen-Verhältnisses schon bei der Deltavariante vernichtend aus:
 
 - **Harald Walach, Rainer J. Klement, Wouter Aukema**:
   The Safety of COVID-19 Vaccinations — Should We Rethink the Policy?, Aug 2021 <br/>

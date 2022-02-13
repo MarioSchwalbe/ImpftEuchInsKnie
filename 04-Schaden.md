@@ -10,7 +10,7 @@ spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheori
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
 <https://vigiaccess.org>, Stand: 9.1.2022):
 
-| Medikament/Impfung  | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
+| Wirkstoff/Impfung   | Zeitraum  | Einträge (gesamt) | Durchschnitt pro Jahr | Einträge (2021) |
 |---------------------|-----------|------------------:|----------------------:|----------------:|
 | Mumps               | 1972-2021 |               719 |                 14,38 |              15 |
 | _Interferon_        | 1988-2021 |             1.572 |                 46,24 |              30 |
@@ -51,7 +51,7 @@ Bei diesem Thema sollte man in Erinnerung rufen, wie mRNA-Impfstoffe wirken:
 Das Prinzip ist im Grunde einfach: Die Impfstoffe enthalten den Bauplan für ein Protein - als
 synthetische mRNA - verpackt in Lipid-Nanopartikel (Pfizer und Moderna) bzw. Vektorviren
 (AstraZeneca und Johnson&Johnson). Diese gelangen nach der Injektion über die Lymph- und Blutgefäße
-in Körperzellen und regen dort die Proteinbiosynthese des Spike-Proteins des Viruses an. Die Zellen
+in Körperzellen und regen dort die Proteinbiosynthese des Spike-Proteins des Virus an. Die Zellen
 präsentieren das fremde Protein dann auf ihrer Oberfläche, was das Immunsystem zu einer
 Abwehrreaktion anregt. Damit erscheinen diese Körperzellen infiziert und werden vom Immunsystem
 eliminiert. Bei einer natürlichen Infektion könnte das prinzipiell auch passieren. Es gibt aber
@@ -66,7 +66,7 @@ einige relevante Unterschiede:
    Effekt dürfte auch kumulativ sein. Wieso sollte das überhaupt sinnvoll sein?
 
 2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
-   Eindringen des Viruses in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
+   Eindringen des Virus in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
    und nicht gegen körpereigene Zellen richtet. Die Lipid-Nanopartikel der Impfstoffe enthalten aber
    das passende Antigen nicht, so daß einem erneuten Befall von Körperzellen nichts im Wege steht
    und sich das Spiel wiederholt - nunmehr mit schnellerer und verstärkter Immunreaktion.

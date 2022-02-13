@@ -96,8 +96,8 @@ eine Hand voll in Deutschland? Seit wann definiert eine intellektuelle Knalltüt
 was falsche und was richtige Experten™ sind? (Quelle:
 <https://www.welt.de/vermischtes/article233607499/Jan-Boehmermann-und-Markus-Lanz-liefern-sich-heftigen-Schlagabtausch.html>)
 Dementsprechend benötigt man Vokabular mit eingebauter Wertung wie „Schwurbler,“ „Covidiot“ oder
-„Corona-Leugner.“ Leugnet etwa jemand die Existenz des Viruses? Ist das Virus dann eingeschnappt?
-Das andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
+„Corona-Leugner.“ Leugnet etwa jemand die Existenz des Virus? Ist das Virus dann eingeschnappt? Das
+andere Lager versucht mit „No-Covid-Sekte“ oder „Zeugen Coronas“ zu kontern, was das
 Diskussionsklima auch nicht gerade verbessert. Wo sind die vernünftigen Stimmen geblieben? Wenn man
 böse wäre, könnte man mittlerweile noch ganz andere Autoren zitieren (Quelle: Paul Joseph Goebbels,
 Über die Presse, Rhein-Mainische Volkszeitung, 16.03.1933; Zitiert in: Joseph Wulf, Presse und Funk

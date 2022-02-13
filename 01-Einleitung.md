@@ -31,11 +31,11 @@ Einleitung
 > Wahlspruch der Aufklärung. (Immanuel Kant)
 
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
-der letzten 2 Jahre neu lernen müßtest. (Wahrscheinlich kann man die Lehrstühle der Geschichte der
-Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich das nicht alles wiedergeben kann und
-will, und mich außerdem nicht mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit
-eines Politikers - möchte ich zuerst auf einige Stellungnahmen zur angedachten allgemeinen
-Impfpflicht verweisen:
+der letzten 2 Jahre neu lernen müßtest. Leider kann ich das nicht alles wiedergeben. Die
+Aufarbeitung dürfte der Nachwelt überlassen bleiben. (Wahrscheinlich kann man die Lehrstühle der
+Geschichte der Jahre 2020-2022 in der Zukunft quartalsweise vergeben.) Da ich mich außerdem nicht
+mit fremden Federn schmücken will - das hier ist ja keine Doktorarbeit eines Politikers - möchte ich
+zuerst auf einige Stellungnahmen zur angedachten allgemeinen Impfpflicht verweisen:
 
 1. 7 Argumente gegen eine Impfpflicht, 6.1.2022 <br/>
    <https://7argumente.de>
@@ -48,7 +48,7 @@ Impfpflicht verweisen:
    Geringer Nutzen und noch unklare Risiken durch die COVIDImpfungen, 16.12.2021 <br/>
    <https://vera-lengsfeld.de/2021/12/16/offener-brief-geringer-nutzen-und-noch-unklare-risiken-durch-die-covidimpfungen/>
 
-4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf**:
+4. **Prof. Dr. med. Ulrich Keil, Prof. Dr. Andreas Schnepf, et al.**:
    Offener Brief von Wissenschaftlern gegen Impfpflicht, 9.12.2021 <br/>
    <https://www.achgut.com/artikel/wissenschaftler_wehren_sich_gegen_impfpflicht._ein_zeitdokument>
 
@@ -83,7 +83,7 @@ aufweisen als der deutsche Ethikrat zu diesem Thema zustande bringt.
 Konsonantenkombination „mpfpf“ und ist dabei auch noch ernst gemeint.)
 
 In allen Fällen muß eine sachliche Betrachtung immer folgende Fragen berücksichtigen:
-1. [Wie gefährlich ist das Virus](#gefährlichkeit-des-viruses)?
+1. [Wie gefährlich ist das Virus](#gefährlichkeit-des-virus)?
 2. [Wie wirksam sind die Maßnahmen, insbesondere die Impfung](#wirksamkeit-der-impfung)?
 3. [Welche Nachteile bringen die Maßnahmen mit sich](#schadwirkung-der-impfung)?
 
