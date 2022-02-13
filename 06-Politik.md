@@ -420,7 +420,7 @@ in Virologie, Epidemiologie und Immunologie hat sondern auch in Psychologie:
 Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von
 der Ampelkoalition erst noch legalisiert werden. Nach 2 Jahren freiwilliger Erkenntnisisolation in
 der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
-Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
+Abgeordnete. Was wir in Deutschland viel mehr bräuchten als eine Impfpflicht ist eine Denkpflicht.
 Ganz offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--

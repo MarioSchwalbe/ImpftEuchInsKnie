@@ -1667,7 +1667,7 @@ in Virologie, Epidemiologie und Immunologie hat sondern auch in Psychologie:
 Die Worte eines Genies. Klar, Kalle. Was hat der eigentlich geraucht? Ich dachte Cannabis wird von
 der Ampelkoalition erst noch legalisiert werden. Nach 2 Jahren freiwilliger Erkenntnisisolation in
 der Politik wäre eine viel wirkungsvollere Maßnahme ein verpflichtender IQ-Test für Minister und
-Abgeordnete. Was wir in Deutschland viel mehr brauchen als eine Impfpflicht ist eine Denkpflicht.
+Abgeordnete. Was wir in Deutschland viel mehr bräuchten als eine Impfpflicht ist eine Denkpflicht.
 Ganz offensichtlich ist Beförderung in der Politik nicht an Kompetenz gebunden.
 
 <!--
@@ -1679,11 +1679,6 @@ Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waa
 
 Fazit
 -----
-
-```text
-Aktennotiz:
-Dieses Kapitel ist nicht eigenständig und kann nicht losgelöst von den anderen 5 Kapiteln betrachtet werden.
-```
 
 > Unsichtbar macht sich die Dummheit, indem sie sehr große Ausmaße annimmt. (Bertold Brecht)
 
@@ -1830,10 +1825,9 @@ Stand: 30.1.2022).
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu
-verkünden, obwohl die Hospitalisierungsinzidenz im November 2021 politisch etabliert wurde. Was soll
-uns eine Inzidenz von 1.000 sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der
-sprichwörtliche Sack Reis in China. Zur besseren Vergleichbarkeit sind die jeweiligen Maxima der
-Wellen in der folgenden Tabelle zusammengefaßt:
+verkünden, obwohl die Hospitalisierungsinzidenz im November 2021 politisch etabliert wurde. Zur
+besseren Vergleichbarkeit sind die jeweiligen Maxima der Wellen in der folgenden Tabelle
+zusammengefaßt:
 
 | Woche      | Variante      | Gemeldete Infektionen | Hospitalisierungen | Todesfälle | Mortalität |
 |------------|---------------|----------------------:|-------------------:|-----------:|-----------:|
@@ -1851,7 +1845,9 @@ dem Wildtyp folgenden Varianten - entsprechend der Evolutionstheorie - schrittwe
 gefährlich wurden. Insbesondere die Omikronvariante ist wesentlich milder als der ursprüngliche Typ
 (Faktor 192). Obwohl der Vorsitzende des Weltärztebundes Frank Ulrich Montgomery das Schlimmste
 befürchtet hatte, ist wieder kein Ebola in Sicht. Charles Darwin hatte doch Recht. Das neue
-hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie.
+hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Was soll uns eine Inzidenz von 1.000
+in den Nachrichten sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der sprichwörtliche Sack
+Reis in China.
 
 ### Big Decision ###
 
