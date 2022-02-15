@@ -411,9 +411,9 @@ die Krankenhäuser viel wirkungsvoller entlasten.
 
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
-eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
-Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
+eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
+März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
 <a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
 <a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
@@ -533,10 +533,10 @@ Wirksamkeit der Impfung
 > (Dr. Robert Malone)
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod sowieso. Das Bundesministerium
-für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“ (Quelle
-mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten Politikern
-propagiert. Doch was bringt die Impfung wirklich?
+Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das
+Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“
+(Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten
+Politikern propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
@@ -560,17 +560,17 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
   > facility (using a protocol-defined acceptable test).
 
 Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektionen gefunden, bei den
-21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
-Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß von 100 Geimpften
-95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Was man
-denkt, entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
-Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
-(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
-Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
-Vaccinate, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA
-richtet. Das bedeutet insbesondere auch, daß ein Nachweis eines Schutzes vor Infektion oder
-Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine
-gute Erklärung bietet der Artikel von Multipolar (Quelle:
+21.720 Probanden der Impfgruppe dagegen nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
+Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß 95 von 100
+Geimpften geschützt wären und nur 5 nicht. Eine Impfung kann ja auch nicht perfekt sein. Das Problem
+dabei: Was man denkt, entspricht der _absoluten Effektivität_. Die genannten 95% sind aber die
+_relative Effektivität_. Bei der großen Anzahl der Probanden reduziert sich das _absolute Risiko_
+tatsächlich von 0,75% (162/21.728) auf 0,04% (8/21.720), d.h. die _absolute Effektivität_ beträgt
+nur 0,71% (0,75%-0,04%). Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre
+(_Number Needed to Vaccinate_, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich zudem nach der
+Falldefinition der FDA richtet. Das bedeutet insbesondere, daß ein Nachweis eines Schutzes vor
+Infektion oder Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich
+ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
 <https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen>).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -590,7 +590,7 @@ ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen u
 Wie bereits erwähnt, fand eine Forschergruppe aus Dänemark, daß das Immunsystem bei einer Infektion
 mit SARS-CoV-2 IgG-Antikörper bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper
 handeln, die normalerweise bei einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man
-auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
+auch nach Verabreichung der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
 
 - **Alana F. Ogata, Chi-An Cheng, Michaël Desjardins, et al.**:
   Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected
@@ -632,13 +632,13 @@ auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
   > mRNA vaccines effectively induce spike antigen specific IgG and IgA and highlight marked
   > differences in their persistence in serum.
 
-Aus Sicht des Immunsystems handelt es sich folglich nicht um einen Erstkontakt mit einem neuen
-Krankheitserreger. Das ist bedeutsam, da der Sinn einer Impfung eigentlich darin besteht, den
-Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit wird das Immunsystem dazu
-gebracht, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem richtigen Krankheitserreger
-die Abwehrreaktion schneller und effizienter einleiten zu können.
+Aus Sicht des Immunsystems handelt es sich bei der Impfung folglich nicht um einen Erstkontakt mit
+einem neuen Krankheitserreger. Das führt den Sinn einer Impfung ad absurdum, da dieser eigentlich
+darin besteht, einen Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit soll das
+Immunsystem dazu gebracht werden, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem
+eigentlichen Krankheitserreger die Abwehrreaktion schneller und effizienter einleiten zu können.
 
-Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
+Weitere unabhängige Studien - von den eingangs erwähnten Stellungnahmen bereits referenziert - haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
 Transmission, kein Fremdschutz), beispielsweise:
@@ -688,10 +688,10 @@ bis der neue Wirt selbst wieder infektiös wird. Kann man in diesem Zeitraum die
 verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das ist bei Atemwegsviren aber
 nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur
 zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen
-kann man schließlich alles was man einatmet auch sofort wieder ausatmen. Eine konsequente
-Schlußfolgerung findet sich in:
+kann man alles was man einatmet auch sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet
+sich in:
 
-- **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
+- **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr. Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
   <https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/>
   > All of the currently used COVID vaccines are applied by intramuscular injection, and they are
@@ -712,22 +712,31 @@ schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
 > in der Altersgruppe 12-17 Jahre bei ca. 81%, in der Altersgruppe 18-59 Jahre bei ca. 62% und in
-> der Altersgruppe ≥60 Jahre bei ca. 71%. Die mit derselben Methode geschätzte Effektivität einer
+> der Altersgruppe ab 60 Jahre bei ca. 71%. Die mit derselben Methode geschätzte Effektivität einer
 > Auffrischimpfung gegenüber einer symptomatischen COVID-19-Erkrankung lag für die vergangenen 4
-> Wochen in der Altersgruppe 18-59 Jahre bei 89% und in der Altersgruppe ≥60 Jahre bei ca. 93%.
+> Wochen in der Altersgruppe 18-59 Jahre bei 89% und in der Altersgruppe ab 60 Jahre bei ca. 93%.
 
-Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Maßnahmen selbst
-entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedrigste Impfquote)
-bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
-überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
-ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
-(Quelle: selber Bericht).
+Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Maßnahmen sowie die
+kreative Zählweise des RKI selbst entstehen. Da bei 3G sowie dem Testmarathon in Schulen und
+Kindergärten Personengruppen mit niedrigster Impfquote und damit bevorzugt Ungeimpfte getestet
+werden, kann man annehmen, daß diese im Ergebnis auch überrepräsentiert sind. Geimpfte müssen gemäß
+2G-Regeln schließlich nicht getestet werden. Desweiteren beginnt der Impfschutz offiziell erst 2
+Wochen nach der zweiten Impfung, so daß etwaige Infektionen bis zu diesem Zeitpunkt noch den
+Ungeimpften zugerechnet werden. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um
+einen unbekannten Faktor zu hoch ausfallen. Aber wenigstens mehr als nichts.
+
+### Omikron ###
+
+Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der Wochenbericht vom
+6.1.2022 enthält die folgende Tabelle zu den Omikronfällen der Kalenderwochen 49 bis 52/2021
+(Quelle:
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
 
 <a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
-symptomatischen Fällen beträgt 44,1%/14,6%/13,2%, der Anteil an hospitalisierten Fällen
+symptomatischen Fällen beträgt 44,1%/**14,6%**/13,2%, der Anteil an hospitalisierten Fällen
 40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
@@ -819,11 +828,11 @@ Eine Impfung, die vor so gut wie nichts schützt und dabei bald noch schneller r
 Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verabschiedung einer
 Impfpflicht zunächst überlegen was man eigentlich damit erreichen will. Ich fasse zusammen: Gerade
 jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben Impfstoffe, die nicht
-an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen wir
-überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei
-der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein
-paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt
-ist? (Quelle:
+an die Alpha- oder Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen
+wir überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
+bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
+ein paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits
+angekündigt ist? (Quelle:
 <https://www.tagesschau.de/wirtschaft/unternehmen/biontech-omikron-impfstoff-101.html>) Außerdem
 gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die Motivation
 auch nicht besonders.
@@ -1336,9 +1345,9 @@ Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsöko
 mehr schief gehen. Der selbe Gesundheitsexperte, der sich im Jahr 2019 noch dafür aussprach jede
 dritte Klinik zu schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
-Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
-statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
-als Heuchelei.
+Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen,
+statt den weiteren Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts
+weiter als Heuchelei.
 
 Nächster Versuch: Zwangsmaßnahmen? Zur weiteren Verschlimmerung der Lage dürfte die bereits
 beschlossene Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich
@@ -1654,7 +1663,7 @@ beiden? Das wäre noch billiger, und so ließe sich ein Fachkräftemangel auch a
 Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? Eine staatlich
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
-Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
+Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stéphane Bancel vor Kurzem in einem Interview
 (Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Und
 ich dachte es geht um Gesundheit. Was wäre dann noch der Unterschied zwischen der Bundesregierung
 und der Drogenmafia? Ok, die Mafia zwingt einen nicht ihren Scheiß zu nehmen. Dafür haben wir mit
@@ -1680,7 +1689,8 @@ Abgeordnete: Impfpflicht für vulnerable Gruppen: Altersdiskriminierung? BMI-Waa
 Fazit
 -----
 
-> Unsichtbar macht sich die Dummheit, indem sie sehr große Ausmaße annimmt. (Bertold Brecht)
+> Im Widerspruch zur eigenen Vernunft zu leben, ist der unerträglichste aller Zustände.
+> (Leo Tolstoi)
 
 ### Big Business ###
 
@@ -1695,8 +1705,8 @@ Jahren:
   > medicalising ordinary life may now be better described as disease mongering: widening the
   > boundaries of treatable illness in order to expand markets for those who sell and deliver
   > treatments. Pharmaceutical companies are actively involved in sponsoring the definition of
-  > diseases and promoting them to both prescribers and consumers. The social construction of
-  > illness is being replaced by the corporate construction of disease.
+  > diseases and promoting them to both prescribers and consumers. _The social construction of
+  > illness is being replaced by the corporate construction of disease._
 
 Besonders treffend finde ich das Inverse Benefit Law der amerikanischen Autoren über das dortige
 Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
@@ -1710,14 +1720,14 @@ Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
   > for diagnosing disease, relying on surrogate endpoints, exaggerating safety claims, exaggerating
   > efficacy claims, creating new diseases, and encouraging unapproved uses.
 
-Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) symptomlose Kranke in den
-Statistiken (Meldeinzidenz), (b) unsinnige Fokusierung auf Antikörperspiegel, obwohl diese nach
-kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel relevanter wären, (c)
-überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt erteilte
-Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig, denn leider
-laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien benötigt
-werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der Deutschen
-Apotheker- und Ärztebank verrät uns:
+Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) mit Hilfe der
+Meldeinzidenz symptomlose Kranke in den Statistiken, (b) unsinnige Fokusierung auf Antikörpertiter,
+obwohl diese nach kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel
+relevanter wären, (c) überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt
+erteilte Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig,
+denn leider laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien
+benötigt werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der
+Deutschen Apotheker- und Ärztebank verrät uns:
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
@@ -1846,15 +1856,25 @@ gefährlich wurden. Insbesondere die Omikronvariante ist wesentlich milder als d
 (Faktor 192). Obwohl der Vorsitzende des Weltärztebundes Frank Ulrich Montgomery das Schlimmste
 befürchtet hatte, ist wieder kein Ebola in Sicht. Charles Darwin hatte doch Recht. Das neue
 hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Was soll uns eine Inzidenz von 1.000
-in den Nachrichten sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der sprichwörtliche Sack
-Reis in China.
+in den Nachrichten also sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der sprichwörtliche
+Sack Reis in China.
 
 ### Big Decision ###
 
-Es ist an der Zeit die große Frage zu beantworten. Um es mit den Worten von Harald Schmidt zu sagen:
-Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Also mit wem muß
-ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir gefallen. Eine Impfung käme
-jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
+Es ist an der Zeit die große Frage zu beantworten. Vorausschauend schrieb Carlos Beat Quinto bereits
+im Dezember 2020 in der Schweizerischen Ärztezeitung (Quelle:
+<https://saez.ch/article/doi/saez.2020.19430>):
+
+> _Ein Covid-19-Impfstoff muss in erster Linie sicher, in zweiter Linie sicher, drittens sicher und
+> viertens wirksam sein._ Warum ist die Sicherheit so hoch zu gewichten? Ein wesentlicher Grund
+> dafür ist, dass bezogen auf die Gesamtbevölkerung bei über 90% aller Infizierten mit Covid-19 die
+> Infektion leicht verläuft, insbesondere bei jüngeren Personen.
+
+Leider kann von Sicherheit der Impfstoffe im Moment keine Rede sein. Um es also mit den Worten von
+Harald Schmidt zu sagen: Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu
+erfüllen. Lies: Mit wem muß ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir
+gefallen. Eine Impfung käme jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt
+wären:
 
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
    Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
@@ -1865,7 +1885,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
-   Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
+   Zulassungsverfahren und (c) Wirksamkeitsstudien sowie (d) deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
    Lipid-Nanopartikel eingereicht hat (Special Obligations). Desweiteren sind die Inhaltsstoffe
@@ -1900,8 +1920,8 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit wäre es ratsam die
-   impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
+9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
+   ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
    https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
    https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
@@ -1945,7 +1965,7 @@ zusammen (Quelle:
 
 Die Wissensdefizite sind, trotz der vollmundigen Versprechungen der Politik und der Pharmalobby,
 einfach zu groß. Wie vertrauenswürdig ist eine Impfung, für deren Sicherheit und Wirksamkeit
-sämtliche kritischen Stimmen zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
+sämtliche kritischen Wissenschaftler zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
 Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien Wissenschaftler. Die Irren
 erkennt man gewöhnlich dran, daß sie nie irren.
 

@@ -308,9 +308,9 @@ die Krankenhäuser viel wirkungsvoller entlasten.
 
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
-eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
-Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
+eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
+März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
 <a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
 <a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>

@@ -9,10 +9,10 @@ Wirksamkeit der Impfung
 > (Dr. Robert Malone)
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod sowieso. Das Bundesministerium
-für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“ (Quelle
-mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten Politikern
-propagiert. Doch was bringt die Impfung wirklich?
+Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das
+Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“
+(Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten
+Politikern propagiert. Doch was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
@@ -36,17 +36,17 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
   > facility (using a protocol-defined acceptable test).
 
 Diese hatte bei 21.728 Probanden der Placebogruppe 162 laborbestätigte Infektionen gefunden, bei den
-21.720 Probanden der Impfgruppe aber nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
-Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß von 100 Geimpften
-95 geschützt wären und nur 5 nicht. Kann ja auch nicht perfekt sein. Das Problem dabei: Was man
-denkt, entspricht der *absoluten* Effektivität. Die genannten 95% sind aber die *relative*
-Effektivität. Bei der großen Anzahl der Probanden reduziert sich das *absolute* Risiko nur von 0,75%
-(162/21.728) auf 0,04% (8/21.720), d.h. die *absolute* Effektivität beträgt nur 0,71% (0,75%-0,04%).
-Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre (Number Needed to
-Vaccinate, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich nach der Falldefinition der FDA
-richtet. Das bedeutet insbesondere auch, daß ein Nachweis eines Schutzes vor Infektion oder
-Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich ähnlich. Eine
-gute Erklärung bietet der Artikel von Multipolar (Quelle:
+21.720 Probanden der Impfgruppe dagegen nur 8. 8 von 162 macht 4,9% also 95,1% weniger. Klingt gut.
+Wenn man den Menschen eine Effektivität von 95% erzählt, denken die meisten, daß 95 von 100
+Geimpften geschützt wären und nur 5 nicht. Eine Impfung kann ja auch nicht perfekt sein. Das Problem
+dabei: Was man denkt, entspricht der _absoluten Effektivität_. Die genannten 95% sind aber die
+_relative Effektivität_. Bei der großen Anzahl der Probanden reduziert sich das _absolute Risiko_
+tatsächlich von 0,75% (162/21.728) auf 0,04% (8/21.720), d.h. die _absolute Effektivität_ beträgt
+nur 0,71% (0,75%-0,04%). Das bedeutet, daß man 141 Menschen impfen müßte damit einer geschützt wäre
+(_Number Needed to Vaccinate_, NNTV=100%/0,71%=141), wobei die Schutzwirkung sich zudem nach der
+Falldefinition der FDA richtet. Das bedeutet insbesondere, daß ein Nachweis eines Schutzes vor
+Infektion oder Transmission gar nicht erbracht wurde. Bei dem Impfstoff von Moderna verhält es sich
+ähnlich. Eine gute Erklärung bietet der Artikel von Multipolar (Quelle:
 <https://multipolar-magazin.de/artikel/wirksamkeit-von-impfungen>).
 
 Die Canadian Covid Care Alliance hat eine detaillierte Analyse jener Phase-III-Studie von Pfizer
@@ -66,7 +66,7 @@ ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen u
 Wie bereits erwähnt, fand eine Forschergruppe aus Dänemark, daß das Immunsystem bei einer Infektion
 mit SARS-CoV-2 IgG-Antikörper bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper
 handeln, die normalerweise bei einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man
-auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
+auch nach Verabreichung der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
 
 - **Alana F. Ogata, Chi-An Cheng, Michaël Desjardins, et al.**:
   Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected
@@ -108,13 +108,13 @@ auch nach Gabe der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
   > mRNA vaccines effectively induce spike antigen specific IgG and IgA and highlight marked
   > differences in their persistence in serum.
 
-Aus Sicht des Immunsystems handelt es sich folglich nicht um einen Erstkontakt mit einem neuen
-Krankheitserreger. Das ist bedeutsam, da der Sinn einer Impfung eigentlich darin besteht, den
-Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit wird das Immunsystem dazu
-gebracht, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem richtigen Krankheitserreger
-die Abwehrreaktion schneller und effizienter einleiten zu können.
+Aus Sicht des Immunsystems handelt es sich bei der Impfung folglich nicht um einen Erstkontakt mit
+einem neuen Krankheitserreger. Das führt den Sinn einer Impfung ad absurdum, da dieser eigentlich
+darin besteht, einen Erstkontakt mit einer relativ harmlosen Attrappe vorwegzunehmen. Damit soll das
+Immunsystem dazu gebracht werden, Gedächtniszellen zu bilden, um bei erneutem Kontakt mit dem
+eigentlichen Krankheitserreger die Abwehrreaktion schneller und effizienter einleiten zu können.
 
-Weitere unabhängige Studien (bereits von den eingangs erwähnten Stellungnahmen referenziert) haben
+Weitere unabhängige Studien - von den eingangs erwähnten Stellungnahmen bereits referenziert - haben
 auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
 Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
 Transmission, kein Fremdschutz), beispielsweise:
@@ -164,10 +164,10 @@ bis der neue Wirt selbst wieder infektiös wird. Kann man in diesem Zeitraum die
 verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das ist bei Atemwegsviren aber
 nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur
 zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen
-kann man schließlich alles was man einatmet auch sofort wieder ausatmen. Eine konsequente
-Schlußfolgerung findet sich in:
+kann man alles was man einatmet auch sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet
+sich in:
 
-- **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr.  Michael Palmer**:
+- **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr. Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
   <https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/>
   > All of the currently used COVID vaccines are applied by intramuscular injection, and they are
@@ -188,22 +188,31 @@ schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
 > Die nach der Farrington-Methode geschätzte Effektivität einer Grundimmunisierung gegenüber einer
 > symptomatischen COVID-19-Erkrankung lag für die vergangenen 4 Wochen (Mittelwert der MW 49 bis 52)
 > in der Altersgruppe 12-17 Jahre bei ca. 81%, in der Altersgruppe 18-59 Jahre bei ca. 62% und in
-> der Altersgruppe ≥60 Jahre bei ca. 71%. Die mit derselben Methode geschätzte Effektivität einer
+> der Altersgruppe ab 60 Jahre bei ca. 71%. Die mit derselben Methode geschätzte Effektivität einer
 > Auffrischimpfung gegenüber einer symptomatischen COVID-19-Erkrankung lag für die vergangenen 4
-> Wochen in der Altersgruppe 18-59 Jahre bei 89% und in der Altersgruppe ≥60 Jahre bei ca. 93%.
+> Wochen in der Altersgruppe 18-59 Jahre bei 89% und in der Altersgruppe ab 60 Jahre bei ca. 93%.
 
-Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Maßnahmen selbst
-entstehen. Da bei 3G sowie dem Testmarathon in Schulen und Kindergärten (niedrigste Impfquote)
-bevorzugt Ungeimpfte getestet werden, kann man annehmen, daß diese im Ergebnis auch
-überrepräsentiert sind, und die somit berechnete Effektivität um einen unbekannten Faktor zu hoch
-ausfällt. Aber wenigstens mehr als nichts. Gegen Omikron fällt der Schutz dann wieder geringer aus
-(Quelle: selber Bericht).
+Vom RKI unerwähnt bleibt die Verzerrung, die durch die politisch verordneten Maßnahmen sowie die
+kreative Zählweise des RKI selbst entstehen. Da bei 3G sowie dem Testmarathon in Schulen und
+Kindergärten Personengruppen mit niedrigster Impfquote und damit bevorzugt Ungeimpfte getestet
+werden, kann man annehmen, daß diese im Ergebnis auch überrepräsentiert sind. Geimpfte müssen gemäß
+2G-Regeln schließlich nicht getestet werden. Desweiteren beginnt der Impfschutz offiziell erst 2
+Wochen nach der zweiten Impfung, so daß etwaige Infektionen bis zu diesem Zeitpunkt noch den
+Ungeimpften zugerechnet werden. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um
+einen unbekannten Faktor zu hoch ausfallen. Aber wenigstens mehr als nichts.
+
+### Omikron ###
+
+Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der Wochenbericht vom
+6.1.2022 enthält die folgende Tabelle zu den Omikronfällen der Kalenderwochen 49 bis 52/2021
+(Quelle:
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
 
 <a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
-symptomatischen Fällen beträgt 44,1%/14,6%/13,2%, der Anteil an hospitalisierten Fällen
+symptomatischen Fällen beträgt 44,1%/**14,6%**/13,2%, der Anteil an hospitalisierten Fällen
 40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
 
 > Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
@@ -295,11 +304,11 @@ Eine Impfung, die vor so gut wie nichts schützt und dabei bald noch schneller r
 Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verabschiedung einer
 Impfpflicht zunächst überlegen was man eigentlich damit erreichen will. Ich fasse zusammen: Gerade
 jetzt ist der denkbar sinnloseste Zeitpunkt sich impfen zu lassen. Wir haben Impfstoffe, die nicht
-an die Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen wir
-überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen bei
-der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in ein
-paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits angekündigt
-ist? (Quelle:
+an die Alpha- oder Deltavariante angepasst waren und bereits grandios versagt haben. Wieso benötigen
+wir überhaupt Booster? Wo bleibt der versprochene lebenslange Schutz? Und selbige Impfstoffe nutzen
+bei der Omikronvariante fast nichts mehr. Wozu sollte ich mich jetzt impfen lassen, wenn Omikron in
+ein paar Wochen Delta verdrängt haben wird und die kommende Dreifach-Omikron-Impfung bereits
+angekündigt ist? (Quelle:
 <https://www.tagesschau.de/wirtschaft/unternehmen/biontech-omikron-impfstoff-101.html>) Außerdem
 gelten ab jetzt mit 2G+ nur noch Geboosterte als vollwertige Menschen. Das erhöht die Motivation
 auch nicht besonders.

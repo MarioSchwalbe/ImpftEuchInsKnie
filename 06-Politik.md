@@ -89,9 +89,9 @@ Gesundheitsminister Lauterbach ist zweckmäßigerweise von Beruf Gesundheitsöko
 mehr schief gehen. Der selbe Gesundheitsexperte, der sich im Jahr 2019 noch dafür aussprach jede
 dritte Klinik zu schließen (Quelle:
 <https://correctiv.org/faktencheck/2021/12/22/angebliche-skandale-behauptungen-zu-karl-lauterbach-fehlen-kontext/>).
-Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen
-statt den Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts weiter
-als Heuchelei.
+Es wäre wesentlich solidarischer dem schwedischen Beispiel zu folgen und die Kapazitäten zu erhöhen,
+statt den weiteren Abbau zu fördern. Aber die vielbeschworene Solidarität ist in Wirklichkeit nichts
+weiter als Heuchelei.
 
 Nächster Versuch: Zwangsmaßnahmen? Zur weiteren Verschlimmerung der Lage dürfte die bereits
 beschlossene Impfpflicht im Gesundheitswesen beitragen. Was es bedeutet, wenn jetzt zusätzlich
@@ -407,7 +407,7 @@ beiden? Das wäre noch billiger, und so ließe sich ein Fachkräftemangel auch a
 Ebenso zielsicher steuert die Politik gegen die Wand. Was kommt als nächstes? Eine staatlich
 erzwungene Abofalle? In der Schweiz möchte die Impfstoff-Produzentin Moderna ihre Zusammenarbeit
 gern vertiefen. Im Blickpunkt laufender Verhandlungen stehe ein Impfabo mit garantierter
-Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stephane Bancel vor Kurzem in einem Interview
+Mengenabnahme durch die Schweiz, sagte Moderna-Chef Stéphane Bancel vor Kurzem in einem Interview
 (Quelle: <https://telebasel.ch/2021/12/21/loest-die-schweiz-bald-ein-impf-abo-bei-moderna/>). Und
 ich dachte es geht um Gesundheit. Was wäre dann noch der Unterschied zwischen der Bundesregierung
 und der Drogenmafia? Ok, die Mafia zwingt einen nicht ihren Scheiß zu nehmen. Dafür haben wir mit

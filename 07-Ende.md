@@ -5,7 +5,8 @@
 Fazit
 -----
 
-> Unsichtbar macht sich die Dummheit, indem sie sehr große Ausmaße annimmt. (Bertold Brecht)
+> Im Widerspruch zur eigenen Vernunft zu leben, ist der unerträglichste aller Zustände.
+> (Leo Tolstoi)
 
 ### Big Business ###
 
@@ -20,8 +21,8 @@ Jahren:
   > medicalising ordinary life may now be better described as disease mongering: widening the
   > boundaries of treatable illness in order to expand markets for those who sell and deliver
   > treatments. Pharmaceutical companies are actively involved in sponsoring the definition of
-  > diseases and promoting them to both prescribers and consumers. The social construction of
-  > illness is being replaced by the corporate construction of disease.
+  > diseases and promoting them to both prescribers and consumers. _The social construction of
+  > illness is being replaced by the corporate construction of disease._
 
 Besonders treffend finde ich das Inverse Benefit Law der amerikanischen Autoren über das dortige
 Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
@@ -35,14 +36,14 @@ Gesundheitssystem. Je schlechter das Produkt um so extensiver ist das Marketing:
   > for diagnosing disease, relying on surrogate endpoints, exaggerating safety claims, exaggerating
   > efficacy claims, creating new diseases, and encouraging unapproved uses.
 
-Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) symptomlose Kranke in den
-Statistiken (Meldeinzidenz), (b) unsinnige Fokusierung auf Antikörperspiegel, obwohl diese nach
-kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel relevanter wären, (c)
-überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt erteilte
-Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig, denn leider
-laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien benötigt
-werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der Deutschen
-Apotheker- und Ärztebank verrät uns:
+Diese Punkte können bei dem Coronavirus als erfüllt gelten. Wir haben (a) mit Hilfe der
+Meldeinzidenz symptomlose Kranke in den Statistiken, (b) unsinnige Fokusierung auf Antikörpertiter,
+obwohl diese nach kurzer Zeit abgebaut werden und die Gedächtniszellen des Immunsystems viel
+relevanter wären, (c) überzogene Wirksamkeits- und Unbedenklichkeitsversprechen, und (d) überstürzt
+erteilte Notzulassungen, die mit gravierenden Nachteilen verbunden sind. Das ist auch notwendig,
+denn leider laufen gewinnträchtige Patente in jeder Branche irgendwann ab, so daß neue Technologien
+benötigt werden, um das weitere Wirtschaftswachstum zu sichern. Der Chief Investment Officer der
+Deutschen Apotheker- und Ärztebank verrät uns:
 
 - **Dr. Hanno Kühn**:
   Pharma-Aktien: Selektion ist Trumpf, 5.2.2021 <br/>
@@ -171,15 +172,25 @@ gefährlich wurden. Insbesondere die Omikronvariante ist wesentlich milder als d
 (Faktor 192). Obwohl der Vorsitzende des Weltärztebundes Frank Ulrich Montgomery das Schlimmste
 befürchtet hatte, ist wieder kein Ebola in Sicht. Charles Darwin hatte doch Recht. Das neue
 hochgejubelte Killervirus in spe enttäuscht auf ganzer Linie. Was soll uns eine Inzidenz von 1.000
-in den Nachrichten sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der sprichwörtliche Sack
-Reis in China.
+in den Nachrichten also sagen? Heute 999 neue Schnupfen? Das ist so wichtig wie der sprichwörtliche
+Sack Reis in China.
 
 ### Big Decision ###
 
-Es ist an der Zeit die große Frage zu beantworten. Um es mit den Worten von Harald Schmidt zu sagen:
-Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu erfüllen. Also mit wem muß
-ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir gefallen. Eine Impfung käme
-jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
+Es ist an der Zeit die große Frage zu beantworten. Vorausschauend schrieb Carlos Beat Quinto bereits
+im Dezember 2020 in der Schweizerischen Ärztezeitung (Quelle:
+<https://saez.ch/article/doi/saez.2020.19430>):
+
+> _Ein Covid-19-Impfstoff muss in erster Linie sicher, in zweiter Linie sicher, drittens sicher und
+> viertens wirksam sein._ Warum ist die Sicherheit so hoch zu gewichten? Ein wesentlicher Grund
+> dafür ist, dass bezogen auf die Gesamtbevölkerung bei über 90% aller Infizierten mit Covid-19 die
+> Infektion leicht verläuft, insbesondere bei jüngeren Personen.
+
+Leider kann von Sicherheit der Impfstoffe im Moment keine Rede sein. Um es also mit den Worten von
+Harald Schmidt zu sagen: Ich bin auf einem guten und vernünftigen Weg die Bestimmungen von 2G zu
+erfüllen. Lies: Mit wem muß ich rumknutschen, um Corona zu bekommen? Die Omikronvariante würde mir
+gefallen. Eine Impfung käme jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt
+wären:
 
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
    Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
@@ -190,7 +201,7 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
-   Zulassungsverfahren und (c) Wirksamkeitsstudien sowie deren
+   Zulassungsverfahren und (c) Wirksamkeitsstudien sowie (d) deren
    [Rohdaten](https://www.bmj.com/content/376/bmj.o102.full) mit ein. Hierzu sei darauf hingewiesen,
    daß Pfizer trotz Aufforderung der EMA noch immer nicht alle Dokumente zu Bestandteilen der
    Lipid-Nanopartikel eingereicht hat (Special Obligations). Desweiteren sind die Inhaltsstoffe
@@ -225,8 +236,8 @@ jedenfalls nur dann in Frage, wenn die folgenden Vorbedingungen erfüllt wären:
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit wäre es ratsam die
-   impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
+9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
+   ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
    https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
    https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
@@ -270,7 +281,7 @@ zusammen (Quelle:
 
 Die Wissensdefizite sind, trotz der vollmundigen Versprechungen der Politik und der Pharmalobby,
 einfach zu groß. Wie vertrauenswürdig ist eine Impfung, für deren Sicherheit und Wirksamkeit
-sämtliche kritischen Stimmen zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
+sämtliche kritischen Wissenschaftler zensiert werden müssen? Im Zweifel gilt: Ich glaube lieber
 Wissenschaftlern, die sich mal irren, als Irren, die glauben sie seien Wissenschaftler. Die Irren
 erkennt man gewöhnlich dran, daß sie nie irren.
 
