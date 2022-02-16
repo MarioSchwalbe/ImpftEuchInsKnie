@@ -1019,31 +1019,33 @@ synthetische mRNA - verpackt in Lipid-Nanopartikel (Pfizer und Moderna) bzw. Vek
 in Körperzellen und regen dort die Proteinbiosynthese des Spike-Proteins des Virus an. Die Zellen
 präsentieren das fremde Protein dann auf ihrer Oberfläche, was das Immunsystem zu einer
 Abwehrreaktion anregt. Damit erscheinen diese Körperzellen infiziert und werden vom Immunsystem
-eliminiert. Bei einer natürlichen Infektion könnte das prinzipiell auch passieren. Es gibt aber
-einige relevante Unterschiede:
+angegriffen und schließlich eliminiert. Bei einer natürlichen Infektion könnte das prinzipiell
+ebenso passieren. Es gibt aber einige relevante Unterschiede zu den Impfstoffen:
 
 1. Bei einer natürlichen Infektion bleibt das Virus in den weitaus meisten Fällen auf die oberen
    Atemwege beschränkt. Diese haben Schleimhäute, die bei Bedarf abgestoßen und neu gebildet werden
-   können. Gelangt das Virus jedoch in die Lunge und provoziert dort die selbe Immunreaktion, hätte
-   dies eine schwerere Symptomatik zur Folge (Pneumonie). Die Impfstoffe können dagegen über die
-   Blutbahn alle Körperzellen erreichen. Je nachdem welches Gewebe dabei aufgrund der
-   Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten Spektrum an Schadwirkung. Dieser
-   Effekt dürfte auch kumulativ sein. Wieso sollte das überhaupt sinnvoll sein?
+   können. Gelangt das Virus jedoch beispielsweise in die Lunge und provoziert dort die selbe
+   Immunreaktion, hätte dies eine schwerere Symptomatik zur Folge (Pneumonie). Die intramuskulär
+   verabreichten Impfstoffe können dagegen über die Blutbahn alle Körperzellen erreichen. Je nachdem
+   welches Gewebe dabei aufgrund der Auto-Immunreaktion geschädigt wird, kommt es zu einem breiten
+   Spektrum an Schadwirkung. Dieser Effekt dürfte auch über mehrere Impfungen kumulativ sein. Wieso
+   sollte das überhaupt sinnvoll sein?
 
-2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper das
-   Eindringen des Virus in die Zellen verhindern, womit sich die Immunreaktion gegen das Pathogen
-   und nicht gegen körpereigene Zellen richtet. Die Lipid-Nanopartikel der Impfstoffe enthalten aber
-   das passende Antigen nicht, so daß einem erneuten Befall von Körperzellen nichts im Wege steht
-   und sich das Spiel wiederholt - nunmehr mit schnellerer und verstärkter Immunreaktion.
-   Insbesondere dürfte eine kurze Latenz vor dem Booster die Schadwirkung maximieren. Gleiches gilt
-   auch bei Erstimpfung wenn eine Immunität - Kreuzimmunität oder aufgrund von überstandener
-   Infektion mit SARS-CoV-2 - bereits bestanden hat.
+2. Bei einer Reinfektion mit den Virus - entspricht der Boosterimpfung - können die Antikörper an
+   das Virus binden und dadurch ein Eindringen in die Zellen verhindern, womit sich die
+   Immunreaktion gegen das Pathogen und nicht gegen körpereigene Zellen richtet. Die
+   Lipid-Nanopartikel der Impfstoffe enthalten aber das passende Antigen nicht, so daß einem
+   erneuten Befall von Körperzellen nichts im Wege steht und sich das obige Spiel wiederholt -
+   nunmehr mit schnellerer und verstärkter Immunreaktion. Insbesondere dürfte eine kurze Latenz vor
+   dem Booster die Schadwirkung maximieren.
 
-3. Auch die Erstimpfung ist riskant, bedingt durch (a) die Dosis sowie (b) die Wahl des
-   Spike-Proteins, daß selbst zur Symtomatik von COVID-19 wesentlich beiträgt. Besonders häufig
-   scheinen die Zellen der Gefäßwände betroffen zu sein. Um es eher ingenieurstechnisch
+3. Gleiches gilt auch bei Erstimpfung wenn eine Immunität - Kreuzimmunität oder aufgrund von
+   überstandener Infektion mit SARS-CoV-2 - bereits bestanden hat. Die Erstimpfung kann desweiteren
+   riskant sein, bedingt durch (a) die enorme Anzahl der Lipid-Nanopartikel sowie (b) die Wahl des
+   Spike-Proteins als Antigen, daß selbst zur Symtomatik von COVID-19 wesentlich beiträgt. Besonders
+   häufig scheinen die Zellen der Gefäßwände betroffen zu sein. Um es eher ingenieurstechnisch
    auszudrücken: Wenn man die strukturelle Integrität eines Schlauchs stört und dann beispielsweise
-   durch Sport mehr Druck anlegt, kann der auch reißen.
+   durch Sport mehr Druck anlegt, kann der leicht reißen.
 
 4. Einige Bestandteile (Kationen) der Lipid-Nanopartikel, die nach dem Freigeben der mRNA in der
    Zelle verbleiben, sind selbst toxisch:
@@ -1062,10 +1064,48 @@ einige relevante Unterschiede:
      > experiment is long overdue. Continuing or even mandating the use of this poisonous vaccine,
      > and the apparently imminent issuance of full approval for it are crimes against humanity.
 
-Hinzu kommt noch der Herstellungsprozess selbst. Wie es aussieht wurden für die Herstellung der
-Impfstoffe für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
-Verfahren verwendet als für die Massenfertigung, so daß wir mit mehr Verunreinigungen rechnen
-dürfen:
+Desweiteren haben die Spike-Proteine des Virus selbst in kleinsten Mengen das Potential Zellen zu
+fusionieren:
+
+- **Samuel A. Theuerkauf, Alexander Michels, Vanessa Riechert, et al.**:
+  Quantitative assays reveal cell fusion at minimal levels of SARS-CoV-2 spike protein and
+    fusion from without, 8.2.2021 <br/>
+  <https://www.cell.com/iscience/fulltext/S2589-0042(21)00138-3>
+  > Cell entry of the pandemic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is
+  > mediated by its spike protein S. As a main antigenic determinant, S protein is in focus of
+  > various therapeutic strategies. Besides particle-cell fusion, S mediates fusion between infected
+  > and uninfected cells resulting in syncytia formation. Here, we present sensitive assay systems
+  > with a high dynamic range and high signal-to-noise ratios covering not only particle-cell and
+  > cell-cell fusion but also fusion from without (FFWO). In FFWO, S-containing viral particles
+  > induce syncytia independently of de novo synthesis of S. Neutralizing antibodies, as well as
+  > sera from convalescent patients, inhibited particle-cell fusion with high efficiency. Cell-cell
+  > fusion, in contrast, was only moderately inhibited despite requiring levels of S protein below
+  > the detection limit of flow cytometry and Western blot. The data indicate that syncytia
+  > formation as pathological consequence during coronavirus disease 2019 (COVID-19) can proceed at
+  > low levels of S protein and may not be effectively prevented by antibodies.
+  >
+  > The syncytia forming activity of the S protein is remarkable not only with respect to speed and
+  > extent but even more so with respect to the low amounts of S protein required, even when ACE2 is
+  > not overexpressed on the target cells. [...] This remarkable activity is likely enabled by the
+  > high affinity of S protein for its receptor ACE2 (Shang et al., 2020b; Walls et al., 2020).
+  > [...] FFWO is a relevant addition to syncytia formation between infected and uninfected cells
+  > since it means that S protein present on viral particles can trigger fusion of uninfected cells,
+  > thus inducing cytopathic effects in absence of a productive infection. Potentially, this may
+  > also be caused by defective particles. [...] In this respect, it appears evident that in vivo,
+  > where in organs such as the lung, kidney, or liver, epithelial cells are tightly packed with
+  > very limited extracellular space, fewer particles will be necessary to trigger fusion.
+
+Insbesondere im Blut dürfte dieser Effekt, zuzüglich zu den Thrombozyten verursacht durch die
+beschädigten Gefäßwände, zu Verklumpungen führen. Dadurch kann das Blut die feinen endständigen
+Blutgefäße nicht mehr passieren, so daß das umschließende Gewebe nicht ausreichend mit Sauerstoff
+versorgt werden kann. Wieso sollte das, induziert durch Milliarden von Lipid-Nanopartikeln, sinnvoll
+sein? In welcher Weise dies die Funktion anderer Gewebetypen beeinträchtigt, kann ich nicht
+beurteilen. Es kann aber auch kein Impfbefürworter plausibel Gegenteiliges erklären.
+
+Hinzu kommt noch der Herstellungsprozess der Impfstoffe selbst. Wie es aussieht wurden zur
+Herstellung für die Zulassungsstudie, da nur eine kleine Menge benötigt wurde, höherwertigere
+Verfahren verwendet als für die Massenfertigung, so daß wir mit mehr Verunreinigungen mit noch
+unbekannter Schadwirkung rechnen dürfen:
 
 - **Gilian Crowther**:
   Interview with Dr. Vanessa Schmidt-Krüger, 29.1.2021 <br/>
@@ -1174,7 +1214,8 @@ Wissenschaftler lockerer und keine Paper schreiben, klingt das so:
   > irregularities and sterility. The jab is very dangerous in multiple ways and in no way should it
   > be considered a vaccine.
 
-Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt:
+Und ein weiterer wichtiger Punkt, der sich langsam abzuzeichnen beginnt, ist, daß das Immunsystem
+durch die Impfstoffe dauerhaft geschädigt wird:
 
 - **Egidius Schwarz**:
   Geimpfte können wahrscheinlich nie wieder volle Immunität erreichen, 28.12.2021 <br/>
