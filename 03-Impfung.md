@@ -115,9 +115,9 @@ Immunsystem dazu gebracht werden, Gedächtniszellen zu bilden, um bei erneutem K
 eigentlichen Krankheitserreger die Abwehrreaktion schneller und effizienter einleiten zu können.
 
 Weitere unabhängige Studien - von den eingangs erwähnten Stellungnahmen bereits referenziert - haben
-auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt nicht vor
-Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein Schutz vor
-Transmission, kein Fremdschutz), beispielsweise:
+zwischenzeitlich auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt
+nicht vor Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein
+Schutz vor Transmission, kein Fremdschutz), beispielsweise:
 
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in

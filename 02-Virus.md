@@ -118,7 +118,8 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 Im Jahr 2021 analysierte eine Forschergruppe aus Dänemark die Art der gebildeten Antikörper nach
 einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich um
 IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären IgG-Antikörper
-zu erwarten. Bei 202 von 203 Probanden fanden sie IgG-Antikörper:
+zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
+IgG-Antikörper:
 
 - **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
@@ -126,28 +127,28 @@ zu erwarten. Bei 202 von 203 Probanden fanden sie IgG-Antikörper:
   <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
   > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
   > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
-  > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001,
-  > Fig. 1a). Furthermore, IgG antibodies from SARS-CoV-2 infected individuals exhibited strongly
-  > increased reactivity towards spike protein from other human beta coronaviruses: SARS-CoV-1 and
-  > Middle East respiratory syndrome (MERS), as compared to the negative controls. Further,
-  > increased IgG levels towards the seasonal beta coronavirus strains: HKU1 and OC43, compared to
-  > IgG from the control group were also observed (p<0.0001, Fig. 1b). [...] Overall, we conclude
-  > that more than 202 (99%) of the SARS-CoV-2 infected individuals in this cohort had readily
-  > detectable antibodies to SARS-CoV-2 spike antigen, and that broad IgG immunological recognition
-  > of SARS-CoV-2 as well as several different coronavirus develops during COVID-19. [...] In
-  > conclusion, we observed that disease severity is closely related to the potency and breadth of
-  > the antibody response towards SARS-CoV-2. Furthermore, we identified the SARS-CoV-2 spike
-  > protein as a target of adaptive immunity in >99% of the cohort, irrespective of COVID-19 symptom
-  > manifestation. Only two individuals (<2%) had neither antibodies with virus neutralization
-  > capacity, nor detectable CD8+ T-cell responses. Hence, we conclude that regardless of COVID-19
-  > severity, _a robust adaptive immune response towards SARS-CoV-2 is elicited during primary
-  > infections_.
+  > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001).
+  > Furthermore, IgG antibodies from SARS-CoV-2 infected individuals exhibited strongly increased
+  > reactivity towards spike protein from other human beta coronaviruses: SARS-CoV-1 and Middle East
+  > respiratory syndrome (MERS), as compared to the negative controls. Further, increased IgG levels
+  > towards the seasonal beta coronavirus strains: HKU1 and OC43, compared to IgG from the control
+  > group were also observed (p<0.0001). [...] Overall, we conclude that more than 202 (99%) of the
+  > SARS-CoV-2 infected individuals in this cohort had readily detectable antibodies to SARS-CoV-2
+  > spike antigen, and that broad IgG immunological recognition of SARS-CoV-2 as well as several
+  > different coronavirus develops during COVID-19. [...] In conclusion, we observed that disease
+  > severity is closely related to the potency and breadth of the antibody response towards
+  > SARS-CoV-2. Furthermore, we identified the SARS-CoV-2 spike protein as a target of adaptive
+  > immunity in >99% of the cohort, irrespective of COVID-19 symptom manifestation. Only two
+  > individuals (<2%) had neither antibodies with virus neutralization capacity, nor detectable CD8+
+  > T-cell responses. Hence, we conclude that regardless of COVID-19 severity, _a robust adaptive
+  > immune response towards SARS-CoV-2 is elicited during primary infections_.
 
-Für das menschliche Immunsystem ist das neuartige Virus folglich nicht neu. Aus diesem Grund sind
-die ursprünglichen Modellrechnungen am Anfang des Jahres 2020 völlig übertrieben gewesen. Das konnte
-man damals vielleicht nicht so genau wissen, mittlerweile aber schon. Gleiches gilt für ein weiteres
-Detail, daß gerne unerwähnt bleibt: Die starke Altersstratifizierung der hervorgerufenen Symptome
-und Todesfälle - größer noch als bei der Grippe.
+Für das menschliche Immunsystem ist das neuartige Virus aufgrund seiner Ähnlichkeit mit endemischen
+Coronaviren folglich nicht neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang
+des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen,
+mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die
+starke Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der
+Grippe.
 
 <a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
 
