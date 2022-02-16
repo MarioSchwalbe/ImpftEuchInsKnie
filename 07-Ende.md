@@ -221,9 +221,11 @@ wären:
    2023, überprüfbar.
 
 5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
-   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. (Das
-   kaufmännische Argument, daß die Bestellungen bereits aufgegeben sind und deswegen alles noch
-   verimpft werden müsse, ist irrelevant.)
+   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. Das
+   kaufmännische Argument, daß die Bestellungen der 660 Millionen Impfdosen bereits aufgegeben sind
+   und deswegen noch
+   [`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query) müsse, ist
+   irrelevant (Quelle: https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html).
 
 6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
    unausgereifte Technologien und ohne Ersatzviren.
@@ -238,9 +240,9 @@ wären:
 
 9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
    ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
-   https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
+   <https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336>). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
-   https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
+   <https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben>).
 
 10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
     sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.

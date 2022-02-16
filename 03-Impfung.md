@@ -198,8 +198,56 @@ Kindergärten Personengruppen mit niedrigster Impfquote und damit bevorzugt Unge
 werden, kann man annehmen, daß diese im Ergebnis auch überrepräsentiert sind. Geimpfte müssen gemäß
 2G-Regeln schließlich nicht getestet werden. Desweiteren beginnt der Impfschutz offiziell erst 2
 Wochen nach der zweiten Impfung, so daß etwaige Infektionen bis zu diesem Zeitpunkt noch den
-Ungeimpften zugerechnet werden. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um
-einen unbekannten Faktor zu hoch ausfallen. Aber wenigstens mehr als nichts.
+Ungeimpften zugerechnet werden. Für weitere Verzerrung sorgt die kreative Idee nur Geimpfte mit
+Symptomen als Impfdurchbrüche zu werten, wohingegen bei Ungeimpften bereits ein positiver PCR-Test
+ausreichend ist. Normalerweise würde man die gleichen Kriterien ansetzen, wenn man beabsichtigte ein
+valides Ergebnis zu erhalten. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um einen
+unbekannten Faktor zu hoch ausfallen.
+
+Aber wenigstens mehr als nichts. Die Dauer des Schutzes hält allerdings nicht so lange an wie
+versprochen. Zum einen konnten die Studien keine Schutz während der ersten 2 Wochen nach der ersten
+Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlichen Zielgruppe, den
+Älteren und Schwächeren, am schnellsten:
+
+- **Peter Nordström, Marcel Ballin, Anna Nordström**:
+  Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection, Hospitalization,
+    and Death Up to 9 Months: A Swedish Total-Population Cohort Study, 25.10.2021 <br/>
+  <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949410>
+  > Vaccine effectiveness of BNT162b2 against infection waned progressively from 92% (95% CI, 92-93,
+  > P<0.001) at day 15-30 to 47% (95% CI, 39-55, P<0.001) at day 121-180, and from day 211 and
+  > onwards no effectiveness could be detected (23%; 95% CI, -2-41, P=0.07). The effectiveness waned
+  > slightly slower for mRNA-1273, being estimated to 59% (95% CI, 18-79) from day 181 and onwards.
+  > In contrast, effectiveness of ChAdOx1 nCoV-19 was generally lower and waned faster, with no
+  > effectiveness detected from day 121 and onwards (-19%, 95% CI, -97-28), whereas effectiveness
+  > from heterologous ChAdOx1 nCoV-19 / mRNA was maintained from 121 days and onwards (66%; 95% CI,
+  > 41-80). _Overall, vaccine effectiveness was lower and waned faster among men and older
+  > individuals. For the outcome severe Covid-19, effectiveness waned from 89% (95% CI, 82-93,
+  > P<0.001) at day 15-30 to 42% (95% CI, -35-75, P=0.21) from day 181 and onwards, with sensitivity
+  > analyses showing notable waning among men, older frail individuals, and individuals with
+  > comorbidities._
+
+- **Hiam Chemaitelly, Patrick Tang, Mohammad R. Hasan, et al.**:
+  Waning of BNT162b2 Vaccine Protection against SARS-CoV-2 Infection in Qatar, 9.12.2021 <br/>
+  <https://www.nejm.org/doi/full/10.1056/NEJMoa2114114>
+  > Estimated BNT162b2 effectiveness against any SARS-CoV-2 infection was negligible in the first 2
+  > weeks after the first dose. It increased to 36.8% (95% confidence interval [CI], 33.2 to 40.2)
+  > in the third week after the first dose and reached its peak at 77.5% (95% CI, 76.4 to 78.6) in
+  > the first month after the second dose. Effectiveness declined gradually thereafter, with the
+  > decline accelerating after the fourth month to reach approximately 20% in months 5 through 7
+  > after the second dose. Effectiveness against symptomatic infection was higher than effectiveness
+  > against asymptomatic infection but waned similarly. Variant-specific effectiveness waned in the
+  > same pattern. _Effectiveness against any severe, critical, or fatal case of Covid-19 increased
+  > rapidly to 66.1% (95% CI, 56.8 to 73.5) by the third week after the first dose and reached 96%
+  > or higher in the first 2 months after the second dose; effectiveness persisted at approximately
+  > this level for 6 months._
+
+Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
+schweren Verlauf, wenn man überhaupt davon betroffen wäre – zum Schutz der Gesellschaft aus
+Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen Wirkdauer permanent
+nachimpfen, womit aber auch (a) eine Verschlechterung der Wirkung zu erwarten wäre sowie (Quelle:
+<https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
+(b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das Kosten-Nutzen-Verhältnis
+langfristig zu Ungunsten der Impfung.
 
 ### Omikron ###
 
@@ -251,6 +299,79 @@ Omikronvariante:
   > lead to increased breakthrough infections in previously infected or double vaccinated
   > individuals, which could drive a further wave of infection, although there is currently no
   > evidence of increased potential to cause severe disease, hospitalization or death.
+
+### Vergleich mit natürlicher Immunität ###
+
+Im Vergleich zur natürlichen Immunität schneidet die Schutzwirkung der Impfstoffe schlechter ab:
+
+- **Sivan Gazit, Roei Shlezinger, Galit Perez, et al.**:
+  Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity:
+    reinfections versus breakthrough infections, 25.8.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full>
+  > SARS-CoV-2-naïve vaccinees had a 13.06-fold (95% CI, 8.08 to 21.11) increased risk for
+  > breakthrough infection with the Delta variant compared to those previously infected, when the
+  > first event (infection or vaccination) occurred during January and February of 2021. The
+  > increased risk was significant (P<0.001) for symptomatic disease as well. When allowing the
+  > infection to occur at any time before vaccination (from March 2020 to February 2021), evidence
+  > of waning natural immunity was demonstrated, though SARS-CoV-2 naïve vaccinees had a 5.96-fold
+  > (95% CI, 4.85 to 7.33) increased risk for breakthrough infection and a 7.13-fold (95% CI, 5.51
+  > to 9.21) increased risk for symptomatic disease. SARS-CoV-2-naïve vaccinees were also at a
+  > greater risk for COVID-19-related-hospitalizations compared to those that were previously
+  > infected.
+  >
+  > _This study demonstrated that natural immunity confers longer lasting and stronger protection
+  > against infection, symptomatic disease and hospitalization caused by the Delta variant of
+  > SARS-CoV-2, compared to the BNT162b2 two-dose vaccine-induced immunity. Individuals who were
+  > both previously infected with SARS-CoV-2 and given a single dose of the vaccine gained
+  > additional protection against the Delta variant._
+
+- **Rebecca Grant, Tiffany Charmet, Laura Schaeffer, et al.**:
+  Impact of SARS-CoV-2 Delta variant on incubation, transmission settings and vaccine effectiveness:
+    Results from a nationwide case-control study in France, 26.11.2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S2666776221002647>
+  > We found strong protection against symptomatic Delta infection for those with prior infection
+  > whether it was recent (2-6 months) (95%; 95%CI:90-97) or associated with one dose (85%;
+  > 95%CI:78-90) or two doses of mRNA vaccine (96%; 95%CI:87-99). For those without past infection,
+  > protection was lower with two doses of mRNA vaccine (67%; 95%CI:63-71).
+
+- **Yair Goldberg, Micha Mandel, Yinon M. Bar-On, et al.**:
+  Protection and waning of natural and hybrid COVID-19 immunity, 5.12.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.12.04.21267114v1.full>
+  > Confirmed infection rates increased according to time elapsed since the last immunity-conferring
+  > event in all cohorts. For unvaccinated previously infected individuals they increased from 10.5
+  > per 100,000 risk-days for those previously infected 4-6 months ago to 30.2 for those previously
+  > infected over a year ago. For individuals receiving a single dose following prior infection they
+  > increased from 3.7 per 100,000 person days among those vaccinated in the past two months to 11.6
+  > for those vaccinated over 6 months ago. For vaccinated previously uninfected individuals the
+  > rate per 100,000 person days increased from 21.1 for persons vaccinated within the first two
+  > months to 88.9 for those vaccinated more than 6 months ago.
+  >
+  > _Protection from reinfection decreases with time since previous infection, but is, nevertheless,
+  > higher than that conferred by vaccination with two doses at a similar time since the last
+  > immunity-conferring event._
+
+Dies ist aus oben genannten Gründen plausibel aber auch, da die von der Impfung verliehene Immunität
+vor allem auf der Bildung von Antikörpern gegen zwei virale Angriffsziele beruht: die Spike-Proteine
+sowie die Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
+beziehungsweise Proteine, die das Immunsystem als fremd erkennen könnte. Eine natürliche Immunität
+ist folglich deutlich breiter aufgestellt. Entsprechende Antikörpertiter konnten sogar noch 14
+Monate lang nachgewiesen werden - der Länge der Beobachtungsdauer, ohne erkennbares Ende:
+
+- **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
+  Antibody response to SARS-CoV-2 for more than one year − kinetics and persistence of
+    detection are predominantly determined by avidity progression and test design, 15.21.2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S138665322100319X>
+  > Sensitivity at 30–60 days post symptom onset (pso) for TAb-S/RBD, TAb-N, IgG-S, IgG-N, IgA-S,
+  > IgM-RBD, and NAb was 96.6%, 99.5%, 89.7%, 94.3%, 80.9%, 76.9% and 92.8%, respectively. Follow-up
+  > 430 days pso revealed: TAb-S/RBD increased slightly (100.0%); TAb-N decreased slightly (97.1%);
+  > IgG-S and IgA-S decreased moderately (81.4%, 65.7%); NAb remained positive (94.3%), slightly
+  > decreasing in activity after 300 days; there was correlation with IgG-S (Rs = 0.88) and IgA-S
+  > (Rs = 0.71); IgG-N decreased significantly from day 120 (15.7%); IgM-RBD dropped after 30–60
+  > days (22.9%). High antibody avidity developed against S/RBD steadily with time in 94.3% of
+  > patients after 430 days. This correlated with persistent antibody detection depending on
+  > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
+  > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
+  > reactivities. Specificity of the tests was ≥99%, except for IgA (96%).
 
 ### Nutzen der Impfung ###
 

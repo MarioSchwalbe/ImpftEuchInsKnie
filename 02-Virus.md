@@ -156,7 +156,7 @@ Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 
 Geschlecht basierend auf den Daten des Robert Koch-Instituts (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
-80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
+80-jährigen Faktor 2.000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
 durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
 Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) bereits im Oktober
 2020:
@@ -245,7 +245,7 @@ bis zu 30% überschätzt. Ihre Erklärung hierfür lautet wie folgt (Quelle:
 > Bereinigung von Fällen vornehmen,“ sagt das RKI auf Anfrage der ZEIT. Das harte Kriterium sei ein
 > positiver PCR-Test.
 
-Nach Prof. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
+Nach Prof. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Verstorbenen andere
 Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)

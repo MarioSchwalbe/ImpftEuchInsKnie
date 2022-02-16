@@ -175,9 +175,10 @@ Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvaria
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
 vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt nur Genesene
-bei unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche
-Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
-und somit wesentlich effektiver bei neuen Varianten schützen kann.
+bei unterschiedlichen Varianten. Vorhandensein und Schweregrad der hervorgerufenen Symptome
+berücksichtigt die Entscheidung des RKI ebenso nicht. Und nebenbei völlig ignoriert wird, daß eine
+natürliche Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle
+Virenbestandteile bildet und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -259,7 +260,32 @@ mangelnden Wirksamkeit der Impfung oder der Gefährlichkeit der Impfung - versch
 sich die Aufklärungskampagne langsam in eine Propagandakampagne. Für vermeintliche Solidarität. Wie
 schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
-Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
+Die Wahrnehmung der Menschen beeinflußt Angstkampagne durchaus. Eine von Psychologen der Universität
+Salzburg durchgeführte Untersuchung, an der rund 7.000 Personen aus Deutschland, Österreich und der
+Schweiz teilnahmen, ergab, daß zwei Drittel der Befragten die Pandemie als konkrete Lebensbedrohung
+für die eigene Familie empfanden und rund 15 Prozent fürchteten selbst zu sterben:
+
+- **Manuel Schabus, Esther-Sevil Eigl**:
+  Survey on „Knowledge and Attitudes Regarding the Coronavirus Pandemic“ in
+    the Austrian, German and Swiss population, 23.7.2021 <br/>
+  <https://uni-salzburg.elsevierpure.com/de/publications/survey-on-knowledge-and-attitudes-regarding-the-coronavirus-pande>
+  > The aim of the study was to obtain a representative overview of the assessment of the current
+  > pandemic situation by the German-speaking general population (Austria, Germany, and
+  > Switzerland). Altogether the results of this survey in German-speaking countries (here with a
+  > focus on Austria) reflects the high degree of the psychological burden and anxiety regarding
+  > SARS-CoV-2 in the general population. _The subjectively estimated threat of the disease
+  > (hospitalisation or mortality) is vastly overestimated and contributes to the degree of
+  > psychosocial burdens in the Austrian population._ The aftermath of the pandemic is just
+  > beginning and the public focus should finally be turned to those indirectly harmed by the
+  > coronavirus measures in order to prevent a meltdown of well-being and general somatic as well as
+  > mental health in the general population.
+
+Das tatsächliche Risiko wird demnach insbesondere von Jüngeren weit überschätzt. Jüngere unter 40
+Jahren schätzten ihr Risiko, aufgrund von COVID-19 ins Krankenhaus oder auf die Intensivstation zu
+kommen um das 30 bis 40-fache höher ein als es tatsächlich ist. Ältere irrten sich nur um das
+7-fache, was aber auch am tatsächlich höheren Risiko liegen mag.
+
+Ähnlich unaufrichtig ist die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
 außerhalb von Fachkreisen eigentlich nicht erlaubt. Grundsätzlich unzulässig ist eine irreführende
 Werbung nach § 3 Heilmittelwerbegesetz ohnehin (Quelle:

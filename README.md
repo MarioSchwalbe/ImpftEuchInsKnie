@@ -220,8 +220,8 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
 
 Im Jahr 2021 analysierte eine Forschergruppe aus Dänemark die Art der gebildeten Antikörper nach
 einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich um
-IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder zumindest ähnlichen Viren wären
-IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
+IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären IgG-Antikörper
+zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
 IgG-Antikörper:
 
 - **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
@@ -259,7 +259,7 @@ Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 
 Geschlecht basierend auf den Daten des Robert Koch-Instituts (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
-80-jährigen Faktor 2000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
+80-jährigen Faktor 2.000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
 durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
 Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) bereits im Oktober
 2020:
@@ -348,7 +348,7 @@ bis zu 30% überschätzt. Ihre Erklärung hierfür lautet wie folgt (Quelle:
 > Bereinigung von Fällen vornehmen,“ sagt das RKI auf Anfrage der ZEIT. Das harte Kriterium sei ein
 > positiver PCR-Test.
 
-Nach Prof. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Corona-Toten andere
+Nach Prof. Bertram Häussler könnten bei bis zu 80% der vom RKI gemeldeten Verstorbenen andere
 Ursachen der Grund sein (Quelle:
 <https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html>).
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
@@ -723,8 +723,56 @@ Kindergärten Personengruppen mit niedrigster Impfquote und damit bevorzugt Unge
 werden, kann man annehmen, daß diese im Ergebnis auch überrepräsentiert sind. Geimpfte müssen gemäß
 2G-Regeln schließlich nicht getestet werden. Desweiteren beginnt der Impfschutz offiziell erst 2
 Wochen nach der zweiten Impfung, so daß etwaige Infektionen bis zu diesem Zeitpunkt noch den
-Ungeimpften zugerechnet werden. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um
-einen unbekannten Faktor zu hoch ausfallen. Aber wenigstens mehr als nichts.
+Ungeimpften zugerechnet werden. Für weitere Verzerrung sorgt die kreative Idee nur Geimpfte mit
+Symptomen als Impfdurchbrüche zu werten, wohingegen bei Ungeimpften bereits ein positiver PCR-Test
+ausreichend ist. Normalerweise würde man die gleichen Kriterien ansetzen, wenn man beabsichtigte ein
+valides Ergebnis zu erhalten. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um einen
+unbekannten Faktor zu hoch ausfallen.
+
+Aber wenigstens mehr als nichts. Die Dauer des Schutzes hält allerdings nicht so lange an wie
+versprochen. Zum einen konnten die Studien keine Schutz während der ersten 2 Wochen nach der ersten
+Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlichen Zielgruppe, den
+Älteren und Schwächeren, am schnellsten:
+
+- **Peter Nordström, Marcel Ballin, Anna Nordström**:
+  Effectiveness of Covid-19 Vaccination Against Risk of Symptomatic Infection, Hospitalization,
+    and Death Up to 9 Months: A Swedish Total-Population Cohort Study, 25.10.2021 <br/>
+  <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949410>
+  > Vaccine effectiveness of BNT162b2 against infection waned progressively from 92% (95% CI, 92-93,
+  > P<0.001) at day 15-30 to 47% (95% CI, 39-55, P<0.001) at day 121-180, and from day 211 and
+  > onwards no effectiveness could be detected (23%; 95% CI, -2-41, P=0.07). The effectiveness waned
+  > slightly slower for mRNA-1273, being estimated to 59% (95% CI, 18-79) from day 181 and onwards.
+  > In contrast, effectiveness of ChAdOx1 nCoV-19 was generally lower and waned faster, with no
+  > effectiveness detected from day 121 and onwards (-19%, 95% CI, -97-28), whereas effectiveness
+  > from heterologous ChAdOx1 nCoV-19 / mRNA was maintained from 121 days and onwards (66%; 95% CI,
+  > 41-80). _Overall, vaccine effectiveness was lower and waned faster among men and older
+  > individuals. For the outcome severe Covid-19, effectiveness waned from 89% (95% CI, 82-93,
+  > P<0.001) at day 15-30 to 42% (95% CI, -35-75, P=0.21) from day 181 and onwards, with sensitivity
+  > analyses showing notable waning among men, older frail individuals, and individuals with
+  > comorbidities._
+
+- **Hiam Chemaitelly, Patrick Tang, Mohammad R. Hasan, et al.**:
+  Waning of BNT162b2 Vaccine Protection against SARS-CoV-2 Infection in Qatar, 9.12.2021 <br/>
+  <https://www.nejm.org/doi/full/10.1056/NEJMoa2114114>
+  > Estimated BNT162b2 effectiveness against any SARS-CoV-2 infection was negligible in the first 2
+  > weeks after the first dose. It increased to 36.8% (95% confidence interval [CI], 33.2 to 40.2)
+  > in the third week after the first dose and reached its peak at 77.5% (95% CI, 76.4 to 78.6) in
+  > the first month after the second dose. Effectiveness declined gradually thereafter, with the
+  > decline accelerating after the fourth month to reach approximately 20% in months 5 through 7
+  > after the second dose. Effectiveness against symptomatic infection was higher than effectiveness
+  > against asymptomatic infection but waned similarly. Variant-specific effectiveness waned in the
+  > same pattern. _Effectiveness against any severe, critical, or fatal case of Covid-19 increased
+  > rapidly to 66.1% (95% CI, 56.8 to 73.5) by the third week after the first dose and reached 96%
+  > or higher in the first 2 months after the second dose; effectiveness persisted at approximately
+  > this level for 6 months._
+
+Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
+schweren Verlauf, wenn man überhaupt davon betroffen wäre – zum Schutz der Gesellschaft aus
+Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen Wirkdauer permanent
+nachimpfen, womit aber auch (a) eine Verschlechterung der Wirkung zu erwarten wäre sowie (Quelle:
+<https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
+(b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das Kosten-Nutzen-Verhältnis
+langfristig zu Ungunsten der Impfung.
 
 ### Omikron ###
 
@@ -776,6 +824,79 @@ Omikronvariante:
   > lead to increased breakthrough infections in previously infected or double vaccinated
   > individuals, which could drive a further wave of infection, although there is currently no
   > evidence of increased potential to cause severe disease, hospitalization or death.
+
+### Vergleich mit natürlicher Immunität ###
+
+Im Vergleich zur natürlichen Immunität schneidet die Schutzwirkung der Impfstoffe schlechter ab:
+
+- **Sivan Gazit, Roei Shlezinger, Galit Perez, et al.**:
+  Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity:
+    reinfections versus breakthrough infections, 25.8.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full>
+  > SARS-CoV-2-naïve vaccinees had a 13.06-fold (95% CI, 8.08 to 21.11) increased risk for
+  > breakthrough infection with the Delta variant compared to those previously infected, when the
+  > first event (infection or vaccination) occurred during January and February of 2021. The
+  > increased risk was significant (P<0.001) for symptomatic disease as well. When allowing the
+  > infection to occur at any time before vaccination (from March 2020 to February 2021), evidence
+  > of waning natural immunity was demonstrated, though SARS-CoV-2 naïve vaccinees had a 5.96-fold
+  > (95% CI, 4.85 to 7.33) increased risk for breakthrough infection and a 7.13-fold (95% CI, 5.51
+  > to 9.21) increased risk for symptomatic disease. SARS-CoV-2-naïve vaccinees were also at a
+  > greater risk for COVID-19-related-hospitalizations compared to those that were previously
+  > infected.
+  >
+  > _This study demonstrated that natural immunity confers longer lasting and stronger protection
+  > against infection, symptomatic disease and hospitalization caused by the Delta variant of
+  > SARS-CoV-2, compared to the BNT162b2 two-dose vaccine-induced immunity. Individuals who were
+  > both previously infected with SARS-CoV-2 and given a single dose of the vaccine gained
+  > additional protection against the Delta variant._
+
+- **Rebecca Grant, Tiffany Charmet, Laura Schaeffer, et al.**:
+  Impact of SARS-CoV-2 Delta variant on incubation, transmission settings and vaccine effectiveness:
+    Results from a nationwide case-control study in France, 26.11.2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S2666776221002647>
+  > We found strong protection against symptomatic Delta infection for those with prior infection
+  > whether it was recent (2-6 months) (95%; 95%CI:90-97) or associated with one dose (85%;
+  > 95%CI:78-90) or two doses of mRNA vaccine (96%; 95%CI:87-99). For those without past infection,
+  > protection was lower with two doses of mRNA vaccine (67%; 95%CI:63-71).
+
+- **Yair Goldberg, Micha Mandel, Yinon M. Bar-On, et al.**:
+  Protection and waning of natural and hybrid COVID-19 immunity, 5.12.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.12.04.21267114v1.full>
+  > Confirmed infection rates increased according to time elapsed since the last immunity-conferring
+  > event in all cohorts. For unvaccinated previously infected individuals they increased from 10.5
+  > per 100,000 risk-days for those previously infected 4-6 months ago to 30.2 for those previously
+  > infected over a year ago. For individuals receiving a single dose following prior infection they
+  > increased from 3.7 per 100,000 person days among those vaccinated in the past two months to 11.6
+  > for those vaccinated over 6 months ago. For vaccinated previously uninfected individuals the
+  > rate per 100,000 person days increased from 21.1 for persons vaccinated within the first two
+  > months to 88.9 for those vaccinated more than 6 months ago.
+  >
+  > _Protection from reinfection decreases with time since previous infection, but is, nevertheless,
+  > higher than that conferred by vaccination with two doses at a similar time since the last
+  > immunity-conferring event._
+
+Dies ist aus oben genannten Gründen plausibel aber auch, da die von der Impfung verliehene Immunität
+vor allem auf der Bildung von Antikörpern gegen zwei virale Angriffsziele beruht: die Spike-Proteine
+sowie die Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
+beziehungsweise Proteine, die das Immunsystem als fremd erkennen könnte. Eine natürliche Immunität
+ist folglich deutlich breiter aufgestellt. Entsprechende Antikörpertiter konnten sogar noch 14
+Monate lang nachgewiesen werden - der Länge der Beobachtungsdauer, ohne erkennbares Ende:
+
+- **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
+  Antibody response to SARS-CoV-2 for more than one year − kinetics and persistence of
+    detection are predominantly determined by avidity progression and test design, 15.21.2021 <br/>
+  <https://www.sciencedirect.com/science/article/pii/S138665322100319X>
+  > Sensitivity at 30–60 days post symptom onset (pso) for TAb-S/RBD, TAb-N, IgG-S, IgG-N, IgA-S,
+  > IgM-RBD, and NAb was 96.6%, 99.5%, 89.7%, 94.3%, 80.9%, 76.9% and 92.8%, respectively. Follow-up
+  > 430 days pso revealed: TAb-S/RBD increased slightly (100.0%); TAb-N decreased slightly (97.1%);
+  > IgG-S and IgA-S decreased moderately (81.4%, 65.7%); NAb remained positive (94.3%), slightly
+  > decreasing in activity after 300 days; there was correlation with IgG-S (Rs = 0.88) and IgA-S
+  > (Rs = 0.71); IgG-N decreased significantly from day 120 (15.7%); IgM-RBD dropped after 30–60
+  > days (22.9%). High antibody avidity developed against S/RBD steadily with time in 94.3% of
+  > patients after 430 days. This correlated with persistent antibody detection depending on
+  > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
+  > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
+  > reactivities. Specificity of the tests was ≥99%, except for IgA (96%).
 
 ### Nutzen der Impfung ###
 
@@ -1432,9 +1553,10 @@ Infektion mit der Omikronvariante gegenüber der Deltavariante. Die Omikronvaria
 bekanntermaßen auch infektiöser. Das gilt für alle. Und niemand ist in Wirklichkeit vor Infektion
 geschützt, egal ob mit oder ohne Impfung. Im Übrigen sollte man zur Beantwortung der Frage
 vielleicht besser Geimpfte und Genesene bei der selben Virenvariante vergleichen, statt nur Genesene
-bei unterschiedlichen Varianten. Auch noch nebenbei völlig ignoriert wird, daß eine natürliche
-Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle Virenbestandteile bildet
-und somit wesentlich effektiver bei neuen Varianten schützen kann.
+bei unterschiedlichen Varianten. Vorhandensein und Schweregrad der hervorgerufenen Symptome
+berücksichtigt die Entscheidung des RKI ebenso nicht. Und nebenbei völlig ignoriert wird, daß eine
+natürliche Immunität Gedächtniszellen nicht nur gegen die Spikes sondern gegen alle
+Virenbestandteile bildet und somit wesentlich effektiver bei neuen Varianten schützen kann.
 
 Welche Motivation soll man all diesem Unsinn noch entnehmen als der vehemente Versuch möglichst
 Viele an die Spritze zu nötigen? Für vermeintliche Solidarität. Wie schrieb Marx einst so treffend?
@@ -1516,7 +1638,32 @@ mangelnden Wirksamkeit der Impfung oder der Gefährlichkeit der Impfung - versch
 sich die Aufklärungskampagne langsam in eine Propagandakampagne. Für vermeintliche Solidarität. Wie
 schrieb Marx einst so treffend? Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
 
-Ähnliches gilt für die exzessive Werbekampagne der Bundesregierung zur Förderung der
+Die Wahrnehmung der Menschen beeinflußt Angstkampagne durchaus. Eine von Psychologen der Universität
+Salzburg durchgeführte Untersuchung, an der rund 7.000 Personen aus Deutschland, Österreich und der
+Schweiz teilnahmen, ergab, daß zwei Drittel der Befragten die Pandemie als konkrete Lebensbedrohung
+für die eigene Familie empfanden und rund 15 Prozent fürchteten selbst zu sterben:
+
+- **Manuel Schabus, Esther-Sevil Eigl**:
+  Survey on „Knowledge and Attitudes Regarding the Coronavirus Pandemic“ in
+    the Austrian, German and Swiss population, 23.7.2021 <br/>
+  <https://uni-salzburg.elsevierpure.com/de/publications/survey-on-knowledge-and-attitudes-regarding-the-coronavirus-pande>
+  > The aim of the study was to obtain a representative overview of the assessment of the current
+  > pandemic situation by the German-speaking general population (Austria, Germany, and
+  > Switzerland). Altogether the results of this survey in German-speaking countries (here with a
+  > focus on Austria) reflects the high degree of the psychological burden and anxiety regarding
+  > SARS-CoV-2 in the general population. _The subjectively estimated threat of the disease
+  > (hospitalisation or mortality) is vastly overestimated and contributes to the degree of
+  > psychosocial burdens in the Austrian population._ The aftermath of the pandemic is just
+  > beginning and the public focus should finally be turned to those indirectly harmed by the
+  > coronavirus measures in order to prevent a meltdown of well-being and general somatic as well as
+  > mental health in the general population.
+
+Das tatsächliche Risiko wird demnach insbesondere von Jüngeren weit überschätzt. Jüngere unter 40
+Jahren schätzten ihr Risiko, aufgrund von COVID-19 ins Krankenhaus oder auf die Intensivstation zu
+kommen um das 30 bis 40-fache höher ein als es tatsächlich ist. Ältere irrten sich nur um das
+7-fache, was aber auch am tatsächlich höheren Risiko liegen mag.
+
+Ähnlich unaufrichtig ist die exzessive Werbekampagne der Bundesregierung zur Förderung der
 Impfbereitschaft in der Bevölkerung. Seit dem Contergan-Skandal ist Werbung für Medizinprodukte
 außerhalb von Fachkreisen eigentlich nicht erlaubt. Grundsätzlich unzulässig ist eine irreführende
 Werbung nach § 3 Heilmittelwerbegesetz ohnehin (Quelle:
@@ -1906,9 +2053,11 @@ wären:
    2023, überprüfbar.
 
 5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
-   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. (Das
-   kaufmännische Argument, daß die Bestellungen bereits aufgegeben sind und deswegen alles noch
-   verimpft werden müsse, ist irrelevant.)
+   nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. Das
+   kaufmännische Argument, daß die Bestellungen der 660 Millionen Impfdosen bereits aufgegeben sind
+   und deswegen noch
+   [`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query) müsse, ist
+   irrelevant (Quelle: https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html).
 
 6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
    unausgereifte Technologien und ohne Ersatzviren.
@@ -1923,9 +2072,9 @@ wären:
 
 9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
    ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
-   https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336). Auch der Wille etwaige
+   <https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336>). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
-   https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben).
+   <https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben>).
 
 10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
     sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
