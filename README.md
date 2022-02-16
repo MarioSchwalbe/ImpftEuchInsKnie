@@ -729,7 +729,9 @@ ausreichend ist. Normalerweise würde man die gleichen Kriterien ansetzen, wenn 
 valides Ergebnis zu erhalten. Aus diesen Gründen dürfte die vom RKI berechnete Effektivität um einen
 unbekannten Faktor zu hoch ausfallen.
 
-Aber wenigstens mehr als nichts. Die Dauer des Schutzes hält allerdings nicht so lange an wie
+### Dauer der Schutzwirkung ###
+
+Aber wenigstens mehr als nichts. Die Schutzwirkung ist allerdings nicht so lange anhaltend wie
 versprochen. Zum einen konnten die Studien keine Schutz während der ersten 2 Wochen nach der ersten
 Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlichen Zielgruppe, den
 Älteren und Schwächeren, am schnellsten:
@@ -768,62 +770,12 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
 
 Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
 schweren Verlauf, wenn man überhaupt davon betroffen wäre – zum Schutz der Gesellschaft aus
-Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen Wirkdauer permanent
-nachimpfen, womit aber auch (a) eine Verschlechterung der Wirkung zu erwarten wäre sowie (Quelle:
+Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen Wirkungsdauer permanent
+nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und damit eine
+Verschlechterung der Wirkung zu erwarten wäre (Quelle:
 <https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
-(b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das Kosten-Nutzen-Verhältnis
-langfristig zu Ungunsten der Impfung.
-
-### Omikron ###
-
-Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der Wochenbericht vom
-6.1.2022 enthält die folgende Tabelle zu den Omikronfällen der Kalenderwochen 49 bis 52/2021
-(Quelle:
-<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
-
-<a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
-
-Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
-Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
-symptomatischen Fällen beträgt 44,1%/**14,6%**/13,2%, der Anteil an hospitalisierten Fällen
-40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
-
-> Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
-> beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
-> Bevölkerung in Deutschland insgesamt als sehr hoch ein. Ursächlich hierfür ist das Auftreten und
-> die rasante Verbreitung der Omikronvariante, die sich nach derzeitigem Kenntnisstand (aus anderen
-> Ländern) deutlich schneller und effektiver verbreitet als die bisherigen Virusvarianten. Dadurch
-> ist mit einer schlagartigen Erhöhung der Infektionsfälle zu rechnen und es kann zu einer schnellen
-> Überlastung des Gesundheitssystems und ggf. weiterer Versorgungsbereiche kommen. Die
-> Infektionsgefährdung wird für die Gruppe der Ungeimpften als sehr hoch, für die Gruppen der
-> Genesenen und Geimpften mit Grundimmunisierung (zweimalige Impfung) als hoch und für die Gruppe
-> der Geimpften mit Auffrischimpfung (dreimalige Impfung) als moderat eingeschätzt.
-
-Wie man - bis auf den ersten Satz - zu so einem Urteil kommen kann ist völlig unklar nachdem Omikron
-die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Auch die Altersstratifizierung
-der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssystems ist es in
-anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
-
-(Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
-Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
-Infektion?)
-
-Die Autoren einer Studie der Universität Oxford fanden jedenfalls einen erheblichen Rückgang der
-Wirksamkeit der Impfstoffe bis hin zum Ausbleiben jeglicher Wirksamkeit gegenüber der
-Omikronvariante:
-
-- **Wanwisa Dejnirattisai, Robert H. Shaw, Piyada Supasa, et al.**:
-  Reduced neutralisation of SARS-COV-2 Omicron-B.1.1.529 variant by post-immunisation serum, 11.12.2021 <br/>
-  <https://www.medrxiv.org/content/10.1101/2021.12.10.21267534v1.full>
-  > In this report, we present live neutralisation titres against SARS-CoV-2 Omicron variant,
-  > compared with neutralisation against Victoria, Beta and Delta variants. Sera from day-28 post
-  > second-dose were obtained from participants in the Com-COV2 study who had received a two-dose
-  > COVID-19 vaccination schedule with either AstraZeneca (AZD1222) or Pfizer (BNT162b2) vaccines.
-  > There was a substantial fall in neutralisation titres in recipients of both AZD1222 and BNT16b2
-  > primary courses, with evidence of some recipients failing to neutralise at all. This will likely
-  > lead to increased breakthrough infections in previously infected or double vaccinated
-  > individuals, which could drive a further wave of infection, although there is currently no
-  > evidence of increased potential to cause severe disease, hospitalization or death.
+sowie (b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das
+Kosten-Nutzen-Verhältnis langfristig zu Ungunsten der Impfung.
 
 ### Vergleich mit natürlicher Immunität ###
 
@@ -880,10 +832,10 @@ vor allem auf der Bildung von Antikörpern gegen zwei virale Angriffsziele beruh
 sowie die Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
 beziehungsweise Proteine, die das Immunsystem als fremd erkennen könnte. Eine natürliche Immunität
 ist folglich deutlich breiter aufgestellt. Entsprechende Antikörpertiter konnten sogar noch 14
-Monate lang nachgewiesen werden - der Länge der Beobachtungsdauer, ohne erkennbares Ende:
+Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewiesen werden:
 
 - **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
-  Antibody response to SARS-CoV-2 for more than one year − kinetics and persistence of
+  Antibody response to SARS-CoV-2 for more than one year - kinetics and persistence of
     detection are predominantly determined by avidity progression and test design, 15.21.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S138665322100319X>
   > Sensitivity at 30–60 days post symptom onset (pso) for TAb-S/RBD, TAb-N, IgG-S, IgG-N, IgA-S,
@@ -896,7 +848,7 @@ Monate lang nachgewiesen werden - der Länge der Beobachtungsdauer, ohne erkennb
   > patients after 430 days. This correlated with persistent antibody detection depending on
   > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
   > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
-  > reactivities. Specificity of the tests was ≥99%, except for IgA (96%).
+  > reactivities. Specificity of the tests was >=99%, except for IgA (96%).
 
 ### Nutzen der Impfung ###
 
@@ -912,9 +864,9 @@ des Risiko-Nutzen-Verhältnisses schon bei der Deltavariante vernichtend aus:
   > Safety Reports (ICSRs) per 100,000 vaccine doses across all EU member states. The estimate for
   > the number of ICSRs per 100,000 vaccinations derived from the Lareb database was approximately
   > 700\. Among those, there were 16 serious ICSRs, and the number of ICSRs reporting fatal
-  > side-effects was at 4.11/100,000 vaccinations. Thus, for 6 (95% CI 2–11) deaths prevented by
+  > side-effects was at 4.11/100,000 vaccinations. _Thus, for 6 (95% CI 2–11) deaths prevented by
   > vaccination, there were approximately 4 deaths reported to Dutch Lareb that occurred after
-  > vaccination, yielding a potential risk/benefit ratio of 2:3.
+  > vaccination, yielding a potential risk/benefit ratio of 2:3._
 
 Auch Autoren, die sich mit der Reduktion der Sterblichkeit in Bezug zur Impfquote befasst haben,
 haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leicht positive, so daß sie
@@ -933,18 +885,71 @@ folgern:
   > fully vaccinated and new COVID-19 cases is further exemplified, for instance, by comparison of
   > Iceland and Portugal. Both countries have over 75% of their population fully vaccinated and have
   > more COVID-19 cases per 1 million people than countries such as Vietnam and South Africa that
-  > have around 10% of their population fully vaccinated. [...] The sole reliance on vaccination as
-  > a primary strategy to mitigate COVID-19 and its adverse consequences needs to be re-examined,
-  > especially considering the Delta (B.1.617.2) variant and the likelihood of future variants.
-  > Other pharmacological and non-pharmacological interventions may need to be put in place
-  > alongside increasing vaccination rates. Such course correction, especially with regards to the
-  > policy narrative, becomes paramount with emerging scientific evidence on real world
-  > effectiveness of the vaccines. For instance, in a report released from the Ministry of Health in
-  > Israel, the effectiveness of 2 doses of the BNT162b2 (Pfizer-BioNTech) vaccine against
-  > preventing COVID-19 infection was reported to be 39%, substantially lower than the trial
-  > efficacy of 96%. It is also emerging that immunity derived from the Pfizer-BioNTech vaccine may
-  > not be as strong as immunity acquired through recovery from the COVID-19 virus. A substantial
-  > decline in immunity from mRNA vaccines 6-months post immunization has also been reported.
+  > have around 10% of their population fully vaccinated. [...]
+  >
+  > The sole reliance on vaccination as a primary strategy to mitigate COVID-19 and its adverse
+  > consequences needs to be re-examined, especially considering the Delta (B.1.617.2) variant and
+  > the likelihood of future variants. Other pharmacological and non-pharmacological interventions
+  > may need to be put in place alongside increasing vaccination rates. Such course correction,
+  > especially with regards to the policy narrative, becomes paramount with emerging scientific
+  > evidence on real world effectiveness of the vaccines. For instance, in a report released from
+  > the Ministry of Health in Israel, the effectiveness of 2 doses of the BNT162b2 (Pfizer-BioNTech)
+  > vaccine against preventing COVID-19 infection was reported to be 39%, substantially lower than
+  > the trial efficacy of 96%. It is also emerging that immunity derived from the Pfizer-BioNTech
+  > vaccine may not be as strong as immunity acquired through recovery from the COVID-19 virus. A
+  > substantial decline in immunity from mRNA vaccines 6-months post immunization has also been
+  > reported.
+
+### Omikron ###
+
+Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der Wochenbericht vom
+6.1.2022 enthält die folgende Tabelle zu den Omikronfällen der Kalenderwochen 49 bis 52/2021
+(Quelle:
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
+
+<a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
+
+Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
+Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
+symptomatischen Fällen beträgt 44,1%/**14,6%**/13,2%, der Anteil an hospitalisierten Fällen
+40,0%/23,0%/27,9%. Konsequenterweise schreibt das RKI auch (Quelle: selber Bericht):
+
+> Die Wirksamkeit der einzelnen Impfstoffe gegen die Omikronvariante ist noch nicht endgültig zu
+> beurteilen. Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der
+> Bevölkerung in Deutschland insgesamt als sehr hoch ein. Ursächlich hierfür ist das Auftreten und
+> die rasante Verbreitung der Omikronvariante, die sich nach derzeitigem Kenntnisstand (aus anderen
+> Ländern) deutlich schneller und effektiver verbreitet als die bisherigen Virusvarianten. Dadurch
+> ist mit einer schlagartigen Erhöhung der Infektionsfälle zu rechnen und es kann zu einer schnellen
+> Überlastung des Gesundheitssystems und ggf. weiterer Versorgungsbereiche kommen. Die
+> Infektionsgefährdung wird für die Gruppe der Ungeimpften als sehr hoch, für die Gruppen der
+> Genesenen und Geimpften mit Grundimmunisierung (zweimalige Impfung) als hoch und für die Gruppe
+> der Geimpften mit Auffrischimpfung (dreimalige Impfung) als moderat eingeschätzt.
+
+Wie man - bis auf den ersten Satz - zu so einem Urteil kommen kann ist völlig unklar nachdem Omikron
+die Gefährlichkeit der endemischen Influenzaviren unterschritten hat. Auch die Altersstratifizierung
+der Symptomatik wird komplett ignoriert. Zu einer Überlastung des Gesundheitssystems ist es in
+anderen Ländern, wo Omikron bereits dominant ist, auch nicht gekommen.
+
+(Übrigens ist Infektionsgefährdung auch ein schönes deutsches Wort. Was ist das? Die Gefahr des
+Auftretens einer - zumeist symptomlosen - Infektion, oder die Gefahr hervorgerufen durch die
+Infektion?)
+
+Die Autoren einer Studie der Universität Oxford fanden jedenfalls einen erheblichen Rückgang der
+Wirksamkeit der Impfstoffe bis hin zum Ausbleiben jeglicher Wirksamkeit gegenüber der
+Omikronvariante:
+
+- **Wanwisa Dejnirattisai, Robert H. Shaw, Piyada Supasa, et al.**:
+  Reduced neutralisation of SARS-COV-2 Omicron-B.1.1.529 variant by post-immunisation serum, 11.12.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.12.10.21267534v1.full>
+  > In this report, we present live neutralisation titres against SARS-CoV-2 Omicron variant,
+  > compared with neutralisation against Victoria, Beta and Delta variants. Sera from day-28 post
+  > second-dose were obtained from participants in the Com-COV2 study who had received a two-dose
+  > COVID-19 vaccination schedule with either AstraZeneca (AZD1222) or Pfizer (BNT162b2) vaccines.
+  > There was a substantial fall in neutralisation titres in recipients of both AZD1222 and BNT16b2
+  > primary courses, with evidence of some recipients failing to neutralise at all. This will likely
+  > lead to increased breakthrough infections in previously infected or double vaccinated
+  > individuals, which could drive a further wave of infection, although there is currently no
+  > evidence of increased potential to cause severe disease, hospitalization or death.
 
 Eine Impfung, die vor so gut wie nichts schützt und dabei bald noch schneller runter ist als der
 Akku meines Telefons, taugt einfach nichts. Vielleicht sollte man sich vor Verabschiedung einer
