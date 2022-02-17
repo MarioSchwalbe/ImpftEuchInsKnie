@@ -63,10 +63,11 @@ ein Impfangebot und wurde geimpft, womit zukünftige Vergleiche beider Gruppen u
 
 ### Unabhängige Studien ###
 
-Wie bereits erwähnt, fand eine Forschergruppe aus Dänemark, daß das Immunsystem bei einer Infektion
-mit SARS-CoV-2 IgG-Antikörper bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper
-handeln, die normalerweise bei einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man
-auch nach Verabreichung der Impfstoffe durchführen. Wieder fanden sich IgG-Antikörper:
+Eine Forschergruppe aus Dänemark analysierte bereits 2021 die Art der gebildeten Antikörper nach
+einer überstandenen Infektion mit SARS-CoV-2 und fand dabei, daß das Immunsystem IgG-Antikörper
+bildet. Das ist verwunderlich, sollte es sich doch um IgM-Antikörper handeln, die normalerweise bei
+einer Erstinfektion zu erwarten wären. Die gleiche Analyse kann man auch nach Verabreichung der
+Impfstoffe durchführen. Wieder ließen sich IgG-Antikörper finden:
 
 - **Alana F. Ogata, Chi-An Cheng, Michaël Desjardins, et al.**:
   Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected

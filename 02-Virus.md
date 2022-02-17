@@ -18,10 +18,10 @@ Grippe liegen würde:
   <https://www.nejm.org/doi/full/10.1056/NEJMe2002387>
   > If one assumes that the number of asymptomatic or minimally symptomatic cases is several times
   > as high as the number of reported cases, the case fatality rate may be considerably less than
-  > 1%. This suggests that the overall clinical consequences of Covid-19 may ultimately be more akin
-  > to those of a severe seasonal influenza (which has a case fatality rate of approximately 0.1%)
-  > or a pandemic influenza (similar to those in 1957 and 1968) rather than a disease similar to
-  > SARS or MERS, which have had case fatality rates of 9 to 10% and 36%, respectively.
+  > 1%. _This suggests that the overall clinical consequences of Covid-19 may ultimately be more
+  > akin to those of a severe seasonal influenza (which has a case fatality rate of approximately
+  > 0.1%) or a pandemic influenza (similar to those in 1957 and 1968)_ rather than a disease similar
+  > to SARS or MERS, which have had case fatality rates of 9 to 10% and 36%, respectively.
 
 Diese Abschätzung ist noch sehr pessimistisch - basierend auf den zum Zeitpunkt verfügbaren Daten -
 und ist seitdem weiter verbessert worden, beispielsweise:
@@ -34,20 +34,20 @@ und ist seitdem weiter verbessert worden, beispielsweise:
   > challenging and can yield misleading over-estimates. Many early deaths may have been due to
   > suboptimal management, malfunctional health systems, hydroxychloroquine, sending COVID-19
   > patients to nursing homes, and nosocomial infections; such deaths are partially avoidable moving
-  > forward. About 10% of the global population may be infected by October 2020. Global infection
+  > forward. About 10% of the global population may be infected by October 2020. _Global infection
   > fatality rate is 0.15-0.20% (0.03-0.04% in those <70 years), with large variability across
   > locations with different age-structure, institutionalization rates, socioeconomic inequalities,
-  > population-level clinical risk profile, public health measures, and health care.
+  > population-level clinical risk profile, public health measures, and health care._
 
 - **Prof. Dr. John P. A. Ioannidis**:
   Reconciling estimates of global spread and infection fatality rates of COVID-19:
     An overview of systematic evaluations, 26.3.2021 <br/>
   <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>
   > All systematic evaluations of seroprevalence data converge that SARS-CoV-2 infection is widely
-  > spread globally. Acknowledging residual uncertainties, the available evidence suggests average
+  > spread globally. _Acknowledging residual uncertainties, the available evidence suggests average
   > global IFR [infection fatality rate] of ~0.15% and ~1.5-2.0 billion infections by February 2021
   > with substantial differences in IFR and in infection spread across continents, countries and
-  > locations. [...] Year-to-year variability is substantial, even more so within age-strata.
+  > locations._ [...] Year-to-year variability is substantial, even more so within age-strata.
   > Comparison against averages of multiple previous years is naïve, worse in countries with
   > substantial demographic changes. For example, in the first wave, an excess of 8071 deaths (SMR
   > 1.03, 95% CI 1.03-1.04) in Germany became a deficit of 4926 deaths (SMR 0.98, 95% CI 0.98-0.99)
@@ -57,14 +57,15 @@ Ursprünglich nahm man an, daß das Virus völlig neuartig und somit keine natü
 vorhanden wäre, was es auch gefährlicher machen könnte. Das hat sich später als falsch
 herausgestellt. Hierzu sollte man wissen, daß das menschliche Immunsystem nach einer durchstandenen
 Infektion Gedächtniszellen bildet, die erneute Vertreter eines Krankheitserregers wiedererkennen und
-somit die Abwehrreaktion schneller einleiten können. Die Erkennung basiert dabei auf allen
-Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im Gegensatz zu
-Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht werden kann,
-besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich Mutationen
-aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle relativ
-ähnlich. Dementsprechend vermutete man, daß die Gedächtniszellen aufgrund vorherigem Kontakt mit
-anderen endemischen Varianten auch SARS-CoV-2 erkennen können (Kreuzimmunität). Entsprechende
-Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
+somit die Abwehrreaktion schneller und effizienter einleiten können. Die Erkennung basiert dabei auf
+allen Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im
+Gegensatz zu Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht
+werden kann, besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich
+Mutationen aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle
+relativ ähnlich. Dementsprechend vermutete man, daß die Gedächtniszellen des Immunsystems aufgrund
+vorherigem Kontakt mit anderen endemischen Varianten auch SARS-CoV-2 erkennen können
+(Kreuzimmunität). Entsprechende Arbeiten findet man zahlreich über das Jahr 2020 verteilt,
+beispielsweise:
 
 - **Julian Braun, Lucie Loyal, Marco Frentsch, et al.**:
   SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19, 29.7.2020 <br/>
@@ -72,8 +73,8 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > Here we investigated CD4+ T cells that are reactive against the spike glycoprotein of SARS-CoV-2
   > in the peripheral blood of patients with COVID-19 and SARS-CoV-2-unexposed healthy donors. We
   > detected spike-reactive CD4+ T cells not only in 83% of patients with COVID-19 but also in 35%
-  > of healthy donors. [...] This results indicate that spike-protein cross-reactive T cells are
-  > present, which were probably generated during previous encounters with endemic coronaviruses.
+  > of healthy donors. [...] _This results indicate that spike-protein cross-reactive T cells are
+  > present, which were probably generated during previous encounters with endemic coronaviruses._
   > The effect of pre-existing SARS-CoV-2 cross-reactive T cells on clinical outcomes remains to be
   > determined in larger cohorts. However, the presence of spike-protein cross-reactive T cells in a
   > considerable fraction of the general population may affect the dynamics of the current pandemic,
@@ -89,11 +90,11 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > people. However, the source of those T cells has been speculative. Using human blood samples
   > derived before the SARS-CoV-2 virus was discovered in 2019, we mapped 142 T cell epitopes across
   > the SARS-CoV-2 genome to facilitate precise interrogation of the SARS-CoV-2–specific CD4+ T cell
-  > repertoire. We demonstrate a range of preexisting memory CD4+ T cells that are cross-reactive
+  > repertoire. _We demonstrate a range of preexisting memory CD4+ T cells that are cross-reactive
   > with comparable affinity to SARS-CoV-2 and the common cold coronaviruses human coronavirus
   > (HCoV)-OC43, HCoV-229E, HCoV-NL63, and HCoV-HKU1. Thus, variegated T cell memory to
   > coronaviruses that cause the common cold may underlie at least some of the extensive
-  > heterogeneity observed in coronavirus disease 2019 (COVID-19) disease.
+  > heterogeneity observed in coronavirus disease 2019 (COVID-19) disease._
 
 - **Annika Nelde, Tatjana Bilich, Jonas S. Heitmann, et al.**:
   SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition, 30.9.2020 <br/>
@@ -113,13 +114,13 @@ Arbeiten findet man zahlreich über das Jahr 2020 verteilt, beispielsweise:
   > they have made solid inroads into ascertaining the origins of the immune responses. “Our
   > hypothesis, of course, was that it’s so called ‘common cold’ coronaviruses, because they’re
   > closely related,” said Daniela Weiskopf, senior author of a paper in Science that confirmed this
-  > hypothesis. “We have really shown that this is a true immune memory and it is derived in part
-  > from common cold viruses.”
+  > hypothesis. _“We have really shown that this is a true immune memory and it is derived in part
+  > from common cold viruses.”_
 
-Im Jahr 2021 analysierte eine Forschergruppe aus Dänemark die Art der gebildeten Antikörper nach
-einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich um
-IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären IgG-Antikörper
-zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
+Darauf aufbauend analysierte eine Forschergruppe aus Dänemark im Jahr 2021 die Art der gebildeten
+Antikörper nach einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich
+um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären
+IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
 IgG-Antikörper:
 
 - **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
@@ -147,7 +148,7 @@ IgG-Antikörper:
 Für das menschliche Immunsystem ist das neuartige Virus aufgrund seiner Ähnlichkeit mit endemischen
 Coronaviren folglich nicht neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang
 des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen,
-mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, daß gerne unerwähnt bleibt: Die
+mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, daß häufig unerwähnt bleibt: Die
 starke Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der
 Grippe.
 
