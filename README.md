@@ -685,23 +685,37 @@ Schutz vor Transmission, kein Fremdschutz), beispielsweise:
   > efficiently transmit infection in household settings, including to fully vaccinated contacts._
   > Host–virus interactions early in infection may shape the entire viral trajectory.
 
+- **Matan Levine-Tiefenbrun, Idan Yelin, Hillel Alapi, et al.**:
+  Viral loads of Delta-variant SARS-CoV-2 breakthrough infections after vaccination
+    and booster with BNT162b2, 2.11.2021 <br/>
+  <https://www.nature.com/articles/s41591-021-01575-4>
+  > By analyzing viral loads of over 16,000 infections during the current, Delta-variant-dominated
+  > pandemic wave in Israel, we found that BTIs [breakthrough infections] in recently fully
+  > vaccinated individuals have lower viral loads than infections in unvaccinated individuals.
+  > _However, this effect starts to decline 2 months after vaccination and ultimately vanishes 6
+  > months or longer after vaccination._ Notably, we found that the effect of BNT162b2 on reducing
+  > BTI viral loads is restored after a booster dose. These results suggest that BNT162b2 might
+  > decrease the infectiousness of BTIs even with the Delta variant, and that, although this
+  > protective effect declines with time, it can be restored, at least temporarily, with a third,
+  > booster, vaccine dose.
+
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro, et al.**:
   Shedding of Infectious SARS-CoV-2 Despite Vaccination, 6.11.2021 <br/>
   <https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v6.full>
-  > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. We
+  > RT-PCR Ct values <25 had previously been associated with shedding of infectious SARS-CoV-2. _We
   > observed low Ct values (<25) in 212 of 310 fully vaccinated (68%) and 246 of 389 (63%)
   > unvaccinated individuals. Low Ct values were detected in vaccinated people regardless of
-  > symptoms at the time of testing. Ct values <25 were detected in 7 of 24 unvaccinated (29%; CI:
+  > symptoms at the time of testing._ Ct values <25 were detected in 7 of 24 unvaccinated (29%; CI:
   > 13-51%) and 9 of 11 fully vaccinated asymptomatic individuals (82%; CI: 48-97%), and 158 of 232
   > unvaccinated (68%, CI: 62-74%) and 156 of 225 fully vaccinated (69%; CI: 63-75%) symptomatic
   > individuals. Testing a subset of these low-Ct samples revealed infectious SARS-CoV-2 in 15 of 17
   > specimens (88%) from unvaccinated individuals and 37 of 39 (95%) from vaccinated people.
   > Infectious virus was detected in the sole specimen tested from an asymptomatic fully vaccinated
   > individual. Although few asymptomatic individuals were sampled, these results indicate that even
-  > asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. To determine whether
+  > asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. _To determine whether
   > infectious virus titers differed in vaccinated and unvaccinated persons, we performed plaque
   > assays on an additional set of 48 samples with Ct <25, finding no difference in infectious virus
-  > titer between groups. Notably time from symptom onset to testing did not vary by vaccination
+  > titer between groups._ Notably time from symptom onset to testing did not vary by vaccination
   > status, suggesting that our observations are not confounded by biases in test-seeking behavior
   > between vaccinated and unvaccinated persons (p=0.40).
 
