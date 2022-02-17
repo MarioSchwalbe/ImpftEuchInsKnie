@@ -5,7 +5,8 @@
 Die Rolle der Politik
 ---------------------
 
-> Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig. (Karl Marx)
+> Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+> <br/> - Karl Marx -
 
 Aus Sicht der Politik war die Lage schnell klar: Das Virus ist extrem gefährlich und nur die Impfung
 kann der Ausweg aus der Pandemie sein. Bis dahin brauchen wir Lockdowns um die Apokalypse zu

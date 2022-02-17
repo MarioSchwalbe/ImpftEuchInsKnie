@@ -6,7 +6,7 @@ Fazit
 -----
 
 > Im Widerspruch zur eigenen Vernunft zu leben, ist der unerträglichste aller Zustände.
-> (Leo Tolstoi)
+> <br/> - Leo Tolstoi -
 
 ### Big Business ###
 

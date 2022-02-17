@@ -5,7 +5,8 @@
 Die Rolle der Medien
 --------------------
 
-> Die herrschenden Gedanken sind die Gedanken der Herrschenden. (Karl Marx)
+> Die herrschenden Gedanken sind die Gedanken der Herrschenden.
+> <br/> - Karl Marx -
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 

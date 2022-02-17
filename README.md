@@ -28,7 +28,8 @@ Einleitung
 > Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des
 > Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen
 > zu bedienen. _Sapere aude!_ Habe Mut, dich deines eigenen Verstandes zu bedienen! ist also der
-> Wahlspruch der Aufklärung. (Immanuel Kant)
+> Wahlspruch der Aufklärung.
+> <br/> - Immanuel Kant -
 
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. Leider kann ich das nicht alles wiedergeben. Die
@@ -108,7 +109,8 @@ diese Punkte wie auch die erwähnten Fragen näher eingehen.
 Gefährlichkeit des Virus
 ------------------------
 
-> Autoritätsdusel ist der größte Feind der Wahrheit. (Albert Einstein)
+> Autoritätsdusel ist der größte Feind der Wahrheit.
+> <br/> - Albert Einstein -
 
 Bereits im März 2020 kam Dr. Fauci, Direktor des National Institute of Allergy and Infectious
 Diseases (NIAID) der USA und mittlerweile Chief Medical Advisor to the President, zu dem Ergebnis,
@@ -531,7 +533,7 @@ Wirksamkeit der Impfung
 -----------------------
 
 > Dies ist das erste Medikament, dessen Versagen jenen angelastet wird, die es nicht genommen haben.
-> (Dr. Robert Malone)
+> <br/> - Dr. Robert Malone -
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
 Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das
@@ -1271,7 +1273,8 @@ mRNA-Impfstoffe nicht besser auf dem Müllhaufen der Geschichte entsorgt werden 
 Die Rolle der Medien
 --------------------
 
-> Die herrschenden Gedanken sind die Gedanken der Herrschenden. (Karl Marx)
+> Die herrschenden Gedanken sind die Gedanken der Herrschenden.
+> <br/> - Karl Marx -
 
 Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
@@ -1429,7 +1432,8 @@ zuletzt. Ansonsten bleiben uns ja noch die Fake-News.
 Die Rolle der Politik
 ---------------------
 
-> Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig. (Karl Marx)
+> Wenn der Zweck die Mittel heiligt, dann ist der Zweck unheilig.
+> <br/> - Karl Marx -
 
 Aus Sicht der Politik war die Lage schnell klar: Das Virus ist extrem gefährlich und nur die Impfung
 kann der Ausweg aus der Pandemie sein. Bis dahin brauchen wir Lockdowns um die Apokalypse zu
@@ -1884,7 +1888,7 @@ Fazit
 -----
 
 > Im Widerspruch zur eigenen Vernunft zu leben, ist der unerträglichste aller Zustände.
-> (Leo Tolstoi)
+> <br/> - Leo Tolstoi -
 
 ### Big Business ###
 

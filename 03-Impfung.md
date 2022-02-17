@@ -6,7 +6,7 @@ Wirksamkeit der Impfung
 -----------------------
 
 > Dies ist das erste Medikament, dessen Versagen jenen angelastet wird, die es nicht genommen haben.
-> (Dr. Robert Malone)
+> <br/> - Dr. Robert Malone -
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
 Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das

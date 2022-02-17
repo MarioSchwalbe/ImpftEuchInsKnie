@@ -28,7 +28,8 @@ Einleitung
 > Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des
 > Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen
 > zu bedienen. _Sapere aude!_ Habe Mut, dich deines eigenen Verstandes zu bedienen! ist also der
-> Wahlspruch der Aufklärung. (Immanuel Kant)
+> Wahlspruch der Aufklärung.
+> <br/> - Immanuel Kant -
 
 Bei genauerer Betrachtung der verfahrenen Lage stellt sich heraus, daß du eigentlich die Geschichte
 der letzten 2 Jahre neu lernen müßtest. Leider kann ich das nicht alles wiedergeben. Die

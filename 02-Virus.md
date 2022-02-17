@@ -5,7 +5,8 @@
 Gefährlichkeit des Virus
 ------------------------
 
-> Autoritätsdusel ist der größte Feind der Wahrheit. (Albert Einstein)
+> Autoritätsdusel ist der größte Feind der Wahrheit.
+> <br/> - Albert Einstein -
 
 Bereits im März 2020 kam Dr. Fauci, Direktor des National Institute of Allergy and Infectious
 Diseases (NIAID) der USA und mittlerweile Chief Medical Advisor to the President, zu dem Ergebnis,
