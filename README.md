@@ -886,9 +886,27 @@ Impfstoffe schlechter ab:
   > higher than that conferred by vaccination with two doses at a similar time since the last
   > immunity-conferring event._
 
-Dies ist aus oben genannten Gründen plausibel aber auch, da die von der Impfung verliehene Immunität
-vor allem auf der Bildung von Antikörpern gegen zwei virale Angriffsziele beruht: die Spike-Proteine
-sowie die Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
+- **Ariel Israel, Yotam Shenhar, Ilan Green, et el.**:
+  Large-Scale Study of Antibody Titer Decay following BNT162b2 mRNA Vaccine
+    or SARS-CoV-2 Infection, 31.12.2021 <br/>
+  <https://www.mdpi.com/2076-393X/10/1/64/htm>
+  > A total of 2653 individuals fully vaccinated by two doses of vaccine during the study period and
+  > 4361 convalescent patients were included. Higher SARS-CoV-2 IgG antibody titers were observed in
+  > vaccinated individuals (median 1581 AU/mL IQR [533.8–5644.6]) after the second vaccination than
+  > in convalescent individuals (median 355.3 AU/mL IQR [141.2–998.7]; p < 0.001). _In vaccinated
+  > subjects, antibody titers decreased by up to 38% each subsequent month while in convalescents
+  > they decreased by less than 5% per month._ Six months after BNT162b2 vaccination 16.1% subjects
+  > had antibody levels below the seropositivity threshold of <50 AU/mL, while only 10.8% of
+  > convalescent patients were below <50 AU/mL threshold after 9 months from SARS-CoV-2 infection.
+  > _This study demonstrates individuals who received the Pfizer-BioNTech mRNA vaccine have
+  > different kinetics of antibody levels compared to patients who had been infected with the
+  > SARS-CoV-2 virus, with higher initial levels but a much faster exponential decrease in the first
+  > group._
+
+Dies ist aus oben genannten Gründen plausibel aber auch, da (a) Antikörper nach einiger Zeit
+abgebaut werden und (b) die von der Impfung verliehene Immunität vor allem auf der Bildung von
+Antikörpern gegen zwei virale Angriffsziele beruht: die Spike-Proteine sowie die
+Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
 beziehungsweise Proteine, die das Immunsystem als fremd erkennen könnte. Eine natürliche Immunität
 ist folglich deutlich breiter aufgestellt. Entsprechende Antikörpertiter konnten sogar noch 14
 Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewiesen werden:
