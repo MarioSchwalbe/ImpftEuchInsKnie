@@ -123,7 +123,7 @@ um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen V
 IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
 IgG-Antikörper:
 
-- **Stine S.F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
+- **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
     eBioMedicine, Volume 68, 2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S2352396421002036>

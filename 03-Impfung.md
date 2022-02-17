@@ -348,10 +348,10 @@ Auch Autoren, die sich mit der Reduktion der Sterblichkeit in Bezug zur Impfquot
 haben wider Erwarten keine Negativkorrelation gefunden - allenfalls eine leicht positive, so daß sie
 folgern:
 
-- **S.V. Subramanian, Akhil Kumar**:
+- **S. V. Subramanian, Akhil Kumar**:
   Increases in COVID‐19 are unrelated to levels of vaccination across 68 countries and
     2947 counties in the United States, 30.9.2021 <br/>
-  <https://link.springer.com/article/10.1007%2Fs10654-021-00808-7>
+  <https://link.springer.com/article/10.1007/s10654-021-00808-7>
   > At the country-level, there appears to be no discernable relationship between percentage of
   > population fully vaccinated and new COVID-19 cases in the last 7 days. In fact, the trend line
   > suggests a marginally positive association such that countries with higher percentage of
