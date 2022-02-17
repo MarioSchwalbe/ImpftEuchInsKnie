@@ -88,10 +88,10 @@ Impfstoffe durchführen. Wieder ließen sich IgG-Antikörper finden:
 - **Fatima Amanat, Mahima Thapa, Tinting Lei, et al.**:
   SARS-CoV-2 mRNA vaccination induces functionally diverse antibodies to NTD, RBD, and S2, 8.6.2021 <br/>
   <https://www.cell.com/cell/fulltext/S0092-8674(21)00706-6>
-  > The spike-reactive plasmablast response is dominated by IgG1+ cells and is comprised of a
-  > mixture of cells with low and high levels of somatic hypermutation (SHM). [...] We next examined
-  > the isotype and IgG subclass distribution among the recovered sequences. IgG1 was by far the
-  > most dominant isotype in the three vaccinees.
+  > _The spike-reactive plasmablast response is dominated by IgG1+ cells and is comprised of a
+  > mixture of cells with low and high levels of somatic hypermutation (SHM)._ [...] We next
+  > examined the isotype and IgG subclass distribution among the recovered sequences. IgG1 was by
+  > far the most dominant isotype in the three vaccinees.
 
 - **Adam V. Wisnewski, Julian Campillo Luna, Carrie A. Redlich**:
   Human IgG and IgA responses to COVID-19 mRNA vaccines, 16.6.2021 <br/>
@@ -105,9 +105,9 @@ Impfstoffe durchführen. Wieder ließen sich IgG-Antikörper finden:
   > remained elevated (average of 58% peak levels) during the additional >100 day follow up period.
   > COVID-19 mRNA vaccination elicited spike antigen-specific IgA with similar kinetics of induction
   > and time to peak levels, but more rapid decline in serum levels following both the 1st and 2nd
-  > vaccine doses (<18% peak levels within 100 days of the 2nd shot). The data demonstrate COVID-19
+  > vaccine doses (<18% peak levels within 100 days of the 2nd shot). _The data demonstrate COVID-19
   > mRNA vaccines effectively induce spike antigen specific IgG and IgA and highlight marked
-  > differences in their persistence in serum.
+  > differences in their persistence in serum._
 
 Aus Sicht des Immunsystems handelt es sich bei der Impfung folglich nicht um einen Erstkontakt mit
 einem neuen Krankheitserreger. Das führt den Sinn einer Impfung ad absurdum, da dieser eigentlich
@@ -119,6 +119,26 @@ Weitere unabhängige Studien - von den eingangs erwähnten Stellungnahmen bereit
 zwischenzeitlich auch die anderen ursprünglichen Werbeversprechen widerlegt: (a) Die Impfung schützt
 nicht vor Infektion. (b) Die Virenlast bei Geimpften ist genau so hoch wie bei Ungeimpften (kein
 Schutz vor Transmission, kein Fremdschutz), beispielsweise:
+
+- **Catherine M. Brown, Johanna Vostok, Hillary Johnson, et al.**:
+  Outbreak of SARS-CoV-2 Infections, Including COVID-19 Vaccine Breakthrough Infections,
+    Associated with Large Public Gatherings - Barnstable County, Massachusetts, July 2021, 6.8.2021 <br/>
+  <https://www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.htm>
+  > In July 2021, following multiple large public events in a Barnstable County, Massachusetts,
+  > town, 469 COVID-19 cases were identified among Massachusetts residents who had traveled to the
+  > town during July 3–17; 346 (74%) occurred in fully vaccinated persons. Testing identified the
+  > Delta variant in 90% of specimens from 133 patients. _Cycle threshold values were similar among
+  > specimens from patients who were fully vaccinated and those who were not._
+
+- **Charlotte B. Acharya, John Schrom, Anthea M. Mitchell, et al.**:
+  No Significant Difference in Viral Load Between Vaccinated and Unvaccinated,
+    Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant, 5.10.2021 <br/>
+  <https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2.full>
+  > _We found no significant difference in cycle threshold values between vaccinated and
+  > unvaccinated, asymptomatic and symptomatic groups infected with SARS-CoV-2 Delta._ Given the
+  > substantial proportion of asymptomatic vaccine breakthrough cases with high viral levels,
+  > interventions, including masking and testing, should be considered for all in settings with
+  > elevated COVID-19 transmission.
 
 - **Anika Singanayagam, Seran Hakki, Jake Dunning, et al.**:
   Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in
@@ -132,9 +152,9 @@ Schutz vor Transmission, kein Fremdschutz), beispielsweise:
   > alpha (0.82), or delta (0.79) variant infections. Within individuals, faster viral load growth
   > was correlated with higher peak viral load (correlation 0.42 [95% credible interval 0.13 to
   > 0.65]) and slower decline (–0.44 [–0.67 to –0.18]). [...] Vaccination reduces the risk of delta
-  > variant infection and accelerates viral clearance. Nonetheless, fully vaccinated individuals
+  > variant infection and accelerates viral clearance. _Nonetheless, fully vaccinated individuals
   > with breakthrough infections have peak viral load similar to unvaccinated cases and can
-  > efficiently transmit infection in household settings, including to fully vaccinated contacts.
+  > efficiently transmit infection in household settings, including to fully vaccinated contacts._
   > Host–virus interactions early in infection may shape the entire viral trajectory.
 
 - **Kasen K. Riemersma, Brittany E. Grogan, Amanda Kita-Yarbro, et al.**:
@@ -171,8 +191,8 @@ sich in:
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr. Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
   <https://doctors4covidethics.org/immunology-101-why-intramuscular-covid-19-vaccination-must-fail/>
-  > All of the currently used COVID vaccines are applied by intramuscular injection, and they are
-  > therefore unable to prevent infection of the upper airways with the SARS-CoV-2 virus. In fact,
+  > _All of the currently used COVID vaccines are applied by intramuscular injection, and they are
+  > therefore unable to prevent infection of the upper airways with the SARS-CoV-2 virus._ In fact,
   > in their clinical trials, none of the manufacturers even attempted to demonstrate efficacy
   > against infection or transmission in their clinical trials, and the total lack of efficacy in
   > the real world has since been documented in a large study published by the CDC. The vaccines
@@ -235,27 +255,48 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
   > Estimated BNT162b2 effectiveness against any SARS-CoV-2 infection was negligible in the first 2
   > weeks after the first dose. It increased to 36.8% (95% confidence interval [CI], 33.2 to 40.2)
   > in the third week after the first dose and reached its peak at 77.5% (95% CI, 76.4 to 78.6) in
-  > the first month after the second dose. Effectiveness declined gradually thereafter, with the
+  > the first month after the second dose. _Effectiveness declined gradually thereafter, with the
   > decline accelerating after the fourth month to reach approximately 20% in months 5 through 7
-  > after the second dose. Effectiveness against symptomatic infection was higher than effectiveness
-  > against asymptomatic infection but waned similarly. Variant-specific effectiveness waned in the
-  > same pattern. _Effectiveness against any severe, critical, or fatal case of Covid-19 increased
-  > rapidly to 66.1% (95% CI, 56.8 to 73.5) by the third week after the first dose and reached 96%
-  > or higher in the first 2 months after the second dose; effectiveness persisted at approximately
-  > this level for 6 months._
+  > after the second dose._ Effectiveness against symptomatic infection was higher than
+  > effectiveness against asymptomatic infection but waned similarly. Variant-specific effectiveness
+  > waned in the same pattern. Effectiveness against any severe, critical, or fatal case of Covid-19
+  > increased rapidly to 66.1% (95% CI, 56.8 to 73.5) by the third week after the first dose and
+  > reached 96% or higher in the first 2 months after the second dose; effectiveness persisted at
+  > approximately this level for 6 months.
+
+- **Einav G. Levin, Yaniv Lustig, Carmit Cohen, et al.**:
+  Waning Immune Humoral Response to BNT162b2 Covid-19 Vaccine over 6 Months, 9.12.2021 <br/>
+  <https://www.nejm.org/doi/full/10.1056/NEJMoa2114583>
+  > The study included 4868 participants, with 3808 being included in the linear mixed-model
+  > analyses. The level of IgG antibodies decreased at a consistent rate, whereas the neutralizing
+  > antibody level decreased rapidly for the first 3 months with a relatively slow decrease
+  > thereafter. Although IgG antibody levels were highly correlated with neutralizing antibody
+  > titers (Spearman’s rank correlation between 0.68 and 0.75), the regression relationship between
+  > the IgG and neutralizing antibody levels depended on the time since receipt of the second
+  > vaccine dose. Six months after receipt of the second dose, neutralizing antibody titers were
+  > substantially lower among men than among women (ratio of means, 0.64; 95% confidence interval
+  > [CI], 0.55 to 0.75), lower among persons 65 years of age or older than among those 18 to less
+  > than 45 years of age (ratio of means, 0.58; 95% CI, 0.48 to 0.70), and lower among participants
+  > with immunosuppression than among those without immunosuppression (ratio of means, 0.30; 95% CI,
+  > 0.20 to 0.46).
+  >
+  > _Six months after receipt of the second dose of the BNT162b2 vaccine, humoral response was
+  > substantially decreased, especially among men, among persons 65 years of age or older, and among
+  > persons with immunosuppression._
 
 Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
-schweren Verlauf, wenn man überhaupt davon betroffen wäre – zum Schutz der Gesellschaft aus
-Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen Wirkungsdauer permanent
-nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und damit eine
-Verschlechterung der Wirkung zu erwarten wäre (Quelle:
+schweren Verlauf, wenn man überhaupt zu einer Personengruppe gehörte, die davon betroffen wäre – zum
+Schutz der Gesellschaft aus Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen
+Wirkungsdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
+damit eine Verschlechterung der Wirkung zu erwarten wäre (Quelle:
 <https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
 sowie (b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das
 Kosten-Nutzen-Verhältnis langfristig zu Ungunsten der Impfung.
 
 ### Vergleich mit natürlicher Immunität ###
 
-Im Vergleich zur natürlichen Immunität schneidet die Schutzwirkung der Impfstoffe schlechter ab:
+Im Vergleich zu einer auf natürlichem Wege entstandenen Immunität schneidet die Schutzwirkung der
+Impfstoffe schlechter ab:
 
 - **Sivan Gazit, Roei Shlezinger, Galit Perez, et al.**:
   Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity:
@@ -284,8 +325,8 @@ Im Vergleich zur natürlichen Immunität schneidet die Schutzwirkung der Impfsto
   <https://www.sciencedirect.com/science/article/pii/S2666776221002647>
   > We found strong protection against symptomatic Delta infection for those with prior infection
   > whether it was recent (2-6 months) (95%; 95%CI:90-97) or associated with one dose (85%;
-  > 95%CI:78-90) or two doses of mRNA vaccine (96%; 95%CI:87-99). For those without past infection,
-  > protection was lower with two doses of mRNA vaccine (67%; 95%CI:63-71).
+  > 95%CI:78-90) or two doses of mRNA vaccine (96%; 95%CI:87-99). _For those without past infection,
+  > protection was lower with two doses of mRNA vaccine (67%; 95%CI:63-71)._
 
 - **Yair Goldberg, Micha Mandel, Yinon M. Bar-On, et al.**:
   Protection and waning of natural and hybrid COVID-19 immunity, 5.12.2021 <br/>
@@ -320,8 +361,8 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
   > IgG-S and IgA-S decreased moderately (81.4%, 65.7%); NAb remained positive (94.3%), slightly
   > decreasing in activity after 300 days; there was correlation with IgG-S (Rs = 0.88) and IgA-S
   > (Rs = 0.71); IgG-N decreased significantly from day 120 (15.7%); IgM-RBD dropped after 30–60
-  > days (22.9%). High antibody avidity developed against S/RBD steadily with time in 94.3% of
-  > patients after 430 days. This correlated with persistent antibody detection depending on
+  > days (22.9%). _High antibody avidity developed against S/RBD steadily with time in 94.3% of
+  > patients after 430 days._ This correlated with persistent antibody detection depending on
   > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
   > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
   > reactivities. Specificity of the tests was >=99%, except for IgA (96%).
