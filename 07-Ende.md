@@ -140,14 +140,18 @@ Kalenderwoche seit März 2020 basierend auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 30.1.2022).
 
-<a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
+<a href="images/FaelleProWoche.png">
+  <img src="images/FaelleProWoche.png" width="700">
+</a>
 
 Sowie die prozentualen Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021
 (Quelle:
 <https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
 Stand: 30.1.2022).
 
-<a href="images/VariantenProWoche.png"><img src="images/VariantenProWoche.png" width="700"></a>
+<a href="images/VariantenProWoche.png">
+  <img src="images/VariantenProWoche.png" width="700">
+</a>
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu

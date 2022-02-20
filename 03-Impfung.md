@@ -458,7 +458,9 @@ Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der
 (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
 
-<a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
+<a href="images/Omikronfaelle.png">
+  <img src="images/Omikronfaelle.png" width="800">
+</a>
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an

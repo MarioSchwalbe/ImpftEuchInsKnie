@@ -66,7 +66,9 @@ Intensivpatienten im Zusammenhang mit COVID-19 überlastet sein? Sollte dies wir
 so offenbarte es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten
 Grippewelle?
 
-<a href="images/Intensivbetten.png"><img src="images/Intensivbetten.png" width="700"></a>
+<a href="images/Intensivbetten.png">
+  <img src="images/Intensivbetten.png" width="700">
+</a>
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
 sowie deren Auslastung basierend auf den Daten des RKI (Quelle:

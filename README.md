@@ -378,7 +378,9 @@ Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROST
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
 natürlich die entsprechende Einordnung vornehmen.
 
-<a href="images/GrippeWeb-2021-52-01.png"><img src="images/GrippeWeb-2021-52-01.png" width="600"></a>
+<a href="images/GrippeWeb-2021-52-01.png">
+  <img src="images/GrippeWeb-2021-52-01.png" width="600">
+</a>
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 
@@ -420,8 +422,12 @@ eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdis
 Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
 März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
-<a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
-<a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
+<a href="images/BelegungErwachsene.png">
+  <img src="images/BelegungErwachsene.png" width="49%">
+</a>
+<a href="images/BelegungKinder.png">
+  <img src="images/BelegungKinder.png" width="49%">
+</a>
 
 Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
@@ -431,7 +437,9 @@ die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Über
 Gesundheitssystems durch SARS-CoV-2 war zu keinem Zeitpunkt zu befürchten. Eine besondere Gefährdung
 von Kindern sowieso nicht.
 
-<a href="images/AuslastungIntensivstationen.png"><img src="images/AuslastungIntensivstationen.png"></a>
+<a href="images/AuslastungIntensivstationen.png">
+  <img src="images/AuslastungIntensivstationen.png">
+</a>
 
 Eine detailliertere Aufschlüsselung nach Altersgruppen und Kreisen kann man unter
 <https://intensivstationen.net> finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
@@ -987,7 +995,9 @@ Gegenüber der Omikronvariante fällt der Schutz selbst laut RKI gering aus. Der
 (Quelle:
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2022-01-06.pdf?__blob=publicationFile>).
 
-<a href="images/Omikronfaelle.png"><img src="images/Omikronfaelle.png" width="800"></a>
+<a href="images/Omikronfaelle.png">
+  <img src="images/Omikronfaelle.png" width="800">
+</a>
 
 Demnach sind Ungeimpfte teilweise unterrepräsentiert. Der Anteil der Ungeimpften der 3 höheren
 Altersgruppen (außer 5-11 Jahre) in der Gesellschaft beträgt 40%/22%/12%. Der Anteil an
@@ -1576,7 +1586,9 @@ Intensivpatienten im Zusammenhang mit COVID-19 überlastet sein? Sollte dies wir
 so offenbarte es vielmehr ein größeres Problem. Oder anders gefragt: Was machen wir bei der nächsten
 Grippewelle?
 
-<a href="images/Intensivbetten.png"><img src="images/Intensivbetten.png" width="700"></a>
+<a href="images/Intensivbetten.png">
+  <img src="images/Intensivbetten.png" width="700">
+</a>
 
 Die Abbildung zeigt die Intensivkapazitäten in Deutschland im zeitlichen Verlauf seit Ende März 2020
 sowie deren Auslastung basierend auf den Daten des RKI (Quelle:
@@ -2103,14 +2115,18 @@ Kalenderwoche seit März 2020 basierend auf den Daten des RKI (Quelle:
 <https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/>,
 Stand: 30.1.2022).
 
-<a href="images/FaelleProWoche.png"><img src="images/FaelleProWoche.png" width="700"></a>
+<a href="images/FaelleProWoche.png">
+  <img src="images/FaelleProWoche.png" width="700">
+</a>
 
 Sowie die prozentualen Anteile der jeweiligen Varianten nach Kalenderwoche beginnend im April 2021
 (Quelle:
 <https://de.statista.com/statistik/daten/studie/1208627/umfrage/ausbreitung-von-corona-mutationen-in-deutschland/>,
 Stand: 30.1.2022).
 
-<a href="images/VariantenProWoche.png"><img src="images/VariantenProWoche.png" width="700"></a>
+<a href="images/VariantenProWoche.png">
+  <img src="images/VariantenProWoche.png" width="700">
+</a>
 
 Deutlich sieht man die nur geringe Korrelation zwischen Meldeinzidenz und Hospitalisierungen bzw.
 Todesfällen, was trotzdem niemanden daran hindert die Meldeinzidenzen täglich in den Nachrichten zu

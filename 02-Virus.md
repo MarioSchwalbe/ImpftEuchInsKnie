@@ -272,7 +272,9 @@ Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROST
 Da SARS-CoV-2 das selbe Symptomspektrum hervorruft wie die anderen Atemwegsviren müssen wir
 natürlich die entsprechende Einordnung vornehmen.
 
-<a href="images/GrippeWeb-2021-52-01.png"><img src="images/GrippeWeb-2021-52-01.png" width="600"></a>
+<a href="images/GrippeWeb-2021-52-01.png">
+  <img src="images/GrippeWeb-2021-52-01.png" width="600">
+</a>
 
 Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stand: 9.1.2022):
 
@@ -314,8 +316,12 @@ eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdis
 Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
 März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
 
-<a href="images/BelegungErwachsene.png"><img src="images/BelegungErwachsene.png" width="49%"></a>
-<a href="images/BelegungKinder.png"><img src="images/BelegungKinder.png" width="49%"></a>
+<a href="images/BelegungErwachsene.png">
+  <img src="images/BelegungErwachsene.png" width="49%">
+</a>
+<a href="images/BelegungKinder.png">
+  <img src="images/BelegungKinder.png" width="49%">
+</a>
 
 Die Abbildungen (Quelle: <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen>, Stand:
 9.1.2022) zeigen die Belegungen der Intensivstationen seit April 2020 mit und ohne COVID-19 für
@@ -325,7 +331,9 @@ die Belegung tatsächlich zeitweise bis zu 70%, aber eine flächendeckende Über
 Gesundheitssystems durch SARS-CoV-2 war zu keinem Zeitpunkt zu befürchten. Eine besondere Gefährdung
 von Kindern sowieso nicht.
 
-<a href="images/AuslastungIntensivstationen.png"><img src="images/AuslastungIntensivstationen.png"></a>
+<a href="images/AuslastungIntensivstationen.png">
+  <img src="images/AuslastungIntensivstationen.png">
+</a>
 
 Eine detailliertere Aufschlüsselung nach Altersgruppen und Kreisen kann man unter
 <https://intensivstationen.net> finden. Die obige Abbildung (Stand: 7.1.2022) zeigt den
