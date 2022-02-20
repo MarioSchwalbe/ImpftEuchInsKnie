@@ -1361,7 +1361,7 @@ Da hat Marx mal wieder Recht behalten. Kapitel fertig.
 
 ### Bestandsaufnahme ###
 
-<s href="images/Fernseher.jpg">
+<a href="images/Fernseher.jpg">
   <img src="images/Fernseher.jpg" width="300" align="left" class="ImgFloatLeft">
 </a>
 
