@@ -193,11 +193,11 @@ gefallen. Eine Impfung käme jedenfalls nur dann in Frage, wenn die folgenden Vo
 wären:
 
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
-   Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
-   und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
-   Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
-   die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
-   auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
+   Notzulassung vorliegt - obwohl eine epidemische Notlage von nationaler Tragweite nicht mehr
+   besteht - und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen
+   würden. Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente
+   verfügbar sind, die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es
+   jedoch und dies ist auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
@@ -223,29 +223,30 @@ wären:
 5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
    nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. Das
    kaufmännische Argument, daß die Bestellungen der 660 Millionen Impfdosen bereits aufgegeben sind
-   und deswegen noch
-   [`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query) müsse, ist
-   irrelevant (Quelle: https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html).
+   und deswegen noch [`#AllesInDenArm`](https://twitter.com/hashtag/AllesInDenArm) müsse, ist
+   irrelevant (Quelle: <https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html>).
 
-6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
+<!--
+1. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
    unausgereifte Technologien und ohne Ersatzviren.
+-->
 
-7. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
+6. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
    vernachlässigbar. Da das Virus mit der Omikronvariante die Gefährlichkeit einer Grippe
    unterschritten hat, dürften Nebenwirkungen praktisch nicht vorhanden sein.
 
-8. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
+7. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
+8. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
    ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
    <https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336>). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
    <https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben>).
 
-10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
-    sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
+9. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
+   sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
 
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
 sollte das jemals der Fall sein. Erwartungskonform ist Gesundheitsminister und Experte™ Karl

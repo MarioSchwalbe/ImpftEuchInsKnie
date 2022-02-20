@@ -5,6 +5,9 @@
 Schadwirkung der Impfung
 ------------------------
 
+> Dubium sapientiae initium. Zweifel ist der Weisheit Anfang.
+> <br/> - René Descartes -
+
 Die Schadwirkung - oder freundlicher Nebenwirkung - wurde von den anderen Stellungnahmen nur
 spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheorie anhaftet. Dazu
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
@@ -188,7 +191,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 -->
 
 - **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
-  Why are we vaccinating children against COVID-19?, Toxicology Reports, Volume 8, 2021 <br/>
+  Why are we vaccinating children against COVID-19?, 17.9.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S221475002100161X>
   > Thus, our extremely conservative estimate for risk-benefit ratio is about 5/1. In plain English,
   > people in the 65+ demographic are five times as likely to die from the inoculation as from

@@ -313,13 +313,11 @@ Salvador, in der der Bevölkerung zur Vermeidung von schwerer Erkrankung ein ges
 Sport an der frischen Luft und gesunde Ernährung empfohlen wird (Quelle:
 <https://www.youtube.com/watch?v=u9vrf9IU_EY>). In Deutschland geht es dagegen auch in neuen Medien
 wie Spotify und Twitter wie gewohnt heiß her. Nach den hauptsächlich im Herbst 2021 zirkulierenden
-Twitter-Trends
-[`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
-und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
-Antwort von offizieller Seite
-[`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query). Mit dem flotten
-Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
-schützen - nämlich gar nicht.
+Twitter-Trends [`#PloetzlichUndUnerwartet`](https://twitter.com/hashtag/PloetzlichUndUnerwartet) und
+[`#ImpftEuchInsKnie`](https://twitter.com/hashtag/ImpftEuchInsKnie), kam als Antwort von offizieller
+Seite [`#AllesInDenArm`](https://twitter.com/hashtag/AllesInDenArm). Mit dem flotten Spruch könnte
+man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19 schützen -
+nämlich gar nicht.
 
 Konsequenterweise werden alternative Behandlungsmethoden der Krankheit medial und politisch
 vollständig ignoriert, um ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es

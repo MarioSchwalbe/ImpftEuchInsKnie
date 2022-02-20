@@ -124,8 +124,7 @@ IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Proband
 IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
-  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
-    eBioMedicine, Volume 68, 2021 <br/>
+  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
   > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
   > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
@@ -148,7 +147,7 @@ IgG-Antikörper:
 Für das menschliche Immunsystem ist das neuartige Virus aufgrund seiner Ähnlichkeit mit endemischen
 Coronaviren folglich nicht neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang
 des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen,
-mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, daß häufig unerwähnt bleibt: Die
+mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, das häufig unerwähnt bleibt: Die
 starke Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der
 Grippe.
 
@@ -171,8 +170,8 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
   > children, COVID-19 is less dangerous than many other harms, including influenza.
 
 Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere
-bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
-zu konzentrieren.
+bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf jene besonders
+Gefährdeten der Gesellschaft zu konzentrieren.
 
 Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit

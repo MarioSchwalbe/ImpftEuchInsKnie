@@ -230,8 +230,7 @@ IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Proband
 IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
-  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity,
-    eBioMedicine, Volume 68, 2021 <br/>
+  SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
   > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
   > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
@@ -254,7 +253,7 @@ IgG-Antikörper:
 Für das menschliche Immunsystem ist das neuartige Virus aufgrund seiner Ähnlichkeit mit endemischen
 Coronaviren folglich nicht neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang
 des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen,
-mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, daß häufig unerwähnt bleibt: Die
+mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, das häufig unerwähnt bleibt: Die
 starke Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der
 Grippe.
 
@@ -277,8 +276,8 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
   > children, COVID-19 is less dangerous than many other harms, including influenza.
 
 Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere
-bedeutet es auch, daß es viel sinnvoller wäre, sich auf jene besonders Gefährdeten der Gesellschaft
-zu konzentrieren.
+bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf jene besonders
+Gefährdeten der Gesellschaft zu konzentrieren.
 
 Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit
@@ -555,7 +554,9 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
   > 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least
   > 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among
   > those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible
-  > interval, 90.3 to 97.6). [...]
+  > interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across
+  > subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of
+  > coexisting conditions. [...]
   >
   > Confirmed Covid-19 was defined according to the Food and Drug Administration (FDA) criteria as
   > the presence of at least one of the following symptoms: fever, new or increased cough, new or
@@ -828,7 +829,7 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
   > substantially decreased, especially among men, among persons 65 years of age or older, and among
   > persons with immunosuppression._
 
-Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
+Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einem
 schweren Verlauf, wenn man überhaupt zu einer Personengruppe gehörte, die davon betroffen wäre – zum
 Schutz der Gesellschaft aus Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen
 Wirkungsdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
@@ -1049,6 +1050,9 @@ auch nicht besonders.
 Schadwirkung der Impfung
 ------------------------
 
+> Dubium sapientiae initium. Zweifel ist der Weisheit Anfang.
+> <br/> - René Descartes -
+
 Die Schadwirkung - oder freundlicher Nebenwirkung - wurde von den anderen Stellungnahmen nur
 spärlich behandelt, da dem Thema noch immer das Stigma der Verschwörungstheorie anhaftet. Dazu
 besteht eigentlich kein Grund. Die Datenbank der WHO zeichnet ein deutliches Bild (Quelle:
@@ -1232,7 +1236,7 @@ https://hillmd.substack.com/p/vaccine-batches-vary-in-toxicity
 -->
 
 - **Ronald N. Kostoff, Daniela Calina, Darja Kanduc, et al.**:
-  Why are we vaccinating children against COVID-19?, Toxicology Reports, Volume 8, 2021 <br/>
+  Why are we vaccinating children against COVID-19?, 17.9.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S221475002100161X>
   > Thus, our extremely conservative estimate for risk-benefit ratio is about 5/1. In plain English,
   > people in the 65+ demographic are five times as likely to die from the inoculation as from
@@ -1819,13 +1823,11 @@ Salvador, in der der Bevölkerung zur Vermeidung von schwerer Erkrankung ein ges
 Sport an der frischen Luft und gesunde Ernährung empfohlen wird (Quelle:
 <https://www.youtube.com/watch?v=u9vrf9IU_EY>). In Deutschland geht es dagegen auch in neuen Medien
 wie Spotify und Twitter wie gewohnt heiß her. Nach den hauptsächlich im Herbst 2021 zirkulierenden
-Twitter-Trends
-[`#PloetzlichUndUnerwartet`](https://twitter.com/search?q=%23PloetzlichUndUnerwartet&src=typed_query)
-und [`#ImpftEuchInsKnie`](https://twitter.com/search?q=%23ImpftEuchInsKnie&src=typed_query), kam als
-Antwort von offizieller Seite
-[`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query). Mit dem flotten
-Spruch könnte man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19
-schützen - nämlich gar nicht.
+Twitter-Trends [`#PloetzlichUndUnerwartet`](https://twitter.com/hashtag/PloetzlichUndUnerwartet) und
+[`#ImpftEuchInsKnie`](https://twitter.com/hashtag/ImpftEuchInsKnie), kam als Antwort von offizieller
+Seite [`#AllesInDenArm`](https://twitter.com/hashtag/AllesInDenArm). Mit dem flotten Spruch könnte
+man auch Heroin bewerben. Und tatsächlich würde Heroin vergleichbar gut vor COVID-19 schützen -
+nämlich gar nicht.
 
 Konsequenterweise werden alternative Behandlungsmethoden der Krankheit medial und politisch
 vollständig ignoriert, um ausschließlich Prävention mit Impfung forcieren zu können. Dabei gäbe es
@@ -2154,11 +2156,11 @@ gefallen. Eine Impfung käme jedenfalls nur dann in Frage, wenn die folgenden Vo
 wären:
 
 1. Die Impfstoffe sind ordnungsgemäß zugelassen. Es sei darauf hingewiesen, daß im Moment nur eine
-   Notzulassung vorliegt - obwohl keine epidemische Notlage von nationaler Tragweite mehr besteht -
-   und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen würden.
-   Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente verfügbar sind,
-   die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es jedoch und dies ist
-   auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
+   Notzulassung vorliegt - obwohl eine epidemische Notlage von nationaler Tragweite nicht mehr
+   besteht - und diese Impfstoffe ein ordentliches Zulassungsverfahren wahrscheinlich nie bestehen
+   würden. Außerdem darf es eine vorläufige Zulassungen nur geben, solange keine Medikamente
+   verfügbar sind, die einen schweren Verlauf der Erkrankung verhindern könnten. Diese gibt es
+   jedoch und dies ist auch seit Beginn der Pandemie bekannt: Ivermectin und Interferone.
 
 2. Alle relevanten Dokumente liegen vor, wurden veröffentlicht und unabhängig geprüft. Dies schließt
    insbesondere (a) Verträge mit der Europäischen Union oder Deutschland, (b) Dokumente der
@@ -2184,29 +2186,30 @@ wären:
 5. Im Falle eines Impfzwangs kommt zusätzlich hinzu, daß es sich um Impfstoffe handeln sollte, die
    nicht für Varianten entwickelt wurden, die zwischenzeitlich nicht mehr existent sind. Das
    kaufmännische Argument, daß die Bestellungen der 660 Millionen Impfdosen bereits aufgegeben sind
-   und deswegen noch
-   [`#AllesInDenArm`](https://twitter.com/search?q=%23AllesInDenArm&src=typed_query) müsse, ist
-   irrelevant (Quelle: https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html).
+   und deswegen noch [`#AllesInDenArm`](https://twitter.com/hashtag/AllesInDenArm) müsse, ist
+   irrelevant (Quelle: <https://www.tagesschau.de/investigativ/report-mainz/impfdosen-117.html>).
 
-6. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
+<!--
+1. Die Impfstoffe basieren auf dem Prinzip des klassischen Totimpfstoffs ohne neuartige
    unausgereifte Technologien und ohne Ersatzviren.
+-->
 
-7. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
+6. Mögliche Nebenwirkungen wurden untersucht und sind im Vergleich zur Gefährlichkeit des Virus
    vernachlässigbar. Da das Virus mit der Omikronvariante die Gefährlichkeit einer Grippe
    unterschritten hat, dürften Nebenwirkungen praktisch nicht vorhanden sein.
 
-8. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
+7. Der Hersteller haftet für etwaige Schäden, die durch seine Produkte entstehen. Im Falle eines
    Impfzwangs haftet zusätzlich der deutsche Staat (Solidargemeinschaft), insbesondere auch
    strafrechtlich.
 
-9. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
+8. Zur Verbesserung der Medizinethik und der gebotenen Aufklärungsarbeit der Ärzteschaft wäre es
    ratsam die impfenden Ärzte nicht mit 28€ pro Impfung zu entlohnen (Quelle:
    <https://www.sueddeutsche.de/wirtschaft/corona-impfung-aerzte-1.5493336>). Auch der Wille etwaige
    Nebenwirkungen wahrzunehmen und zu dokumentieren sollte wenigstens vorhanden sein (Quelle:
    <https://www.cicero.de/innenpolitik/debatte-um-impfskepsis-ich-wurde-kimmich-verstandnis-signalisieren-erich-freisleben>).
 
-10. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
-    sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
+9. Nach den ganzen Betrügereien hat die Branche und die Politik bewiesen, daß sie vertrauenswürdig
+   sind. Dies würde dann bei realistischer Betrachtung die nächsten 10 Jahre in Anspruch nehmen.
 
 Augenscheinlich dürfte es noch etwas dauern bis die mRNA-Technologie hinreichend ausgereift ist,
 sollte das jemals der Fall sein. Erwartungskonform ist Gesundheitsminister und Experte™ Karl
@@ -2458,6 +2461,9 @@ Anhang
 
 - **Intensivstationen.net**: <br/>
   <https://intensivstationen.net>
+
+- **US Mortality**: COVID-19 Charts <br/>
+  <https://covid19.usmortality.com>
 
 - **Robert Koch-Institut**: GrippeWeb <br/>
   <https://grippeweb.rki.de>

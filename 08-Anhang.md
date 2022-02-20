@@ -24,6 +24,9 @@ Anhang
 - **Intensivstationen.net**: <br/>
   <https://intensivstationen.net>
 
+- **US Mortality**: COVID-19 Charts <br/>
+  <https://covid19.usmortality.com>
+
 - **Robert Koch-Institut**: GrippeWeb <br/>
   <https://grippeweb.rki.de>
 

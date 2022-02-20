@@ -25,7 +25,9 @@ Die Aussage zur Wirksamkeit von 95% entstammt der Phase-III-Studie von Pfizer/Bi
   > 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least
   > 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among
   > those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible
-  > interval, 90.3 to 97.6). [...]
+  > interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across
+  > subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of
+  > coexisting conditions. [...]
   >
   > Confirmed Covid-19 was defined according to the Food and Drug Administration (FDA) criteria as
   > the presence of at least one of the following symptoms: fever, new or increased cough, new or
@@ -298,7 +300,7 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
   > substantially decreased, especially among men, among persons 65 years of age or older, and among
   > persons with immunosuppression._
 
-Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einen
+Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einem
 schweren Verlauf, wenn man überhaupt zu einer Personengruppe gehörte, die davon betroffen wäre – zum
 Schutz der Gesellschaft aus Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen
 Wirkungsdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
