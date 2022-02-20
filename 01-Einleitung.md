@@ -3,7 +3,9 @@
 Warum ich ungeimpft bin!
 ========================
 
-<img src="images/IQTest.jpg" width="250" align="left" class="ImgFloatLeft">
+<a href="images/IQTest.jpg">
+  <img src="images/IQTest.jpg" width="250" align="left" class="ImgFloatLeft">
+</a>
 
 **Autor:**  Mario Schwalbe <br/>
 **An:**     J. O. S. (mein Chef) <br/>
