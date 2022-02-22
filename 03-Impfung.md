@@ -243,8 +243,8 @@ unbekannten Faktor zu hoch ausfallen.
 
 ### Dauer der Schutzwirkung ###
 
-Aber wenigstens mehr als nichts. Die Schutzwirkung ist allerdings nicht so lange anhaltend wie
-versprochen. Zum einen konnten die Studien keine Schutz während der ersten 2 Wochen nach der ersten
+Aber wenigstens mehr als nichts. Die Schutzwirkung ist allerdings auch nicht so langanhaltend wie
+versprochen. Zum einen konnten die Studien keine Wirkung während der ersten 2 Wochen nach der ersten
 Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlichen Zielgruppe, den
 Älteren und Schwächeren, am schnellsten:
 
@@ -312,7 +312,7 @@ Kosten-Nutzen-Verhältnis langfristig zu Ungunsten der Impfung.
 ### Vergleich mit natürlicher Immunität ###
 
 Im Vergleich zu einer auf natürlichem Wege entstandenen Immunität schneidet die Schutzwirkung der
-Impfstoffe schlechter ab:
+Impfstoffe schlechter ab und ist zudem weniger langanhaltend:
 
 - **Sivan Gazit, Roei Shlezinger, Galit Perez, et al.**:
   Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity:
@@ -377,13 +377,56 @@ Impfstoffe schlechter ab:
   > SARS-CoV-2 virus, with higher initial levels but a much faster exponential decrease in the first
   > group._
 
-Dies ist aus oben genannten Gründen plausibel aber auch, da (a) Antikörper nach einiger Zeit
+Dies ist aus oben genannten Gründen plausibel aber auch, da (a) Antikörper nach einiger Zeit wieder
 abgebaut werden und (b) die von der Impfung verliehene Immunität vor allem auf der Bildung von
 Antikörpern gegen zwei virale Angriffsziele beruht: die Spike-Proteine sowie die
 Rezeptor-Bindungs-Domäne. Coronaviren haben jedoch insgesamt 20 verschiedene Antigene
 beziehungsweise Proteine, die das Immunsystem als fremd erkennen könnte. Eine natürliche Immunität
-ist folglich deutlich breiter aufgestellt. Entsprechende Antikörpertiter konnten sogar noch 14
-Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewiesen werden:
+ist folglich deutlich breiter aufgestellt. Das Repertoir der bereits vorhandenen kreuz-reaktiven
+Gedächtniszellen wird bei einer Infektion außerdem um weitere SARS-CoV-2-spezifische
+Gedächtniszellen ergänzt, die den zukünftigen Schutz weiter verbessern:
+
+- **Isabel Schulien, Janine Kemming, Valerie Oberhardt, et al.**:
+  Characterization of pre-existing and induced SARS-CoV-2-specific CD8+ T cells, 12.11.2020 <br/>
+  <https://www.nature.com/articles/s41591-020-01143-2>
+  > Emerging data indicate that SARS-CoV-2-specific CD8+ T cells targeting different viral proteins
+  > are detectable in up to 70% of convalescent individuals. However, very little information is
+  > currently available about the abundance, phenotype, functional capacity and fate of pre-existing
+  > and induced SARS-CoV-2-specific CD8+ T cell responses during the natural course of SARS-CoV-2
+  > infection. [...] We observe rapid induction, prolonged contraction and emergence of
+  > heterogeneous and functionally competent cross-reactive and induced memory CD8+ T cell responses
+  > in cross-sectionally analyzed individuals with mild disease following SARS-CoV-2 infection and
+  > three individuals longitudinally assessed for their T cells pre- and post-SARS-CoV-2 infection.
+  > SARS-CoV-2-specific memory CD8+ T cells exhibited functional characteristics comparable to
+  > influenza-specific CD8+ T cells and were detectable in SARS-CoV-2 convalescent individuals who
+  > were seronegative for anti-SARS-CoV-2 antibodies targeting spike (S) and nucleoprotein (N).
+  > These results define cross-reactive and induced SARS-CoV-2-specific CD8+ T cell responses as
+  > potentially important determinants of immune protection in mild SARS-CoV-2 infection.
+
+Da Gedächtniszellen auch lange nach der Infektion im Körper verbleiben, ist der Schutz entsprechend
+langanhaltend. Gebildete Plasmazellen und Antikörpertiter konnten sogar noch 14 Monate lang - der
+Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewiesen werden:
+
+- **Jackson S. Turner, Wooseob Kim, Elizaveta Kalaidina, et al.**:
+  SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans, 24.5.2021 <br/>
+  <https://www.nature.com/articles/s41586-021-03647-4>
+  > Long-lived bone marrow plasma cells (BMPCs) are a persistent and essential source of protective
+  > antibodies. Individuals who have recovered from COVID-19 have a substantially lower risk of
+  > reinfection with SARS-CoV-2. Nonetheless, it has been reported that levels of anti-SARS-CoV-2
+  > serum antibodies decrease rapidly in the first few months after infection, raising concerns that
+  > long-lived BMPCs may not be generated and humoral immunity against SARS-CoV-2 may be
+  > short-lived. Here we show that in convalescent individuals who had experienced mild SARS-CoV-2
+  > infections (n = 77), levels of serum anti-SARS-CoV-2 spike protein (S) antibodies declined
+  > rapidly in the first 4 months after infection and then more gradually over the following 7
+  > months, remaining detectable at least 11 months after infection. Anti-S antibody titres
+  > correlated with the frequency of S-specific plasma cells in bone marrow aspirates from 18
+  > individuals who had recovered from COVID-19 at 7 to 8 months after infection. S-specific BMPCs
+  > were not detected in aspirates from 11 healthy individuals with no history of SARS-CoV-2
+  > infection. We show that S-binding BMPCs are quiescent, which suggests that they are part of a
+  > stable compartment. _Consistently, circulating resting memory B cells directed against
+  > SARS-CoV-2 S were detected in the convalescent individuals. Overall, our results indicate that
+  > mild infection with SARS-CoV-2 induces robust antigen-specific, long-lived humoral immune memory
+  > in humans._
 
 - **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
   Antibody response to SARS-CoV-2 for more than one year - kinetics and persistence of
@@ -402,8 +445,9 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
   > reactivities. Specificity of the tests was >=99%, except for IgA (96%).
 
 Trotz dieser Studie, an der Autoren des Paul Ehrlich-Instituts beteiligt waren, hat das Robert
-Koch-Institut die offizielle Dauer des Genesenenstatus im Januar 2022 - passend zur Ausbreitung der
-milden Omikronvariante in Deutschland - vorsorglich auf 2 Monate reduziert.
+Koch-Institut (beide dem Bundesgesundheitsministerium unterstellt) die offizielle Dauer des
+Genesenenstatus im Januar 2022 - passend zur Ausbreitung der milden Omikronvariante in Deutschland -
+vorsorglich auf 2 Monate reduziert.
 
 ### Nutzen der Impfung ###
 
