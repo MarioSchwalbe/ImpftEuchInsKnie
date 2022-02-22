@@ -185,24 +185,24 @@ Schutz vor Transmission, kein Fremdschutz), beispielsweise:
   > individuals. Testing a subset of these low-Ct samples revealed infectious SARS-CoV-2 in 15 of 17
   > specimens (88%) from unvaccinated individuals and 37 of 39 (95%) from vaccinated people.
   > Infectious virus was detected in the sole specimen tested from an asymptomatic fully vaccinated
-  > individual. Although few asymptomatic individuals were sampled, these results indicate that even
-  > asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. _To determine whether
-  > infectious virus titers differed in vaccinated and unvaccinated persons, we performed plaque
-  > assays on an additional set of 48 samples with Ct <25, finding no difference in infectious virus
-  > titer between groups._ Notably time from symptom onset to testing did not vary by vaccination
-  > status, suggesting that our observations are not confounded by biases in test-seeking behavior
-  > between vaccinated and unvaccinated persons (p=0.40).
+  > individual. _Although few asymptomatic individuals were sampled, these results indicate that
+  > even asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. To determine
+  > whether infectious virus titers differed in vaccinated and unvaccinated persons, we performed
+  > plaque assays on an additional set of 48 samples with Ct <25, finding no difference in
+  > infectious virus titer between groups._ Notably time from symptom onset to testing did not vary
+  > by vaccination status, suggesting that our observations are not confounded by biases in
+  > test-seeking behavior between vaccinated and unvaccinated persons (p=0.40).
 
 Allein die Tatsache, daß wir nach 3G (Geimpft/Genesen/Getestet) wieder Lockdowns und verschärfte
 Maßnahmen wie 2G und 2G+ benötigen, sollte diese Punkte eindrucksvoll belegen. Damit ist das
-Argument der Impfung aus Solidarität, daß noch immer bemüht wird, nicht mehr gerechtfertigt. Das
-sollte nicht verwundern: Es gibt Viren, die nach erfolgter Infektion eine Inkubationszeit benötigen
-bis der neue Wirt selbst wieder infektiös wird. Kann man in diesem Zeitraum die Vermehrung
-verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das ist bei Atemwegsviren aber
-nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur
-zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen
-kann man alles was man einatmet auch sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet
-sich in:
+Argument der Impfung aus Solidarität, daß noch immer bemüht wird, nicht mehr gerechtfertigt -
+Grundrechtseinschränkungen wie 3G, 2G und 2G+ ohnehin nicht. Das sollte nicht verwundern: Es gibt
+Viren, die nach erfolgter Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder
+infektiös wird. Kann man in diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie
+erreicht (sterile Immunität). Das ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die
+Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht
+aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen kann man alles was man einatmet auch
+sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr. Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
@@ -213,10 +213,10 @@ sich in:
   > against infection or transmission in their clinical trials, and the total lack of efficacy in
   > the real world has since been documented in a large study published by the CDC. The vaccines
   > can, however, lead to severe respiratory immune disease, including Th2-type immunopathology and
-  > autoimmunity. When factoring in the large number of adverse events that are being reported with
+  > autoimmunity. _When factoring in the large number of adverse events that are being reported with
   > the current vaccines and the low case fatality rate of COVID-19, which we have discussed
   > elsewhere, it is clearly more scientific and more reasonable to strive for herd immunity by
-  > natural infection rather than vaccination.
+  > natural infection rather than vaccination._
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
@@ -302,8 +302,8 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
 
 Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einem
 schweren Verlauf, wenn man überhaupt zu einer Personengruppe gehörte, die davon betroffen wäre – zum
-Schutz der Gesellschaft aus Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen
-Wirkungsdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
+Schutz der Gesellschaft aus Solidarität hingegen nicht. Außerdem müßte man bei einer derartig kurzen
+Wirkdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
 damit eine Verschlechterung der Wirkung zu erwarten wäre (Quelle:
 <https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
 sowie (b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das

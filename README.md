@@ -159,12 +159,12 @@ und ist seitdem weiter verbessert worden, beispielsweise:
   > 1.03, 95% CI 1.03-1.04) in Germany became a deficit of 4926 deaths (SMR 0.98, 95% CI 0.98-0.99)
   > after accounting for demographic changes.
 
-Ursprünglich nahm man an, daß das Virus völlig neuartig und somit keine natürliche Immunität
-vorhanden wäre, was es auch gefährlicher machen könnte. Das hat sich später als falsch
+Ursprünglich nahm man allerdings an, daß das Virus völlig neuartig und somit keine natürliche
+Immunität vorhanden wäre, was es auch gefährlicher machen könnte. Das hat sich später als falsch
 herausgestellt. Hierzu sollte man wissen, daß das menschliche Immunsystem nach einer durchstandenen
 Infektion Gedächtniszellen bildet, die erneute Vertreter eines Krankheitserregers wiedererkennen und
 somit die Abwehrreaktion schneller und effizienter einleiten können. Die Erkennung basiert dabei auf
-allen Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im
+allen Bestandteilen des Virus wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im
 Gegensatz zu Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht
 werden kann, besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich
 Mutationen aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle
@@ -223,11 +223,11 @@ beispielsweise:
   > hypothesis. _“We have really shown that this is a true immune memory and it is derived in part
   > from common cold viruses.”_
 
-Darauf aufbauend analysierte eine Forschergruppe aus Dänemark im Jahr 2021 die Art der gebildeten
-Antikörper nach einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich
-um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären
-IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
-IgG-Antikörper:
+Aufbauend auf diesen Ergebnissen analysierte eine Forschergruppe aus Dänemark im Jahr 2021 die Art
+der gebildeten Antikörper nach einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion
+sollte es sich hauptsächlich um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder
+ähnlichen Viren wären IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203
+Probanden (99,5%) fanden sie IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
@@ -286,7 +286,7 @@ tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die u
 Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
 gewesen wären. Es spricht aber einiges dagegen:
 
-1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
+1. Die Diagnose für die Statistiken basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
    Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
    ist grober Unfug. Natürlich ist das Vorhandensein des Virus notwendige Voraussetzung für
    Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
@@ -303,9 +303,9 @@ gewesen wären. Es spricht aber einiges dagegen:
    seiner FAQ dazu (Quelle: <https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html>, Stand:
    7.1.2022):
 
-   > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
+   > _In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
-   > Infektion verstorben sind. Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
+   > Infektion verstorben sind._ Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
    > bestimmte Vorerkrankungen bestehen, höher. Daher ist es in der Praxis häufig schwierig zu
    > entscheiden, inwieweit die SARS-CoV-2-Infektion direkt zum Tode beigetragen hat. Sowohl
    > Menschen, die unmittelbar an der Erkrankung verstorben sind („gestorben an“), als auch Personen
@@ -317,12 +317,12 @@ gewesen wären. Es spricht aber einiges dagegen:
    Oder deutlich formuliert: Nichts genaues weiß man nicht. Das macht auch die üblicherweise
    verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
-3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
-   (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
-   sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
-   zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
-   einer Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
-   ausgeblieben ist.
+3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen (36,5%) in Deutschland auf
+   Intensivstationen verstorben (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist
+   verwunderlich, handelt es sich doch um eine sich graduell verschlechternde Symptomatik, bei der
+   man annehmen möchte, daß zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt
+   entspricht das der Größenordnung einer Grippe - insbesondere wenn diese in den selben Jahren laut
+   Statistik weitestgehend ausgeblieben ist.
 
 4. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
    bundesweit verteilter Arztpraxen), um die epidemiologische Situation der akuten
@@ -358,7 +358,8 @@ Ursachen der Grund sein (Quelle:
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
 Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
-2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland:
+2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland im Vergleich zu den
+Vorjahren:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
@@ -408,7 +409,7 @@ Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stan
 > Jahreswechsel ist bei der Interpretation der IfSG-Meldedaten zu beachten, dass mit einer
 > geringeren Test- und Meldeaktivität zu rechnen ist.
 
-Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
+Das RKI sagt hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
 100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
 empfehlen, statt den Menschen einzureden, daß die Coronaimpfung zwingend geboten wäre. Das könnte
@@ -420,7 +421,7 @@ Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erf
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
 eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
 Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
+März 2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
 
 <a href="images/BelegungErwachsene.png">
   <img src="images/BelegungErwachsene.png" width="49%">
@@ -722,24 +723,24 @@ Schutz vor Transmission, kein Fremdschutz), beispielsweise:
   > individuals. Testing a subset of these low-Ct samples revealed infectious SARS-CoV-2 in 15 of 17
   > specimens (88%) from unvaccinated individuals and 37 of 39 (95%) from vaccinated people.
   > Infectious virus was detected in the sole specimen tested from an asymptomatic fully vaccinated
-  > individual. Although few asymptomatic individuals were sampled, these results indicate that even
-  > asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. _To determine whether
-  > infectious virus titers differed in vaccinated and unvaccinated persons, we performed plaque
-  > assays on an additional set of 48 samples with Ct <25, finding no difference in infectious virus
-  > titer between groups._ Notably time from symptom onset to testing did not vary by vaccination
-  > status, suggesting that our observations are not confounded by biases in test-seeking behavior
-  > between vaccinated and unvaccinated persons (p=0.40).
+  > individual. _Although few asymptomatic individuals were sampled, these results indicate that
+  > even asymptomatic, fully vaccinated people might shed infectious SARS-CoV-2. To determine
+  > whether infectious virus titers differed in vaccinated and unvaccinated persons, we performed
+  > plaque assays on an additional set of 48 samples with Ct <25, finding no difference in
+  > infectious virus titer between groups._ Notably time from symptom onset to testing did not vary
+  > by vaccination status, suggesting that our observations are not confounded by biases in
+  > test-seeking behavior between vaccinated and unvaccinated persons (p=0.40).
 
 Allein die Tatsache, daß wir nach 3G (Geimpft/Genesen/Getestet) wieder Lockdowns und verschärfte
 Maßnahmen wie 2G und 2G+ benötigen, sollte diese Punkte eindrucksvoll belegen. Damit ist das
-Argument der Impfung aus Solidarität, daß noch immer bemüht wird, nicht mehr gerechtfertigt. Das
-sollte nicht verwundern: Es gibt Viren, die nach erfolgter Infektion eine Inkubationszeit benötigen
-bis der neue Wirt selbst wieder infektiös wird. Kann man in diesem Zeitraum die Vermehrung
-verhindern, wird diese Schwelle nie erreicht (sterile Immunität). Das ist bei Atemwegsviren aber
-nicht der Fall. Außerdem führen die Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur
-zu Antikörpern im Blutserum, nicht aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen
-kann man alles was man einatmet auch sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet
-sich in:
+Argument der Impfung aus Solidarität, daß noch immer bemüht wird, nicht mehr gerechtfertigt -
+Grundrechtseinschränkungen wie 3G, 2G und 2G+ ohnehin nicht. Das sollte nicht verwundern: Es gibt
+Viren, die nach erfolgter Infektion eine Inkubationszeit benötigen bis der neue Wirt selbst wieder
+infektiös wird. Kann man in diesem Zeitraum die Vermehrung verhindern, wird diese Schwelle nie
+erreicht (sterile Immunität). Das ist bei Atemwegsviren aber nicht der Fall. Außerdem führen die
+Impfstoffe - im Gegensatz zu einer natürlichen Infektion - nur zu Antikörpern im Blutserum, nicht
+aber in den Schleimhäuten der Atemwege. Und ganz im Allgemeinen kann man alles was man einatmet auch
+sofort wieder ausatmen. Eine konsequente Schlußfolgerung findet sich in:
 
 - **Anonymous, Prof. Dr. Sucharit Bhakdi, Prof. Dr. Michael Palmer**:
   Why intramuscular COVID-19 vaccination must fail, 7.12.2021 <br/>
@@ -750,10 +751,10 @@ sich in:
   > against infection or transmission in their clinical trials, and the total lack of efficacy in
   > the real world has since been documented in a large study published by the CDC. The vaccines
   > can, however, lead to severe respiratory immune disease, including Th2-type immunopathology and
-  > autoimmunity. When factoring in the large number of adverse events that are being reported with
+  > autoimmunity. _When factoring in the large number of adverse events that are being reported with
   > the current vaccines and the low case fatality rate of COVID-19, which we have discussed
   > elsewhere, it is clearly more scientific and more reasonable to strive for herd immunity by
-  > natural infection rather than vaccination.
+  > natural infection rather than vaccination._
 
 Was noch übrig bleibt wäre ein gewisser Schutz vor schwerer Symptomatik (Eigenschutz). Das RKI
 schreibt dazu in seinem aktuellen Wochenbericht vom 6.1.2022 (Quelle:
@@ -839,8 +840,8 @@ Dosis feststellen; zum Anderen schwindet der Schutz vor allem bei der eigentlich
 
 Alles zusammen genommen taugt die Impfung demnach ungefähr ein halbes Jahr lang als Schutz vor einem
 schweren Verlauf, wenn man überhaupt zu einer Personengruppe gehörte, die davon betroffen wäre – zum
-Schutz der Gesellschaft aus Solidarität hingegen weniger. Außerdem müßte man bei einer derartigen
-Wirkungsdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
+Schutz der Gesellschaft aus Solidarität hingegen nicht. Außerdem müßte man bei einer derartig kurzen
+Wirkdauer permanent nachimpfen, womit aber andererseits (a) eine Schädigung des Immunsystems und
 damit eine Verschlechterung der Wirkung zu erwarten wäre (Quelle:
 <https://news.bloomberglaw.com/coronavirus/repeat-booster-shots-spur-europe-warning-on-immune-system-risks>)
 sowie (b) sich Nebenwirkungen akkumulieren können. Damit verschiebt sich das

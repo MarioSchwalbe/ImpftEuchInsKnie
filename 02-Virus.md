@@ -53,12 +53,12 @@ und ist seitdem weiter verbessert worden, beispielsweise:
   > 1.03, 95% CI 1.03-1.04) in Germany became a deficit of 4926 deaths (SMR 0.98, 95% CI 0.98-0.99)
   > after accounting for demographic changes.
 
-Ursprünglich nahm man an, daß das Virus völlig neuartig und somit keine natürliche Immunität
-vorhanden wäre, was es auch gefährlicher machen könnte. Das hat sich später als falsch
+Ursprünglich nahm man allerdings an, daß das Virus völlig neuartig und somit keine natürliche
+Immunität vorhanden wäre, was es auch gefährlicher machen könnte. Das hat sich später als falsch
 herausgestellt. Hierzu sollte man wissen, daß das menschliche Immunsystem nach einer durchstandenen
 Infektion Gedächtniszellen bildet, die erneute Vertreter eines Krankheitserregers wiedererkennen und
 somit die Abwehrreaktion schneller und effizienter einleiten können. Die Erkennung basiert dabei auf
-allen Virenbestandteilen wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im
+allen Bestandteilen des Virus wie Kapsid, Hüllproteine und Spikes. Hier genau liegt der Punkt: Im
 Gegensatz zu Influenzaviren, die eine segmentierte RNA besitzen, die auch blockweise getauscht
 werden kann, besteht die Erbinformation bei Coronaviren aus einem Strang. Dieser kann natürlich
 Mutationen aufweisen, aber schlußendlich sind sich die verschiedenen Varianten der Coronaviren alle
@@ -117,11 +117,11 @@ beispielsweise:
   > hypothesis. _“We have really shown that this is a true immune memory and it is derived in part
   > from common cold viruses.”_
 
-Darauf aufbauend analysierte eine Forschergruppe aus Dänemark im Jahr 2021 die Art der gebildeten
-Antikörper nach einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion sollte es sich
-um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder ähnlichen Viren wären
-IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203 Probanden (99,5%) fanden sie
-IgG-Antikörper:
+Aufbauend auf diesen Ergebnissen analysierte eine Forschergruppe aus Dänemark im Jahr 2021 die Art
+der gebildeten Antikörper nach einer überstandenen Infektion mit SARS-CoV-2. Bei einer Erstinfektion
+sollte es sich hauptsächlich um IgM-Antikörper handeln, bei einer Reinfektion mit gleichen oder
+ähnlichen Viren wären IgG-Antikörper zu erwarten. Das Ergebnis ist eindeutig. Bei 202 von 203
+Probanden (99,5%) fanden sie IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
@@ -180,7 +180,7 @@ tatsächlich um die alleinige Ursache handelt. Diese Frage ist wichtig, da die u
 Implikation noch immer lautet, daß deren Tod verhinderbar gewesen wäre, wenn nur alle geimpft
 gewesen wären. Es spricht aber einiges dagegen:
 
-1. Die Diagnose für die Statistik basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
+1. Die Diagnose für die Statistiken basiert weitestgehend auf hypersensiblen PCR-Tests (mit hohen
    Ct-Werten) ohne Berücksichtigung von Vorerkrankungen oder generell klinischer Symptomatik. Das
    ist grober Unfug. Natürlich ist das Vorhandensein des Virus notwendige Voraussetzung für
    Kausalität, aber eben nicht hinreichend. Hier wird uns vom RKI ein notwendiges Kriterium als
@@ -197,9 +197,9 @@ gewesen wären. Es spricht aber einiges dagegen:
    seiner FAQ dazu (Quelle: <https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html>, Stand:
    7.1.2022):
 
-   > In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
+   > _In die Statistik des RKI gehen die COVID-19-Todesfälle ein, bei denen ein laborbestätigter
    > Nachweis von SARS-CoV-2 (direkter Erregernachweis) vorliegt und die in Bezug auf diese
-   > Infektion verstorben sind. Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
+   > Infektion verstorben sind._ Das Risiko an COVID-19 zu versterben ist bei Personen, bei denen
    > bestimmte Vorerkrankungen bestehen, höher. Daher ist es in der Praxis häufig schwierig zu
    > entscheiden, inwieweit die SARS-CoV-2-Infektion direkt zum Tode beigetragen hat. Sowohl
    > Menschen, die unmittelbar an der Erkrankung verstorben sind („gestorben an“), als auch Personen
@@ -211,12 +211,12 @@ gewesen wären. Es spricht aber einiges dagegen:
    Oder deutlich formuliert: Nichts genaues weiß man nicht. Das macht auch die üblicherweise
    verwendete Formulierung „im Zusammenhang mit COVID-19“ nötig.
 
-3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen auf Intensivstation verstorben
-   (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist verwunderlich, handelt es
-   sich doch um eine sich graduell verschlechternde Symptomatik, bei der man annehmen möchte, daß
-   zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt entspricht das der Größenordnung
-   einer Grippe - insbesondere wenn diese in den selben Jahren laut Statistik weitestgehend
-   ausgeblieben ist.
+3. Es sind im Zusammenhang mit COVID-19 41.201 von 112.740 Menschen (36,5%) in Deutschland auf
+   Intensivstationen verstorben (Quelle: <https://intensivstationen.net>, Stand: 9.1.2022). Das ist
+   verwunderlich, handelt es sich doch um eine sich graduell verschlechternde Symptomatik, bei der
+   man annehmen möchte, daß zuvor alles erdenkliche unternommen wurde. Auf 2 Jahre verteilt
+   entspricht das der Größenordnung einer Grippe - insbesondere wenn diese in den selben Jahren laut
+   Statistik weitestgehend ausgeblieben ist.
 
 4. Die Arbeitsgemeinschaft Influenza des RKI betreibt ein Sentinelsystem (Hinweissystem mittels
    bundesweit verteilter Arztpraxen), um die epidemiologische Situation der akuten
@@ -252,7 +252,8 @@ Ursachen der Grund sein (Quelle:
 Wie groß die [Abweichung](https://www.zdf.de/politik/berlin-direkt/berlin-direkt-clip-1-500.html)
 tatsächlich ist, dürfte nachträglich schwer zu bestimmen sein. Wir werden noch sehen.
 Dementsprechend fand eine Studie der Uni Duisburg-Essen basierend auf der EUROSTAT-Datenbank im Jahr
-2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland:
+2020 über alle Todesursachen keine signifikante Übersterblichkeit in Deutschland im Vergleich zu den
+Vorjahren:
 
 - **Bernd Kowall, Fabian Standl, Florian Oesterling, et al.**:
   Excess mortality due to Covid-19? A comparison of total mortality in 2020 with total mortality
@@ -302,7 +303,7 @@ Ich zitiere den Absatz gleich komplett (Quelle: <https://grippeweb.rki.de>, Stan
 > Jahreswechsel ist bei der Interpretation der IfSG-Meldedaten zu beachten, dass mit einer
 > geringeren Test- und Meldeaktivität zu rechnen ist.
 
-Das RKI sagt uns hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
+Das RKI sagt hier klar, daß die Inzidenz in der letzten Woche des Jahres 2021 - wie üblich pro
 100.000 Einwohner - aller Fälle von akuten Atemwegserkrankungen 3.000 betrug wozu das neue Virus
 SARS-CoV-2 lediglich 250 (8,3%) beigetragen hat. Vielleicht sollten wir mehr Grippeimpfungen
 empfehlen, statt den Menschen einzureden, daß die Coronaimpfung zwingend geboten wäre. Das könnte
@@ -314,7 +315,7 @@ Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erf
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
 eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
 Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivbettenkapazitäten.
+März 2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
 
 <a href="images/BelegungErwachsene.png">
   <img src="images/BelegungErwachsene.png" width="49%">
