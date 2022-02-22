@@ -159,9 +159,9 @@ Centers for Disease Control and Prevention veröffentlichte im März 2021 die fo
   <img src="images/hospitalization-death-by-age.png">
 </a>
 
-Demnach beträgt der Unterschied der Infektionswahrscheinlichkeit aller Altersgruppen höchstens
-Faktor 2. Allerdings ist die Wahrscheinlichkeit zu versterben bei den über 85-Jährigen um den Faktor
-8.700 höher als bei der Referenzgruppe der 5-17-Jährigen. Für Deutschland ist eine genaue
+Demnach beträgt der Unterschied in der Wahrscheinlichkeit einer Infektion aller Altersgruppen
+höchstens Faktor 2. Allerdings ist die Wahrscheinlichkeit zu versterben bei den über 85-Jährigen um
+den Faktor 8.700 höher als bei der Referenzgruppe der 5-17-Jährigen. Für Deutschland ist eine genaue
 Aufschlüsselung ebenfalls verfügbar, die den kompletten Zeitraum der Pandemie abdeckt (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022).
@@ -186,9 +186,9 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
   > COVID-19 is more than a thousand-fold higher in the old and infirm than the young. Indeed, for
   > children, COVID-19 is less dangerous than many other harms, including influenza.
 
-Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere
-bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf jene besonders
-Gefährdeten der Gesellschaft zu konzentrieren.
+Wenn man diesen Größenunterschied allerdings verschweigt, kann man relativ viel verzerren.
+Insbesondere bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf
+jene besonders Gefährdeten der Gesellschaft zu konzentrieren.
 
 Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit
@@ -331,8 +331,8 @@ die Krankenhäuser viel wirkungsvoller entlasten.
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
 eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
-Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit März
+2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
 
 <a href="images/BelegungErwachsene.png">
   <img src="images/BelegungErwachsene.png" width="49%">

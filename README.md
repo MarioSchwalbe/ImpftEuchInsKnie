@@ -265,9 +265,9 @@ Centers for Disease Control and Prevention veröffentlichte im März 2021 die fo
   <img src="images/hospitalization-death-by-age.png">
 </a>
 
-Demnach beträgt der Unterschied der Infektionswahrscheinlichkeit aller Altersgruppen höchstens
-Faktor 2. Allerdings ist die Wahrscheinlichkeit zu versterben bei den über 85-Jährigen um den Faktor
-8.700 höher als bei der Referenzgruppe der 5-17-Jährigen. Für Deutschland ist eine genaue
+Demnach beträgt der Unterschied in der Wahrscheinlichkeit einer Infektion aller Altersgruppen
+höchstens Faktor 2. Allerdings ist die Wahrscheinlichkeit zu versterben bei den über 85-Jährigen um
+den Faktor 8.700 höher als bei der Referenzgruppe der 5-17-Jährigen. Für Deutschland ist eine genaue
 Aufschlüsselung ebenfalls verfügbar, die den kompletten Zeitraum der Pandemie abdeckt (Quelle:
 <https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
 Stand: 6.1.2022).
@@ -292,9 +292,9 @@ Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) 
   > COVID-19 is more than a thousand-fold higher in the old and infirm than the young. Indeed, for
   > children, COVID-19 is less dangerous than many other harms, including influenza.
 
-Wenn man diesen Größenunterschied verschweigt, kann man relativ viel verzerren. Insbesondere
-bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf jene besonders
-Gefährdeten der Gesellschaft zu konzentrieren.
+Wenn man diesen Größenunterschied allerdings verschweigt, kann man relativ viel verzerren.
+Insbesondere bedeutet es auch, daß es viel sinnvoller wäre, sich mit Schutzmaßnahmen speziell auf
+jene besonders Gefährdeten der Gesellschaft zu konzentrieren.
 
 Es zeigt sich deutlich, daß ein Großteil der Verstorbenen hochbetagt war. Der Altersmedian liegt bei
 83 Jahren. Zum Vergleich: Die durchschnittliche Lebenserwartung beträgt in Deutschland 81 Jahre mit
@@ -437,8 +437,8 @@ die Krankenhäuser viel wirkungsvoller entlasten.
 Die Analyse der Beanspruchung der Intensivstationen aufgrund des neuen Virus erfolgt mit Hilfe der
 Daten des [DIVI-Intensivregisters](https://www.intensivregister.de). Das DIVI-Intensivregister ist
 eine vom Bundesgesundheitsministerium angeordnete und von der Deutschen Interdisziplinären
-Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit
-März 2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
+Vereinigung für Intensiv- und Notfallmedizin (DIVI) gemeinsam mit dem Robert Koch-Institut seit März
+2020 betriebene Echtzeitdatenerfassung für Intensivkapazitäten.
 
 <a href="images/BelegungErwachsene.png">
   <img src="images/BelegungErwachsene.png" width="49%">
@@ -942,7 +942,7 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
 
 - **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
   Antibody response to SARS-CoV-2 for more than one year - kinetics and persistence of
-    detection are predominantly determined by avidity progression and test design, 15.21.2021 <br/>
+    detection are predominantly determined by avidity progression and test design, 15.12.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S138665322100319X>
   > Sensitivity at 30–60 days post symptom onset (pso) for TAb-S/RBD, TAb-N, IgG-S, IgG-N, IgA-S,
   > IgM-RBD, and NAb was 96.6%, 99.5%, 89.7%, 94.3%, 80.9%, 76.9% and 92.8%, respectively. Follow-up
@@ -955,6 +955,10 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
   > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
   > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
   > reactivities. Specificity of the tests was >=99%, except for IgA (96%).
+
+Trotz dieser Studie, an der Autoren des Paul Ehrlich-Instituts beteiligt waren, hat das Robert
+Koch-Institut die offizielle Dauer des Genesenenstatus im Januar 2022 - passend zur Ausbreitung der
+milden Omikronvariante in Deutschland - vorsorglich auf 2 Monate reduziert.
 
 ### Nutzen der Impfung ###
 
@@ -1500,15 +1504,15 @@ zu Vorurteilen basierend auf bloßer Einbildung. Stattdessen findet man eine Men
 regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege
 werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist sowieso
 Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit
-verboten? Das sollte nicht so sein. Was wir stattdessen bräuchten wäre Aufklärung.
+verboten? Das sollte nicht so sein. Was wir stattdessen bräuchten wäre mehr Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
 [Verschwörungstheorie](https://twitter.com/MPKretschmer/status/1257619155810951168) stigmatisiert
 wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird: (a) Geimpfte,
 die trotzdem infektiös sind, (b) 3. Impfung, (c) 4. Impfung, (d) halbjährliche
-Auffrischungsimpfungen, (e) jegliche Nebenwirkungen, (f) Segregation wie 2G/2G+, (g) Verlust des
-Arbeitsplatzes, (h) geheime Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als
+Auffrischungsimpfungen, (e) jegliche Nebenwirkungen, (f) Segregation wie 2G oder 2G+, (g) Verlust
+des Arbeitsplatzes, (h) geheime Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als
 Zugangsvoraussetzungen. Was ist dann noch der Unterschied zwischen bundesdeutschen Nachrichten und
 Verschwörungstheorie? 6 Monate? Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war
 weitaus zuverlässiger als die Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch

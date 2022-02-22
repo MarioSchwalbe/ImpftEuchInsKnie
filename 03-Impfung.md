@@ -387,7 +387,7 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
 
 - **Heinrich Scheiblauer, Claudius Micha Nübling, Timo Wolf, et al.**:
   Antibody response to SARS-CoV-2 for more than one year - kinetics and persistence of
-    detection are predominantly determined by avidity progression and test design, 15.21.2021 <br/>
+    detection are predominantly determined by avidity progression and test design, 15.12.2021 <br/>
   <https://www.sciencedirect.com/science/article/pii/S138665322100319X>
   > Sensitivity at 30–60 days post symptom onset (pso) for TAb-S/RBD, TAb-N, IgG-S, IgG-N, IgA-S,
   > IgM-RBD, and NAb was 96.6%, 99.5%, 89.7%, 94.3%, 80.9%, 76.9% and 92.8%, respectively. Follow-up
@@ -400,6 +400,10 @@ Monate lang - der Länge der Beobachtungsdauer - ohne erkennbares Ende nachgewie
   > antibody-binding efficiency of the test design. Severe COVID-19 correlated with earlier and
   > higher antibody response, mild COVID-19 was heterogeneous with a wide range of antibody
   > reactivities. Specificity of the tests was >=99%, except for IgA (96%).
+
+Trotz dieser Studie, an der Autoren des Paul Ehrlich-Instituts beteiligt waren, hat das Robert
+Koch-Institut die offizielle Dauer des Genesenenstatus im Januar 2022 - passend zur Ausbreitung der
+milden Omikronvariante in Deutschland - vorsorglich auf 2 Monate reduziert.
 
 ### Nutzen der Impfung ###
 

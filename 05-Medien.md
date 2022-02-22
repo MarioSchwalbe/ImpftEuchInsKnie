@@ -123,15 +123,15 @@ zu Vorurteilen basierend auf bloßer Einbildung. Stattdessen findet man eine Men
 regierungskonforme Aussage ist automatisch Wissenschaft™, egal wie oberflächlich sie ist. Belege
 werden keine benötigt. Danach fragen ist schon borderline-anrüchig. Alles andere ist sowieso
 Fake-News. Vor allem Relativierung ist ganz gemeine Fake-News. Seit wann ist Verhältnismäßigkeit
-verboten? Das sollte nicht so sein. Was wir stattdessen bräuchten wäre Aufklärung.
+verboten? Das sollte nicht so sein. Was wir stattdessen bräuchten wäre mehr Aufklärung.
 
 Gleiches gilt für den Begriff Verschwörungstheorie in diesem Kontext. (Und nein, die Erde wird heute
 nicht flach.) Hierzu sollte man sich vor Augen führen, was vormals als
 [Verschwörungstheorie](https://twitter.com/MPKretschmer/status/1257619155810951168) stigmatisiert
 wurde, mittlerweile aber Realität geworden ist oder zumindest offen propagiert wird: (a) Geimpfte,
 die trotzdem infektiös sind, (b) 3. Impfung, (c) 4. Impfung, (d) halbjährliche
-Auffrischungsimpfungen, (e) jegliche Nebenwirkungen, (f) Segregation wie 2G/2G+, (g) Verlust des
-Arbeitsplatzes, (h) geheime Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als
+Auffrischungsimpfungen, (e) jegliche Nebenwirkungen, (f) Segregation wie 2G oder 2G+, (g) Verlust
+des Arbeitsplatzes, (h) geheime Verträge mit Pharmafirmen, (i) Impfpflicht und (j) Impfpässe als
 Zugangsvoraussetzungen. Was ist dann noch der Unterschied zwischen bundesdeutschen Nachrichten und
 Verschwörungstheorie? 6 Monate? Vorläufiges Zwischenergebnis nach 2 Jahren Pandemie: Der Aluhut war
 weitaus zuverlässiger als die Masken. Das sollte definitiv nicht so sein. Was dieser ganze Quatsch
