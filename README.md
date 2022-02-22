@@ -247,24 +247,41 @@ Probanden (99,5%) fanden sie IgG-Antikörper:
   > SARS-CoV-2. Furthermore, we identified the SARS-CoV-2 spike protein as a target of adaptive
   > immunity in >99% of the cohort, irrespective of COVID-19 symptom manifestation. Only two
   > individuals (<2%) had neither antibodies with virus neutralization capacity, nor detectable CD8+
-  > T-cell responses. Hence, we conclude that regardless of COVID-19 severity, _a robust adaptive
+  > T-cell responses. _Hence, we conclude that regardless of COVID-19 severity, a robust adaptive
   > immune response towards SARS-CoV-2 is elicited during primary infections_.
 
 Für das menschliche Immunsystem ist das neuartige Virus aufgrund seiner Ähnlichkeit mit endemischen
-Coronaviren folglich nicht neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen am Anfang
-des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so genau wissen,
-mittlerweile aber schon. Gleiches gilt für ein weiteres Detail, das häufig unerwähnt bleibt: Die
-starke Altersstratifizierung der hervorgerufenen Symptome und Todesfälle - größer noch als bei der
-Grippe.
+Coronaviren folglich nicht komplett neu. Aus diesem Grund sind die ursprünglichen Modellrechnungen
+am Anfang des Jahres 2020 völlig übertrieben gewesen. Das konnte man damals vielleicht nicht so
+genau wissen, mittlerweile aber schon.
 
-<a href="images/Todesfaelle.png"><img src="images/Todesfaelle.png" width="700"></a>
+Gleiches gilt für ein weiteres Detail, das häufig unerwähnt bleibt: Die starke Altersstratifizierung
+der hervorgerufenen Symptome und Todesfälle - größer noch als bei der Grippe. Die amerikanische
+Centers for Disease Control and Prevention veröffentlichte im März 2021 die folgende Übersicht
+(Quelle:
+<https://www.cdc.gov/coronavirus/2019-ncov/downloads/covid-data/hospitalization-death-by-age.pdf>).
+
+<a href="images/hospitalization-death-by-age.png">
+  <img src="images/hospitalization-death-by-age.png">
+</a>
+
+Demnach beträgt der Unterschied der Infektionswahrscheinlichkeit aller Altersgruppen höchstens
+Faktor 2. Allerdings ist die Wahrscheinlichkeit zu versterben bei den über 85-Jährigen um den Faktor
+8.700 höher als bei der Referenzgruppe der 5-17-Jährigen. Für Deutschland ist eine genaue
+Aufschlüsselung ebenfalls verfügbar, die den kompletten Zeitraum der Pandemie abdeckt (Quelle:
+<https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
+Stand: 6.1.2022).
+
+<a href="images/Todesfaelle.png">
+  <img src="images/Todesfaelle.png" width="700">
+</a>
 
 Die Abbildung zeigt die Todesfälle in Deutschland im Zusammenhang mit COVID-19 nach Altersgruppe und
-Geschlecht basierend auf den Daten des Robert Koch-Instituts (Quelle:
-<https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/>,
-Stand: 6.1.2022). Es fällt sofort auf, daß zwischen Kindern und der Altersgruppe der über
-80-jährigen Faktor 2.000 liegt, was durchaus damit erklärbar wäre, daß ein wirkungsvoller Schutz
-durch das Immunsystem bereits vorlag oder bei Bedarf gebildet werden kann. So folgerten die
+Geschlecht basierend auf den Daten des Robert Koch-Instituts. Es fällt sofort auf, daß zwischen
+Kindern und der Altersgruppe der über 80-jährigen Faktor 2.000 liegt. Diese Diskrepanz wäre durchaus
+damit zu erklären, daß ein wirkungsvoller Schutz durch das Immunsystem bereits vorlag oder bei
+Bedarf gebildet werden kann. Bei einem völlig neuartigem Virus ohne jeglichen Immunschutz wäre
+vielmehr zu erwarten, daß das Virus alle Altersgruppen gleichermaßen betrifft. So folgerten die
 Unterzeichner der [Great Barrington Declaration](#great-barrington-declaration) bereits im Oktober
 2020:
 
