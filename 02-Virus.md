@@ -125,7 +125,7 @@ Probanden (99,5%) fanden sie IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
-  <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
+  <https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00203-6/fulltext>
   > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
   > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
   > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001).

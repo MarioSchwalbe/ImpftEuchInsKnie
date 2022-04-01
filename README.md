@@ -231,7 +231,7 @@ Probanden (99,5%) fanden sie IgG-Antikörper:
 
 - **Stine S. F. Nielsen, Line K. Vibholm, Ida Monrad, et al.**:
   SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity, 4.6.2021 <br/>
-  <https://www.sciencedirect.com/science/article/pii/S2352396421002036>
+  <https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00203-6/fulltext>
   > First, we analysed the presence of IgG antibodies towards multiple human coronaviruses in serum,
   > using the multiplex MSD platform. Compared to controls, we found significantly elevated levels
   > of IgG antibodies in spike RBD, spike N-terminal domain (NTD), and the nucleocapsid (p<0.0001).
@@ -564,10 +564,13 @@ Wirksamkeit der Impfung
 > <br/> - Dr. Robert Malone -
 
 Uns wurde versprochen, daß die Impfung zu 95% schützt. Und zwar sowohl vor Infektion als auch vor
-Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das
-Bundesministerium für Gesundheit erklärte: „Geimpfte nehmen am Infektionsgeschehen nicht mehr teil.“
-(Quelle mittlerweile nicht mehr verfügbar.) Auch heute noch wird dieser Weg von den meisten
-Politikern propagiert. Doch was bringt die Impfung wirklich?
+Weitergabe (Transmission) - vor schweren Krankheitsverläufen und Tod garantiert. Das Robert
+Koch-Institut erklärte, „dass die COVID-19-Impfung eine Virustransmission in erheblichem Maß
+reduziert und dass vollständig geimpfte Personen in Bezug auf die Epidemiologie der Erkrankung keine
+wesentliche Rolle mehr spielen“ (Quelle:
+<https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2021/19/Art_01.html>). Auch heute noch wird
+dieser Weg als einzig möglicher Ausweg aus der Pandemie von den meisten Politikern propagiert. Doch
+was bringt die Impfung wirklich?
 
 ### Zulassungsstudien ###
 
